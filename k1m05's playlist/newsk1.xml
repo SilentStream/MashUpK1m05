@@ -1,0 +1,112 @@
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>07/23/13 Fix CNBC | 07/10/13 Fixed Fox News b | 06/23/13 Fix Sky News | 06/18/13 Added Weather Network | 06/06/2013 Added WeatherNation | 06/01/2013: Added: KFOR News Oklahoma & Koco Oklahoma | Fixed CNNa</message>
+<thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
+</info>
+
+##############################################################################################################################
+
+<item>
+<title>BBC World News</title>
+<link>rtmp://media2.lsops.net/live/bbcworld1_en_high.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf swfVfy=true live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
+</item>
+
+<item>
+<title>Bloomberg</title>
+<link>rtmp://media2.lsops.net/live/bbcworld1_en_high.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf swfVfy=true live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_asia.png</thumbnail>
+</item>
+
+<item>
+<title>CNBC</title>
+<link>rtmp://edge.isearch.to/edge/5vnuyn0qrl8vty7 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
+</item>
+
+<item>
+<title>CNN a</title>
+<link>rtmp://edge.isearch.to/edge/6eoksaji4zv21em swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
+</item>
+
+<item>
+<title>CNN b</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
+</item>
+
+<item>
+<title>CNN b</title>
+<link>rtmp://edge.isearch.to/edge/6eoksaji4zv21em pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
+</item>
+
+<item>
+<title>Euro News</title>
+<link>rtsp://fr-par-5.stream-relay.hexaglobe.net:1935/rtpeuronewslive/en_video750_flash_all.sdp</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
+</item>
+
+<item>
+<title>Fox Business</title>
+<link>http://live.webcaston.com:1935/live/channel/aaj01/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_business.png</thumbnail>
+</item>
+
+<item>
+<title>Fox News a</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//1e2041858ca543fa90ec95d28197e907.m3u8?bitrate=800</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
+</item>
+
+<item>
+<title>Fox News b</title>
+<link>rtmp://edge.isearch.to/edge/ playpath=a4mgsoqq2tpwbk6 swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
+</item>
+
+<item>
+<title>Fox News c</title>
+<link>rtmp://edge.isearch.to/edge/ playpath=ohn58e97er36vjr swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
+</item>
+
+<item>
+<title>KFOR-TV [COLOR=FFFFD700](Oklahoma)[/COLOR]</title>
+<link>rtmp://96.6.41.69/live?_fcs_vhost=cp76676.live.edgefcs.net/xha3JkNDob-DtufEX1a5Rh4EkV6gVnRW_640_480_500@18842 swfUrl=http://player.ooyala.com/static/cacheable/c3d327ff6e3f06fdde769275ca5ef76f/player_v2.swf pageUrl=http://kfor.com/on-air/live-streaming/ live=true timeout=10</link>
+<thumbnail>http://s1.wp.com/wp-content/themes/vip/localtvcommon/_img/kfor_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Koco [COLOR=FFFFD700](Oklahoma)[/COLOR]</title>
+<link>rtmp://cp126787.live.edgefcs.net/live/1_ek6z0iz8_1@73449 swfUrl=http://cdnbakmi.kaltura.com/p/557781/sp/55778100/flash/kdp3/v3.5.45/kdp3.swf pageUrl=http://www.koco.com/news/oklahomanews/watch-koco-5-news-at-5/-/9844008/10990302/-/g0okba/-/index.html live=true timeout=10</link>
+<thumbnail>http://www.koco.com/image/view/-/9845994/highRes/3/-/nq9v4w/-/site-header-logo.png</thumbnail>
+</item>
+
+<item>
+<title>NHK World</title>
+<link>rtmp://ca-1.net.fivecool.org/nhkw/gwm</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhk_world.png</thumbnail>
+</item>
+
+<item>
+<title>Sky News [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//31b003ab7e7749a798fe00424e3dd9ff.m3u8?bitrate=800</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_news_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Weather Nation</title>
+<link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf pageUrl=http://www.lyngsat-stream.com/tvchannels/us/WeatherNation.html live=true timeout=10</link>
+<thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/WeatherNation-Logo1.png</thumbnail>
+</item>
+
+<item>
+<title>Weather Channel</title>
+<link>rtmp://edge.isearch.to/edge/0ofj5z5lab0b3ox swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
+</item>
