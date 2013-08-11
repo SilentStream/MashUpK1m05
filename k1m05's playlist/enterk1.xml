@@ -27,8 +27,14 @@
 </item>
 
 <item>
-<title>AMC</title>
+<title>AMC a</title>
 <link>rtmp://edge.isearch.to/edge/vhegfzgejsjp2ke pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
+</item>
+
+<item>
+<title>AMC b</title>
+<link>rtmpe://live.univisionbrazil.com/modelo/amc.live swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=amc</link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
 
