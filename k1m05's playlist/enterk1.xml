@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
+<message>[COLOR=FF00FF00]08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -167,6 +167,12 @@
 <item>
 <title>Disney</title>
 <link>rtmp://edge.isearch.to/edge/2tag4dzgwof5ma2 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
+</item>
+
+<item>
+<title>Disney Jr.</title>
+<link>http://goo.gl/67O1Nx</link>
 <thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
 </item>
 
