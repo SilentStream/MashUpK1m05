@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF0000]08/01/13 Hopefully Fixed NFLHD Loop???  Added SS12&3 b | 07/29/13 Fix PremCh 1&2 (2 is offline right now) | 07/29/13 Fix SSF1,1,2,3,&4, NFL HD (i think) | 07/25/13 Add SS1&2 | 07/24/13 SKY SPORTS 1234 & NEWS FIXED | [/COLOR]07/18/13 SKY SPORTS 1234 & NEWS FIXED | 07/15/13 Sky Sports F1 Fixed | 07/14/13 Fixed Sky Sports 123&4 gotta check | 07/12/13 Add Fox Sports 3 | 07/10/13 Fixed SS123&4 TSN ESPN Added Golf Channel |</message>
+<message>[COLOR=FFFF0000]08/15/13 ESPNa fixed | 08/01/13 Hopefully Fixed NFLHD Loop???  Added SS12&3 b | 07/29/13 Fix PremCh 1&2 (2 is offline right now) | 07/29/13 Fix SSF1,1,2,3,&4, NFL HD (i think) | 07/25/13 Add SS1&2 | 07/24/13 SKY SPORTS 1234 & NEWS FIXED | [/COLOR]07/18/13 SKY SPORTS 1234 & NEWS FIXED | 07/15/13 Sky Sports F1 Fixed | 07/14/13 Fixed Sky Sports 123&4 gotta check | 07/12/13 Add Fox Sports 3 | 07/10/13 Fixed SS123&4 TSN ESPN Added Golf Channel |</message>
 <thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -22,7 +22,7 @@
 
 <item>
 <title>ESPN a</title>
-<link>rtmp://edge.isearch.to/edge/wjpz6c25616qegg swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://edge.isearch.to/edge/pi9zfip02sj3xbg swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
