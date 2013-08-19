@@ -1,6 +1,5 @@
 
 
-
 #######################################################################################################################################
 <poster>k1m05</poster>
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
@@ -18,19 +17,7 @@
 
 <item>
 <title>1 WWE Summerslam Live @ 8 est a</title>
-<link>rtmp://edges.zoomtv.me:2115/cdnlive/_definst_/bb67bc0465a64cc swfUrl=http://static.zoomtv.me/player/jwplayer.6.5.3.swf pageUrl=http://www.zoomtv.me/embed.php?v=h7JodNe4Hy&vw=660&vh=450 live=true timeout=10</link>
-<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2013/08/wwe_summer_slam_2013_poster_by_chirantha-d6evhlr.jpg</thumbnail>
-</item>
-
-<item>
-<title>1 WWE Summerslam Live @ 8 est b</title>
-<link>rtmp://141.8.244.56/tv playpath=wwe_live swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/ token=%X786(nPK@# live=true timeout=10</link>
-<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2013/08/wwe_summer_slam_2013_poster_by_chirantha-d6evhlr.jpg</thumbnail>
-</item>
-
-<item>
-<title>1 WWE Summerslam Live @ 8 est c</title>
-<link>rtmp://46.246.124.11:443/liverepeater playpath=20724 swfUrl=http://xstream.yt/player.swf pageUrl=http://movietrailers.yt/player2.php?id=20724&width=620&height=490 live=true timeout=10</link>
+<link>rtmp://wrestle-zone.mobi:1935/live/ playpath=channel2 swfUrl=http://247hdsports.net/P/player.swf live=true swfVfy=true timeout=7 pageUrl=http://wrestle-zone.net.pk/</link>
 <thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2013/08/wwe_summer_slam_2013_poster_by_chirantha-d6evhlr.jpg</thumbnail>
 </item>
 
