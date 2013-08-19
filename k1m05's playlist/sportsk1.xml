@@ -1,5 +1,4 @@
 
-
 #######################################################################################################################################
 <poster>k1m05</poster>
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
@@ -9,19 +8,6 @@
 <thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
-<item>
-<title>1 WWE Summerslam Commercial</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=hH3QtKnBMFk</link>
-<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2013/08/wwe_summer_slam_2013_poster_by_chirantha-d6evhlr.jpg</thumbnail>
-</item>
-
-<item>
-<title>1 WWE Summerslam Live @ 8 est a</title>
-<link>rtmp://wrestle-zone.mobi:1935/live/ playpath=channel2 swfUrl=http://247hdsports.net/P/player.swf live=true swfVfy=true timeout=7 pageUrl=http://wrestle-zone.net.pk/</link>
-<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2013/08/wwe_summer_slam_2013_poster_by_chirantha-d6evhlr.jpg</thumbnail>
-</item>
-
-
 <item>
 <title>BOEU</title>
 <link>http://94.242.221.141/hls/a-lo/stream47.m3u8</link>
