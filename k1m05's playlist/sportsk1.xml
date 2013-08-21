@@ -177,7 +177,7 @@
 
 <item>
 <title>Sky Sports 2 b</title>
-<link>rtmp://204.45.157.186/flash playpath=17020 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://sawlive.tv/embed/watch/NTcxNWRlZDhlOTk4OmQ2NjE2OTMxMzgzMDM4OjNhMjE1NDM0ZTliZDgwODM2Zjk1Nm/NlZjBiNGZjZmE4Yjk4ODdjZDQ6NGQ0Y2U2OTIwNjkwNzVmNzYwZWQyOGYwYzJmNTA1ZTY_</link>
+<link>rtmp://173.193.205.105/live playpath=sky222live?id=52398 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/sky222live/1/580/380 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
 
