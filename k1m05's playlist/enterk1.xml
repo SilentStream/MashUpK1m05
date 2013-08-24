@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]08/20/13 Fix Discovery a HGTV | 08/16/13 Big Bro a A&E Fiexed | 08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
+<message>[COLOR=FF00FF00]08/24/13 Fixed BioHD,Bravo,CBS,Cartoon,ComedyHD,Crime&InvHD,DocuBoxHD,Fox,FoxCrimeHD,FXHD,MTVLiveHD,NatGeoHD a,NatGeoAdvHD,NatGeoMusicHD,SYFY,TravelHD,WeHD a&b  08/20/13 Fix Discovery a HGTV | 08/16/13 Big Bro a A&E Fiexed | 08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -93,8 +93,14 @@
 </item>
 
 <item>
+<title>Bio</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?bitrate=800</link>
+<thumbnail>http://imageshack.us/a/img844/4272/p4oi.png</thumbnail>
+</item>
+
+<item>
 <title>Bravo</title>
-<link>rtmp://178.18.30.120/live playpath=bravo98 swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=bravo98&vw=600&vh=430</link>
+<link>http://goo.gl/gA08BX</link>
 <thumbnail>http://imageshack.us/a/img109/20/nu7.png</thumbnail>
 </item>
 
@@ -106,13 +112,7 @@
 
 <item>
 <title>Cartoon Network</title>
-<link>rtmp://edge.isearch.to/edge/lf4cc63667vxzlx swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
-<thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
-</item>
-
-<item>
-<title>Cartoon Network b</title>
-<link>rtmp://edge.isearch.to/edge/xwuqdagbkffuj5w swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://edge.isearch.to/edge/91cqbvxhp3098vf swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
 </item>
 
@@ -124,7 +124,7 @@
 
 <item>
 <title>CBS</title>
-<link>rtmp://edge.isearch.to/edge/x8mo6neycf6wpvz swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://edge.isearch.to/edge/x85s4cm4lr2foy3 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
 </item>
 
@@ -132,6 +132,12 @@
 <title>CBS Reality</title>
 <link>rtmp://mi7.gv.filmon.com:1935/live/1808.high.stream</link>
 <thumbnail>http://imageshack.us/a/img822/7894/fmhw.png</thumbnail>
+</item>
+
+<item>
+<title>Comedy Central [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?bitrate=1500</link>
+<thumbnail>http://imageshack.us/a/img845/2305/m0zz.png</thumbnail>
 </item>
 
 <item>
@@ -144,6 +150,12 @@
 <title>Comedy Central b</title>
 <link>rtmp://edge.isearch.to/edge/k9p6hysquua5vw7 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
+</item>
+
+<item>
+<title>Crime & Investigation [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//9961a963920f45f4bc0d81c3e478b334.m3u8?bitrate=800</link>
+<thumbnail>http://imageshack.us/a/img109/9863/59m3.png</thumbnail>
 </item>
 
 <item>
@@ -177,6 +189,12 @@
 </item>
 
 <item>
+<title>DocuBox [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://goo.gl/67O1Nx</link>
+<thumbnail>http://imageshack.us/a/img545/6450/uhf5.png</thumbnail>
+</item>
+
+<item>
 <title>FOX </title>
 <link>rtmp://edge.isearch.to/edge/5decb13epjevjpy swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
@@ -184,7 +202,7 @@
 
 <item>
 <title>FOX [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>rtmp://edge.isearch.to/edge/tzk4z1tgmhvuibv swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://edge.isearch.to/edge/ulhf33q355rwuns swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img708/4941/jmet.png</thumbnail>
 </item>
 
@@ -195,16 +213,21 @@
 </item>
 
 <item>
+<title>FOX Crime [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?bitrate=1500</link>
+<thumbnail>http://imageshack.us/a/img203/6706/jkhv.png</thumbnail>
+</item>
+
+<item>
 <title>Food Network a</title>
 <link>rtmp://edge.isearch.to/edge/y60lx8lkyexxnry swfUrl=http://static.ilive.to/jwplayer/player.swf swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img441/8461/dju7.png</thumbnail>
 </item>
 
 <item>
-<title>Food Network b</title>
-<link>rtmp://mi7.gv.filmon.com:1935/live/20.high.stream 
-</link>
-<thumbnail>http://imageshack.us/a/img441/8461/dju7.png</thumbnail>
+<title>FX [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=1500</link>
+<thumbnail>http://imageshack.us/a/img196/9668/8x6l.png</thumbnail>
 </item>
 
 <item>
@@ -268,6 +291,12 @@
 </item>
 
 <item>
+<title>MTV Live [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?bitrate=800</link>
+<thumbnail>http://imageshack.us/a/img593/7279/zmxo.png</thumbnail>
+</item>
+
+<item>
 <title>MTV</title>
 <link>rtmp://edge.isearch.to/edge/y96hrc1tcg0vtcg pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img401/6301/k5l.png</thumbnail>
@@ -280,9 +309,27 @@
 </item>
 
 <item>
+<title>National Geographic [COLOR=FFFF0000]HD[/COLOR] a</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=1500</link>
+<thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
+</item>
+
+<item>
 <title>National Geographic [COLOR=FFFF0000]HD[/COLOR] b</title>
 <link>rtmp://edge.isearch.to/edge/0d7lqq5x84xdci3 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Adventure [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800</link>
+<thumbnail>http://imageshack.us/a/img853/8350/uy8h.png</thumbnail>
+</item>
+
+<item>
+<title>National Geographic Music [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=1500</link>
+<thumbnail>http://imageshack.us/a/img818/2592/jqm7.png</thumbnail>
 </item>
 
 <item>
@@ -340,6 +387,12 @@
 </item>
 
 <item>
+<title>Travel [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?bitrate=800</link>
+<thumbnail>http://imageshack.us/a/img713/7941/sv6o.png</thumbnail>
+</item>
+
+<item>
 <title>USA a</title>
 <link>rtmp://edge.isearch.to/edge/ahwcx2k56oitbkk swfUrl=http://static.ilive.to/jwplayer/player.swf swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img46/3908/w3ls.png</thumbnail>
@@ -361,4 +414,16 @@
 <title>VH1</title>
 <link>rtmp://149.255.37.162/stream playpath=vh111?id=79477 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/vh111/1/500/380 conn=S:OK timeout=10</link>
 <thumbnail>http://imageshack.us/a/img841/1742/9hiu.png</thumbnail>
+</item>
+
+<item>
+<title>We [COLOR=FFFF0000]HD[/COLOR] a</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live//dea34fa045074639b3a18123d4b4eda0.m3u8?bitrate=1500</link>
+<thumbnail>http://imageshack.us/a/img826/250/i6vn.png</thumbnail>
+</item>
+
+<item>
+<title>We [COLOR=FFFF0000]HD[/COLOR] b</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/dea34fa045074639b3a18123d4b4eda0.m3u8?bitrate=800</link>
+<thumbnail>http://imageshack.us/a/img826/250/i6vn.png</thumbnail>
 </item>
