@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]09/03/13 Fixed A&E. | 08/27/13 Fix Big Bro d | 08/25/13 MTV fixed | 08/24/13 Fixed BioHD,Bravo,CBS,Cartoon,ComedyHD,Crime&InvHD,DiscoveryWorld,DocuBoxHD,Fox,FoxCrimeHD,FXHD,MTVLiveHD,NatGeoHD a,NatGeoAdvHD,NatGeoMusicHD,SYFY,TravelHD,WeHD a&b  08/20/13 Fix Discovery a HGTV | 08/16/13 Big Bro a A&E Fiexed | 08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
+<message>[COLOR=FF00FF00]09/03/13 Fixed A&E,ABCb,AnimalPlaneta,CBS,ComedyCentralb,Discoverya,HBO,HBOComedy,truTV | 08/27/13 Fix Big Bro d | 08/25/13 MTV fixed | 08/24/13 Fixed BioHD,Bravo,CBS,Cartoon,ComedyHD,Crime&InvHD,DiscoveryWorld,DocuBoxHD,Fox,FoxCrimeHD,FXHD,MTVLiveHD,NatGeoHD a,NatGeoAdvHD,NatGeoMusicHD,SYFY,TravelHD,WeHD a&b  08/20/13 Fix Discovery a HGTV | 08/16/13 Big Bro a A&E Fiexed | 08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -124,7 +124,7 @@
 
 <item>
 <title>CBS</title>
-<link>rtmp://live.iguide.to/edge/x85s4cm4lr2foy3 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/xtz0yx0byid0o65 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
 </item>
 
@@ -148,7 +148,7 @@
 
 <item>
 <title>Comedy Central b</title>
-<link>rtmp://live.iguide.to/edge/k9p6hysquua5vw7 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/tuhq23pjmv2t6az swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
 </item>
 
@@ -303,7 +303,7 @@
 </item>
 
 <item>
-<title>MTV (VMAs 2night)</title>
+<title>MTV</title>
 <link>rtmp://live.iguide.to/edge/bc04erxus7v35oq pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img401/6301/k5l.png</thumbnail>
 </item>
