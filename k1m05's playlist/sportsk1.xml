@@ -16,19 +16,25 @@
 
 <item>
 <title>ESPN[COLOR=FFFF0000] HD[/COLOR] a</title>
-<link>rtmp://edge.isearch.to/edge/xoaaohmeuajfeyf swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/xoaaohmeuajfeyf swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
-<title>ESPN</title>
-<link>rtmp://edge.isearch.to/edge/ggd6xt0hs2xzkju swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<title>ESPN a</title>
+<link>rtmp://live.iguide.to/edge/81cd3y2ob3pyxb1 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN b</title>
+<link>rtmp://live.iguide.to/edge/ggd6xt0hs2xzkju swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN2</title>
-<link>rtmp://edge.isearch.to/edge/8vmesamzy3kdnep swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/8vmesamzy3kdnep swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
@@ -88,7 +94,7 @@
 
 <item>
 <title>Golf Channel</title>
-<link>rtmp://edge.isearch.to/edge/o70ly0bh064qlfv swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 
