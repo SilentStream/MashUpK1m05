@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]09/05/13 Add NickHD,Edge,BabyTV | 09/03/13 Fixed: A&E,ABCb,AnimalPlaneta,CBS,ComedyCentralb,Discoverya,HBO,HBOComedy,truTV | 08/27/13 Fix Big Bro d | 08/25/13 MTV fixed | 08/24/13 Fixed BioHD,Bravo,CBS,Cartoon,ComedyHD,Crime&InvHD,DiscoveryWorld,DocuBoxHD,Fox,FoxCrimeHD,FXHD,MTVLiveHD,NatGeoHD a,NatGeoAdvHD,NatGeoMusicHD,SYFY,TravelHD,WeHD a&b  08/20/13 Fix Discovery a HGTV | 08/16/13 Big Bro a A&E Fiexed | 08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
+<message>[COLOR=FF00FF00]09/05/13 Add NickHD,NickRW,Edge,BabyTV | 09/03/13 Fixed: A&E,ABCb,AnimalPlaneta,CBS,ComedyCentralb,Discoverya,HBO,HBOComedy,truTV | 08/27/13 Fix Big Bro d | 08/25/13 MTV fixed | 08/24/13 Fixed BioHD,Bravo,CBS,Cartoon,ComedyHD,Crime&InvHD,DiscoveryWorld,DocuBoxHD,Fox,FoxCrimeHD,FXHD,MTVLiveHD,NatGeoHD a,NatGeoAdvHD,NatGeoMusicHD,SYFY,TravelHD,WeHD a&b  08/20/13 Fix Discovery a HGTV | 08/16/13 Big Bro a A&E Fiexed | 08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -364,7 +364,7 @@
 
 
 <item>
-<title>Nick [COLOR=FFFF0000]RW[/COLOR]</title>
+<title>Nick Rewind</title>
 <link>rtmp://fms2.tikilive.com:1935/view/24535_051/stream24535 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.1.2 pageUrl=http://www.tvpc.com/Channel.php?ChannelID=2945 live=true timeout=10</link>
 <thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
 </item>
