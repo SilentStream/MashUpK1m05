@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]09/05/13 Add Nick,Edge,BabyTV | 09/03/13 Fixed: A&E,ABCb,AnimalPlaneta,CBS,ComedyCentralb,Discoverya,HBO,HBOComedy,truTV | 08/27/13 Fix Big Bro d | 08/25/13 MTV fixed | 08/24/13 Fixed BioHD,Bravo,CBS,Cartoon,ComedyHD,Crime&InvHD,DiscoveryWorld,DocuBoxHD,Fox,FoxCrimeHD,FXHD,MTVLiveHD,NatGeoHD a,NatGeoAdvHD,NatGeoMusicHD,SYFY,TravelHD,WeHD a&b  08/20/13 Fix Discovery a HGTV | 08/16/13 Big Bro a A&E Fiexed | 08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
+<message>[COLOR=FF00FF00]09/05/13 Add NickHD,Edge,BabyTV | 09/03/13 Fixed: A&E,ABCb,AnimalPlaneta,CBS,ComedyCentralb,Discoverya,HBO,HBOComedy,truTV | 08/27/13 Fix Big Bro d | 08/25/13 MTV fixed | 08/24/13 Fixed BioHD,Bravo,CBS,Cartoon,ComedyHD,Crime&InvHD,DiscoveryWorld,DocuBoxHD,Fox,FoxCrimeHD,FXHD,MTVLiveHD,NatGeoHD a,NatGeoAdvHD,NatGeoMusicHD,SYFY,TravelHD,WeHD a&b  08/20/13 Fix Discovery a HGTV | 08/16/13 Big Bro a A&E Fiexed | 08/15/13 Add Disney Jr 08/11/13 Working AMCb CBS Bravo 08/01/13 Fixed USA a | 07/23/13 New BB Stream | 07/22/13 Added MTV, More channels are down at source, wait it out shouldnt take long | [/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -360,7 +360,7 @@
 <item>
 <title>Nick [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>rtmp://live.iguide.to/edge/hxoq929n5q4a9u3 swfUrl=http://static.ilive.to/jwplayer/player.swf swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
-<thumbnail>http://imageshack.us/a/img12/2921/6w8y.png</thumbnail>
+<thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
 </item>
 
 <item>
