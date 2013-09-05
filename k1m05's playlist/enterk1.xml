@@ -356,10 +356,16 @@
 <thumbnail>http://imageshack.us/a/img12/2921/6w8y.png</thumbnail>
 </item>
 
-
 <item>
 <title>Nick [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>rtmp://live.iguide.to/edge/hxoq929n5q4a9u3 swfUrl=http://static.ilive.to/jwplayer/player.swf swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
+</item>
+
+
+<item>
+<title>Nick [COLOR=FFFF0000]RW[/COLOR]</title>
+<link>rtmp://fms2.tikilive.com:1935/view/24535_051/stream24535 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.1.2 pageUrl=http://www.tvpc.com/Channel.php?ChannelID=2945 live=true timeout=10</link>
 <thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
 </item>
 
