@@ -250,7 +250,7 @@
 
 <item>
 <title>TSN[COLOR=FFFF5500] Down[/COLOR]</title>
-<link>rtsp://50.7.70.130:1935/liveedge/synx_tsn.stream</link>
+<link>rtmp://50.7.28.130/flash playpath=16287  swfUrl=http://udemy.com/static/flash/player5.9.swf  pageUrl=http://sawlive.tv/embed/watch/NmExYTRjZjIwNDg1OmIwN2E3YTdhN2E3YTdhOjkwM2IwYTQ2MDA2NDk3YjQyNTY5OT/AyNWUyNzYwYjdhNzllMzcyMTM6MmEwM2EzMGMyNDI1MGIyNjJjNjg1OTcyOWU2ODhlZGQ_</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tsn.png</thumbnail>
 </item>
 
