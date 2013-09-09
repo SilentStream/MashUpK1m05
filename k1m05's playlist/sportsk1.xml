@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF0000]09/07/13 ESPN2 Added Token Some streams should be back on | 09/02/13 Check the bottom for lots of new College Football channels | 08/30/13 Fixed Golf Channel | 08/29/13 Fixed ESPN | 08/22/13 ESPN & ESPN2 Fixed Believe ESPN HD is toast | 08/15/13 ESPNa fixed | 08/01/13 Hopefully Fixed NFLHD Loop???  Added SS12&3 b | 07/29/13 Fix PremCh 1&2 (2 is offline right now) | 07/29/13 Fix SSF1,1,2,3,&4, NFL HD (i think) | 07/25/13 Add SS1&2 | 07/24/13 SKY SPORTS 1234 & NEWS FIXED | [/COLOR]07/18/13 SKY SPORTS 1234 & NEWS FIXED | 07/15/13 Sky Sports F1 Fixed | 07/14/13 Fixed Sky Sports 123&4 gotta check | 07/12/13 Add Fox Sports 3 | 07/10/13 Fixed SS123&4 TSN ESPN Added Golf Channel |</message>
+<message>[COLOR=FFFF0000]09/08/13 Add Fox Sports,NFL Redzone </message>
 <thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -81,8 +81,8 @@
 </item>
 
 <item> 
-<title>Fox Sports 3</title> 
-<link>rtmp://94.102.51.78/live playpath=test0001 swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf live=true pageUrl=http://www.zstream.eu/embed.php?v=Live_sports_hd1&vw=600&vh=450&video=0&domain=www.pogotv.eu</link> 
+<title>Fox Sports new</title> 
+<link>http://m24.megafun.vn/live.vs?c=vstv042&q=high</link> 
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_lam_3.png</thumbnail> 
 </item>
 
@@ -125,6 +125,12 @@
 <item>
 <title>NFL Network</title>
 <link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>rtmp://50.7.28.82/flash/17226 pageUrl=http://sawlive.tv live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
 </item>
 
