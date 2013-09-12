@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
+<message>[COLOR=FF00FF00]09/12/13 MTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -311,7 +311,7 @@
 
 <item>
 <title>MTV</title>
-<link>rtmp://live.iguide.to/edge/bc04erxus7v35oq pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=#e87JDUJD264YED687 live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/y96hrc1tcg0vtcg pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=#e87JDUJD264YED687 live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img401/6301/k5l.png</thumbnail>
 </item>
 
