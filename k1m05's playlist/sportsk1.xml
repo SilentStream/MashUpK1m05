@@ -5,7 +5,7 @@ token=#e87JDUJD264YED687
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF0000]09/08/13. Add Fox Sports,NFL Redzone TSN(Prolly wont last)</message>
+<message>[COLOR=FFFF0000]09/08/13 Add Fox Sports,NFL Redzone TSN(Prolly wont last)</message>
 <thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -17,20 +17,26 @@ token=#e87JDUJD264YED687
 </item>
 
 <item>
-<title>ESPN[COLOR=FFFF0000] HD[/COLOR] a</title>
+<title>ESPN d</title>
 <link>rtmp://live.iguide.to/edge/xoaaohmeuajfeyf swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN a</title>
-<link>rtmp://live.iguide.to/edge/81cd3y2ob3pyxb1 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/dj7j12epvj5nfpz swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN b</title>
-<link>rtmp://live.iguide.to/edge/ggd6xt0hs2xzkju swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/9j0xq598euszb7u swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN c</title>
+<link>rtmp://live.iguide.to/edge/uvnbzi8z07tzyck swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
