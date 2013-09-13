@@ -1,9 +1,11 @@
+token=#e87JDUJD264YED687
+
 #######################################################################################################################################
 <poster>k1m05</poster>
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF0000]09/08/13 Add Fox Sports,NFL Redzone TSN(Prolly wont last)</message>
+<message>[COLOR=FFFF0000]09/08/13. Add Fox Sports,NFL Redzone TSN(Prolly wont last)</message>
 <thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -16,31 +18,31 @@
 
 <item>
 <title>ESPN[COLOR=FFFF0000] HD[/COLOR] a</title>
-<link>rtmp://live.iguide.to/edge/xoaaohmeuajfeyf swfUrl=http://player.ilive.to/player_ilive_2.swf token=#ed%h0#w18skJD1Uywe887 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/xoaaohmeuajfeyf swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN a</title>
-<link>rtmp://live.iguide.to/edge/81cd3y2ob3pyxb1 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#ed%h0#w18skJD1Uywe887 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/81cd3y2ob3pyxb1 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN b</title>
-<link>rtmp://live.iguide.to/edge/ggd6xt0hs2xzkju swfUrl=http://player.ilive.to/player_ilive_2.swf token=#ed%h0#w18skJD1Uywe887 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/ggd6xt0hs2xzkju swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN2 a</title>
-<link>rtmp://live.iguide.to/edge/9yawt48j7k3swc8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#ed%h0#w18skJD1Uywe887 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/9yawt48j7k3swc8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
 <title>ESPN2 b</title>
-<link>rtmp://live.iguide.to/edge/z7gz419g6oqwiql swfUrl=http://player.ilive.to/player_ilive_2.swf token=#ed%h0#w18skJD1Uywe887 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/z7gz419g6oqwiql swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
@@ -100,7 +102,7 @@
 
 <item>
 <title>Golf Channel</title>
-<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://player.ilive.to/player_ilive_2.swf token=#ed%h0#w18skJD1Uywe887 live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 
@@ -417,5 +419,6 @@
 <link>http://goo.gl/cJQF9D</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
+
 
 
