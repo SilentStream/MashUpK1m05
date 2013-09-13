@@ -11,6 +11,12 @@ token=#e87JDUJD264YED687
 ##############################################################################################################################
 
 <item>
+<title>A random HD channel</title>
+<link>rtmp://204.45.157.186/flash/17010 swfurl=http://www.udemy.com/static/flash/player5.9.swf pageurl=http://sawlive.tv/ live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/ae_east.png</thumbnail>
+</item>
+
+<item>
 <title>BOEU</title>
 <link>http://94.242.221.141/hls/a-lo/stream47.m3u8</link>
 <thumbnail>http://www.boets.ru/wp-content/files_flatter_cache/118_118_1274058791_bg_logo_a-trans.png</thumbnail>
