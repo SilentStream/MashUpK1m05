@@ -3,7 +3,7 @@
 <fanart>http://media.foxsports.com.au/pve/Mayweather%20v%20Canelo%20FOXSPORTS%2016x9.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Schedule:[/COLOR]</message>
+<message>[COLOR=FF00FF00]f is now working[/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFC0C0C0]Mayweather vs Canelo e. .[/COLOR]</title>
+<title>[COLOR=FFC0C0C0]Mayweather vs Canelo f[/COLOR]</title>
 <link>rtmp://ny.iguide.to/iguide playpath=9wvz2o4qf7j5uka swfUrl=http://www.iguide.to/player/player_embed_iguide.swf live=1 pageUrl=http://www.iguide.to/embedplayer.php?width=653&height=380&channel=1854& live=true timeout=10 token=#ed%h0#w18623jsda6523lDGD</link>
 <thumbnail>http://wpmedia.o.canada.com/2013/09/floyd_canelo_poster.jpg</thumbnail>
 </item>
