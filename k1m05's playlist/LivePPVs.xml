@@ -30,3 +30,15 @@
 <link>rtmp://wrestle-zone.mobi:1935/live/ playpath=channel9 swfUrl=http://247hdsports.net/P/player.swf live=true swfVfy=true timeout=7 pageUrl=http://wrestle-zone.net.pk/</link>
 <thumbnail>http://wpmedia.o.canada.com/2013/09/floyd_canelo_poster.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=FFC0C0C0]Mayweather vs Canelo d [/COLOR]</title>
+<link>rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi:1935/live/ playpath=channel2 swfUrl=http://247hdsports.net/P/player.swf live=true swfVfy=true timeout=7 pageUrl=http://wrestle-zone.net.pk/</link>
+<thumbnail>http://wpmedia.o.canada.com/2013/09/floyd_canelo_poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFC0C0C0]Mayweather vs Canelo e [/COLOR]</title>
+<link>rtmp://wrestle-zone.mobi:1935/live/ playpath=channel2 swfUrl=http://247hdsports.net/P/player.swf live=true swfVfy=true timeout=7 pageUrl=http://wrestle-zone.net.pk/</link>
+<thumbnail>http://wpmedia.o.canada.com/2013/09/floyd_canelo_poster.jpg</thumbnail>
+</item>
