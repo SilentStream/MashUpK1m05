@@ -14,13 +14,13 @@
 </info>
 
 <item>
-<title>WWE NOC a.</title>
+<title>WWE NOC HD</title>
 <link>rtmp://skystreams.info/live/ playpath=noc13prem1 swfUrl=http://static-server1.wrestling-network.net/static/jwplayer.flash.swf pageUrl=http://wrestling-network.net/vip-channel-1 live=true timeout=10</link>
 <thumbnail>http://img21.imageshack.us/img21/7939/icja.png</thumbnail>
 </item>
 
 <item>
-<title>WWE NOC b.</title>
+<title>WWE NOC SD</title>
 <link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=chann13 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f115/wrestle-zone-nets-channel-3-a-88665/ live=true timeout=10</link>
 <thumbnail>http://img21.imageshack.us/img21/7939/icja.png</thumbnail>
 </item>
