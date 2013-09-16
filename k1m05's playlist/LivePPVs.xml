@@ -20,7 +20,13 @@
 </item>
 
 <item>
-<title>WWE NOC SD</title>
+<title>WWE NOC SD 1</title>
 <link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=chann13 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f115/wrestle-zone-nets-channel-3-a-88665/ live=true timeout=10</link>
+<thumbnail>http://img21.imageshack.us/img21/7939/icja.png</thumbnail>
+</item>
+
+<item>
+<title>WWE NOC SD 2</title>
+<link>rtmp://50.7.28.82/flash/17290 swfurl=http://www.udemy.com/static/flash/player5.9.swf pageurl=http://sawlive.tv/</link>
 <thumbnail>http://img21.imageshack.us/img21/7939/icja.png</thumbnail>
 </item>
