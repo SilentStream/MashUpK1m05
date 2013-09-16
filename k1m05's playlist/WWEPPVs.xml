@@ -3,10 +3,16 @@
 <fanart></fanart>
 #######################################################################################################################################
 <subchannel>
-<name>Night of Champions Kickoff (2013)</name>
-<fanart>http://i1.ytimg.com/vi/ue1bo12A2uY/maxresdefault.jpg</fanart>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/60/Night_of_Champions_2013_poster.jpg</thumbnail>
-<link>http://archive.org/download/3RBY.NETSting.WWE.Night.Of.Champions.2013.Kickoff.Webrip.x264/3RBY.NET-Sting.WWE.Night.Of.Champions.2013.Kickoff.Webrip.x264.mkv</link>
+<name>Night of Champions 720p (2013)</name>
+<fanart>http://i1.ytimg.com/vi/L36CFuBmpks/maxresdefault.jpg</fanart>
+<thumbnail>http://img2.timg.co.il/forums/1_171050481.jpg</thumbnail>
+<link>
+<sublink>http://www.dailymotion.com/embed/video/k1eS4hf2Ydl5IO4Dcdc</sublink><host>dailymotion part 1</host>
+<sublink>http://www.dailymotion.com/embed/video/k3y1v6DXLp2sPV4DeD0</sublink><host>dailymotion part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k2ZcvsQJBC6qeG4DdGY</sublink><host>dailymotion part 3</host>
+<sublink>http://www.dailymotion.com/embed/video/k44ezPVbGWl74r4DdIY</sublink><host>dailymotion part 4</host>
+
+</link>
 </subchannel>
 ###############################
 <subchannel>
