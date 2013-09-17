@@ -42,28 +42,42 @@ token=#e87JDUJD264YED687
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
-
 <item>
-<title>Eurosport</title>
+<title>Eurosport International</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
 <item>
-<title>Eurosport[COLOR=FFFF0000] HD[/COLOR]</title>
+<title>Eurosport UK [COLOR=FFFF0000] HD[/COLOR]</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_2500.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
 <item>
-<title>Eurosport 2</title>
+<title>Eurosport UK</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2 International</title>
 <link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</thumbnail>
 </item>
 
 <item>
-<title>Eurosport 2[COLOR=FFFF0000] HD[/COLOR]</title>
-<link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_2500.m3u8</link>
+<title>Eurosport 2 UK.[COLOR=FFFF0000] HD[/COLOR]</title>
+<link>
+<sublink>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_2500.m3u8</sublink><host>HD</host>
+<sublink>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1800.m3u8</sublink><host>SD</host>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2 UK</title>
+<link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1800.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
