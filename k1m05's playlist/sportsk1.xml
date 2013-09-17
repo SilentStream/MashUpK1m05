@@ -9,11 +9,14 @@ token=#e87JDUJD264YED687
 <thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
-
 <item>
-<title>A random HD channel</title>
-<link>rtmp://204.45.157.186/flash/17010 swfurl=http://www.udemy.com/static/flash/player5.9.swf pageurl=http://sawlive.tv/ live=true timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/ae_east.png</thumbnail>
+<title>A random HD channel</title></title>
+<link>
+  <sublink>rtmp://live.iguide.to/edge/k5midoo6eiomxl7 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://204.45.157.186/flash/17010 swfurl=http://www.udemy.com/static/flash/player5.9.swf pageurl=http://sawlive.tv/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/nqezrn4i6eeqwu5 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
 
 <item>
