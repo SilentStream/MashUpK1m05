@@ -67,11 +67,8 @@ token=#e87JDUJD264YED687
 </item>
 
 <item>
-<title>Eurosport 2 UK.[COLOR=FFFF0000] HD[/COLOR]</title>
-<link>
-<sublink>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_2500.m3u8</sublink><host>HD</host>
-<sublink>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1800.m3u8</sublink><host>SD</host>
-</link>
+<title>Eurosport 2 UK[COLOR=FFFF0000] HD[/COLOR]</title>
+<link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_2500.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
