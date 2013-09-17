@@ -25,10 +25,10 @@ token=#e87JDUJD264YED687
 <item>
 <title>ESPN [COLOR yellow]Multi-Link[/COLOR]</title>
 <link>
+  <sublink>rtmp://live.iguide.to/edge/uvnbzi8z07tzyck swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.iguide.to/edge/xoaaohmeuajfeyf swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.iguide.to/edge/dj7j12epvj5nfpz swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.iguide.to/edge/9j0xq598euszb7u swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.iguide.to/edge/uvnbzi8z07tzyck swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
