@@ -14,19 +14,7 @@
 </info>
 
 <item>
-<title>WWE NOC HD</title>
-<link>rtmp://skystreams.info/live/ playpath=noc13prem1 swfUrl=http://static-server1.wrestling-network.net/static/jwplayer.flash.swf pageUrl=http://wrestling-network.net/vip-channel-1 live=true timeout=10</link>
-<thumbnail>http://img21.imageshack.us/img21/7939/icja.png</thumbnail>
-</item>
-
-<item>
-<title>WWE NOC SD 1</title>
-<link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=chann13 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f115/wrestle-zone-nets-channel-3-a-88665/ live=true timeout=10</link>
-<thumbnail>http://img21.imageshack.us/img21/7939/icja.png</thumbnail>
-</item>
-
-<item>
-<title>WWE NOC SD 2</title>
-<link>rtmp://50.7.28.82/flash/17290 swfurl=http://www.udemy.com/static/flash/player5.9.swf pageurl=http://sawlive.tv/</link>
+<title>NHL Pens Vs Red Wings</title>
+<link>rtmp://184.75.220.234:1935/zmtvliveme playpath=OhSFWLnKGH swfUrl= conn=S:OhSFWLnKGH conn=S:1379383959 conn=S:60da35124d458d2a93a29a1d920fed53 conn=S:V&gt;JWhui^@2ESdu0?}&gt;AN live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=http://www.zoomtv.me/embed.php?v=mt16thd&vw=660&vh=450</link>
 <thumbnail>http://img21.imageshack.us/img21/7939/icja.png</thumbnail>
 </item>
