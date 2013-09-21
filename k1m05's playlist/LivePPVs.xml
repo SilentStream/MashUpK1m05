@@ -14,41 +14,152 @@
 </info>
 
 <item>
-<title>Toronto Vs Ottawa (NHL Network)</title>
+<title>NHL Network</title>
 <link>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
-
 <item>
-<title>Toronto Vs Ottawa HD</title>
-<link>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_4500.m3u8</link>
+<title>Blackhawks HD</title>
+<link>http://nlds141.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_4500.m3u8</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 <item>
-<title>Buffalo Vs Carolina HD</title>
-<link>http://nlds89.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_4500.m3u8</link>
+<title>Blackhawks SD</title>
+<link>http://nlds141.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_1600.m3u8</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 <item>
-<title>Devils vs Islanders HD</title>
-<link>http://nlds49.cdnak.neulion.com/nlds/nhl/islanders/as/live/islanders_hd_4500.m3u8</link>
+<title>Capitals HD</title>
+<link>http://nlds144.cdnak.neulion.com/nlds/nhl/capitals/as/live/capitals_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Capitals SD</title>
+<link>http://nlds144.cdnak.neulion.com/nlds/nhl/capitals/as/live/capitals_hd_android.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Hurricanes HD</title>
+<link>http://nlds147.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Hurricanes SD</title>
+<link>http://nlds147.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_1600.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Canadiens HD</title>
+<link>http://nlds91.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Canadiens SD</title>
+<link>http://nlds91.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_1600.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Avalanche HD</title>
+<link>http://nlds90.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Avalanche SD</title>
+<link>http://nlds90.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_1600.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Kings HD</title>
+<link>http://nlds3.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Kings SD</title>
+<link>http://nlds3.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_hd_1600.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Stars HD</title>
+<link>http://nlds49.cdnak.neulion.com/nlds/nhl/stars/as/live/stars_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Stars SD</title>
+<link>http://nlds49.cdnak.neulion.com/nlds/nhl/stars/as/live/stars_hd_1600.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Panthers HD</title>
+<link>http://nlds149.cdnak.neulion.com/nlds/nhl/panthers/as/live/panthers_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Panthers SD</title>
+<link>http://nlds149.cdnak.neulion.com/nlds/nhl/panthers/as/live/panthers_hd_1600.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Ducks HD</title>
+<link>http://nlds138.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Ducks SD</title>
+<link>http://nlds138.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_1600.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Sharks HD</title>
+<link>http://nlds142.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Sharks SD</title>
+<link>http://nlds142.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_1600.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Blues HD</title>
+<link>http://nlds143.cdnak.neulion.com/nlds/nhl/blues/as/live/blues_hd_4500.m3u8</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Blues SD</title>
+<link>http://nlds143.cdnak.neulion.com/nlds/nhl/blues/as/live/blues_hd_1600.m3u8</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 
 <item>
-<title>Blackhawks VS Pens HD</title>
-<link>http://nlds142.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_4500.m3u8</link>
+<title>Lightning HD</title>
+<link>http://nlds140.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_4500.m3u8</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 <item>
-<title>Wild Vs Jets HD</title>
-<link>http://nlds138.cdnak.neulion.com/nlds/nhl/wild/as/live/wild_hd_4500.m3u8</link>
+<title>Lightning SD</title>
+<link>http://nlds140.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_1600.m3u8</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
-
-
