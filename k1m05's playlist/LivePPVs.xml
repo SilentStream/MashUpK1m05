@@ -41,3 +41,24 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
+<item>
+<title>Toronto vs Buffalo HD</title>
+<link>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_4500.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_4500.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_3000.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_3000.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Toronto vs Buffalo SD</title>
+<link>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_1600.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_1600.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_800.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_800.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
