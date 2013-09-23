@@ -31,34 +31,30 @@
 </item>
 
 <item>
-<title>Chicago vs Detriot SD</title>
+<title>Pittsburg vs Chicago SD</title>
 <link>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_1600.m3u8</sublink>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/redwings/as/live/redwings_hd_1600.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_800.m3u8</sublink>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/redwings/as/live/redwings_hd_800.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_1600.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_1600.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_800.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_800.m3u8</sublink>
 </link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 <item>
-<title>Toronto vs Buffalo HD</title>
+<title>Boston vs Washington HD</title>
 <link>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_4500.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_4500.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_3000.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_3000.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/bruins/as/live/bruins_hd_4500.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/bruins/as/live/bruins_hd_3000.m3u8</sublink>
 </link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 <item>
-<title>Toronto vs Buffalo SD</title>
+<title>Boston vs Washington SD</title>
 <link>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_1600.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_1600.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_800.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_800.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/bruins/as/live/bruins_hd_1600.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/bruins/as/live/bruins_hd_800.m3u8</sublink>
 </link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
