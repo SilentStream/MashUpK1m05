@@ -69,8 +69,9 @@
 </item>
 
 <item>
-<title>New Jersey vs Montreal SD</title>
+<title>New Jersey vs Montreal SD (Link 1 is working)</title>
 <link>
+  <sublink>rtmp://50.7.28.210/flash playpath=12039 swfVfy=1 swfUrl=http://static2.sawlive.tv/player.swf live=true pageUrl=http://www.sawlive.tv/embed/fraxtesa</sublink>
   <sublink>http://nlds147.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_1600.m3u8</sublink>
   <sublink>http://nlds147.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_800.m3u8</sublink>
 </link>
