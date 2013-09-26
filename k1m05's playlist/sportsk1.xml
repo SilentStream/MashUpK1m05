@@ -12,9 +12,6 @@
 <link>
   <sublink>rtmp://50.7.28.130/flash/17407 swfUrl=http://udemy.com/static/flash/player5.9.swf pageUrl=http://sawlive.tv/embed/watch/MWJjZDA4NzVjYzhmOjk4NmQ2MzYxNjM2ZjYzNmI2MjZjNmY2MzZiNjU3MjczOjc4Nm/M3NjQ0YzY0MTliODg5NjhkY2Y0YmQ3YjM3NzY1NjM5YWFmOTM6NGRmM2Q2M2MwYTEwZmUyNDhmM2EyODZkZDEwYzAzNTY_ live=true timeout=10</sublink>
   <sublink>rtmp://live.iguide.to/iguide/86vtx3dzm9fgq74 swfUrl=http://www.iguide.to/player/player_embed_iguide.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</sublink>
-  <sublink>rtmp://live.iguide.to/iguide/07htuzx5iao04zu swfUrl=http://www.iguide.to/player/player_embed_iguide.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</sublink>
-  <sublink>rtmp://live.iguide.to/iguide/yvousvudyy57x13 swfUrl=http://www.iguide.to/player/player_embed_iguide.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</sublink>
-  <sublink>rtmp://live.iguide.to/iguide/cy4qya7m3dq7j6c swfUrl=http://www.iguide.to/player/player_embed_iguide.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
@@ -28,9 +25,9 @@
 <item>
 <title>ESPN [COLOR yellow]Multi-Link[/COLOR]</title>
 <link>
-  <sublink>rtmp://live.iguide.to/edge/uvnbzi8z07tzyck swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.iguide.to/edge/3de8bi4n0etk0l4 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.iguide.to/edge/nqezrn4i6eeqwu5 swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/uvnbzi8z07tzyck swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/3de8bi4n0etk0l4 swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/nqezrn4i6eeqwu5 swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
@@ -39,8 +36,8 @@
 <item>
 <title>ESPN2</title>
 <link>
-  <sublink>rtmp://live.iguide.to/edge/e9h1nbkj7zblpdw swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.iguide.to/edge/z7gz419g6oqwiql swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink> 
+  <sublink>rtmp://live.iguide.to/edge/e9h1nbkj7zblpdw swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/z7gz419g6oqwiql swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink> 
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
@@ -113,7 +110,7 @@
 
 <item>
 <title>Golf Channel</title>
-<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://player.ilive.to/player_ilive_2.swf token=#e87JDUJD264YED687 live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 
