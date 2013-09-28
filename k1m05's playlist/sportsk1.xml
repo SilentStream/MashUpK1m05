@@ -218,13 +218,13 @@
 
 <item>
 <title>Sky Sports News</title>
-<link>rtmpe://46.246.29.149:1935/live/jan6 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<link>rtmpe://46.246.29.149:1935/live/jan20 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
 
 <item>
 <title>Sportsnet World[COLOR=FFFF5500] Down[/COLOR]</title>
-<link>rtsp://50.7.70.130:1935/liveedge/synx_world.stream</link>
+<link><link>rtmpe://46.246.29.149:1935/live/jan8 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link></link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_world.png</thumbnail>
 </item>
 
