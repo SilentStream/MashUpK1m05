@@ -110,14 +110,11 @@ token=UYDk93k#09sdafjJDHJKAD873
 </item>
 
 <item>
-<title>Cartoon Network</title>
-<link>http://tv.i-ghost.net/stream/TEST/144.m3u8</link>
-<thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
-</item>
-
-<item>
 <title>Cartoon Network[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/91cqbvxhp3098vf swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>
+ <sublink>rtmp://live.iguide.to/edge/srts7n4g6oypowl swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/lf4cc63667vxzlx swfUrl=http://player.ilive.to/player_ilive_2.swf token=UYDk93k#09sdafjJDHJKAD873 live=true pageUrl=http://www.ilive.to/ timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
 </item>
 
