@@ -20,71 +20,68 @@
 </item>
 #######################################################################################################
 <item>
-<title>Toronto vs Montreal HD</title>
+<title>Philadelphia vs Toronto SD</title>
 <link>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_4500.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_3000.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_4500.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_3000.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_1600.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_800.m3u8</sublink>
+  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_1600.m3u8</sublink>
+  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_800.m3u8</sublink>
 </link>
-<thumbnail>http://cdn.25stanley.com/wp-content/uploads/2010/12/wpid-Toronto-Maple-Leafs-vs-Montreal-Canadiens.jpg</thumbnail>
+<thumbnail>http://www.leafsnationnetwork.com/wp-content/uploads/2012/03/Leafs_Flyers.jpg</thumbnail>
 </item>
 
 <item>
-<title>Toronto vs Montreal SD</title>
+<title>Philadelphia vs Toronto HD</title>
 <link>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_1600.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_800.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_1600.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_800.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_4500.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_3000.m3u8</sublink>
+  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_4500.m3u8</sublink>
+  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_3000.m3u8</sublink>
 </link>
-<thumbnail>http://cdn.25stanley.com/wp-content/uploads/2010/12/wpid-Toronto-Maple-Leafs-vs-Montreal-Canadiens.jpg</thumbnail>
+<thumbnail>http://www.leafsnationnetwork.com/wp-content/uploads/2012/03/Leafs_Flyers.jpg</thumbnail>
 </item>
-#######################################################################################################
+###########################################################################
 <item>
-<title>Blackhawks vs Capitals SD</title>
+<title>Detroit vs Buffalo SD</title>
 <link>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_1600.m3u8</sublink>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_800.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/capitals/as/live/capitals_hd_1600.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/capitals/as/live/capitals_hd_800.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_1600.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_800.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/redwings/as/live/redwings_hd_1600.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/redwings/as/live/redwings_hd_800.m3u8</sublink>
 </link>
-<thumbnail>http://cdn.bleacherreport.net/images_root/slides/photos/000/197/225/wpid-Washington-Capitals-vs-Chicago-Blackhawks_display_image.jpg</thumbnail>
-</item>
-
-<item>
-<title>Blackhawks vs Capitals HD</title>
-<link>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_4500.m3u8</sublink>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_3000.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/capitals/as/live/capitals_hd_4500.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/capitals/as/live/capitals_hd_3000.m3u8</sublink>
-</link>
-<thumbnail>http://cdn.bleacherreport.net/images_root/slides/photos/000/197/225/wpid-Washington-Capitals-vs-Chicago-Blackhawks_display_image.jpg</thumbnail>
-</item>
-#######################################################################################################
-<item>
-<title>Oilers vs Jets SD (NOT YET ONLINE)</title>
-<link>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_1600.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_800.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_1600.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_800.m3u8</sublink>
-</link>
-<thumbnail>http://mtscentre.s3.amazonaws.com/img/jets_oilers.jpg</thumbnail>
+<thumbnail>http://news.bangthebook.com/wp-content/uploads/2013/10/Sabres-vs-Red-Wings-Pick.jpg</thumbnail>
 </item>
 
 <item>
-<title>Oilers vs Jets HD (NOT YET ONLINE)</title>
+<title>Detroit vs Buffalo HD</title>
 <link>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_4500.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_hd_3000.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_4500.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_3000.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_4500.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_3000.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/redwings/as/live/redwings_hd_4500.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/redwings/as/live/redwings_hd_3000.m3u8</sublink>
 </link>
-<thumbnail>http://mtscentre.s3.amazonaws.com/img/jets_oilers.jpg</thumbnail>
+<thumbnail>http://news.bangthebook.com/wp-content/uploads/2013/10/Sabres-vs-Red-Wings-Pick.jpg</thumbnail>
 </item>
-#######################################################################################################
+###########################################################################
+<item>
+<title>Colorado vs Anaheim SD</title>
+<link>
+  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_1600.m3u8</sublink>
+  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_800.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_1600.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_800.m3u8</sublink>
+</link>
+<thumbnail>http://cdn1.sbnation.com/entry_photo_images/3185200/64_-_Ducks_large_medium.jpg</thumbnail>
+</item>
 
-
-
+<item>
+<title>Colorado vs Anaheim HD</title>
+<link>
+  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_4500.m3u8</sublink>
+  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_3000.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_4500.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_3000.m3u8</sublink>
+</link>
+<thumbnail>http://cdn1.sbnation.com/entry_photo_images/3185200/64_-_Ducks_large_medium.jpg</thumbnail>
+</item>
+###########################################################################
