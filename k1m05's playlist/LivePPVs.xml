@@ -2,16 +2,6 @@
 <poster>k1m05</poster>
 <fanart>http://img819.imageshack.us/img819/4137/s3c0.jpg</fanart>
 #######################################################################################################################################
-<info>
-<message>[COLOR=FF00FF00]MLB[/COLOR]</message>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</info>
-
-<item>
-<title>St Louis vs Pittsburgh</title>
-<link>rtmp://31.7.59.42:1935/zmtvliveme playpath=at3BwCZ1mdqsL0QswfUrl=http://static.zoomtv.me/player/jwplayer.6.5.3.swf pageUrl=http://www.zoomtv.me/embed1.php?v=1octI&vw=660&vh=450 live=true timeout=10</link>
-<thumbnail>http://sas.suplitodomedia.com/articles_images/GamblersPalace/Pittsburgh-Pirates-at-St.-Louis-Cardinals.jpg</thumbnail>
-</item>
 
 <info>
 <message>[COLOR=FF00FF00]NHL[/COLOR]</message>
