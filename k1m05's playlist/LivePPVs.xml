@@ -3,16 +3,19 @@
 <fanart>http://img819.imageshack.us/img819/4137/s3c0.jpg</fanart>
 #######################################################################################################################################
 
-<info>
-<message>[COLOR=FF00FF00]NHL[/COLOR]</message>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</info>
 ##############################################################################################################################
 
 <info>
 <message>########################################################</message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=996297&style=LED_g&nbdigits=5</thumbnail>
 </info>
+
+
+<item>
+<title>Boxing</title>
+<link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=channel14 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f121/wrestle-zone-net-channel-4-a-42548/ live=true timeout=10</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
 
 <item>
 <title>NHL Network</title>
