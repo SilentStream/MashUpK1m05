@@ -11,13 +11,10 @@
 
 <item>
 <title>BBC World News a</title>
-<link>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
-</item>
-
-<item>
-<title>BBC World News b</title>
-<link>rtmp://live.iguide.to/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>
+<sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
+<sublink>rtmp://live.iguide.to/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
 
@@ -34,14 +31,8 @@
 </item>
 
 <item>
-<title>CNN a</title>
+<title>CNN</title>
 <link>rtmp://live.iguide.to/edge/pevmm1onhjyufpg swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
-</item>
-
-<item>
-<title>CNN b</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 swfVfy=true live=true</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
