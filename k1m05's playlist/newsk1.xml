@@ -17,7 +17,7 @@
 
 <item>
 <title>BBC World News b</title>
-<link>rtmp://edge.isearch.to/edge/1kmj8d0b78n6w9m swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
 
@@ -29,13 +29,13 @@
 
 <item>
 <title>CNBC</title>
-<link>rtmp://edge.isearch.to/edge/5vnuyn0qrl8vty7 swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/5vnuyn0qrl8vty7 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
 </item>
 
 <item>
 <title>CNN a</title>
-<link>rtmp://edge.isearch.to/edge/pevmm1onhjyufpg swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/pevmm1onhjyufpg swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
@@ -47,7 +47,7 @@
 
 <item>
 <title>Euro News</title>
-<link>rtmp://edge.isearch.to/edge/fg2fwiffpklotoc swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/fg2fwiffpklotoc swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 </item>
 
@@ -89,6 +89,6 @@
 
 <item>
 <title>Weather Channel</title>
-<link>rtmp://edge.isearch.to/edge/0ofj5z5lab0b3ox swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
 </item>
