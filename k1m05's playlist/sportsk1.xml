@@ -26,6 +26,12 @@
 </item>
 
 <item>
+<title>Sportsnet World</title>
+<link>rtmp://198.144.120.217/live playpath=setca swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=setca&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
 <title>BOEU</title>
 <link>http://94.242.221.141/hls/a-lo/stream47.m3u8</link>
 <thumbnail>http://www.boets.ru/wp-content/files_flatter_cache/118_118_1274058791_bg_logo_a-trans.png</thumbnail>
