@@ -11,15 +11,14 @@
 </info>
 
 
-<item>
-<title>1. Boxing</title>
-<link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=channel14 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f121/wrestle-zone-net-channel-4-a-42548/ live=true timeout=10</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</item>
 
 <item>
-<title>2. Boxing.</title>
-<link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=channel19 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://5.39.81.149/live/ pageUrl=http://wrestle-zone.net.pk/f121/wrestle-zone-net-channel-4-a-42548/ live=true timeout=10</link>
+<title>1. WWE Battleground</title>
+<link>
+  <sublink>rtmp://46.105.14.26/live playpath=nigga swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=vipch3 live=true timeout=10</sublink>
+  <sublink>rtmp://46.105.14.26/live playpath=nigga1 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=vipch3 live=true timeout=10</sublink>
+  <sublink>rtmp://46.105.14.26/live playpath=rawhq swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=vipch3 live=true timeout=10</sublink>
+</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
