@@ -203,7 +203,7 @@
 
 <item>
 <title>Sky Sports 2</title>
-<link>rtmpe://46.246.29.149:1935/live/jan2 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<link>rtmp://89.248.163.3/play?wmsAuth=VxiiPSErKc4L2lIrPMbb9gbs9sVZmmwgB7mPkcIJ92Bf00yPfnKJSM8KBErnJK/skysporthd2 pageUrl=http://www.flashcast.tv/embed.php?live=halilou&vw=600&vh=450 token=%Xr5a(nKa@#. live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
 
@@ -231,29 +231,6 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
 
-<item>
-<title>Sportsnet World[COLOR=FFFF5500] Down[/COLOR]</title>
-<link><link>rtmpe://46.246.29.149:1935/live/jan8 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link></link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_world.png</thumbnail>
-</item>
-
-<item>
-<title>Sportsnet One[COLOR=FFFF5500] Down[/COLOR]</title>
-<link>rtsp://50.7.70.130:1935/liveedge/synx_one.stream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_one.png</thumbnail>
-</item>
-
-<item>
-<title>TSN[COLOR=FFFF5500] Working[/COLOR]</title>
-<link>rtmp://50.7.28.130/flash playpath=16287  swfUrl=http://udemy.com/static/flash/player5.9.swf  pageUrl=http://sawlive.tv/embed/watch/NmExYTRjZjIwNDg1OmIwN2E3YTdhN2E3YTdhOjkwM2IwYTQ2MDA2NDk3YjQyNTY5OT/AyNWUyNzYwYjdhNzllMzcyMTM6MmEwM2EzMGMyNDI1MGIyNjJjNjg1OTcyOWU2ODhlZGQ_</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tsn.png</thumbnail>
-</item>
-
-<item>
-<title>TSN2[COLOR=FFFF5500] Down[/COLOR]</title>
-<link>rtsp://50.7.70.130:1935/liveedge/synx_tsn2.stream</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/tsn2.png</thumbnail>
-</item>
 
 <item>
 <title>UFC 24/7 Access</title>
