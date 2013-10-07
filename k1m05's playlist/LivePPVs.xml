@@ -31,68 +31,46 @@
 </item>
 #######################################################################################################
 <item>
-<title>Carolina vs Philadelphia[COLOR=FFFF6600] SD[/COLOR]</title>
+<title>[COLOR=red]New Jersey[/COLOR] vs [COLOR=blue]Edmonton[/COLOR] [COLOR=FFF6600]SD[/COLOR]</title>
 <link>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_1600.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_800.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_1600.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_800.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_HD_1600.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_HD_800.m3u8</sublink>
+  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_HD_1600.m3u8</sublink>
+  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_HD_800.m3u8</sublink>
 </link>
-<thumbnail>http://www.csnphilly.com/sportsnetPhiladelphia/thumbnails/Sportsnet_-_Philadelphia/15/85/WEB_102911_FLYERS_GAME_HLMP4HIGH_640x360_2162251512.jpg</thumbnail>
+<thumbnail>http://devilsarmyblog.files.wordpress.com/2012/01/gamepreview_vsedmontonoilers.jpg?w=604</thumbnail>
 </item>
 
 <item>
-<title>Carolina vs Philadelphia[COLOR=FF00FF00] HD[/COLOR]</title>
+<title>[COLOR=red]New Jersey[/COLOR] vs [COLOR=blue]Edmonton[/COLOR] [COLOR=FF00FF00]HD[/COLOR]</title>
 <link>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_4500.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_3000.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_4500.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_3000.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_HD_4500.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_HD_3000.m3u8</sublink>
+  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_HD_4500.m3u8</sublink>
+  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_HD_3000.m3u8</sublink>
 </link>
-<thumbnail>http://www.csnphilly.com/sportsnetPhiladelphia/thumbnails/Sportsnet_-_Philadelphia/15/85/WEB_102911_FLYERS_GAME_HLMP4HIGH_640x360_2162251512.jpg</thumbnail>
+<thumbnail>http://devilsarmyblog.files.wordpress.com/2012/01/gamepreview_vsedmontonoilers.jpg?w=604</thumbnail>
 </item>
 ###########################################################################
 <item>
-<title>Anaheim vs Winnipeg[COLOR=FFFF6600] SD[/COLOR]</title>
+<title>[COLOR=grey]Los Angeles[/COLOR] vs [COLOR=orange]New York Rangers[/COLOR] [COLOR=FFF6600]SD[/COLOR]</title>
 <link>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_1600.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_800.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_1600.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_800.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_HD_1600.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_HD_800.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_HD_1600.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_HD_800.m3u8</sublink>
 </link>
-<thumbnail>http://mtscentre.s3.amazonaws.com/img/jets_anaheim.jpg</thumbnail>
+<thumbnail>http://cdn.bleacherreport.net/images_root/slides/photos/002/195/799/138765315_crop_650x440.jpg</thumbnail>
 </item>
 
 <item>
-<title>Anaheim vs Winnipeg[COLOR=FF00FF00] HD[/COLOR]</title>
+<title>[COLOR=grey]Los Angeles[/COLOR] vs [COLOR=orange]New York Rangers[/COLOR] [COLOR=FF00FF00]HD[/COLOR]</title>
 <link>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_4500.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/ducks/as/live/ducks_hd_3000.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_4500.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/jets/as/live/jets_hd_3000.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_HD_4500.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_HD_3000.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_HD_4500.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_HD_3000.m3u8</sublink>
 </link>
-<thumbnail>http://mtscentre.s3.amazonaws.com/img/jets_anaheim.jpg</thumbnail>
-</item>
-###########################################################################
-<item>
-<title>Calgary vs Vancouver[COLOR=FFFF6600] SD[/COLOR]</title>
-<link>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_1600.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_800.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_1600.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_800.m3u8</sublink>
-</link>
-<thumbnail>http://4.bp.blogspot.com/-alJDf6AuCWM/T5hUuwpddHI/AAAAAAAAAdw/Ombw7RYFZ6w/s320/wpid-Calgary-Flames-vs-Vancouver-Canucks.jpg</thumbnail>
-</item>
-
-<item>
-<title>Calgary vs Vancouver[COLOR=FF00FF00] HD[/COLOR]</title>
-<link>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_4500.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_3000.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_4500.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_3000.m3u8</sublink>
-</link>
-<thumbnail>http://4.bp.blogspot.com/-alJDf6AuCWM/T5hUuwpddHI/AAAAAAAAAdw/Ombw7RYFZ6w/s320/wpid-Calgary-Flames-vs-Vancouver-Canucks.jpg</thumbnail>
+<thumbnail>http://cdn.bleacherreport.net/images_root/slides/photos/002/195/799/138765315_crop_650x440.jpg</thumbnail>
 </item>
 ###########################################################################
