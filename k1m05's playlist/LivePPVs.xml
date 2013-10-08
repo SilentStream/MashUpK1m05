@@ -10,20 +10,6 @@
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=996297&style=LED_g&nbdigits=5</thumbnail>
 </info>
 
-
-
-<item>
-<title>1. WWE Battleground USE LINK 4 Other streams are down</title>
-<link>
-  <sublink>rtmp://46.105.14.26/live playpath=nigga swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=vipch3 live=true timeout=10</sublink>
-  <sublink>rtmpe://46.246.124.25:1935/live playpath=xtc2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.tv/ timeout=10</sublink>
-  <sublink>rtmp://192.184.91.94/live playpath=rawhq swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=vipch2 live=true timeout=10</sublink>
-  <sublink>tmp://f.acaster.tv/live/jackk swfUrl=http://www.acaster.tv/player/mplayer327.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.acaster.tv</sublink>
-</link>
-
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</item>
-
 <item>
 <title>NHL Network</title>
 <link>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</link>
@@ -31,46 +17,176 @@
 </item>
 #######################################################################################################
 <item>
-<title>[COLOR=red]New Jersey[/COLOR] vs [COLOR=blue]Edmonton[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<title>Colorado vs Toronto [COLOR=#FFF6600]SD[/COLOR]</title>
 <link>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_HD_1600.m3u8</sublink>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_HD_800.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_HD_1600.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_HD_800.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_1600.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_800.m3u8</sublink>
+  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_1600.m3u8</sublink>
+  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_800.m3u8</sublink>
 </link>
-<thumbnail>http://devilsarmyblog.files.wordpress.com/2012/01/gamepreview_vsedmontonoilers.jpg?w=604</thumbnail>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]New Jersey[/COLOR] vs [COLOR=blue]Edmonton[/COLOR] [COLOR=FF00FF00]HD[/COLOR]</title>
+<title>Colorado vs Toronto [COLOR=#FF00FF00]HD[/COLOR]</title>
 <link>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_HD_4500.m3u8</sublink>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/oilers/as/live/oilers_HD_3000.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_HD_4500.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_HD_3000.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_4500.m3u8</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/avalanche/as/live/avalanche_hd_3000.m3u8</sublink>
+  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_4500.m3u8</sublink>
+  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/mapleleafs/as/live/mapleleafs_hd_3000.m3u8</sublink>
 </link>
-<thumbnail>http://devilsarmyblog.files.wordpress.com/2012/01/gamepreview_vsedmontonoilers.jpg?w=604</thumbnail>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 ###########################################################################
 <item>
-<title>[COLOR=grey]Los Angeles[/COLOR] vs [COLOR=orange]New York Rangers[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<title>NY Islanders vs Phoenix [COLOR=FFF6600]SD[/COLOR]</title>
 <link>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_HD_1600.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_HD_800.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_HD_1600.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_HD_800.m3u8</sublink>
+  <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/islanders/as/live/islanders_hd_1600.m3u8</sublink>
+  <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/islanders/as/live/islanders_hd_800.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/coyotes/as/live/coyotes_hd_1600.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/coyotes/as/live/coyotes_hd_800.m3u8</sublink>
 </link>
-<thumbnail>http://cdn.bleacherreport.net/images_root/slides/photos/002/195/799/138765315_crop_650x440.jpg</thumbnail>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=grey]Los Angeles[/COLOR] vs [COLOR=orange]New York Rangers[/COLOR] [COLOR=FF00FF00]HD[/COLOR]</title>
+<title>NY Islanders vs Phoenix [COLOR=FF00FF00]HD[/COLOR]</title>
 <link>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_HD_4500.m3u8</sublink>
-  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_HD_3000.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_HD_4500.m3u8</sublink>
-  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_HD_3000.m3u8</sublink>
+  <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/islanders/as/live/islanders_hd_4500.m3u8</sublink>
+  <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/islanders/as/live/islanders_hd_3000.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/coyotes/as/live/coyotes_hd_4500.m3u8</sublink>
+  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/coyotes/as/live/coyotes_hd_3000.m3u8</sublink>
 </link>
-<thumbnail>http://cdn.bleacherreport.net/images_root/slides/photos/002/195/799/138765315_crop_650x440.jpg</thumbnail>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+###########################################################################
+<item>
+<title>Philadelphia vs Florida [COLOR=FFF6600]SD[/COLOR]</title>
+<link>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/panthers/as/live/panthers_hd_1600.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/panthers/as/live/panthers_hd_800.m3u8</sublink>
+  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_1600.m3u8</sublink>
+  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_800.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Philadelphia vs Florida [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/panthers/as/live/panthers_hd_4500.m3u8</sublink>
+  <sublink>http://nlds144.cdnak.neulion.com/nlds/nhl/panthers/as/live/panthers_hd_3000.m3u8</sublink>
+  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_4500.m3u8</sublink>
+  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/flyers/as/live/flyers_hd_3000.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+###########################################################################<item>
+<title>Carolina vs Pittsburgh [COLOR=#FFF6600]SD[/COLOR]</title>
+<link>
+  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_1600.m3u8</sublink>
+  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_800.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_1600.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_800.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Carolina vs Pittsburgh [COLOR=#FF00FF00]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_4500.m3u8</sublink>
+  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/hurricanes/as/live/hurricanes_hd_3000.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_4500.m3u8</sublink>
+  <sublink>http://nlds140.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_3000.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+###########################################################################
+<item>
+<title>Tampa Bay vs Buffalo [COLOR=FFF6600]SD[/COLOR]</title>
+<link>
+  <sublink>http://nlds148.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_1600.m3u8</sublink>
+  <sublink>http://nlds148.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_800.m3u8</sublink>
+  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_1600.m3u8</sublink>
+  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_800.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Tampa Bay vs Buffalo [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds148.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_4500.m3u8</sublink>
+  <sublink>http://nlds148.cdnak.neulion.com/nlds/nhl/sabres/as/live/sabres_hd_3000.m3u8</sublink>
+  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_4500.m3u8</sublink>
+  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/lightning/as/live/lightning_hd_3000.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+###########################################################################
+<item>
+<title>Minnesota vs Nashville [COLOR=FFF6600]SD[/COLOR]</title>
+<link>
+  <sublink>http://nlds91.cdnak.neulion.com/nlds/nhl/wild/as/live/wild_hd_1600.m3u8</sublink>
+  <sublink>http://nlds91.cdnak.neulion.com/nlds/nhl/wild/as/live/wild_hd_800.m3u8</sublink>
+  <sublink>http://nlds149.cdnak.neulion.com/nlds/nhl/predators/as/live/predators_hd_1600.m3u8</sublink>
+  <sublink>http://nlds149.cdnak.neulion.com/nlds/nhl/predators/as/live/predators_hd_800.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Minnesota vs Nashville [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds91.cdnak.neulion.com/nlds/nhl/wild/as/live/wild_hd_4500.m3u8</sublink>
+  <sublink>http://nlds91.cdnak.neulion.com/nlds/nhl/wild/as/live/wild_hd_3000.m3u8</sublink>
+  <sublink>http://nlds149.cdnak.neulion.com/nlds/nhl/predators/as/live/predators_hd_4500.m3u8</sublink>
+  <sublink>http://nlds149.cdnak.neulion.com/nlds/nhl/predators/as/live/predators_hd_3000.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+###########################################################################<item>
+<title>New Jersey vs Vancouver [COLOR=#FFF6600]SD[/COLOR]</title>
+<link>
+  <sublink>http://nlds90.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_hd_1600.m3u8</sublink>
+  <sublink>http://nlds90.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_hd_800.m3u8</sublink>
+  <sublink>http://nlds89.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_1600.m3u8</sublink>
+  <sublink>http://nlds89.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_800.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>New Jersey vs Vancouver [COLOR=#FF00FF00]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds90.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_hd_4500.m3u8</sublink>
+  <sublink>http://nlds90.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_hd_3000.m3u8</sublink>
+  <sublink>http://nlds89.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_4500.m3u8</sublink>
+  <sublink>http://nlds89.cdnak.neulion.com/nlds/nhl/canucks/as/live/canucks_hd_3000.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+###########################################################################
+<item>
+<title>NY Rangers vs San Jose [COLOR=FFF6600]SD[/COLOR]</title>
+<link>
+  <sublink>http://nlds3.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_1600.m3u8</sublink>
+  <sublink>http://nlds3.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_800.m3u8</sublink>
+  <sublink>http://nlds147.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_1600.m3u8</sublink>
+  <sublink>http://nlds147.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_800.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>NY Rangers vs San Jose [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds3.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_4500.m3u8</sublink>
+  <sublink>http://nlds3.cdnak.neulion.com/nlds/nhl/rangers/as/live/rangers_hd_3000.m3u8</sublink>
+  <sublink>http://nlds147.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_4500.m3u8</sublink>
+  <sublink>http://nlds147.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_3000.m3u8</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 ###########################################################################
