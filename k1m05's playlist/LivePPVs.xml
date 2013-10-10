@@ -14,6 +14,12 @@
 <message>2. NHL Network still works and has some games.</message>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </info>
+
+
+<info>
+<message>Im getting some poor quality streams up now for you</message>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</info>
 #######################################################################################################
 <item>
 <title>NHL Network</title>
@@ -21,3 +27,8 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 #######################################################################################################
+<item>
+<title>Boston vs Colorado</title>
+<link>rtmp://straem.zoomtv.me:1935/redirect playpath=gUJVfP1zXE swfUrl=1 conn=S:gUJVfP1zXE conn=S:1381448044 conn=S:2144b30a84461b3da35027babe7a9b50 conn=S:V&gt;JWhui^@2ESdu0?}&gt;AN live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=http://www.zoomtv.me/embed1.php?v=st21st4&vw=660&vh=450</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
