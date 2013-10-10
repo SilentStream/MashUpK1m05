@@ -15,9 +15,8 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </info>
 
-
 <info>
-<message>Im getting some poor quality streams up now for you</message>
+<message>3. Im getting some LQ streams up now for you, all I can find.</message>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </info>
 #######################################################################################################
@@ -48,5 +47,32 @@
 <item>
 <title>Phoenix vs Detriot</title>
 <link>rtmp://straem.zoomtv.me:1935/redirect playpath=XJTqcRIKGh swfUrl=1 conn=S:XJTqcRIKGh conn=S:1381448391 conn=S:7428ca6870a3de4113f100221ab21025 conn=S:V&gt;JWhui^@2ESdu0?}&gt;AN live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=http://www.zoomtv.me/embed1.php?v=st21st3&vw=660&vh=450</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Tampa Bay vs Florida</title>
+<link>rtmp://95.211.196.6/shqstream/florida35?keys=PQrv2fVcWpzlG_IWWteUhw&keyt=1381462968 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stopstream.tv</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Toronto vs Nashville</title>
+<link>
+  <sublink>rtmp://stream.zoomtv.me:1935/redirect playpath=6HJ10FVYd2 swfUrl=1 conn=S:6HJ10FVYd2 conn=S:1381448748 conn=S:1bdd7779a76585ebeb19ca0232afc97f conn=S:V&gt;JWhui^@2ESdu0?}&gt;AN live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=http://www.zoomtv.me/embed1.php?v=st21st1r&vw=660&vh=450</sublink>
+  <sublink>rtmp://lb.newsko.co.uk/redirect/ma9 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.newsko.co.uk</sublink>
+</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Edmonton vs Montreal</title>
+<link>rtmp://straem.zoomtv.me:1935/redirect playpath=eKzX3GQvOJ swfUrl=1 conn=S:eKzX3GQvOJ conn=S:1381448946 conn=S:d2e3be03cbd128dfc379e7bd40906f61 conn=S:V&gt;JWhui^@2ESdu0?}&gt;AN live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=http://www.zoomtv.me/embed1.php?v=1bigg&vw=660&vh=450</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Anahiem vs New York Rangers</title>
+<link>rtmp://stream.zoomtv.me:1935/redirect playpath=gUJVfP1zXE swfUrl=1 conn=S:gUJVfP1zXE conn=S:1381449049 conn=S:823e3cdc0cefe00436545e04499dd314 conn=S:V&gt;JWhui^@2ESdu0?}&gt;AN live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4 swfVfy=1 pageUrl=http://www.zoomtv.me/embed1.php?v=st21st4&vw=660&vh=450</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
