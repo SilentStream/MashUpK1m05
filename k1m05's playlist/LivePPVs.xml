@@ -6,24 +6,14 @@
 ##############################################################################################################################
 
 <info>
-<message>1.  UFC is live now.  Not Sure bout Hockey yet.  Hoing these links hold strong tonight.  1st game is at 8est</message>
+<message>1.  Very sorry guys. I am working hard to try and fix the NHL streams.</message>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </info>
-#######################################################################################################
-<item>
-<title>2. UFC Fight Night: Maia vs. Shields SD</title>
-<link>http://nlds136.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/Improved_UFN_29_poster.ppg.jpg</thumbnail>
-</item>
 
-<item>
-<title>3. UFC Fight Night: Maia vs. Shields HD</title>
-<link>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/Improved_UFN_29_poster.ppg.jpg</thumbnail>
-</item>
+<info>
+<message>2. NHL Network still works and has some games.</message>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</info>
 #######################################################################################################
 <item>
 <title>NHL Network</title>
@@ -31,68 +21,3 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 #######################################################################################################
-<item>
-<title>Chicago vs St Louis [COLOR=FFF6600]SD[/COLOR]</title>
-<link>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_1600.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_800.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/blues/as/live/blues_hd_1600.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/blues/as/live/blues_hd_800.m3u8</sublink>
-</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</item>
-
-<item>
-<title>Chicago vs St Louis [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_4500.m3u8</sublink>
-  <sublink>http://nlds135.cdnak.neulion.com/nlds/nhl/blackhawks/as/live/blackhawks_hd_3000.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/blues/as/live/blues_hd_4500.m3u8</sublink>
-  <sublink>http://nlds143.cdnak.neulion.com/nlds/nhl/blues/as/live/blues_hd_3000.m3u8</sublink>
-</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</item>
-###########################################################################
-<item>
-<title>Calgary vs Montreal [COLOR=FFF6600]SD[/COLOR]</title>
-<link>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_1600.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_800.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_1600.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_800.m3u8</sublink>
-</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</item>
-
-<item>
-<title>Calgary vs Montreal [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_4500.m3u8</sublink>
-  <sublink>http://nlds141.cdnak.neulion.com/nlds/nhl/flames/as/live/flames_hd_3000.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_4500.m3u8</sublink>
-  <sublink>http://nlds138.cdnak.neulion.com/nlds/nhl/canadiens/as/live/canadiens_hd_3000.m3u8</sublink>
-</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</item>
-###########################################################################
-<item>
-<title>Los Angeles vs Ottawa [COLOR=FFF6600]SD[/COLOR]</title>
-<link>
-  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_hd_1600.m3u8</sublink>
-  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_hd_800.m3u8</sublink>
-  <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/senators/as/live/senators_hd_1600.m3u8</sublink>
-  <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/senators/as/live/senators_hd_800.m3u8</sublink>
-</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</item>
-
-<item>
-<title>Los Angeles vs Ottawa [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>
-  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_hd_4500.m3u8</sublink>
-  <sublink>http://nlds49.cdnak.neulion.com/nlds/nhl/kings/as/live/kings_hd_3000.m3u8</sublink>
-  <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/senators/as/live/senators_hd_4500.m3u8</sublink>
-  <sublink>http://nlds142.cdnak.neulion.com/nlds/nhl/senators/as/live/senators_hd_3000.m3u8</sublink>
-</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</item>
