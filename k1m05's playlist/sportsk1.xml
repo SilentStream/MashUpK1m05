@@ -12,6 +12,7 @@
 <link>
   <sublink>rtmp://23.227.165.10/iguide playpath=fuuyqg68pc7bhhk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=420&channel=6568&autoplay=true token=#ed%h0#w18623jsda6523lDGDve live=true timeout=10</sublink>
   <sublink>rtmp://198.144.153.143:443/kuyo playpath=sucka?id=bc81ed32fb08a8f5df8656451cde6519&pid=39392e3139322e3131332e3230 conn=S:OK swfUrl=http://yukons.net/yplay.swf pageUrl=http://yukons.net/embed/37333735363336423631/a688e6aace33dfe4dc3d79aa6446e859/720/420 live=true timeout=10</sublink>
+  <sublink>rtmp://198.144.153.142:443/kuyo/suka swfUrl=http://yukons.net/yukplay.swf pageUrl=http://yukons.net/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
