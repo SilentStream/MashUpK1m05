@@ -10,9 +10,8 @@
 <item>
 <title>A random HD channel (Link 2=Redzone)</title>
 <link>
-  <sublink>rtmp://50.7.28.130/flash/17563 swfUrl=http://udemy.com/static/flash/player5.9.swf pageUrl=http://sawlive.tv/embed/watch/MWJjZDA4NzVjYzhmOjk4NmQ2MzYxNjM2ZjYzNmI2MjZjNmY2MzZiNjU3MjczOjc4Nm/M3NjQ0YzY0MTliODg5NjhkY2Y0YmQ3YjM3NzY1NjM5YWFmOTM6NGRmM2Q2M2MwYTEwZmUyNDhmM2EyODZkZDEwYzAzNTY_ live=true timeout=10</sublink>
+  <sublink>rtmp://23.227.165.10/iguide playpath=fuuyqg68pc7bhhk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=420&channel=6568&autoplay=true token=#ed%h0#w18623jsda6523lDGDve live=true timeout=10</sublink>
   <sublink>rtmp://198.144.153.143:443/kuyo playpath=sucka?id=bc81ed32fb08a8f5df8656451cde6519&pid=39392e3139322e3131332e3230 conn=S:OK swfUrl=http://yukons.net/yplay.swf pageUrl=http://yukons.net/embed/37333735363336423631/a688e6aace33dfe4dc3d79aa6446e859/720/420 live=true timeout=10</sublink>
-  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=cflguy1960&iconimage=http%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fcflguy1960-profile_image-sQUOuTH2fx4K2So-600x600.jpg</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
