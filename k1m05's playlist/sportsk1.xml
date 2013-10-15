@@ -245,24 +245,10 @@
 </item>
 
 <item>
-<title>Wrestling Weekly Shows Live a</title>
-<link>rtmp://184.22.182.178/vl/_definst_/testup playpath=testup swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/ live=true timeout=10</link>
+<title>Wrestling Weekly Shows Live</title>
+<link>rtmp://67.159.54.98:443/live/live_ppvdirectdotcom swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</link>
 <thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/wweimpact.jpg</thumbnail>
 </item>
-
-<item>
-<title>Wrestling Weekly Shows Live b</title>
-<link>rtmp://85.12.5.34/vl/_definst_ playpath=testup swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=testup&vw=645&vh=395</link>
-<thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/wweimpact.jpg</thumbnail>
-</item>
-
-<item>
-<title>Wrestling Weekly Shows Live c</title>
-<link>rtmp://85.12.5.7/vl/_definst_/testup swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=testup&vw=645&vh=395</link>
-<thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/wweimpact.jpg</thumbnail>
-</item>
-
-
 
 <item>
 <title>z[COLOR=green](College Football)[/COLOR] B1G</title>
