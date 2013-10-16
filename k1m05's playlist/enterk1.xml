@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
+<message>[COLOR=FFFF4500]10/16/13 Added FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ##############################################################################################################################
@@ -245,6 +245,13 @@
 <link>rtmp://live.iguide.to/edge/xlawa3krny5pxjy swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img196/9668/8x6l.png</thumbnail>
 </item>
+
+<item>
+<title>FX[COLOR=FF00FF00]  West Coast  [/COLOR]</title>
+<link>rtmpe://live.univisionbrazil.com/stream/z00027.live swfUrl=http://desistreams.tv/t/Player.swf pageUrl=http://www.desistreams.tv live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img196/9668/8x6l.png</thumbnail>
+</item>
+
 
 <item>
 <title>HBO[COLOR=FF00FF00]  *  [/COLOR]</title>
