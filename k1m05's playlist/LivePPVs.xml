@@ -10,11 +10,6 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </info>
 
-<info>
-<message>2. I am gone out for the night the Stream below should last for boxnig tonight</message>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
-</info>
-
 #######################################################################################################
 <item>
 <title>NHL Network</title>
@@ -22,8 +17,3 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 #######################################################################################################
-<item>
-<title>Boxing</title>
-<link>rtmp://141.8.244.56/base/sky1.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#.</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/af/BradleyVsMarquez.png</thumbnail>
-</item>
