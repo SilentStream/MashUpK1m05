@@ -203,7 +203,10 @@
 
 <item>
 <title>Sky Sports 1</title>
-<link>rtmp://141.8.244.56/base/sky1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</link>
+<link>
+  <sublink>rtmp://141.8.244.56/base/sky1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</sublink>
+  <sublink>rtmp://141.8.244.56/base/skyss1.stream live=1 token=%X886(nPK@#. pageUrl=http://sportsembed.com/ live=true timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 </item>
 
