@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF0000]09/28/13 Random HDs are up (both espn right now) | 09/25/13 Fixed all ESPNs, ESPN2s, Rndm HD, 09/17/13 Fix some espn, add UFC Next | 09/13/13 Fixed ESPN and ESPN2 | 09/08/13 Add Fox Sports,NFL Redzone TSN(Prolly wont last)[/COLOR]</message>
+<message>[COLOR=FFFF0000]10/19/13 SS 1234 are fixed | 09/28/13 Random HDs are up (both espn right now) | 09/25/13 Fixed all ESPNs, ESPN2s, Rndm HD, 09/17/13 Fix some espn, add UFC Next | 09/13/13 Fixed ESPN and ESPN2 | 09/08/13 Add Fox Sports,NFL Redzone TSN(Prolly wont last)[/COLOR]</message>
 <thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -203,25 +203,25 @@
 
 <item>
 <title>Sky Sports 1</title>
-<link>rtmp://141.8.244.56/base/sky1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#.</link>
+<link>rtmp://141.8.244.56/base/sky1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 2</title>
-<link>rtmp://141.8.244.56/base/sky2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#.</link>
+<link>rtmp://141.8.244.56/base/sky2.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 3</title>
-<link>rtmp://141.8.244.56/base/sky3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#.</link>
+<link>rtmp://141.8.244.56/base/sky3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 4</title>
-<link>rtmp://141.8.244.56/base/sky4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#.</link>
+<link>rtmp://141.8.244.56/base/sky4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
 </item>
 
