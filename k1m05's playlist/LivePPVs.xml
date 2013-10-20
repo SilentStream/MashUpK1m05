@@ -24,6 +24,14 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d3/Official_UFC_166_poster.jpg.gif</thumbnail>
 </item>
 
+<item>
+<title>Boxing SD</title>
+<link>
+  <sublink>rtmpe://play.finecast.tv:1935/live playPath=hqsport002 swfUrl=http://www.finecast.tv/player/player.swf swfVfy=1 live=true pageUrl=http://www.finecast.tv/embed.php?u=hqsport002</sublink>
+  <sublink>rtmp://72.10.166.98:80/liverepeater playpath=116731 swfUrl=http://cdn.goodcast.org/player.swf live=1 timeout=15 swfVfy=1 pageUrl=http://goodcast.org/stream.php?id=116731&width=640&height=460</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>UFC 166 SD</title>
