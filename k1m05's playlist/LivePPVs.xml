@@ -32,3 +32,18 @@
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d3/Official_UFC_166_poster.jpg.gif</thumbnail>
 </item>
+
+<item>
+<title>UFC 166 SD</title>
+<link>http://nlds137.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d3/Official_UFC_166_poster.jpg.gif</thumbnail>
+</item>
+
+<item>
+<title>UFC 166 HD</title>
+<link>
+  <sublink>http://nlds137.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
+  <sublink>http://nlds137.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d3/Official_UFC_166_poster.jpg.gif</thumbnail>
+</item>
