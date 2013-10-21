@@ -19,9 +19,9 @@
 #######################################################################################################
 
 <item>
-<title>Boxing SD</title>
-<link>rtmpe://141.8.244.56/base playpath=sk2.stream swfUrl=http://141.8.244.56/player/player.swf token=%X886(nPK@#. live=1 timeout=15 swfVfy=1 pageUrl=http://sportsembed.com/embed.php?v=skys2&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d3/Official_UFC_166_poster.jpg.gif</thumbnail>
+<title>Bound for Glory SD</title>
+<link>rtmp://46.105.14.26/live playpath=rawhq swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=1 live=true timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/0f/Bound_for_Glory_%282013%29.jpg</thumbnail>
 </item>
 
 <item>
