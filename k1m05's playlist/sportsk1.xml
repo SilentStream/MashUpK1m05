@@ -250,7 +250,7 @@
 <item>
 <title>Wrestling Weekly Shows Live</title>
 <link>
-<sublink>rtmp://50.7.52.202/vl/_definst_ playpath=testup swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com live=true timeout=10</sublink>
+  <sublink>rtmp://50.7.52.202/vl/_definst_ playpath=testup swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com live=true timeout=10</sublink>
   <sublink>rtmp://67.159.54.98:443/live/live_ppvdirectdotcom swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</sublink>
   <sublink>rtmp://46.105.14.26/live/me swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</sublink>
 </link>
