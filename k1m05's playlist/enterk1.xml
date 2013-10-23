@@ -1,53 +1,55 @@
+I8772LDKksadhGHGagf#
+
 #######################################################################################################################################
 <poster>k1m05</poster>
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]10/16/13 Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
+<message>[COLOR=FFFF4500]10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ##############################################################################################################################
 
 <item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/dcmr77p0njf6ukn swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/dcmr77p0njf6ukn swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
 <item>
 <title>ABC a[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/803qkcfy7gi98rn swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/803qkcfy7gi98rn swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 
 <item>
 <title>ABC b[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 
 <item>
 <title>AMC a[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://ny.iguide.to/edge/z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://ny.iguide.to/edge/z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
 
 <item>
 <title>AMC b</title>
-<link>rtmpe://live.univisionbrazil.com/modelo/amc.live swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=amc</link>
+<link>rtmpe://live.univisionbrazil.com/modelo/amc.live swfUrl=http://livecupbrazil.com/player/player.swf pageUrl=http://livecupbrazil.com/channel.php?n=amc live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
 
 
 <item>
 <title>Animal Planet [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf live=true</link>
+<link>rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img199/6130/g1gl.png</thumbnail>
 </item>
 
 <item>
 <title>Animal Planet a[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true pageUrl=http://www.ilive.to/</link>
 <thumbnail>http://imageshack.us/a/img19/8571/aq1e.png</thumbnail>
 </item>
 
@@ -64,26 +66,13 @@
 </item>
 
 <item>
-<title>Big Brother a [COLOR=FFFF0000][/COLOR]</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live/_definst_/live_myownmind swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/embed/video/hqzlive?viewers=true&autoplay=true live=true timeout=10</link>
-<thumbnail>http://imageshack.us/a/img69/6743/jgml.png</thumbnail>
-</item>
-
-<item>
-<title>Big Brother b [COLOR=FFFF0000][/COLOR]</title>
-<link>rtmpe://46.19.141.70:443/liveedge1/ playpath=bbnus613 swfUrl=http://hidecast.com/jwplayer/jwplayer.flash.swf pageUrl=http://hidecast.com/gen.php?ch=bbnus694&width=537&height=345 live=true timeout=10</link>
-<thumbnail>http://imageshack.us/a/img69/6743/jgml.png</thumbnail>
-</item>
-
-<item>
-<title>Big Brother c [COLOR=FFFF0000][/COLOR]</title>
-<link>rtmpe://46.19.141.70:443/liveedge1/ playpath=princessemmy246 swfUrl=http://hidecast.com/jwplayer/jwplayer.flash.swf pageUrl=http://hidecast.com/gen.php?ch=bbnus694&width=537&height=345 live=true timeout=10</link>
-<thumbnail>http://imageshack.us/a/img69/6743/jgml.png</thumbnail>
-</item>
-
-<item>
-<title>Big Brother d [COLOR=green]Updated[/COLOR]</title>
-<link>rtmpe://46.19.137.238:443/liveedge1/bbnus972 swfUrl=http://aa.static.facdn.com/v/swf/webcake.swf pageUrl=http://hidecast.com/geh.php?ch=bbnus999&width=537height=345 live=true timeout=15</link>
+<title>Big Brother</title>
+<link>
+	<sublink>rtmp://edge1.video.vaughnsoft.net:443/live/_definst_/live_myownmind swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/embed/video/hqzlive?viewers=true&autoplay=true live=true timeout=10</sublink>
+	<sublink>rtmpe://46.19.141.70:443/liveedge1/ playpath=bbnus613 swfUrl=http://hidecast.com/jwplayer/jwplayer.flash.swf pageUrl=http://hidecast.com/gen.php?ch=bbnus694&width=537&height=345 live=true timeout=10</sublink>
+	<sublink>rtmpe://46.19.141.70:443/liveedge1/ playpath=princessemmy246 swfUrl=http://hidecast.com/jwplayer/jwplayer.flash.swf pageUrl=http://hidecast.com/gen.php?ch=bbnus694&width=537&height=345 live=true timeout=10</sublink>
+	<sublink>rtmpe://46.19.137.238:443/liveedge1/bbnus972 swfUrl=http://aa.static.facdn.com/v/swf/webcake.swf pageUrl=http://hidecast.com/geh.php?ch=bbnus999&width=537height=345 live=true timeout=15</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img69/6743/jgml.png</thumbnail>
 </item>
 
@@ -102,21 +91,21 @@
 <item>
 <title>Cartoon Network[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
- <sublink>rtmp://live.iguide.to/edge/srts7n4g6oypowl swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</sublink>
- <sublink>rtmp://live.iguide.to/edge/lf4cc63667vxzlx swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/srts7n4g6oypowl swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/lf4cc63667vxzlx swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
 </item>
 
 <item>
 <title>CBS [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/z3fwvcohtijp3fe swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/z3fwvcohtijp3fe swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
 </item>
 
 <item>
 <title>CBS.[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/27ykm8j5cng86su swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/27ykm8j5cng86su swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
 </item>
 
@@ -140,7 +129,7 @@
 
 <item>
 <title>Comedy Central b[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/tuhq23pjmv2t6az swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/tuhq23pjmv2t6az swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
 </item>
 
@@ -152,7 +141,7 @@
 
 <item>
 <title>The CW[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/kcizip7f2d6zh6l swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/kcizip7f2d6zh6l swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img94/2491/xzf1.png</thumbnail>
 </item>
 
@@ -164,13 +153,13 @@
 
 <item>
 <title>Discovery Channel a[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/b5sk6101ty89jlz swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/b5sk6101ty89jlz swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
 </item>
 
 <item>
 <title>Discovery Channel b[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/pzzhl9914uivaxf swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/pzzhl9914uivaxf swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
 </item>
 
@@ -182,7 +171,7 @@
 
 <item>
 <title>Disney[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/2tag4dzgwof5ma2 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/2tag4dzgwof5ma2 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
 </item>
 
@@ -206,19 +195,19 @@
 
 <item>
 <title>FOX[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/eko6c6e07tqem7g swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/eko6c6e07tqem7g swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
 </item>
 
 <item>
 <title>FOX [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  .[/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/2kjt1teyuad1yo3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/2kjt1teyuad1yo3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img708/4941/jmet.png</thumbnail>
 </item>
 
 <item>
 <title>FOX Crime[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/58i18lx0ngwjkbk playpath=58i18lx0ngwjkbk swfUrl=http://player.ilive.to/player_ilive.swf live=true token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/view/48067/watch-live-FOX_Crime-streaming-channel-for-free</link>
+<link>rtmp://live.iguide.to/edge/58i18lx0ngwjkbk playpath=58i18lx0ngwjkbk swfUrl=http://player.ilive.to/player_ilive.swf live=true token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/view/48067/watch-live-FOX_Crime-streaming-channel-for-free live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img203/6706/jkhv.png</thumbnail>
 </item>
 
@@ -230,7 +219,7 @@
 
 <item>
 <title>Food Network[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/ibnnu7537h3ax6e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/ibnnu7537h3ax6e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img441/8461/dju7.png</thumbnail>
 </item>
 
@@ -242,7 +231,7 @@
 
 <item>
 <title>FX[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/j3aqnm2alotcbf7 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/j3aqnm2alotcbf7 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img196/9668/8x6l.png</thumbnail>
 </item>
 
@@ -255,7 +244,7 @@
 
 <item>
 <title>HBO[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
 </item>
 
@@ -267,31 +256,31 @@
 
 <item>
 <title>HBO Comedy[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/a1wn1j3ra1w0cv0 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/a1wn1j3ra1w0cv0 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img15/7996/0p08.png</thumbnail>
 </item>
 
 <item>
 <title>HGTV[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/gj65q2rg18tpmut swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/gj65q2rg18tpmut swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img545/1635/0swi.png</thumbnail>
 </item>
 
 <item>
 <title>History [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/kpgg43eoznljrjm swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/kpgg43eoznljrjm swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
 </item>
 
 <item>
 <title>History[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/fwk9op34parwz0h swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/fwk9op34parwz0h swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
 </item>
 
 <item>
 <title>Investigation Discovery</title>
-<link>rtmp://live.iguide.to/edge/fwk9op34parwz0h swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/fwk9op34parwz0h swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img825/993/zx34.png</thumbnail>
 </item>
 
@@ -357,25 +346,19 @@
 
 <item>
 <title>NBC [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/hle2lhsuxt644bp swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/hle2lhsuxt644bp swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
 <thumbnail>http://imageshack.us/scaled/landing/12/6w8y.png</thumbnail>
 </item>
 
 <item>
 <title>Nick .[COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://ny.iguide.to/edge/hxoq929n5q4a9u3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
-<thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
-</item>
-
-<item>
-<title>Nick Rewind</title>
-<link>rtmp://fms2.tikilive.com:1935/view/24535_051/stream24535 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.1.2 pageUrl=http://www.tvpc.com/Channel.php?ChannelID=2945 live=true timeout=10</link>
+<link>rtmp://ny.iguide.to/edge/hxoq929n5q4a9u3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
 <thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
 </item>
 
 <item>
 <title>Showtime[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/a12ghcx142r3l0l swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/a12ghcx142r3l0l swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
 <thumbnail>http://img96.imageshack.us/img96/1319/2sxk.png</thumbnail>
 </item>
 
@@ -418,49 +401,49 @@
 <item>
 <title>Spike[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
-<sublink>rtmp://live.iguide.to/edge/sax2mq2alpirnww swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true timeout=10</sublink>
-<sublink>rtmp://live.iguide.to/edge/9c18tg26mtf82md swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true timeout=10</sublink> 
+<sublink>rtmp://live.iguide.to/edge/sax2mq2alpirnww swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
+<sublink>rtmp://live.iguide.to/edge/9c18tg26mtf82md swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink> 
 </link>
 <thumbnail>http://imageshack.us/a/img200/5839/dqlb.png</thumbnail>
 </item>
 
 <item>
 <title>SYFY[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/g5m51g9zqp5x0nm swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=46454&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/g5m51g9zqp5x0nm swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=46454&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img11/9546/yjwd.png</thumbnail>
 </item>
 
 <item>
 <title>SYFY [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/m5lssurqlffzxtp swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=46454&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/m5lssurqlffzxtp swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=46454&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img708/4181/rx0y.png</thumbnail>
 </item>
 mwnwdakj86uqbrf
 <item>
 <title>TBS[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
- <sublink>rtmp://live.iguide.to/edge/ko4jkhlxqrccjbv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
- <sublink>rtmp://live.iguide.to/edge/f8m9p5e2x5wo85e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
- <sublink>rtmp://live.iguide.to/edge/mwnwdakj86uqbrf swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/ko4jkhlxqrccjbv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/f8m9p5e2x5wo85e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/mwnwdakj86uqbrf swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img401/6038/8cr0.png</thumbnail>
 </item>
 
 <item>
 <title>TLC[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img94/7763/60my.png</thumbnail>
 </item>
 
 <item>
 <title>TNT[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=46736&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=46736&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img208/562/62.png</thumbnail>
 </item>
 
 <item>
 <title>TruTV[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/sfkua8d8yo8jmut swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=45279&autoplay=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/sfkua8d8yo8jmut swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=45279&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img855/7817/oprn.png</thumbnail>
 </item>
 
@@ -480,7 +463,7 @@ mwnwdakj86uqbrf
 <title>USA [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
  <sublink>rtmp://live.iguide.to/edge/ahwcx2k56oitbkk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
- <sublink>rtmp://live.iguide.to/edge/h5eovaj1jeegluq swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/h5eovaj1jeegluq swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img46/3908/w3ls.png</thumbnail>
 </item>
