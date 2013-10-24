@@ -3,12 +3,12 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF0000]10/19/13 SS 1234 are fixed | 09/28/13 Random HDs are up (both espn right now) | 09/25/13 Fixed all ESPNs, ESPN2s, Rndm HD, 09/17/13 Fix some espn, add UFC Next | 09/13/13 Fixed ESPN and ESPN2 | 09/08/13 Add Fox Sports,NFL Redzone TSN(Prolly wont last)[/COLOR]</message>
+<message>[COLOR=red]10/23/13[COLOR] [COLOR=FF00FF00]Check "A Random Sports Channel Pack" for NBA NHL and other Sports[/COLOR]</message>
 <thumbnail>http://imageshack.us/scaled/large/42/tgwm.png</thumbnail>
 </info>
 ##############################################################################################################################
 <item>
-<title>A random HD channel (Link 1=Redzone 720p)</title>
+<title>A random HD channel</title>
 <link>
   <sublink>rtmp://23.227.165.10/iguide playpath=fuuyqg68pc7bhhk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=420&channel=6568&autoplay=true token=#ed%h0#w18623jsda6523lDGDve live=true timeout=10</sublink>
   <sublink>rtmp://198.144.153.143:443/kuyo playpath=sucka?id=bc81ed32fb08a8f5df8656451cde6519&pid=39392e3139322e3131332e3230 conn=S:OK swfUrl=http://yukons.net/yplay.swf pageUrl=http://yukons.net/embed/37333735363336423631/a688e6aace33dfe4dc3d79aa6446e859/720/420 live=true timeout=10</sublink>
@@ -125,7 +125,7 @@
 
 <item>
 <title>Golf Channel</title>
-<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 
@@ -143,7 +143,7 @@
 
 <item>
 <title>NBC Sports</title>
-<link>rtmpe://46.246.124.10:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#fa3%#w@#33%#w@3s#Ch%143 live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/l96cxalbrux71tp swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nbc_sports_network.png</thumbnail>
 </item>
 
