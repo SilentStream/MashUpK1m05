@@ -1,4 +1,10 @@
-<item>
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart></fanart>
+
+#######################################################################################################################################
+
+<subchannel>
 <title>nWo: The Revolution DVD (2012) (Coming Soon)</title>
 <link>
   <sublink></sublink>
@@ -6,11 +12,11 @@
   <sublink></sublink>
 </link>
 <thumbnail>http://0.tqn.com/d/prowrestling/1/0/G/i/-/-/wwe-nwo-the-revolution-dvd-cover.JPG</thumbnail>
-</item>
+</subchannel>
 #############################
 #
 #############################
-<item>
+<subchannel>
 <title>WWE: Triple H - Thy Kingdom Come (2013) (Coming Soon)</title>
 <link>
   <sublink></sublink>
@@ -18,11 +24,11 @@
   <sublink></sublink>
 </link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20130924212250/prowrestling/images/thumb/1/16/Triple_H_-_Thy_Kingdom_Come.jpg/362px-Triple_H_-_Thy_Kingdom_Come.jpg</thumbnail>
-</item>
+</subchannel>
 #############################
 #
 #############################
-<item>
+<subchannel>
 <title>WWE: Best of WWE at Madison Square Garden (2013) (Coming Soon)</title>
 <link>
   <sublink></sublink>
@@ -30,11 +36,11 @@
   <sublink></sublink>
 </link>
 <thumbnail>http://i1.wp.com/www.pissedoffgeek.com/wordpress/wp-content/uploads/2013/09/best-of-madison-square-garden.jpg?resize=500%2C703</thumbnail>
-</item>
+</subchannel>
 #############################
 #
 #############################
-<item>
+<subchannel>
 <title>WWE: 50 Greatest Finishing Moves in WWE History (2012) (coming Soon)</title>
 <link>
   <sublink></sublink>
@@ -42,33 +48,33 @@
   <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/fpe11.jpg</thumbnail>
-</item>
+</subchannel>
 #############################
 #
 #############################
-<item>
+<subchannel>
 <title>TNA Wrestling: Enigma - The Best of Jeff Hardy, Vol. 2 (2011)</title>
 <link>
   <sublink>https://archive.org/download/JH.Enigma.V2.k1m05/JH.Enigma.V2.D1.k1m05.mp4</sublink>
   <sublink>https://archive.org/download/JH.Enigma.V2.k1m05/JH.Enigma.V2.D2.k1m05.mp4</sublink>
 </link>
 <thumbnail>http://ecx.images-amazon.com/images/I/91%2BEKU86xmL._SL1500_.jpg</thumbnail>
-</item>
+</subchannel>
 #############################
 #
 #############################
-<item>
+<subchannel>
 <title>WWE: Goldberg - The Ultimate Collection (2013)</title>
 <link>
   <sublink>http://hugefiles.net/i70jste1yuvg</sublink>
   <sublink>http://hugefiles.net/zwfaxnt70aai</sublink>
 </link>
 <thumbnail>http://watchwrestling.net/wp-content/uploads/2013/10/GOLDBERG_UC_DVD_2D.jpg</thumbnail>
-</item>
+</subchannel>
 #############################
 #
 #############################
-<item>
+<subchannel>
 <title>WWE:Stone Cold Steve Austin: The Bottom Line (2011)</title>
 <link>
   <sublink>https://archive.org/download/SCTBL.k1m05/SCTBLd1.k1m05.mp4</sublink>
@@ -77,11 +83,11 @@
   <sublink>https://archive.org/download/SCTBL.k1m05/SCTBLxtra.k1m05.mp4</sublink>
 </link>
 <thumbnail>http://img829.imageshack.us/img829/3040/stonecolddvd.jpg</thumbnail>
-</item>
+</subchannel>
 #############################
 #
 #############################
-<item>
+<subchannel>
 <title>WWE: The Attitude Era (2012)</title>
 <link>
   <sublink>https://archive.org/download/SCTBL.k1m05/Attitude.D1.k1m05.mp4</sublink>
@@ -90,16 +96,16 @@
   <sublink>https://archive.org/download/SCTBL.k1m05/Attitude.D4.k1m05.mp4</sublink>
 </link>
 <thumbnail>http://nerdsontherocks.com/wp-content/uploads/2012/11/wwe-the-attitude-era-dvd-cover.jpg</thumbnail>
-</item>
+</subchannel>
 #############################
 #
 #############################
-<item>
+<subchannel>
 <title>WWE: OMG! The Top 50 Incidents in WWE History (2011)</title>
 <link>
-<sublink>http://www.putlocker.com/file/7E3396B50D8E8523</sublink>
-<sublink>http://www.putlocker.com/file/753C6307D7949114</sublink>
-<sublink>http://www.putlocker.com/file/6E6B374BF58688AB</sublink>
+  <sublink>http://www.putlocker.com/file/7E3396B50D8E8523</sublink>
+  <sublink>http://www.putlocker.com/file/753C6307D7949114</sublink>
+  <sublink>http://www.putlocker.com/file/6E6B374BF58688AB</sublink>
 </link>
 <thumbnail>http://www.wrestling101.com/home/wp-content/uploads/2011/11/wwe-omg-top-50-wwe-incidents.jpg</thumbnail>
-</item>
+</subchannel>
