@@ -185,14 +185,11 @@
 
 <item>
 <title>FOX[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/eko6c6e07tqem7g swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>
+ <sublink>rtmp://live.iguide.to/edge/3wots12q6ehnr7t swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/2kjt1teyuad1yo3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
-</item>
-
-<item>
-<title>FOX [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  .[/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/2kjt1teyuad1yo3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
-<thumbnail>http://imageshack.us/a/img708/4941/jmet.png</thumbnail>
 </item>
 
 <item>
