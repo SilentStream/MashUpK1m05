@@ -5,7 +5,7 @@
 #######################################################################################################################################
 
 <subchannel>
-<title>nWo: The Revolution DVD (2012) (Coming Soon)</title>
+<name>nWo: The Revolution DVD (2012) (Coming Soon)</name>
 <link>
   <sublink></sublink>
   <sublink></sublink>
@@ -17,7 +17,7 @@
 #
 #############################
 <subchannel>
-<title>WWE: Triple H - Thy Kingdom Come (2013) (Coming Soon)</title>
+<name>WWE: Triple H - Thy Kingdom Come (2013) (Coming Soon)</name>
 <link>
   <sublink></sublink>
   <sublink></sublink>
@@ -29,7 +29,7 @@
 #
 #############################
 <subchannel>
-<title>WWE: Best of WWE at Madison Square Garden (2013) (Coming Soon)</title>
+<name>WWE: Best of WWE at Madison Square Garden (2013) (Coming Soon)</name>
 <link>
   <sublink></sublink>
   <sublink></sublink>
@@ -41,7 +41,7 @@
 #
 #############################
 <subchannel>
-<title>WWE: 50 Greatest Finishing Moves in WWE History (2012) (coming Soon)</title>
+<name>WWE: 50 Greatest Finishing Moves in WWE History (2012) (coming Soon)</name>
 <link>
   <sublink></sublink>
   <sublink></sublink>
@@ -53,7 +53,7 @@
 #
 #############################
 <subchannel>
-<title>TNA Wrestling: Enigma - The Best of Jeff Hardy, Vol. 2 (2011)</title>
+<name>TNA Wrestling: Enigma - The Best of Jeff Hardy, Vol. 2 (2011)</name>
 <link>
   <sublink>https://archive.org/download/JH.Enigma.V2.k1m05/JH.Enigma.V2.D1.k1m05.mp4</sublink>
   <sublink>https://archive.org/download/JH.Enigma.V2.k1m05/JH.Enigma.V2.D2.k1m05.mp4</sublink>
@@ -64,7 +64,7 @@
 #
 #############################
 <subchannel>
-<title>WWE: Goldberg - The Ultimate Collection (2013)</title>
+<name>WWE: Goldberg - The Ultimate Collection (2013)</name>
 <link>
   <sublink>http://hugefiles.net/i70jste1yuvg</sublink>
   <sublink>http://hugefiles.net/zwfaxnt70aai</sublink>
@@ -75,7 +75,7 @@
 #
 #############################
 <subchannel>
-<title>WWE:Stone Cold Steve Austin: The Bottom Line (2011)</title>
+<name>WWE:Stone Cold Steve Austin: The Bottom Line (2011)</name>
 <link>
   <sublink>https://archive.org/download/SCTBL.k1m05/SCTBLd1.k1m05.mp4</sublink>
   <sublink>https://archive.org/download/SCTBL.k1m05/SCTBLd2.k1m05.mp4</sublink>
@@ -88,7 +88,7 @@
 #
 #############################
 <subchannel>
-<title>WWE: The Attitude Era (2012)</title>
+<name>WWE: The Attitude Era (2012)</name>
 <link>
   <sublink>https://archive.org/download/SCTBL.k1m05/Attitude.D1.k1m05.mp4</sublink>
   <sublink>https://archive.org/download/SCTBL.k1m05/Attitude.D2.k1m05.mp4</sublink>
@@ -101,11 +101,11 @@
 #
 #############################
 <subchannel>
-<title>WWE: OMG! The Top 50 Incidents in WWE History (2011)</title>
+<name>WWE: OMG! The Top 50 Incidents in WWE History (2011)</name>
 <link>
-  <sublink>http://www.putlocker.com/file/7E3396B50D8E8523</sublink>
-  <sublink>http://www.putlocker.com/file/753C6307D7949114</sublink>
-  <sublink>http://www.putlocker.com/file/6E6B374BF58688AB</sublink>
+<sublink>http://www.putlocker.com/file/7E3396B50D8E8523</sublink>
+<sublink>http://www.putlocker.com/file/753C6307D7949114</sublink>
+<sublink>http://www.putlocker.com/file/6E6B374BF58688AB</sublink>
 </link>
 <thumbnail>http://www.wrestling101.com/home/wp-content/uploads/2011/11/wwe-omg-top-50-wwe-incidents.jpg</thumbnail>
 </subchannel>
