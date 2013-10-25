@@ -121,13 +121,13 @@
 </item>
 
 <item>
-<title>Comedy Central a</title>
+<title>Comedy Central</title>
 <link>rtmp://198.144.153.142:443/kuyo/comedddd swfUrl=http://yukons.net/yukplay.swf pageUrl=http://yukons.net/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
 </item>
 
 <item>
-<title>Comedy Central b[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>Comedy Central [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://live.iguide.to/edge/tuhq23pjmv2t6az swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
 </item>
@@ -145,20 +145,11 @@
 </item>
 
 <item>
-<title>Discovery Channel</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv044&q=high</link>
-<thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
-</item>
-
-<item>
 <title>Discovery Channel a[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/b5sk6101ty89jlz swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
-<thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
-</item>
-
-<item>
-<title>Discovery Channel b[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/pzzhl9914uivaxf swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>
+<sublink>/m24.megafun.vn/live.vs?c=vstv044&q=high</sublink>
+<sublink>rtmp://live.iguide.to/edge/b5sk6101ty89jlz swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
 </item>
 
@@ -181,8 +172,8 @@
 </item>
 
 <item>
-<title>DocuBox [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>http://goo.gl/67O1Nx</link>
+<title>DocuBox [COLOR=FFFF0000]HD[/COLOR].</title>
+<link>rtmp://cp131115.live.edgefcs.net:1935/live app=live playpath=DOCUBOXHD_MT_RTMP_ON@71491 swfUrl=http://cdn7.unicornapp.com/customer/nexeven/swf/UnicornOSMFPlayer-1.3.swf pageUrl=http://www.docuboxlive.com/video/details/4996975/docuboxhd/live swfVfy=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img545/6450/uhf5.png</thumbnail>
 </item>
 
