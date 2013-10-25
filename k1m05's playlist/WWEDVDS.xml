@@ -1,5 +1,5 @@
 <item>
-<title>nWo: The Revolution DVD (2012)</title>
+<title>nWo: The Revolution DVD (2012) (Coming Soon)</title>
 <link>
   <sublink></sublink>
   <sublink></sublink>
@@ -11,7 +11,7 @@
 #
 #############################
 <item>
-<title>WWE: Triple H - Thy Kingdom Come (2013)</title>
+<title>WWE: Triple H - Thy Kingdom Come (2013) (Coming Soon)</title>
 <link>
   <sublink></sublink>
   <sublink></sublink>
@@ -23,7 +23,7 @@
 #
 #############################
 <item>
-<title>WWE: Best of WWE at Madison Square Garden (2013)</title>
+<title>WWE: Best of WWE at Madison Square Garden (2013) (Coming Soon)</title>
 <link>
   <sublink></sublink>
   <sublink></sublink>
@@ -35,7 +35,7 @@
 #
 #############################
 <item>
-<title>WWE: 50 Greatest Finishing Moves in WWE History (2012)</title>
+<title>WWE: 50 Greatest Finishing Moves in WWE History (2012) (coming Soon)</title>
 <link>
   <sublink></sublink>
   <sublink></sublink>
@@ -69,16 +69,26 @@
 #
 #############################
 <item>
-<title>WWE:Stone Cold Steve Austin: The Bottom Line (2011) (Coming Soon)</title>
-<link></link>
+<title>WWE:Stone Cold Steve Austin: The Bottom Line (2011)</title>
+<link>
+  <sublink>https://archive.org/download/SCTBL.k1m05/SCTBLd1.k1m05.mp4</sublink>
+  <sublink>https://archive.org/download/SCTBL.k1m05/SCTBLd2.k1m05.mp4</sublink>
+  <sublink>https://archive.org/download/SCTBL.k1m05/SCTBLd3.k1m05.mp4</sublink>
+  <sublink>https://archive.org/download/SCTBL.k1m05/SCTBLxtra.k1m05.mp4</sublink>
+</link>
 <thumbnail>http://img829.imageshack.us/img829/3040/stonecolddvd.jpg</thumbnail>
 </item>
 #############################
 #
 #############################
 <item>
-<title>WWE: The Attitude Era (2012) (Coming Soon)</title>
-<link></link>
+<title>WWE: The Attitude Era (2012)</title>
+<link>
+  <sublink>https://archive.org/download/SCTBL.k1m05/Attitude.D1.k1m05.mp4</sublink>
+  <sublink>https://archive.org/download/SCTBL.k1m05/Attitude.D2.k1m05.mp4</sublink>
+  <sublink>https://archive.org/download/SCTBL.k1m05/Attitude.D3.k1m05.mp4</sublink>
+  <sublink>https://archive.org/download/SCTBL.k1m05/Attitude.D4.k1m05.mp4</sublink>
+</link>
 <thumbnail>http://nerdsontherocks.com/wp-content/uploads/2012/11/wwe-the-attitude-era-dvd-cover.jpg</thumbnail>
 </item>
 #############################
