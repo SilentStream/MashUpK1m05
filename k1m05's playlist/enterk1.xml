@@ -172,8 +172,8 @@
 </item>
 
 <item>
-<title>DocuBox [COLOR=FFFF0000]HD[/COLOR].</title>
-<link>rtmp://cp131115.live.edgefcs.net:1935/live app=live playpath=DOCUBOXHD_MT_RTMP_ON@71491 swfUrl=http://cdn7.unicornapp.com/customer/nexeven/swf/UnicornOSMFPlayer-1.3.swf pageUrl=http://www.docuboxlive.com/video/details/4996975/docuboxhd/live swfVfy=true live=true timeout=10</link>
+<title>DocuBox [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>rtmp://mi1.gv.filmon.com:8086/live/1624.high.stream</link>
 <thumbnail>http://imageshack.us/a/img545/6450/uhf5.png</thumbnail>
 </item>
 
