@@ -49,11 +49,23 @@
 #######################################################################################################################################
 <subchannel>
 <name>WWE: OMG! The Top 50 Incidents in WWE History (2011)</name>
-<link>
 <fanart>http://img689.imageshack.us/img689/6617/omgdvd1.jpg</fanart>
 <thumbnail>http://apocalypticdemise.files.wordpress.com/2011/10/omg-the-top-50-incidents-in-wwe-history-movie-review.jpg</thumbnail>
+<link>
 <sublink>http://www.putlocker.com/file/7E3396B50D8E8523</sublink><host>putlocker</host>
 <sublink>http://www.putlocker.com/file/753C6307D7949114</sublink><host>putlocker</host>
 <sublink>http://www.putlocker.com/file/6E6B374BF58688AB</sublink><host>putlocker</host>
+</link>
+</subchannel>
+
+#######################################################################################################################################
+<subchannel>
+<name>WWE: Triple H - Thy Kingdom Come (2013)</name>
+<fanart>http://i1.ytimg.com/vi/PRqTdMdbkoI/maxresdefault.jpg</fanart>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20130924212250/prowrestling/images/thumb/1/16/Triple_H_-_Thy_Kingdom_Come.jpg/362px-Triple_H_-_Thy_Kingdom_Come.jpg</thumbnail>
+<link>
+<sublink>https://ia601903.us.archive.org/9/items/HHH.TKC/HHH.TKC.D1.k1m05.mkv</sublink><host>static link</host>
+<sublink>https://ia601903.us.archive.org/9/items/HHH.TKC/HHH.TKC.D2.k1m05.mkv</sublink><host>static link</host>
+<sublink>https://ia601903.us.archive.org/9/items/HHH.TKC/HHH.TKC.Xtra.k1m05.mkv</sublink><host>static link</host>
 </link>
 </subchannel>
