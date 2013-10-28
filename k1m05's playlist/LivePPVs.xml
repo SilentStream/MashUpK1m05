@@ -19,6 +19,12 @@
 #######################################################################################################
 
 <item>
+<title>WWE Hell in a Cell</title>
+<link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=charlie3 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-1/64235-wrestle-zone-net-channel-1-a.html live=true timeout=10</link>
+<thumbnail>http://i1.ytimg.com/sh/17NDqy8mM5A/showposter.jpg?v=5056e99e</thumbnail>
+</item>
+
+<item>
 <title>A Random Sports Channels Pack</title>
 <link>
 <sublink>rtmp://178.18.31.48:443/liverepeater playpath=20724  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player6.php?id=20724&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
