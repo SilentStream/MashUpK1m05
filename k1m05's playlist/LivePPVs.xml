@@ -19,8 +19,20 @@
 #######################################################################################################
 
 <item>
-<title>WWE Hell in a Cell</title>
+<title>WWE Hell in a Cell a</title>
 <link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=charlie3 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-1/64235-wrestle-zone-net-channel-1-a.html live=true timeout=10</link>
+<thumbnail>http://i1.ytimg.com/sh/17NDqy8mM5A/showposter.jpg?v=5056e99e</thumbnail>
+</item>
+
+<item>
+<title>WWE Hell in a Cell b</title>
+<link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=charlie1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-1/64235-wrestle-zone-net-channel-1-a.html live=true timeout=10</link>
+<thumbnail>http://i1.ytimg.com/sh/17NDqy8mM5A/showposter.jpg?v=5056e99e</thumbnail>
+</item>
+
+<item>
+<title>WWE Hell in a Cell LQ</title>
+<link>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=charlie8 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-1/64235-wrestle-zone-net-channel-1-a.html live=true timeout=10</link>
 <thumbnail>http://i1.ytimg.com/sh/17NDqy8mM5A/showposter.jpg?v=5056e99e</thumbnail>
 </item>
 
