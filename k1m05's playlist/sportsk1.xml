@@ -100,9 +100,8 @@
 <item>
 <title>ESPN</title>
 <link>
-  <sublink>rtmp://live.iguide.to/edge/uvnbzi8z07tzyck swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://ny.iguide.to/edge/xoaaohmeuajfeyf swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf# live=1 pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.iguide.to/edge/z1ixehaxwxm9q7w swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.iguide.to/edge/xwagcs9517oghc8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
