@@ -128,5 +128,15 @@
 </link>
 </subchannel>
 #######################################################################################################################################
-
-
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: nWo: The Revolution (2012)</name>
+<fanart>http://fc07.deviantart.net/fs18/f/2007/137/2/e/nWo_Style_Wallpaper_by_lucapoison.jpg</fanart>
+<thumbnail>http://0.tqn.com/d/prowrestling/1/0/G/i/-/-/wwe-nwo-the-revolution-dvd-cover.JPG</thumbnail>
+<link>
+<sublink>https://archive.org/download/50GFM/theRevD1.k1m05.mp4</sublink><host>static link</host>
+<sublink>https://archive.org/download/50GFM/theRevD2.k1m05.mp4</sublink><host>static link</host>
+<sublink>https://archive.org/download/50GFM/theRevD3.k1m05.mp4</sublink><host>static link</host>
+<sublink>https://archive.org/download/50GFM/theRevXtra.k1m05.mp4</sublink><host>static link</host>
+</link>
+</subchannel>
+#######################################################################################################################################
