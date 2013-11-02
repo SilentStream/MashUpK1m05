@@ -18,7 +18,7 @@
 </info>
 
 <info>
-<message>[COLOR=FF00FF00]Lots of ppl are interested in the status of NHL streams.  Prolly Not anytime soon sadly. :([/COLOR]</message>
+<message>[COLOR=FF00FF00]11/02/13 Sky Sports 1-4 Fixed.  Boxing is on Sky Sports 2 tonight[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -263,10 +263,7 @@
 
 <item>
 <title>Sky Sports 1</title>
-<link>
-  <sublink>rtmp://141.8.244.56/base/sky1.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</sublink>
-  <sublink>rtmp://141.8.244.56/base/skyss1.stream live=1 token=%X886(nPK@#. pageUrl=http://sportsembed.com/ live=true timeout=10</sublink>
-</link>
+<link>rtmpe://46.246.29.149:1935/live/ban1 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
 </item>
 
@@ -278,13 +275,13 @@
 
 <item>
 <title>Sky Sports 3</title>
-<link>rtmp://141.8.244.56/base/sky3.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</link>
+<link>rtmpe://46.246.29.149:1935/live/ban3 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 4</title>
-<link>rtmp://141.8.244.56/base/sky4.stream pageUrl=http://sportsembed.com/embed.php?v=halilou&vw=800&vh=450 token=%X886(nPK@#. live=true timeout=10</link>
+<link>rtmpe://46.246.29.149:1935/live/ban4 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
 </item>
 
