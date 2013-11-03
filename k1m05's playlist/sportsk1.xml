@@ -101,8 +101,7 @@
 <title>ESPN</title>
 <link>
   <sublink>rtmp://ny.iguide.to/edge/xoaaohmeuajfeyf swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf# live=1 pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.iguide.to/edge/z1ixehaxwxm9q7w swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.iguide.to/edge/ypb87lzx6ak05m3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/ac0cw5cmguex4di swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
@@ -111,8 +110,8 @@
 <item>
 <title>ESPN2</title>
 <link>
-  <sublink>rtmp://live.iguide.to/edge/taqzrpzo0lblsya swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.iguide.to/edge/z7gz419g6oqwiql swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink> 
+  <sublink>rtmp://live.iguide.to/edge/x5x1bqxxwakitcy swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/du97agywg74nbys swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink> 
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
@@ -173,7 +172,7 @@
 
 <item>
 <title>Fox Sports Plus[COLOR=FFFF0000] HD[/COLOR]a</title>
-<link>http://113.160.49.36/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+<link>http://113.160.49.34/lives/origin03/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
 </item> 
 
