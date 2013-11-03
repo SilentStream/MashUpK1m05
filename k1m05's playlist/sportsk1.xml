@@ -18,7 +18,7 @@
 </info>
 
 <info>
-<message>[COLOR=FF00FF00]11/02/13 Sky Sports 1-4 Fixed.  Boxing is on Sky Sports 2 tonight[/COLOR]</message>
+<message>[COLOR=FF00FF00]11/03/13 Nascar,Eurosport1&2,FoxSports+HD&SD,Golf,NBCSports,SS1,2,3,4,F1,News[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -71,7 +71,6 @@
 <item>
 <title>A random HD channel</title>
 <link>
-  <sublink>rtmp://ny.iguide.to/iguide playpath=fuuyqg68pc7bhhk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=420&channel=6568&autoplay=true live=true timeout=10</sublink>
   <sublink>rtmp://live.iguide.to:1935/iguide playpath=fuuyqg68pc7bhhk swfUrl=http://www.iguide.to/stml/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/k1m05 token=#ed%h0#w18623jsda6523lDGDve live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
@@ -79,8 +78,7 @@
 
 <title>A Nascar HQ channel (JTV addon Needed)</title>
 <link>
-  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=besweeet59&iconimage=http%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fcflguy1960-profile_image-sQUOuTH2fx4K2So-600x600.jpg</sublink>
-  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=nascar49jeff&iconimage=http%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fcflguy1960-profile_image-sQUOuTH2fx4K2So-600x600.jpg</sublink>
+  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=nascar49sd49&iconimage=http%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fcflguy1960-profile_image-sQUOuTH2fx4K2So-600x600.jpg</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
@@ -117,38 +115,14 @@
 </item>
 
 <item>
-<title>Eurosport International</title>
-<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<title>Eurosport [COLOR=FFFF0000] 1080p HD[/COLOR]</title>
+<link>http://109.95.47.249:1919/udp/239.0.0.195:4000</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
 <item>
-<title>Eurosport UK [COLOR=FFFF0000] HD[/COLOR]</title>
-<link>http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_2500.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
-</item>
-
-<item>
-<title>Eurosport Serbia</title>
-<link>http://149.255.37.194/hls/8811/index.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
-</item>
-
-<item>
-<title>Eurosport 2 International</title>
-<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</thumbnail>
-</item>
-
-<item>
-<title>Eurosport 2 UK[COLOR=FFFF0000] HD[/COLOR]</title>
-<link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_2500.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
-</item>
-
-<item>
-<title>Eurosport 2 UK</title>
-<link>rtmp://s3ifl.castup.net:1935/993850080-123.flv/_definst_/_definst_</link>
+<title>Eurosport 2</title>
+<link>http://109.95.47.249:1919/udp/239.0.0.81:4000</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
@@ -171,20 +145,20 @@
 </item>
 
 <item>
-<title>Fox Sports Plus[COLOR=FFFF0000] HD[/COLOR]a</title>
+<title>Fox Sports Plus[COLOR=FFFF0000] HD[/COLOR]</title>
 <link>http://113.160.49.34/lives/origin03/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
 </item> 
 
 <item>
-<title>Fox Sports Plus[COLOR=FFFF0000] HD[/COLOR]b</title>
-<link>http://203.162.16.22/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+<title>Fox Sports Plus</title>
+<link>http://113.160.49.36/lives/origin02/foxsd.isml/foxsd.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
 </item> 
 
 <item>
 <title>Golf Channel</title>
-<link>rtmp://live.iguide.to/edge/o70ly0bh064qlfv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/nwsqltmgfi4wimu swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 
@@ -195,14 +169,8 @@
 </item>
 
 <item>
-<title>NBATV [COLOR=FFFF0000] HQ[/COLOR]</title>
-<link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8 live=true</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
-</item>
-
-<item>
 <title>NBC Sports</title>
-<link>rtmp://live.iguide.to/edge/l96cxalbrux71tp swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/9kto69kgsivi9r8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nbc_sports_network.png</thumbnail>
 </item>
 
@@ -210,18 +178,6 @@
 <title>NFL Network</title>
 <link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
-</item>
-
-<item>
-<title>NFL Network</title>
-<link>rtmp://50.7.28.82/flash/17226 pageUrl=http://sawlive.tv live=true timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
-</item>
-
-<item>
-<title>NFL Network[COLOR=FFFF0000] HD[/COLOR]</title>
-<link>http://smb.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_4500.m3u8 live=true</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network_hd.png</thumbnail>
 </item>
 
 <item>
@@ -255,12 +211,6 @@
 </item>
 
 <item>
-<title>Sports Tonight</title>
-<link>rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf</link>
-<thumbnail>http://fiskeharrison.files.wordpress.com/2011/11/sportstonight_03.gif</thumbnail>
-</item>
-
-<item>
 <title>Sky Sports 1</title>
 <link>rtmpe://46.246.29.149:1935/live/ban1 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
@@ -286,21 +236,14 @@
 
 <item>
 <title>Sky Sports F1</title>
-<link>rtmpe://46.246.29.149:1935/live/jan5 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<link>rtmpe://46.246.29.149:1935/live/ban5 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports News</title>
-<link>rtmpe://46.246.29.149:1935/live/jan20 pageUrl=http://www.hdcast.tv/embedlive2.php?u=halilou&vw=640&vh=460 live=true timeout=10</link>
+<link>rtmpe://46.246.29.149:1935/live/ban20 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
-</item>
-
-
-<item>
-<title>UFC 24/7 Access</title>
-<link>rtmp://204.107.26.229:8086/live/713.high.stream</link>
-<thumbnail>http://img266.imageshack.us/img266/6788/ij55.jpg</thumbnail>
 </item>
 
 <item>
