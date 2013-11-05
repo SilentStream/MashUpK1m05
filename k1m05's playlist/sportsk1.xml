@@ -24,6 +24,19 @@
 ##############################################################################################################################
 
 <item>
+<title>All Sky Sports 1,2,3,4,News,F1 HQ (Will not last long)</title>
+<link>
+<sublink>http://149.62.176.211:9987/udp/239.100.111:1234</sublink>
+<sublink>http://149.62.176.211:9987/udp/239.100.135:1234</sublink>
+<sublink>http://149.62.176.211:9987/udp/239.100.142:1234</sublink>
+<sublink>http://149.62.176.211:9987/udp/239.100.144:1234</sublink>
+<sublink>http://149.62.176.211:9987/udp/239.100.145:1234</sublink>
+<sublink>http://149.62.176.211:9987/udp/239.100.143:1234</sublink>
+</link>
+<thumbnail>http://xunitytalk.com/images/vbclone/logo1.png</thumbnail>
+</item>
+
+<item>
 <title>8 NBA Channels 1080p</title>
 <link>
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow6/mnf.m3u8</sublink>
