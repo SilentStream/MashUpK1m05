@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>10/08/13 Fixed Fox News</message>
+<message>11/08/13 Fixed Fox Business</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -52,7 +52,7 @@
 
 <item>
 <title>Fox Business</title>
-<link>http://live.webcaston.com:1935/live/channel/aaj01/playlist.m3u8</link>
+<link>rtmp://173.193.227.91/live/ app=live playpath=foxb12?id=182891 swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/foxb12/1/600/400 live=true timeout=10 swfVfy=true conn=S:OK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_business.png</thumbnail>
 </item>
 
