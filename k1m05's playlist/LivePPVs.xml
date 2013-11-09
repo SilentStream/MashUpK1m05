@@ -21,21 +21,9 @@
 </item>
 #######################################################################################################
 <item>
-<title>UFC Fight Night 31: UFC Fight for the Troops 3 SD</title>
-<link>http://nlds161.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4b/UFC_Fight_Night_31.jpg</thumbnail>
-</item>
-
-<item>
-<title>UFC Fight Night 31: UFC Fight for the Troops 3 HD</title>
-<link>http://nlds161.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4b/UFC_Fight_Night_31.jpg</thumbnail>
-</item>
-
-<item>
-<title>UFC Fight Night 31: UFC Fight for the Troops 3 HD</title>
-<link>http://nlds161.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4b/UFC_Fight_Night_31.jpg</thumbnail>
+<title>UFC Fight Night 32: Belfort vs. Henderson Prelims SD</title>
+<link>rtmp://cp231028.live.edgefcs.net/live/ playpath=BR_blocked@116950  swfUrl=http://media.ufc.tv/ufc_system_assets/ufc_201311081146/js/jwplayer6/jwplayer.flash.swf  pageUrl=http://www.ufc.com/media/prelims/embed?%20frameborder= live=true timeout=10</link>
+<thumbnail>http://a4d69b0be31a71a4ce13-693158ff2c1c99d0e4a41d57d491843d.r93.cf1.rackcdn.com/wp-content/uploads/2013/10/UFC-Fight-Night-32-poster2.jpg</thumbnail>
 </item>
 
 <item>
