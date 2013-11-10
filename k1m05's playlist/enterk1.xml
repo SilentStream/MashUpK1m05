@@ -7,7 +7,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]11/07/13 NBC. | 10/25/13 Fixed CBS | 10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
+<message>[COLOR=FFFF4500]11/10/13 All Streams with red * are fixed | 11/07/13 NBC | 10/25/13 Fixed CBS | 10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ##############################################################################################################################
@@ -61,7 +61,7 @@
 </item>
 
 <item>
-<title>Baby TV[COLOR=FFFF4500]  *  [/COLOR]</title>
+<title>Baby TV [COLOR=FFFF0000]HD[/COLOR][COLOR=FFFF4500]  *  [/COLOR]</title>
 <link>http://aya02.livem3u8.me.totiptv.com/live//7773f3cef0334a28ad248552ea63d9e7.m3u8?bitrate=800</link>
 <thumbnail>http://img153.imageshack.us/img153/1784/qhbz.png</thumbnail>
 </item>
@@ -78,7 +78,7 @@
 </item>
 
 <item>
-<title>Bio[COLOR=FFFF4500]  *  [/COLOR]</title>
+<title>Bio [COLOR=FFFF0000]HD[/COLOR][COLOR=FFFF4500]  *  [/COLOR]</title>
 <link>http://aya02.livem3u8.me.totiptv.com/live//169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?bitrate=800</link>
 <thumbnail>http://imageshack.us/a/img844/4272/p4oi.png</thumbnail>
 </item>
@@ -177,7 +177,7 @@
 </item>
 
 <item>
-<title>EDGE[COLOR=FFFF4500]  *  [/COLOR]</title>
+<title>EDGE [COLOR=FFFF0000]HD[/COLOR][COLOR=FFFF4500]  *  [/COLOR]</title>
 <link>http://aya02.livem3u8.me.totiptv.com/live//3764586b28544a0fa379b1d4e400c100.m3u8?bitrate=800</link>
 <thumbnail>http://img541.imageshack.us/img541/1505/hlbb.png</thumbnail>
 </item>
