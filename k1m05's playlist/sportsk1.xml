@@ -23,28 +23,6 @@
 </info>
 ##############################################################################################################################
 <item>
-<title>2 Philippines Web Cams Super Typhoon Approaching</title>
-<link>
-  <sublink>rtmp://video2.earthcam.com/fecnetwork playpath=philippinesHD1.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20130808 pageUrl=http://www.earthcam.com/world/philippines/boracay/ live=true timeout=10</sublink>
-  <sublink>rtmp://video2.earthcam.com/fecnetwork playpath=5026.flv  swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20130808  pageUrl=http://www.earthcam.com/world/philippines/boracay/bolabogbay/ live=true timeout=10</sublink>
-</link>
-<thumbnail>https://lh6.googleusercontent.com/-J-Oy3kmNFBg/UCCEcaJ8nBI/AAAAAAAABp0/_LDoI2UcG3I/s640/blogger-image--1918022535.jpg</thumbnail>
-</item>
-
-<item>
-<title>All Sky Sports 1,2,3,4,News,F1 HQ (Will not last long)</title>
-<link>
-  <sublink>http://149.62.176.211:9987/udp/239.100.111:1234</sublink>
-  <sublink>http://149.62.176.211:9987/udp/239.100.135:1234</sublink>
-  <sublink>http://149.62.176.211:9987/udp/239.100.142:1234</sublink>
-  <sublink>http://149.62.176.211:9987/udp/239.100.144:1234</sublink>
-  <sublink>http://149.62.176.211:9987/udp/239.100.145:1234</sublink>
-  <sublink>http://149.62.176.211:9987/udp/239.100.143:1234</sublink>
-</link>
-<thumbnail>http://xunitytalk.com/images/vbclone/logo1.png</thumbnail>
-</item>
-
-<item>
 <title>8 NBA Channels 1080p</title>
 <link>
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow6/mnf.m3u8</sublink>
@@ -90,16 +68,9 @@
 </item>
 
 <item>
-<title>A random HD channel.</title>
+<title>A random HD channel</title>
 <link>
   <sublink>rtmp://live.iguide.to:1935/iguide playpath=fuuyqg68pc7bhhk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer.php?width=720&height=420&channel=6568&autoplay=true token=#ed%h0#w18623jsda6523lDGDve live=true timeout=10</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
-</item>
-
-<title>A Nascar HQ channel (JTV addon Needed)</title>
-<link>
-  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=nascar49sd49&iconimage=http%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fcflguy1960-profile_image-sQUOuTH2fx4K2So-600x600.jpg</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
