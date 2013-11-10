@@ -7,18 +7,21 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]11/10/13 RedZone Fixed Added Miltilink SS123&4 | 11/03/13 Nascar,Eurosport1&2,FoxSports+HD&SD,Golf,NBCSports,SS1,2,3,4,F1,News[/COLOR]</message>
+<message>[COLOR=FF00FF00]11/10/13 Rndm HQ Football Updated, RedZone Fixed Added Miltilink SS123&4 | 11/03/13 Nascar,Eurosport1&2,FoxSports+HD&SD,Golf,NBCSports,SS1,2,3,4,F1,News[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
 <item>
-<title>A Random HQ Football.</title>
+<title>A Random HQ Football</title>
 <link>
-  <sublink>rtmp://ppvmania.tv/live playpath=channel7 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://ppvmania.tv/live playpath=channel88 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
-  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel1 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
-  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel5 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
-  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel7 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel4 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=6 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel6 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=8 live=true timeout=10</sublink>
+  <sublink>rtmp://server.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel88 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://i.i.cbsi.com/cnwk.1d/i/tim/2013/02/20/football_620x350.jpg</thumbnail>
 </item>
