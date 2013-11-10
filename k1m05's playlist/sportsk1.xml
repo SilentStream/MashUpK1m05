@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]11/10/13 RedZone Fixed yet again, Rndm HQ Football Updated, RedZone Fixed Added Miltilink SS123&4 | 11/03/13 Nascar,Eurosport1&2,FoxSports+HD&SD,Golf,NBCSports,SS1,2,3,4,F1,News[/COLOR]</message>
+<message>[COLOR=FF00FF00]11/10/13 Golf, RedZone Fixed yet again, Rndm HQ Football Updated, RedZone Fixed Added Miltilink SS123&4 | 11/03/13 Nascar,Eurosport1&2,FoxSports+HD&SD,Golf,NBCSports,SS1,2,3,4,F1,News[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -154,7 +154,7 @@
 
 <item>
 <title>Golf Channel</title>
-<link>rtmp://live.iguide.to/edge/nwsqltmgfi4wimu swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://live.iguide.to/edge/ts6w24dx29tcwi4 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 
