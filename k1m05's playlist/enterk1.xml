@@ -12,15 +12,6 @@
 </info>
 ##############################################################################################################################
 <item>
-<title>2 Philippines Web Cams Super Typhoon Approaching</title>
-<link>
-  <sublink>rtmp://video2.earthcam.com/fecnetwork playpath=philippinesHD1.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20130808 pageUrl=http://www.earthcam.com/world/philippines/boracay/ live=true timeout=10</sublink>
-  <sublink>rtmp://video2.earthcam.com/fecnetwork playpath=5026.flv  swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20130808  pageUrl=http://www.earthcam.com/world/philippines/boracay/bolabogbay/ live=true timeout=10</sublink>
-</link>
-<thumbnail>https://lh6.googleusercontent.com/-J-Oy3kmNFBg/UCCEcaJ8nBI/AAAAAAAABp0/_LDoI2UcG3I/s640/blogger-image--1918022535.jpg</thumbnail>
-</item>
-
-<item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://live.iguide.to/edge/dcmr77p0njf6ukn swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
