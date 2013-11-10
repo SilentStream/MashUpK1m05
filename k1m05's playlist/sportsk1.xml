@@ -72,9 +72,9 @@
 </item>
 
 <item>
-<title>A Random HD channel (HD RedZone).</title>
+<title>A Random HD channel (HD RedZone)</title>
 <link>
-  <sublink>rtmp://live.iguide.to/edge/b1e5vi0xce0bev8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/b1e5vi0xce0bev8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://csncalifornia.com/images/56248.JPG</thumbnail>
 </item>
