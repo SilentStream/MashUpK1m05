@@ -92,6 +92,18 @@
 </item>
 
 <item>
+<title>BT Sports 1</title>
+<link>rtmp://31.220.0.103:443/live playpath=bt1 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt1&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2</title>
+<link>rtmp://31.220.0.103:443/live playpath=bt2 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
 <title>ESPN</title>
 <link>
   <sublink>rtmp://ny.iguide.to/edge/xoaaohmeuajfeyf swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf# live=1 pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
