@@ -93,7 +93,10 @@
 
 <item>
 <title>BT Sports 1</title>
-<link>rtmp://31.220.0.103:443/live playpath=bt1 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt1&vw=620&vh=490 live=true timeout=10</link>
+<link>
+  <sublink>rtmpe://play.finecast.tv/live playpath=bt101 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=bt1111&vw=600&vh=400 live=true timeout=10</sublink>
+  <sublink>rtmp://31.220.0.103:443/live playpath=bt1 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt1&vw=620&vh=490 live=true timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
 </item>
 
