@@ -12,14 +12,14 @@
 </info>
 ##############################################################################################################################
 <item>
-<title>A[COLOR=FF00FF00]  Apparently the Walking Dead will be live on this stream 2night (No Promises)  [/COLOR]</title>
-<link>rtmp://5.79.65.209/live playpath=testfeed2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed2 live=true timeout=10</sublink>
+<title>1[COLOR=FF00FF00]  Apparently the Walking Dead will be live on this stream 2night (No Promises)  [/COLOR]</title>
+<link>rtmp://5.79.65.209/live playpath=testfeed2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed2 live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
 <item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/dcmr77p0njf6ukn swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+<link>rtmp://live.iguide.to/edge/dcmr77p0njf6ukn swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
