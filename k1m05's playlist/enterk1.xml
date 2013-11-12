@@ -7,7 +7,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]11/11/13 NBC Fixed | 11/10/13 Added Military Channel All Streams with red * are fixed MTV Rocks fixed (kinda)| 11/07/13 NBC | 10/25/13 Fixed CBS | 10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
+<message>[COLOR=FFFF4500]11/11/13 NBC,CBS,ComedyCentral Fixed | 11/10/13 Added Military Channel All Streams with red * are fixed MTV Rocks fixed (kinda)| 11/07/13 NBC | 10/25/13 Fixed CBS | 10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ##############################################################################################################################
@@ -55,14 +55,8 @@
 </item>
 
 <item>
-<title>Animal Planet a[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>Animal Planet [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://live.iguide.to/edge/41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true pageUrl=http://www.ilive.to/</link>
-<thumbnail>http://imageshack.us/a/img19/8571/aq1e.png</thumbnail>
-</item>
-
-<item>
-<title>Animal Planet b[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/fis2ac8g21uvb1t pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=I8772LDKksadhGHGagf# live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img19/8571/aq1e.png</thumbnail>
 </item>
 
@@ -106,10 +100,7 @@
 
 <item>
 <title>CBS [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>
- <sublink>rtmp://live.iguide.to/edge/vom8aa75v12eaoe swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
- <sublink>rtmp://live.iguide.to/edge/1xsbjulypl39n4d swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
-</link>
+<link>rtmp://live.iguide.to/edge/nihjvxa6vr54la8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
 </item>
 
@@ -127,13 +118,13 @@
 
 <item>
 <title>Comedy Central</title>
-<link>rtmp://198.144.153.142:443/kuyo/comedddd swfUrl=http://yukons.net/yukplay.swf pageUrl=http://yukons.net/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/sfrd5bsagtq9eg0 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
 </item>
 
 <item>
 <title>Comedy Central [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/tuhq23pjmv2t6az swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/sfrd5bsagtq9eg0 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
 </item>
 
