@@ -20,35 +20,258 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 #######################################################################################################
+
+
+<item>
+<title>NHL Games</title>
+<link>
+  <sublink>rtmp://37.220.34.50:80/liverepeater playpath=frame12 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame12&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://213.163.64.208:80/liverepeater playpath=frame11 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame11&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://213.163.64.207:80/liverepeater playpath=frame8 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame8&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://37.220.34.51:80/liverepeater playpath=frame9 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame9&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://37.220.34.49:80/liverepeater playpath=frame10 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame10&width=630&height=400 live=true timeout=10</sublink>
+</link>
+<thumbnail>http://www.userlogos.org/files/logos/neoknight037/NHL.png</thumbnail>
+</item>
+
+<item>
+<title>A Random HQ Football</title>
+<link>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel4 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=6 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel6 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=8 live=true timeout=10</sublink>
+  <sublink>rtmp://server.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel88 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
+</link>
+<thumbnail>http://i.i.cbsi.com/cnwk.1d/i/tim/2013/02/20/football_620x350.jpg</thumbnail>
+</item>
+
+<item>
+<title>8 NBA Channels 1080p</title>
+<link>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba3/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba4/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba5/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba6/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba7/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow6/mnf.m3u8</sublink>
+</link>
+<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>8 NBA Channels 720p</title>
+<link>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow5/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow5/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba3/workflow5/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba4/workflow5/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba5/workflow5/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba6/workflow5/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba7/workflow5/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow5/mnf.m3u8</sublink>
+</link>
+<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>8 NBA Channels 576p</title>
+<link>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow4/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow4/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba3/workflow4/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba4/workflow4/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba5/workflow4/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba6/workflow4/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba7/workflow4/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow4/mnf.m3u8</sublink>
+</link>
+<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
+</item>
+
+<item>
+<title>A Random HD channel (HD RedZone)</title>
+<link>
+  <sublink>rtmp://live.iguide.to/edge/b1e5vi0xce0bev8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+</link>
+<thumbnail>http://csncalifornia.com/images/56248.JPG</thumbnail>
+</item>
+
 <item>
 <title>A Random Sports Channels Pack</title>
 <link>
-<sublink>rtmp://178.18.30.12:443/liverepeater playpath=20724  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player6.php?id=20724&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.34.61:443/liverepeater playpath=13903  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=13903&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.36.64:443/liverepeater playpath=20825  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20825&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.36.7:443/liverepeater playpath=20719  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20719&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.77:443/liverepeater playpath=20723  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20723&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.32.52:443/liverepeater playpath=13877  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=13877&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.68:443/liverepeater playpath=20826  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20826&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.49:443/liverepeater playpath=20827  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20827&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.70:443/liverepeater playpath=20828  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20828&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.36.71:443/liverepeater playpath=43831  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=43831&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.77:443/liverepeater playpath=20829  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20829&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.65:443/liverepeater playpath=20833  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20833&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.36.70:443/liverepeater playpath=20830  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20830&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.64:443/liverepeater playpath=19337  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=19337&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.36.18:443/liverepeater playpath=19992  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=19992&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.46:443/liverepeater playpath=20831  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20831&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.36.7:443/liverepeater playpath=19342  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=19342&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.34.18:443/liverepeater playpath=19341  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=19341&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.66:443/liverepeater playpath=19340  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=19340&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.36.71:443/liverepeater playpath=11120  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=11120&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.30.13:443/liverepeater playpath=23699  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=20832&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.48:443/liverepeater playpath=14023  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=14023&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://37.220.32.43:443/liverepeater playpath=13806  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=13806&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.49:443/liverepeater playpath=13667  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=13667&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-<sublink>rtmp://178.18.31.61:443/liverepeater playpath=11616  swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf  pageUrl=http://featve.com/player2.php?id=11616&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
-</link>
+<sublink>rtmp://178.18.31.67:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20724&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.47:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=13903&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.36.68:443/liverepeater playpath=20825 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20825&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.61:443/liverepeater playpath=20719 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.featve.com/stream4.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.64:443/liverepeater playpath=20723 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.featve.com/stream5.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.47:443/liverepeater playpath=13877 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=13877&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.32.36:443/liverepeater playpath=20826 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20826&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.75:443/liverepeater playpath=20827 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20827&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.36.7:443/liverepeater playpath=20828 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20828&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.36.7:443/liverepeater playpath=43831 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.featve.com/stream10.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.36.70:443/liverepeater playpath=20829 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20829&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.32.54:443/liverepeater playpath=20833 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20833&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.32.56:443/liverepeater playpath=20830 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20830&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.36.64:443/liverepeater playpath=19337 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=19337&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.32.56:443/liverepeater playpath=19992 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=19992&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.30.13:443/liverepeater playpath=20831 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20831&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.30.16:443/liverepeater playpath=19342 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=19342&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.65:443/liverepeater playpath=19341 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=19341&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.32.36:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=19340&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.32.50:443/liverepeater playpath=11120 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=11120&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.46:443/liverepeater playpath=20832 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20832&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.44:443/liverepeater playpath=14023 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=14023&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.75:443/liverepeater playpath=13806 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=13806&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://178.18.31.49:443/liverepeater playpath=13667 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=13667&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://37.220.36.69:443/liverepeater playpath=11616 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=11616&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://159.253.149.56:443/liverepeater playpath=stream1 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream1.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://67.228.177.165:443/liverepeater playpath=stream2 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream2.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://173.192.70.178:443/liverepeater playpath=stream3 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream3.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://173.192.70.179:443/liverepeater playpath=stream4 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream4.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://173.192.70.190:443/liverepeater playpath=stream5 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream5.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://174.36.251.135:443/liverepeater playpath=stream6 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream6.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://50.23.239.3:443/liverepeater playpath=stream7 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream7.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://173.192.209.85:443/liverepeater playpath=stream8 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream8.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://173.192.70.176:443/liverepeater playpath=stream9 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream9.html token=#atd%#$ZH live=true timeout=10</sublink>
+<sublink>rtmp://173.193.48.134:443/liverepeater playpath=stream10 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream10.html token=#atd%#$ZH live=true timeout=10</sublink>
+</link>>
 <thumbnail>http://imageshack.us/a/img221/4927/nnb.png</thumbnail>
 </item>
-178.18.30.13:443/liverepeater<playpath>23699
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] B1G</title>
+<link>http://goo.gl/Fh08ox</link>
+<thumbnail>http://s2.wp.com/wp-content/themes/vip/bigtennetwork/img/logo.png?m=1345753057g</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC National 720p</title>
+<link>http://goo.gl/0CofPI</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC National 1080p</title>
+<link>http://goo.gl/QihNtv</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC National SD</title>
+<link>http://goo.gl/hwnFUD</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Arizona 1080p</title>
+<link>http://goo.gl/9P8KEP</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Arizona 720p</title>
+<link>http://goo.gl/yy2Y0F</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Arizona SD</title>
+<link>http://goo.gl/zFAlPa</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Bay Area 1080p</title>
+<link>http://goo.gl/IUIs7F</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Bay Area 720p</title>
+<link>http://goo.gl/gHG3ty</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Bay Area SD</title>
+<link>http://goo.gl/N741Sk</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Los Angeles 1080p</title>
+<link>http://goo.gl/c1zkBg</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Los Angeles 720p</title>
+<link>http://goo.gl/m4Xaul</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Los Angeles SD</title>
+<link>http://goo.gl/4L4fym</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Mountain 1080p</title>
+<link>http://goo.gl/lSyVT3</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Mountain 720p</title>
+<link>http://goo.gl/6QnKIG</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Mountain SD</title>
+<link>http://goo.gl/UhYExe</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Oregon 1080p</title>
+<link>http://goo.gl/eRhOHd</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Oregon 720p</title>
+<link>http://goo.gl/FLfuDu</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Oregon SD</title>
+<link>http://goo.gl/EHfnBH</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Washington 1080p</title>
+<link>http://goo.gl/RtRjJM</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Washington 720p</title>
+<link>http://goo.gl/ZOww80</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
+
+<item>
+<title>z[COLOR=green](College Football)[/COLOR] PAC Washington SD</title>
+<link>http://goo.gl/cJQF9D</link>
+<thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
+</item>
