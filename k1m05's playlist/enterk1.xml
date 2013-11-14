@@ -56,7 +56,10 @@
 
 <item>
 <title>Animal Planet [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true pageUrl=http://www.ilive.to/</link>
+<link>
+  <sublink>http://www.portaltv.ro/stream.php?id=animalplanet</sublink>
+  <sublink>rtmp://live.iguide.to/edge/41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true pageUrl=http://www.ilive.to/</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img19/8571/aq1e.png</thumbnail>
 </item>
 
@@ -420,7 +423,9 @@
 
 <item>
 <title>TLC[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>
+  <sublink>http://m24.megafun.vn/live.vs?c=vstv084&q=high</sublink>
+  <sublink>rtmp://live.iguide.to/edge/x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>  </link>
 <thumbnail>http://imageshack.us/a/img94/7763/60my.png</thumbnail>
 </item>
 
