@@ -22,6 +22,18 @@
 </info>
 
 <item>
+<title>Sky Sports 1 HD 1080p (Multi Audio) Wont Last Long</title>
+<link>http://82.193.96.100:1234/udp/239.23.15.123:1234</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 2 HD 1080p (Multi Audio) Wont Last Long</title>
+<link>http://82.193.96.100:1234/udp/239.23.15.122:1234</link>
+<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
+</item>
+
+<item>
 <title>Sportsnet World</title>
 <link>rtmp://198.144.120.217/live playpath=setca swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=setca&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
