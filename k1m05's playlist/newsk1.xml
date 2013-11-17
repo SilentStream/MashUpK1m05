@@ -9,10 +9,16 @@
 
 ##############################################################################################################################
 <item>
+<title>1[COLOR=FF00FF00]  Illinois news Just had a Tornado[/COLOR]</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8</link>
+<thumbnail>http://tribwgntv.files.wordpress.com/2012/12/wgntv_logo_400x140-black1.png?w=194</thumbnail>
+</item>
+
+<item>
 <title>BBC World News a</title>
 <link>
-<sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
-<sublink>rtmp://live.iguide.to/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
+  <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
+  <sublink>rtmp://live.iguide.to/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
