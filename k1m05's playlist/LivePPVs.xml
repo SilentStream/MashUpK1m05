@@ -297,3 +297,18 @@
 <link>http://goo.gl/cJQF9D</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=red]N[/COLOR][COLOR=white]B[/COLOR][COLOR=blue]A[/COLOR] [COLOR=green]1080p[/COLOR]</title>
+<link>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba3/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba4/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba5/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba6/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba7/workflow6/mnf.m3u8</sublink>
+  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow6/mnf.m3u8</sublink>
+</link>
+<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
+</item>
