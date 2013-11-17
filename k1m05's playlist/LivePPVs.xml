@@ -23,6 +23,12 @@
 
 
 <item>
+<title>1. UFC 167 Prelims</title>
+<link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</link>
+<thumbnail>http://a4d69b0be31a71a4ce13-693158ff2c1c99d0e4a41d57d491843d.r93.cf1.rackcdn.com/wp-content/uploads/2013/10/UFC-167-poster.jpg</thumbnail>
+</item>
+
+<item>
 <title>NHL Games</title>
 <link>
   <sublink>rtmp://37.220.34.50:80/liverepeater playpath=frame12 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame12&width=630&height=400 live=true timeout=10</sublink>
