@@ -21,12 +21,30 @@
 </item>
 #######################################################################################################
 
-
 <item>
-<title>1. UFC 167 Prelims</title>
-<link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</link>
+<title>1. UFC 167 Prelims SD A</title>
+<link>http://nlds123.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_800.m3u8</link>
 <thumbnail>http://a4d69b0be31a71a4ce13-693158ff2c1c99d0e4a41d57d491843d.r93.cf1.rackcdn.com/wp-content/uploads/2013/10/UFC-167-poster.jpg</thumbnail>
 </item>
+
+<item>
+<title>1. UFC 167 Prelims SD B</title>
+<link>http://nlds123.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_1600.m3u8</link>
+<thumbnail>http://a4d69b0be31a71a4ce13-693158ff2c1c99d0e4a41d57d491843d.r93.cf1.rackcdn.com/wp-content/uploads/2013/10/UFC-167-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>3. UFC 167 Prelims HD A</title>
+<link>http://nlds123.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000.m3u8</link>
+<thumbnail>http://a4d69b0be31a71a4ce13-693158ff2c1c99d0e4a41d57d491843d.r93.cf1.rackcdn.com/wp-content/uploads/2013/10/UFC-167-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>4. UFC 167 Prelims HD B</title>
+<link>http://nlds123.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500.m3u8</link>
+<thumbnail>http://a4d69b0be31a71a4ce13-693158ff2c1c99d0e4a41d57d491843d.r93.cf1.rackcdn.com/wp-content/uploads/2013/10/UFC-167-poster.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>NHL Games</title>
