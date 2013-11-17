@@ -22,6 +22,23 @@
 #######################################################################################################
 
 <item>
+<title>Auto Racing (Will Require JTV Addon to work)</title>
+<link>
+  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=besweeet64</sublink>
+  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=nascar49fast2</sublink>
+</link>
+<thumbnail>http://media.npr.org/assets/img/2013/02/23/nascar_daytona_nationwide_auto_racing_15301727_wide-55c50c6286f877295871e17dee42881054eebf64-s6-c30.jpg</thumbnail>
+</item>
+
+<item>
+<title>CFL (Will Require JTV Addon to work)</title>
+<link>
+  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=furby1888</sublink>
+</link>
+<thumbnail>http://bigmouthsports.com/wp-content/uploads/2010/07/cfl-on-tsn-2-july-2010.jpg</thumbnail>
+</item>
+
+<item>
 <title>NHL Games</title>
 <link>
   <sublink>rtmp://37.220.34.50:80/liverepeater playpath=frame12 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame12&width=630&height=400 live=true timeout=10</sublink>
