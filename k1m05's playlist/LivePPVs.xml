@@ -31,6 +31,12 @@
 </item>
 
 <item>
+<title>Formula 1</title>
+<link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</link>
+<thumbnail>http://media.npr.org/assets/img/2013/02/23/nascar_daytona_nationwide_auto_racing_15301727_wide-55c50c6286f877295871e17dee42881054eebf64-s6-c30.jpg</thumbnail>
+</item>
+
+<item>
 <title>CFL (Will Require JTV Addon to work)</title>
 <link>
   <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=furby1888</sublink>
@@ -51,7 +57,7 @@
 </item>
 
 <item>
-<title>A Random HQ Football Fixed</title>
+<title>[COLOR=yellow]NFL HQ[/COLOR]</title>
 <link>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
