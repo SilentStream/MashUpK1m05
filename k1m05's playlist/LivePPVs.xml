@@ -20,7 +20,7 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 #######################################################################################################
-rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10
+
 <item>
 <title>1. UFC 167 SD A</title>
 <link>http://nlds163.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
@@ -46,8 +46,8 @@ rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jw
 </item>
 
 <item>
-<title>5. HBO Boxing: Ward vs. Rodriguez</title>
-<link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</link>
+<title>5. HBO Boxing: Ward vs. Rodriguez FIXED</title>
+<link>rtmp://server.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</link>
 <thumbnail>http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/7a/ae/7aae542876ae21d2e4e28cf64eca84c7.jpg?itok=AELpJD6G</thumbnail>
 </item>
 
