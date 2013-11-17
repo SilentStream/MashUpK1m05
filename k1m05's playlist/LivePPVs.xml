@@ -22,17 +22,17 @@
 #######################################################################################################
 
 <item>
+<title>Formula 1</title>
+<link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</link>
+<thumbnail>http://media.npr.org/assets/img/2013/02/23/nascar_daytona_nationwide_auto_racing_15301727_wide-55c50c6286f877295871e17dee42881054eebf64-s6-c30.jpg</thumbnail>
+</item>
+
+<item>
 <title>Auto Racing (Will Require JTV Addon to work)</title>
 <link>
   <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=besweeet64</sublink>
   <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=nascar49fast2</sublink>
 </link>
-<thumbnail>http://media.npr.org/assets/img/2013/02/23/nascar_daytona_nationwide_auto_racing_15301727_wide-55c50c6286f877295871e17dee42881054eebf64-s6-c30.jpg</thumbnail>
-</item>
-
-<item>
-<title>Formula 1</title>
-<link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</link>
 <thumbnail>http://media.npr.org/assets/img/2013/02/23/nascar_daytona_nationwide_auto_racing_15301727_wide-55c50c6286f877295871e17dee42881054eebf64-s6-c30.jpg</thumbnail>
 </item>
 
@@ -57,7 +57,7 @@
 </item>
 
 <item>
-<title>[COLOR=yellow]NFL HQ[/COLOR]</title>
+<title>[COLOR=blue]NFL[/COLOR] [COLOR=red]HQ[/COLOR]</title>
 <link>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
@@ -72,7 +72,7 @@
 </item>
 
 <item>
-<title>8 NBA Channels 1080p</title>
+<title>[COLOR=red]N[/COLOR][COLOR=white]B[/COLOR][COLOR=blue]A[/COLOR] [COLOR=green]1080p[/COLOR]</title>
 <link>
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow6/mnf.m3u8</sublink>
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow6/mnf.m3u8</sublink>
@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>8 NBA Channels 720p</title>
+<title>[COLOR=red]N[/COLOR][COLOR=white]B[/COLOR][COLOR=blue]A[/COLOR] [COLOR=green]720p[/COLOR]</title>
 <link>
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow5/mnf.m3u8</sublink>
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow5/mnf.m3u8</sublink>
@@ -102,7 +102,7 @@
 </item>
 
 <item>
-<title>8 NBA Channels 576p</title>
+<title>[COLOR=red]N[/COLOR][COLOR=white]B[/COLOR][COLOR=blue]A[/COLOR] [COLOR=green]576p[/COLOR]</title>
 <link>
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow4/mnf.m3u8</sublink>
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow4/mnf.m3u8</sublink>
@@ -117,7 +117,7 @@
 </item>
 
 <item>
-<title>A Random HD channel (HD RedZone).</title>
+<title>[COLOR=blue]NFL[/COLOR] [COLOR=red]Red[/COLOR]Zone [COLOR=blue]HD[/COLOR]</title>
 <link>
   <sublink>rtmp://ny.premiumcdnlive.com/iguide playpath=dtlvlrjrz71c1jn swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/6567/watch-live-_..._-channel-for-free token=#ed%h0#w18623jsda6523lDGDve live=true timeout=10</sublink>
 </link>
@@ -125,7 +125,7 @@
 </item>
 
 <item>
-<title>A Random Sports Channels Pack</title>
+<title>[COLOR=blue]Sports Channels Pack[/COLOR]</title>
 <link>
 <sublink>rtmp://178.18.31.67:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20724&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
 <sublink>rtmp://178.18.31.47:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=13903&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink>
@@ -298,17 +298,3 @@
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=red]N[/COLOR][COLOR=white]B[/COLOR][COLOR=blue]A[/COLOR] [COLOR=green]1080p[/COLOR]</title>
-<link>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba3/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba4/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba5/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba6/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba7/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow6/mnf.m3u8</sublink>
-</link>
-<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
-</item>
