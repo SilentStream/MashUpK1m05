@@ -144,18 +144,13 @@
 </item>
 
 <item>
-<title>Discovery Channel a[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>Discovery Channel [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
-<sublink>/m24.megafun.vn/live.vs?c=vstv044&q=high</sublink>
+<sublink>rtmp://live.iguide.to/edge/it82brayqtelkyi swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+<sublink>rtmp://live.iguide.to/edge/b9cexbtsdmzcm4w swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 <sublink>rtmp://live.iguide.to/edge/b5sk6101ty89jlz swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
-</item>
-
-<item>
-<title>Discovery World</title>
-<link>http://livecdn.myvst.net/live/53357A52616B5A387633723242336E6A</link>
-<thumbnail>http://imageshack.us/a/img708/9554/mmd3.png</thumbnail>
 </item>
 
 <item>
