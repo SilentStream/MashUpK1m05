@@ -2,8 +2,15 @@
 <poster>k1m05</poster>
 <fanart>http://img833.imageshack.us/img833/8159/q7dj.jpg</fanart>
 #######################################################################################################################################
-
-
+<subchannel>
+<name>UFC 167: St-Pierre vs. Hendricks (2013) HD</name>
+<fanart>http://i1.ytimg.com/vi/CpJXcvoEAqM/maxresdefault.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/81/Updated_UFC_167_event_poster.jpg</thumbnail>
+<link>
+<sublink>https://archive.org/download/167K1m05/167-k1m05.TS</sublink><host>static link</host>
+</link>
+</subchannel>
+#######################################################################################################################################
 <subchannel>
 <name>Ballator 106: Chandler vs Alvarez II (2013)</name>
 <fanart>http://i1.ytimg.com/vi/8Y-hYdvzFHA/maxresdefault.jpg</fanart>
@@ -12,7 +19,7 @@
 <sublink>https://archive.org/download/Bel.106/Bel.106.k1m05.mp4</sublink><host>static link</host>
 </link>
 </subchannel>
-#######################################################################################################################################
+3######################################################################################################################################
 <subchannel>
 <name>UFC Fight Night: Machida vs. Munoz (2013)</name>
 <fanart>http://mmanouvelles.com/wp-content/uploads/lrgu.png</fanart>
