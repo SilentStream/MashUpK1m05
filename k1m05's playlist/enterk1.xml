@@ -7,16 +7,10 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]11/11/13 Spike(L2),NBC,CBS,ComedyCentral Fixed | 11/10/13 Added Military Channel All Streams with red * are fixed MTV Rocks fixed (kinda)| 11/07/13 NBC | 10/25/13 Fixed CBS | 10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
+<message>[COLOR=FFFF4500]11/19/13 Fixed ComedyCentral,FoxCrime,FoxMovies,FOX,History2,NatGeo | 11/11/13 Spike(L2),NBC,CBS,ComedyCentral Fixed | 11/10/13 Added Military Channel All Streams with red * are fixed MTV Rocks fixed (kinda)| 11/07/13 NBC | 10/25/13 Fixed CBS | 10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
-##############################################################################################################################
-<item>
-<title>1[COLOR=FF00FF00]  Illinois news Just had a Tornado[/COLOR]</title>
-<link>http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8</link>
-<thumbnail>http://tribwgntv.files.wordpress.com/2012/12/wgntv_logo_400x140-black1.png?w=194</thumbnail>
-</item>
-
+###############################################################################################################################
 <item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://ny.iguide.to/edge/oanry4s71cylxxb swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
@@ -121,7 +115,7 @@
 
 <item>
 <title>Comedy Central</title>
-<link>rtmp://live.iguide.to/edge/sfrd5bsagtq9eg0 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/tuhq23pjmv2t6az swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
 </item>
 
@@ -160,12 +154,6 @@
 </item>
 
 <item>
-<title>Disney Jr.</title>
-<link>http://goo.gl/67O1Nx</link>
-<thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
-</item>
-
-<item>
 <title>DocuBox [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>rtmp://mi1.gv.filmon.com:8086/live/1624.high.stream</link>
 <thumbnail>http://imageshack.us/a/img545/6450/uhf5.png</thumbnail>
@@ -180,15 +168,24 @@
 <item>
 <title>FOX[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
- <sublink>rtmp://live.iguide.to/edge/3wots12q6ehnr7t swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/9exx6ubj0xqiazz swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
  <sublink>rtmp://live.iguide.to/edge/2kjt1teyuad1yo3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
 </item>
 
 <item>
+<title>FOX Movies[COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>
+ <sublink>rtmp://live.iguide.to/edge/hc992q7x7cz86t9 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/17olli5u0o7orwe swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+</link>
+<thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
+</item>
+
+<item>
 <title>FOX Crime[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/58i18lx0ngwjkbk playpath=58i18lx0ngwjkbk swfUrl=http://player.ilive.to/player_ilive.swf live=true token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/view/48067/watch-live-FOX_Crime-streaming-channel-for-free live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/qe4ivz5egll49bx playpath=58i18lx0ngwjkbk swfUrl=http://player.ilive.to/player_ilive.swf live=true token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/view/48067/watch-live-FOX_Crime-streaming-channel-for-free live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img203/6706/jkhv.png</thumbnail>
 </item>
 
@@ -255,7 +252,13 @@
 
 <item>
 <title>History[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/fwk9op34parwz0h swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/dhp0rpd116qyyj6 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
+</item>
+
+<item>
+<title>History 2[COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://live.iguide.to/edge/xyy8r7wxqbzbful swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
 </item>
 
@@ -291,25 +294,22 @@
 
 <item>
 <title>MTV[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/y96hrc1tcg0vtcg pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=I8772LDKksadhGHGagf# live=true timeout=10</link>
+<link>rtmp://live.iguide.to/edge/21m6jnuden2puo8 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=I8772LDKksadhGHGagf# live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img401/6301/k5l.png</thumbnail>
 </item>
 
 <item>
-<title>National Geographic</title>
-<link>http://94.242.221.141/hls/a-lo/stream50.m3u8</link>
-<thumbnail>http://imageshack.us/a/img33/1407/uajy.png</thumbnail>
-</item>
-
-<item>
-<title>National Geographic [COLOR=FFFF0000]HD[/COLOR] a[COLOR=FFFF4500]  *  [/COLOR]</title>
+<title>National Geographic [COLOR=FFFF0000]HD[/COLOR][COLOR=FFFF4500]  *  [/COLOR]</title>
 <link>http://aya02.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=1500</link>
 <thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
 </item>
 
 <item>
-<title>National Geographic [COLOR=FFFF0000]HD[/COLOR] b[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/yszd60jgsxxtgmj pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=I8772LDKksadhGHGagf# live=true timeout=10</link>
+<title>National Geographic [COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>
+  <sublink>rtmp://live.iguide.to/edge/21m6jnuden2puo8 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=I8772LDKksadhGHGagf# live=true timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/yszd60jgsxxtgmj pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=I8772LDKksadhGHGagf# live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
 </item>
 
@@ -347,42 +347,6 @@
 <title>Showtime[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://live.iguide.to/edge/a12ghcx142r3l0l swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# swfVfy=1 pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
 <thumbnail>http://img96.imageshack.us/img96/1319/2sxk.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies: Family HD.</title>
-<link>rtmp://ny.iguide.to/edge/gfnht3d71m1p504 swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/halilou/ token=#ed%h0#w18623jsda6523lDGD</link>
-<thumbnail>http://img571.imageshack.us/img571/5274/u6.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies: Modern Hits HD</title>
-<link>rtmp://ny.iguide.to/edge/jrzfjwuye8hvbxa swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/halilou/ token=I8772LDKksadhGHGagf#</link>
-<thumbnail>http://img571.imageshack.us/img571/5274/u6.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies: Showcase HD</title>
-<link>rtmp://ny.iguide.to/edge/ku4qz8za2r62b3x swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/halilou/ token=I8772LDKksadhGHGagf#</link>
-<thumbnail>http://img571.imageshack.us/img571/5274/u6.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies: Thriller HD</title>
-<link>rtmp://ny.iguide.to/edge/e20wd40c9cg0r8z swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/halilou/ token=I8772LDKksadhGHGagf#</link>
-<thumbnail>http://img571.imageshack.us/img571/5274/u6.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies: Comedy HD</title>
-<link>rtmp://ny.iguide.to/edge/n7y4fvqgqamax73 swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/halilou/ token=I8772LDKksadhGHGagf#</link>
-<thumbnail>http://img571.imageshack.us/img571/5274/u6.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies: Drama HD</title>
-<link>rtmp://ny.iguide.to/edge/gklewj2q9tij5pt swfUrl=http://player.ilive.to/player_ilive_2.swf live=1 pageUrl=http://www.ilive.to/view/halilou/ token=I8772LDKksadhGHGagf#</link>
-<thumbnail>http://img571.imageshack.us/img571/5274/u6.png</thumbnail>
 </item>
 
 <item>
