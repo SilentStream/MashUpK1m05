@@ -1,52 +1,53 @@
+
+
+
 #######################################################################################################################################
 <poster>k1m05</poster>
-<fanart>http://4.bp.blogspot.com/_JCQ5hN4awUg/SwGyK06NzSI/AAAAAAAAAVM/wY3NKxJ2m2w/s1600/115580-Bokeh-very-black-orange-.jpg</fanart>
-<void>http://img841.imageshack.us/img841/6970/3jbp.jpg</void>
+<fanart>http://img841.imageshack.us/img841/6970/3jbp.jpg</fanart>
 <void>http://imageshack.us/a/img18/5658/il0s.jpg</void>
 #######################################################################################################################################
-### Messages
-#######################################################################################################################################
+
 <info>
-<message>[COLOR=FFFF4500]http://Tinyurl.com/k1m05[/COLOR]</message>
+<message>[COLOR=orange]https://t.co/KcLAa6oDzR[/COLOR]</message>
 <thumbnail>http://img7.imageshack.us/img7/3310/vc4t.jpg</thumbnail>
 </info>
-#######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]Follow me on Twitter @k1m05 to report dead links[/COLOR]</message>
+<message>[COLOR=FF00FF00]Follow me on Twitter @k1m05 to report dead links[/COLOR]</message>
 <thumbnail>http://img826.imageshack.us/img826/346/m3u.png</thumbnail>
 </info>
-#######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]Or Post in the XunityTalk Forums (Mashup Section) to report dead links[/COLOR]</message>
+<message>[COLOR=FF00FF00]Or Post in the XBMCTalk Forums (Mashup Section) to report dead links[/COLOR]</message>
 <thumbnail>http://img834.imageshack.us/img834/7852/928o.png</thumbnail>
 </info>
-#######################################################################################################################################
-### Counter
-#######################################################################################################################################
+##############################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]                 [/COLOR]</message>
+<message>[COLOR=FF00FF00]                 [/COLOR]</message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1011158&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
-#######################################################################################################################################
-### Directories
-#######################################################################################################################################
-<name>[COLOR=FFFF4500]Entertainment[/COLOR]</name>
+##############################################################################################################################
+<name>Entertainment</name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/enterk1.xml</link>
 <thumbnail>http://imageshack.us/a/img541/9260/z9a.png</thumbnail>
 <date>09/22/13</date>
-#######################################################################################################################################
-<name>[COLOR=FFFF4500]News[/COLOR]</name>
+
+<name>News             </name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/newsk1.xml</link>
 <thumbnail>http://img189.imageshack.us/img189/7035/g0br.jpg</thumbnail>
 <date>08/09/13</date>
-#######################################################################################################################################
-<name>[COLOR=FFFF4500]Sports[/COLOR]</name>
+
+<name>Sports           </name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/sportsk1.xml</link>
 <thumbnail>http://imageshack.us/a/img221/4927/nnb.png</thumbnail>
 <date>08/22/13</date>
-#######################################################################################################################################
-<name>[COLOR=FFFF4500]Live Sport and Pay-Per-Views[/COLOR]</name>
+
+
+<name>Live Events  NHL/UFC/WWE</name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/LivePPVs.xml</link>
 <thumbnail>http://imageshack.us/a/img823/1282/nngd.png</thumbnail>
 <date>08/31/13</date>
-#######################################################################################################################################
+
+<dir>
+<name>k1m05 On-Demand</name>
+<link>https://github.com/mash2k3/MashUpK1m05/raw/master/OnDemandDir.xml</link>
+<thumbnail>http://img4.imageshack.us/img4/852/eib2.png</thumbnail>
+</dir>
