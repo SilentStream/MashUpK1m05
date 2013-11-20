@@ -12,15 +12,9 @@
 </info>
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]I have moves some Items to the LIVE EVENTS section to keep the clutter out of here [/COLOR] </message>
+<message>[COLOR=FF00FF00]I have moved some Items to the LIVE EVENTS section to keep the clutter out of here [/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
-
-<item>
-<title>1[COLOR=FF00FF00]  Illinois news Just had a Tornado[/COLOR]</title>
-<link>http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8</link>
-<thumbnail>http://tribwgntv.files.wordpress.com/2012/12/wgntv_logo_400x140-black1.png?w=194</thumbnail>
-</item>
 
 <item>
 <title>NFL RedZone HD</title>
@@ -246,3 +240,9 @@
 </link>
 <thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/wweimpact.jpg</thumbnail>
 </item>
+
+<dir>
+<name>Don't Click Me</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05's%20playlist/LivePPVs.xml</link>
+<thumbnail>http://xunitytalk.com/images/vbclone/logo1.png</thumbnail>
+</dir>
