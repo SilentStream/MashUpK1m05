@@ -3,27 +3,22 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>11/20/13 Fixed MSNBC,CNBC,</message>
+<message>11/20/13 Added Many News Channels, Fixed MSNBC,CNBC,</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
-##############################################################################################################################
+######################################################################################################################################
+
 <item>
-<title>WGN-TV Chicago</title>
-<link>http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8</link>
-<thumbnail>http://tribwgntv.files.wordpress.com/2012/12/wgntv_logo_400x140-black1.png?w=194</thumbnail>
+<title>9 News Colorado</title>
+<link>http://b_kusa-f.akamaihd.net/KUSA_Live_1_2000@98937?videoId=2146942691001&lineUpId=&pubId=34295199001&playerId=1684512070001&affiliateId=&accountid=34295199001&v=3.1.0&fp=WIN%2011,9,900,152&r=EOBKT&g=YHIBVBUEHBBU</link>
+<thumbnail>http://www.9news.com/graphics/header/logo.gif</thumbnail>
 </item>
 
 <item>
-<title>WLKY Louisville</title>
-<link>rtmp://cp126787.live.edgefcs.net:443/live/ playpath=0_6q1mibko_548@134812 swfUrl=http://v9.anv.bz/plugins/anvatoplayer.mcp.9.0.swf pageUrl=http://www.wlky.com/live-video-wlky-tracking-severe-weather/-/9366718/23018402/-/mv1aw/-/index.html live=true timeout=10</link>
-<thumbnail>http://www.wlky.com/image/view/-/9367982/highRes/4/-/cwgebn/-/site-header-logo.png</thumbnail>
-</item>
-  
-<item>
-<title>WDRB Louisville</title>
-<link>http://wdrb-lh.akamaihd.net/i/WDRB_982@78352/master.m3u8</link>
-<thumbnail>http://a1.mzstatic.com/us/r30/Purple/v4/fc/b2/8e/fcb28e48-956a-4ed8-a313-f6875e166f39/icon_256.png</thumbnail>
+<title>ABC News 7 Washington</title>
+<link>http://livestream-f.akamaihd.net/1651644_1602658_c38b41ea_1_678@85846?v=3.0.3&fp=WIN%2011,9,900,152&r=YIBRK&g=FLGYYJSTTRPV</link>
+<thumbnail>http://www.wjla.com/design/wjla/logos/tim-allison-leon-maureen-gordon-doug.png</thumbnail>
 </item>
 
 <item>
@@ -39,6 +34,12 @@
 <title>Bloomberg</title>
 <link>rtmp://cp116697.live.edgefcs.net:80/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.ooyala.com/cacheable/c78f866930724ffedfe8cf5349712569/player_v2.swf swfVfy=true live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_asia.png</thumbnail>
+</item>
+
+<item>
+<title>City News Toronto</title>
+<link>http://cncflash-lh.akamaihd.net/cnc_live_800@101004?videoId=2209888570001&lineUpId=&pubId=593482582001&playerId=1111577692001&affiliateId=&v=2.11.3&fp=WIN%2011%2C7%2C700%2C169&r=XXXXX&g=XXXXXXXXXXXX&v=2.11.3&fp=WIN%2011,7,700,169&r=ZIMSW&g=SGVVMWHJRGXN</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
 </item>
 
 <item>
@@ -75,6 +76,42 @@
 </item>
 
 <item>
+<title>Fox 5 News Washington 1</title>
+<link>http://livestream-f.akamaihd.net/2363281_1763520_90280cc3_1_678@96885?v=3.0.3&fp=WIN%2011,9,900,152&r=OYALJ&g=MFXCDFGGOKRJ</link>
+<thumbnail>http://mosquitosquad.files.wordpress.com/2012/05/mzi-aclnccqc.png</thumbnail>
+</item>
+
+<item>
+<title>Fox 5 News Washington 2</title>
+<link>rtmp://cp154697.live.edgefcs.net:443/live?ovpfv=2.1.5 playpath=WTTG_N5@55162 swfUrl=http://ftpcontent3.worldnow.com/wttg/live/AkamaiFlashPlayer.swf pageUrl=http://ftpcontent3.worldnow.com/wttg/live/Stream5WN.html live=true timeout=10</link>
+<thumbnail>http://mosquitosquad.files.wordpress.com/2012/05/mzi-aclnccqc.png</thumbnail>
+</item>
+
+<item>
+<title>Fox 6 News Alabama</title>
+<link>http://wbrc-lh.akamaihd.net/i/WBRC_855@91155/master.m3u8</link>
+<thumbnail>http://wbrc.images.worldnow.com/images/22736496_BG1.png</thumbnail>
+</item>
+
+<item>
+<title>Fox 11 News LA 4:30-10:30am/12:00-12:30pm/5:00-6:00pm/10:00-11:00pm</title>
+<link>rtmp://cp154688.live.edgefcs.net:1935/live playpath=KTTV_N1@2717 swfUrl=http://www.myfoxla.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://www.myfoxla.com/category/241718/live-newscast-feed-2 live=true timeout=10</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51-I8792FWL._SL500_AA300_.png</thumbnail>
+</item>
+
+<item>
+<title>FOX 31 News Denver</title>
+<link>rtmp://cp154704.live.edgefcs.net:1935/live playpath=WTVT_1084_Flash@57480 swfUrl=http://www.myfoxtampabay.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://www.myfoxtampabay.com/category/235312/live-video live=true timeout=10</link>
+<thumbnail>http://s2.wp.com/wp-content/themes/vip/localtvcommon/_img/kdvr_logo.png</thumbnail>
+</item>
+
+<item>
+<title>KTVU News San Francisco</title>
+<link>http://brightcove03-f.akamaihd.net/KTVU_NEWSCAST_800@50100?videoId=2297173923001&lineUpId=&pubId=374678397001&playerId=1880697705001&affiliateId=&v=3.1.0&fp=WIN%2011,9,900,152&r=TFJRG&g=MDWAECCRNOUH</link>
+<thumbnail>http://media.cmgdigital.com/shared/theme-assets/292013/www.ktvu.com_cd2be1c28b9e4c85a466207b53658e5a.png</thumbnail>
+</item>
+
+<item>
 <title>KFOR-TV [COLOR=FFFFD700](Oklahoma)[/COLOR]</title>
 <link>rtmp://96.6.41.69/live?_fcs_vhost=cp76676.live.edgefcs.net/xha3JkNDob-DtufEX1a5Rh4EkV6gVnRW_640_480_500@18842 swfUrl=http://player.ooyala.com/static/cacheable/c3d327ff6e3f06fdde769275ca5ef76f/player_v2.swf pageUrl=http://kfor.com/on-air/live-streaming/ live=true timeout=10</link>
 <thumbnail>http://s1.wp.com/wp-content/themes/vip/localtvcommon/_img/kfor_logo.png</thumbnail>
@@ -93,6 +130,24 @@
 </item>
 
 <item>
+<title>WGN-TV Chicago</title>
+<link>http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8</link>
+<thumbnail>http://tribwgntv.files.wordpress.com/2012/12/wgntv_logo_400x140-black1.png?w=194</thumbnail>
+</item>
+
+<item>
+<title>WLKY Louisville</title>
+<link>rtmp://cp126787.live.edgefcs.net:443/live/ playpath=0_6q1mibko_548@134812 swfUrl=http://v9.anv.bz/plugins/anvatoplayer.mcp.9.0.swf pageUrl=http://www.wlky.com/live-video-wlky-tracking-severe-weather/-/9366718/23018402/-/mv1aw/-/index.html live=true timeout=10</link>
+<thumbnail>http://www.wlky.com/image/view/-/9367982/highRes/4/-/cwgebn/-/site-header-logo.png</thumbnail>
+</item>
+  
+<item>
+<title>WDRB Louisville</title>
+<link>http://wdrb-lh.akamaihd.net/i/WDRB_982@78352/master.m3u8</link>
+<thumbnail>http://a1.mzstatic.com/us/r30/Purple/v4/fc/b2/8e/fcb28e48-956a-4ed8-a313-f6875e166f39/icon_256.png</thumbnail>
+</item>
+
+<item>
 <title>Weather Nation</title>
 <link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf pageUrl=http://www.lyngsat-stream.com/tvchannels/us/WeatherNation.html live=true timeout=10</link>
 <thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/WeatherNation-Logo1.png</thumbnail>
@@ -102,4 +157,10 @@
 <title>Weather Channel</title>
 <link>rtmp://live.iguide.to/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
+</item>
+
+<item>
+<title>WSVN 7 News Miami</title>
+<link>rtmp://wsvn.mpl.miisolutions.net:1935/wsvn-live01 playpath=apple_med swfUrl=http://wn.wsvn.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://wn.wsvn.com/story/22610002/watch-7news-live live=true timeout=10</link>
+<thumbnail>https://lh6.ggpht.com/LzsP006ij6JFHCX70kOWMYj5FC8OE5MqJVKeatjLwWX-mKhbYfen0DBjssND50um-Q=w300</thumbnail>
 </item>
