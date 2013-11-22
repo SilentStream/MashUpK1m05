@@ -53,11 +53,11 @@
 <item>
 <title>NHL Games</title>
 <link>
-  <sublink>rtmp://37.220.34.50:80/liverepeater playpath=frame12 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame12&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>rtmp://213.163.64.208:80/liverepeater playpath=frame11 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame11&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>rtmp://213.163.64.207:80/liverepeater playpath=frame8 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame8&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>rtmp://37.220.34.51:80/liverepeater playpath=frame9 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame9&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>rtmp://37.220.34.49:80/liverepeater playpath=frame10 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=frame10&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://37.220.34.33:80/liverepeater playpath=asd7 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=asd7&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://213.163.64.207:80/liverepeater playpath=asd6 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=asd6&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://80.82.64.120:1935/live playpath=ma7 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed1.php?channel=ma7&vw=650&vh=460&domain=www.cv23.us live=true timeout=10</sublink>
+  <sublink>rtmp://93.174.93.180:1935/live playpath=ma8 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed1.php?channel=ma8&vw=650&vh=460&domain=www.cv23.us live=true timeout=10</sublink>
+  <sublink>rtmp://93.174.93.180:1935/live playpath=ma4 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed1.php?channel=ma4&vw=650&vh=460&domain=www.cv23.us live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.userlogos.org/files/logos/neoknight037/NHL.png</thumbnail>
 </item>
