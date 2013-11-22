@@ -51,7 +51,7 @@
 </item>
 
 <item>
-<title>NHL Games</title>
+<title>NHL Games (Some are updated)</title>
 <link>
   <sublink>rtmp://37.220.34.33:80/liverepeater playpath=asd7 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=asd7&width=630&height=400 live=true timeout=10</sublink>
   <sublink>rtmp://213.163.64.207:80/liverepeater playpath=asd6 swfUrl=http://cdna.aljazeerasport.asia/player.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=asd6&width=630&height=400 live=true timeout=10</sublink>
