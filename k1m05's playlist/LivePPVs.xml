@@ -34,8 +34,11 @@
 </item>
 
 <item>
-<title>BOXING PPV Will update more soon</title>
-<link>rtmp://31.220.0.133:443/live playpath=ch7 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=true timeout=10</link>
+<title>Boxing Live Now</title>
+<link>
+  <sublink>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
+  <sublink>rtmp://31.220.0.133:443/live playpath=ch7 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=ch7&vw=620&vh=490 live=true timeout=10</sublink>
+</link>
 <thumbnail>http://m5.paperblog.com/i/59/599780/froch-vs-groves-the-big-fight-round-up-L-nYhRfN.jpeg</thumbnail>
 </item>
 
