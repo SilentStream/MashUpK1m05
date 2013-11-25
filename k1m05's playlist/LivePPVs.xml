@@ -14,6 +14,12 @@
 </info>
 
 <item>
+<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Survivor[/COLOR] [COLOR=red]Series[/COLOR] [COLOR=white]Pre-Show[/COLOR]</title>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_tmbhd1337 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/tmbhd1337 live=true timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/Survivor_series_2013.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
