@@ -7,7 +7,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]11/20/13 Fixed Channels with red * should all be working TruTv,SYFY,ABC,ABCFam,FOX,OWN,NBC,ID,Bravo,BET,AnmlPlnt(L1),ComedyCentral,Discovery(L1),Disney,FoxCrime,FoxMovies,FOX,History2,NatGeo | 11/11/13 Spike(L2),NBC,CBS,ComedyCentral Fixed | 11/10/13 Added Military Channel All Streams with red * are fixed MTV Rocks fixed (kinda)| 11/07/13 NBC | 10/25/13 Fixed CBS | 10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
+<message>[COLOR=FFFF4500]11/25/13 Fixed Cartoon Network (Link1) | 11/20/13 Fixed Channels with red * should all be working TruTv,SYFY,ABC,ABCFam,FOX,OWN,NBC,ID,Bravo,BET,AnmlPlnt(L1),ComedyCentral,Discovery(L1),Disney,FoxCrime,FoxMovies,FOX,History2,NatGeo | 11/11/13 Spike(L2),NBC,CBS,ComedyCentral Fixed | 11/10/13 Added Military Channel All Streams with red * are fixed MTV Rocks fixed (kinda)| 11/07/13 NBC | 10/25/13 Fixed CBS | 10/16/13 .Fixed ID, FX, TBS, Added Travel in SD, FX Possibly West coast stream | 10/13/13 AMC a fixed | 10/04/13 :) Streams Marked [COLOR=FF00FF00]  *  [/COLOR] are MOSTLY FIXED | 09/25/13 Fixed Most with green * 09/22/13 Fixed Most with green * added showtime | 09/18/13 Add Sky Movies x6 | 09/13/13 Streams with red * are back on, Fixed: Food Network, Nat Geo HDb, Syfy Add: Vevo 1,2,3 | 09/12/13 MTV HGTV Fixed | 08/10/13 New iLive tokne found. Lots back on. | 09/08/13 Add Discovery.[/COLOR]</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ###############################################################################################################################
@@ -86,6 +86,7 @@
 <item>
 <title>Cartoon Network[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
+  <sublink>rtmp://31.204.154.141/live/ playpath=azb5adnw4mlioah pageUrl=http://www.tvonlinestreams.com live=true timeout=10</sublink>
  <sublink>rtmp://live.iguide.to/edge/srts7n4g6oypowl swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
  <sublink>rtmp://live.iguide.to/edge/lf4cc63667vxzlx swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
 </link>
