@@ -106,6 +106,12 @@
 </item>
 
 <item>
+<title>KTLA 5 Las Angeles HD</title>
+<link>http://ktlatribune-lh.akamaihd.net/i/KTLATribune_1@109091/master.m3u8</link>
+<thumbnail>http://tribktla.files.wordpress.com/2012/11/ktla-5-logo-for-wordpress.png</thumbnail>
+</item>
+
+<item>
 <title>KTVU News San Francisco</title>
 <link>http://brightcove03-f.akamaihd.net/KTVU_NEWSCAST_800@50100?videoId=2297173923001&lineUpId=&pubId=374678397001&playerId=1880697705001&affiliateId=&v=3.1.0&fp=WIN%2011,9,900,152&r=TFJRG&g=MDWAECCRNOUH</link>
 <thumbnail>http://media.cmgdigital.com/shared/theme-assets/292013/www.ktvu.com_cd2be1c28b9e4c85a466207b53658e5a.png</thumbnail>
