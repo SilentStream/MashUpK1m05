@@ -200,6 +200,12 @@
 </item>
 
 <item>
+<title>FreakShow Inc.[COLOR=FF00FF00]  (Music)  [/COLOR]</title>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_freakshowinc swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/freakshowinc live=true timeout=10</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/freakshowinc_320.jpg</thumbnail>
+</item>
+
+<item>
 <title>FX [COLOR=FFFF0000]HD[/COLOR][COLOR=FFFF4500]  *  [/COLOR]</title>
 <link>http://cwt02.livem3u8.me.totiptv.com/live//2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=1500</link>
 <thumbnail>http://imageshack.us/a/img196/9668/8x6l.png</thumbnail>
