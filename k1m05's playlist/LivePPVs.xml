@@ -14,16 +14,7 @@
 </info>
 
 <item>
-<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Survivor[/COLOR] [COLOR=red]Series[/COLOR] [COLOR=white]Main Show[/COLOR][COLOR=red] HD[/COLOR]</title>
-<link>
-  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
-  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel88 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/Survivor_series_2013.jpg</thumbnail>
-</item>
-
-<item>
-<title>2. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Survivor[/COLOR] [COLOR=red]Series[/COLOR] [COLOR=white]Main Show[/COLOR][COLOR=red] SD[/COLOR]</title>
+<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/Survivor_series_2013.jpg</thumbnail>
 </item>
