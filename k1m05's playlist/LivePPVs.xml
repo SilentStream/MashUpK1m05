@@ -14,8 +14,8 @@
 </info>
 
 <item>
-<title>0. [COLOR=white]The Ultimate Fighter:[/COLOR] [COLOR=blue]Finale[/COLOR] [COLOR=red]Weigh-ins[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
+<title>0. [COLOR=white]The Ultimate Fighter:[/COLOR] [COLOR=blue]Finale[/COLOR] [COLOR=red]Weigh-ins[/COLOR] [COLOR=white]Live[/COLOR]</title>
+<link>rtmp://cp76053.live.edgefcs.net/live/ playpath=asdfg123@10936 swfUrl=http://media.ufc.tv/ufc_system_assets/ufc_201311261650/js/jwplayer6/jwplayer.flash.swf pageUrl=http://www.ufc.com/media/tuf-18-weigh-in live=true timeout=10</link>
 <thumbnail>http://media.ufc.tv/generated_images_sorted/FrontPageFeature/tuf-18-weigh-in-fpf/tuf-18-weigh-in-fpf_464669_FrontPageFeatureNarrow.png</thumbnail>
 </item>
 
