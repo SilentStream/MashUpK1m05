@@ -78,7 +78,7 @@
 </item>
 
 <item>
-<title>BET</title>
+<title>BET [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://live.iguide.to/edge/kexkxje3nqi6dtl swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://imageshack.us/a/img689/1337/2du8.png</thumbnail>
 </item>
@@ -90,8 +90,8 @@
 </item>
 
 <item>
-<title>Bravo</title>
-<link>rtmp://live.iguide.to/edge/uw433ikqnrj501l swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</link>
+<title>Bravo [COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://ams.premiumcdnlive.com/edge playpath=uw433ikqnrj501l swfUrl=http://player.ilive.to/secure_player_ilive_z.swf pageUrl=http://www.ilive.to token=I8772LDKksadhGHGagf# live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img109/20/nu7.png</thumbnail>
 </item>
 
@@ -99,8 +99,8 @@
 <title>Cartoon Network[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
   <sublink>rtmp://31.204.154.141/live/ playpath=azb5adnw4mlioah pageUrl=http://www.tvonlinestreams.com live=true timeout=10</sublink>
- <sublink>rtmp://live.iguide.to/edge/srts7n4g6oypowl swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
- <sublink>rtmp://live.iguide.to/edge/lf4cc63667vxzlx swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/srts7n4g6oypowl swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+  <sublink>rtmp://live.iguide.to/edge/lf4cc63667vxzlx swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
 </item>
