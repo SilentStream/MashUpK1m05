@@ -14,6 +14,12 @@
 </info>
 
 <item>
+<title>0. [COLOR=white]The Ultimate Fighter:[/COLOR] [COLOR=blue]Finale[/COLOR] [COLOR=red]Weigh-ins[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
+<thumbnail>http://media.ufc.tv/generated_images_sorted/FrontPageFeature/tuf-18-weigh-in-fpf/tuf-18-weigh-in-fpf_464669_FrontPageFeatureNarrow.png</thumbnail>
+</item>
+
+<item>
 <title>2. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
