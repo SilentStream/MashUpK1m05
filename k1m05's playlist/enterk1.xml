@@ -7,7 +7,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>11/27/13 Fixed All Links With [COLOR=FFFF4500]  *  [/COLOR] | 11/25/13 Fixed Cartoon Network (Link1) | 11/20/13 Fixed Channels with red * should all be working TruTv,SYFY,ABC,ABCFam,FOX,OWN,NBC,ID,Bravo,BET,AnmlPlnt(L1),ComedyCentral,Discovery(L1),Disney,FoxCrime,FoxMovies,FOX,History2,NatGeo</message>
+<message>11/30/13 Fixed NickHD | 11/27/13 Fixed All Links With [COLOR=FFFF4500]  *  [/COLOR] | 11/25/13 Fixed Cartoon Network (Link1) | 11/20/13 Fixed Channels with red * should all be working TruTv,SYFY,ABC,ABCFam,FOX,OWN,NBC,ID,Bravo,BET,AnmlPlnt(L1),ComedyCentral,Discovery(L1),Disney,FoxCrime,FoxMovies,FOX,History2,NatGeo</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>6ccjzyf41f9gmfx
 ###############################################################################################################################
@@ -355,7 +355,7 @@
 
 <item>
 <title>Nick [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://ny.iguide.to/edge/hxoq929n5q4a9u3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true timeout=10</link>
+<link>rtmp://ams.premiumcdnlive.com/edge playpath=hxoq929n5q4a9u3 swfUrl=http://player.ilive.to/secure_player_ilive_z.swf pageUrl=http://www.ilive.to token=I8772LDKksadhGHGagf# live=true timeout=10</link>
 <thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
 </item>
 
