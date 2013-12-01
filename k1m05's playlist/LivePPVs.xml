@@ -38,6 +38,7 @@
 <title>4. HBO Boxing: Tony Bellew vs Adonis Stevenson</title>
 <link>
   <sublink>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</sublink>
+  <sublink>rtmp://server.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>  
 </link>
 <thumbnail>http://www.boxingguru.tv/images/Tony-Bellew-vs-Adonis-Stevenson.jpg</thumbnail>
 </item>
