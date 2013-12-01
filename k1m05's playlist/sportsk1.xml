@@ -56,16 +56,13 @@
 
 <item>
 <title>BT Sports 1</title>
-<link>
-  <sublink>rtmpe://play.finecast.tv/live playpath=bt101 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=bt1111&vw=600&vh=400 live=true timeout=10</sublink>
-  <sublink>rtmp://31.220.0.103:443/live playpath=bt1 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt1&vw=620&vh=490 live=true timeout=10</sublink>
-</link>
+<link>rtmp://31.220.0.133:443/live playpath=btxx1 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
 </item>
 
 <item>
 <title>BT Sports 2</title>
-<link>rtmp://31.220.0.103:443/live playpath=bt2 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://31.220.0.104:443/live playpath=bt2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 </item>
 
@@ -89,14 +86,14 @@
 </item>
 
 <item>
-<title>Eurosport [COLOR=FFFF0000] 1080p HD[/COLOR]</title>
-<link>http://109.95.47.249:1919/udp/239.0.0.195:4000</link>
+<title>Eurosport</title>
+<link>rtmp://31.220.0.104:443/live playpath=euroo11c swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euroo11c&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
 <item>
 <title>Eurosport 2</title>
-<link>http://109.95.47.249:1919/udp/239.0.0.81:4000</link>
+<link>rtmp://31.220.0.103:443/live playpath=euro2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
