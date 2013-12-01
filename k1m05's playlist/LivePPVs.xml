@@ -78,18 +78,18 @@
 </item>
 
 <item>
-<title>NHL 11/30/13</title>
+<title>NHL 11/30/13*</title>
 <link>
-  <sublink>=rtmp://109.200.202.11/liverepeater playpath=128541 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128541&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://109.200.202.13/liverepeater playpath=128538 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128538&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://5.9.149.141/liverepeater playpath=128540 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128540&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://37.220.34.50/liverepeater playpath=128539 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128539&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://37.220.34.49/liverepeater playpath=128542 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128542&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://144.76.59.180/liverepeater playpath=128544 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128544&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://144.76.38.112/liverepeater playpath=128543 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128543&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://94.242.228.157/liverepeater playpath=128545 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128545&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://5.9.156.135/liverepeater playpath=128546 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128546&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>=rtmp://144.76.59.180/liverepeater playpath=128547 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128547&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://109.200.202.11/liverepeater playpath=128541 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128541&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://109.200.202.13/liverepeater playpath=128538 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128538&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://5.9.149.141/liverepeater playpath=128540 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128540&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://37.220.34.50/liverepeater playpath=128539 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128539&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://37.220.34.49/liverepeater playpath=128542 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128542&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://144.76.59.180/liverepeater playpath=128544 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128544&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://144.76.38.112/liverepeater playpath=128543 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128543&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://94.242.228.157/liverepeater playpath=128545 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128545&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://5.9.156.135/liverepeater playpath=128546 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128546&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://144.76.59.180/liverepeater playpath=128547 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128547&width=630&height=400 live=true timeout=10</sublink>
 <thumbnail>http://www.userlogos.org/files/logos/neoknight037/NHL.png</thumbnail>
 </item>
 
