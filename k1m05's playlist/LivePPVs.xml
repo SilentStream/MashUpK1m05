@@ -14,43 +14,13 @@
 </info>
 
 <item>
-<title>1. [COLOR=white]The Ultimate Fighter:[/COLOR] [COLOR=blue]Finale[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/cc/TUF_18_event_poster.jpg/453px-TUF_18_event_poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>2. [COLOR=white]The Ultimate Fighter:[/COLOR] [COLOR=blue]Finale[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/cc/TUF_18_event_poster.jpg/453px-TUF_18_event_poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>3. [COLOR=white]The Ultimate Fighter:[/COLOR] [COLOR=blue]Finale[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]HD[/COLOR]</title>
-<link>
-  <sublink>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-  <sublink>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/cc/TUF_18_event_poster.jpg/453px-TUF_18_event_poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>4. HBO Boxing: Tony Bellew vs Adonis Stevenson</title>
-<link>
-  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</sublink>
-  <sublink>rtmp://server.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>  
-</link>
-<thumbnail>http://www.boxingguru.tv/images/Tony-Bellew-vs-Adonis-Stevenson.jpg</thumbnail>
-</item>
-
-<item>
-<title>6. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
 <item>
-<title>5. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<title>2. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
