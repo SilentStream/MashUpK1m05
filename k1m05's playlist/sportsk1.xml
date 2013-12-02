@@ -23,6 +23,18 @@
 </dir>
 
 <item>
+<title>Classic Wrestling</title>
+<link>
+  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_alwaysrocking swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/alwaysrocking live=true timeout=10</sublink>
+  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_mistyskin swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mistyskin live=true timeout=10</sublink>
+  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_thakpn swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/thakpn live=true timeout=10</sublink>
+  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_dmetal1 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/dmetal1 live=true timeout=10</sublink>
+  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_flemsey swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/flemsey live=true timeout=10</sublink>
+</link>
+<thumbnail>http://www.allwrestlingsuperstars.com/wp-content/uploads/2013/09/Razor-Ramon-Both-Hand-Thumbs-Up.jpg</thumbnail>
+</item>
+
+<item>
 <title>NFL RedZone HD</title>
 <link>
   <sublink>rtmp://ny.premiumcdnlive.com/iguide playpath=dtlvlrjrz71c1jn swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/6567/watch-live-_..._-channel-for-free token=#ed%h0#w18623jsda6523lDGDve live=true timeout=10</sublink>
