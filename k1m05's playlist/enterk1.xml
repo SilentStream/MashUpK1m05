@@ -88,10 +88,18 @@
 
 <item>
 <title>AMC a[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://ny.iguide.to/edge/z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://ny.iguide.to/edge/7300bdrrhi0fopq swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
 
+<item>
+<title>AMC? Possable Walking Dead Links???</title>
+<link>
+  <sublink>rtmp://5.79.65.209/live playpath=testfeed1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed live=true timeout=10</sublink>
+  <sublink>rtmp://5.79.65.209/live playpath=testfeed2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed live=true timeout=10</sublink>
+</link>
+<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
+</item>
 <item>
 <title>AMC b</title>
 <link>rtmpe://live.univisionbrazil.com/modelo/amc.live swfUrl=http://livecupbrazil.com/player/player.swf pageUrl=http://livecupbrazil.com/channel.php?n=amc live=true timeout=10</link>
@@ -172,7 +180,7 @@
 </item>
 
 <item>
-<title>Comedy Central [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>Comedy Central [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://live.iguide.to/edge/sfrd5bsagtq9eg0 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
 </item>
@@ -220,7 +228,7 @@
 <item>
 <title>FOX[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
- <sublink>rtmp://live.iguide.to/edge/9exx6ubj0xqiazz swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
+ <sublink>rtmp://live.iguide.to/edge/5x3ppova5226hss swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
  <sublink>rtmp://live.iguide.to/edge/517svlf9v9weqyo swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
