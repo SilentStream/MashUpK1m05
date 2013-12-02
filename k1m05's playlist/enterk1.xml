@@ -95,6 +95,7 @@
 <item>
 <title>AMC? Possable Walking Dead Links???</title>
 <link>
+  <sublink>rtmpe://watch.playfooty.tv/live playpath=amci swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=masalii&vw=600&vh=430</sublink>
   <sublink>rtmp://5.79.65.209/live playpath=testfeed1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed live=true timeout=10</sublink>
   <sublink>rtmp://5.79.65.209/live playpath=testfeed2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed live=true timeout=10</sublink>
 </link>
@@ -104,6 +105,18 @@
 <title>AMC b</title>
 <link>rtmpe://live.univisionbrazil.com/modelo/amc.live swfUrl=http://livecupbrazil.com/player/player.swf pageUrl=http://livecupbrazil.com/channel.php?n=amc live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet [COLOR=FFFF0000]L!ve[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/3101581209/6fb77f2713439c6af75f161f73199cf8.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet [COLOR=FFFF0000]L!ve[/COLOR] Reindeer</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/16076741/streams/live/playlist.m3u8</link>
+<thumbnail>http://img96.imageshack.us/img96/2804/m6jl.jpg</thumbnail>
 </item>
 
 <item>
@@ -330,7 +343,10 @@
 
 <item>
 <title>Investigation Discovery</title>
-<link>rtmp://live.iguide.to/edge/ibnnu7537h3ax6e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
+<link>
+  <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/14315001/streams/live/playlist.m3u8</sublink>
+  <sublink>rtmp://live.iguide.to/edge/ibnnu7537h3ax6e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img825/993/zx34.png</thumbnail>
 </item>
 
