@@ -7,14 +7,10 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]11/21/13 Added new Skys Sports links (Link1) | 11/10/13 Golf, RedZone Fixed yet again, Rndm HQ Football Updated, RedZone Fixed Added Miltilink SS123&4 | 11/03/13 Nascar,Eurosport1&2,FoxSports+HD&SD,Golf,NBCSports,SS1,2,3,4,F1,News[/COLOR]</message>
+<message>[COLOR=FF00FF00]12/2/13 Added CTH Stadium (Premier League?)[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
-<info>
-<message>[COLOR=FF00FF00]I have moved some Items to the LIVE EVENTS section to keep the clutter out of here [/COLOR] </message>
-<thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
-</info>
 
 <dir>
 <name>Live Events Section</name>
@@ -76,6 +72,30 @@
 <title>BT Sports 2</title>
 <link>rtmp://31.220.0.104:443/live playpath=bt2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 1</title>
+<link>http://103.7.57.189:1999/inspire/cth1/MashUpXBMC.m3u8</link>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/05/logo-cth-new.png</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 2</title>
+<link>http://103.7.57.189:1999/inspire/cth2/MashUpXBMC.m3u8</link>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/05/logo-cth-new.png</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 3</title>
+<link>http://103.7.57.189:1999/inspire/cth3/MashUpXBMC.m3u8</link>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/05/logo-cth-new.png</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 4</title>
+<link>http://103.7.57.189:1999/inspire/cth4/MashUpXBMC.m3u8</link>
+<thumbnail>http://www.cth.co.th/wp-content/uploads/2013/05/logo-cth-new.png</thumbnail>
 </item>
 
 <item>

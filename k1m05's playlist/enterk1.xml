@@ -7,7 +7,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>11/30/13 Fixed NickHD | 11/27/13 Fixed All Links With [COLOR=FFFF4500]  *  [/COLOR] | 11/25/13 Fixed Cartoon Network (Link1) | 11/20/13 Fixed Channels with red * should all be working TruTv,SYFY,ABC,ABCFam,FOX,OWN,NBC,ID,Bravo,BET,AnmlPlnt(L1),ComedyCentral,Discovery(L1),Disney,FoxCrime,FoxMovies,FOX,History2,NatGeo</message>
+<message>12/2/13 New History stream, Video Mix | 11/30/13 Fixed NickHD | 11/27/13 Fixed All Links With [COLOR=FFFF4500]  *  [/COLOR] | 11/25/13 Fixed Cartoon Network (Link1) | 11/20/13 Fixed Channels with red * should all be working TruTv,SYFY,ABC,ABCFam,FOX,OWN,NBC,ID,Bravo,BET,AnmlPlnt(L1),ComedyCentral,Discovery(L1),Disney,FoxCrime,FoxMovies,FOX,History2,NatGeo</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ###############################################################################################################################
@@ -343,7 +343,10 @@
 
 <item>
 <title>History[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/dhp0rpd116qyyj6 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
+<link>
+  <sublink>rtmp://141.8.247.250/base playpath=historytv.stream swfUrl=http://141.8.247.250/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=b4u_plus&vw=550&vh=410&typeplayer=0&domain=sportsembed.com live=true timeout=10  token=%X886(nPK@#.</sublink>
+  <sublink>rtmp://live.iguide.to/edge/dhp0rpd116qyyj6 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
 </item>
 
@@ -549,6 +552,12 @@
 <title>VH1</title>
 <link>rtmp://149.255.37.162/stream playpath=vh111?id=79477 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/vh111/1/500/380 conn=S:OK timeout=10</link>
 <thumbnail>http://imageshack.us/a/img841/1742/9hiu.png</thumbnail>
+</item>
+
+<item>
+<title>VIDEO MIX TV - South Florida Simulcast</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/5898069/streams/live/playlist.m3u8</link>
+<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/5/8/9/8/5898069/5898069_videomixbluelogo_1296079568,66x66,r:1.jpg</thumbnail>
 </item>
 
 <item>
