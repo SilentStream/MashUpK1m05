@@ -72,7 +72,10 @@
 
 <item>
 <title>BT Sports 2</title>
-<link>rtmp://31.220.0.104:443/live playpath=bt2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=true timeout=10</link>
+<link>
+    <sublink>rtmpe://46.246.124.6:1935/live playpath=ban7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
+	<sublink>rtmp://31.220.0.104:443/live playpath=bt2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=true timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 </item>
 
@@ -228,7 +231,7 @@
 <title>Sky Sports 2</title>
 <link>
   <sublink>rtmp://141.8.247.250/base/desi2.stream pageUrl=http://sportsembed.com/embed.php?v=k1m05&vw=600&vh=450 token=%X886(nPK@#. live=true timeout=10</sublink>
-  <sublink>rtmpe://46.246.29.149:1935/live/ban2 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</sublink>
+    <sublink>rtmpe://46.246.124.6:1935/live playpath=ban2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
   <sublink>rtmp://37.220.36.7:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.featve.com/ss2.html token=#atd%#$ZH live=true timeout=10</sublink> 
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
