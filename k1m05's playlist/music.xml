@@ -5,10 +5,17 @@
 #######################################################################################################################################
 
 <item>
+<title>Chronix Aggression [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
+<link>http://173.192.45.18:10200</link>
+<thumbnail>http://www.chronixradio.com/images/stations/Logo_Aggro_2011.png</thumbnail>
+</item>
+
+<item>
 <title>Totally_70s</title>
 <link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_totally_70s swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/Totally_70s live=true timeout=10</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/totally_70s_320.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>D-Town Radio</title>
@@ -23,7 +30,7 @@
 </item>
 
 <item>
-<title>FreakShow Inc.[COLOR=FF00FF00]  (Music)  [/COLOR]</title>
+<title>FreakShow Inc.</title>
 <link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_freakshowinc swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/freakshowinc live=true timeout=10</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/freakshowinc_320.jpg</thumbnail>
 </item>
