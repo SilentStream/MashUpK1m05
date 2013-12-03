@@ -4,10 +4,34 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 
+<popup>
+<name>Pop?</name>
+<popImage>http://www.chip.de/ii/2/2/3/6/0/3/5/6/xbox1-cc108eb80b84b81b.jpg</popImage>
+<thumbnail>http://www.chip.de/ii/2/2/3/6/0/3/5/6/xbox1-cc108eb80b84b81b.jpg</thumbnail>
+</popup>
+
+<item>
+<title>All Rock 'n' Metal Online Radio (ARMOR) [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
+<link>http://myradiostream.com/15/10122/listen.m3u</link>
+<thumbnail>https://pbs.twimg.com/profile_images/3746998312/24375b7189be25d28c6c51486b9cbdce.jpeg</thumbnail>
+</item>
+
 <item>
 <title>Chronix Aggression [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
 <link>http://173.192.45.18:10200</link>
 <thumbnail>http://www.chronixradio.com/images/stations/Logo_Aggro_2011.png</thumbnail>
+</item>
+
+<item>
+<title>Christmas [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
+<link>rtmp://fms.105.net:1935/live playpath=XMAS swfUrl=http://www.105.net/swf/corePlayerStreamingVisible2013_counter_105.swf?streamRadio=XMAS&radioName=105&autoPlay=1&bufferTime=2.5&rateServer=37.247.51.46/[[DYNAMIC]]/3 pageUrl=http://www.105.net/webradio/play/id/54/name/xmas-radio live=true timeout=10</link>
+<thumbnail>http://www.105.net//media/webradio/00-105xmasradio(4).jpg</thumbnail>
+</item>
+
+<item>
+<title>KNAC [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
+<link>http://www.streamlicensing.com/directory/index.cgi/playlist.asx?action=playlist&type=asx&sid=412&stream_id=679</link>
+<thumbnail>http://www.knac.com/images/hdr/logo.gif</thumbnail>
 </item>
 
 <item>
@@ -123,6 +147,12 @@
 <title>Vevo TV 3 HD</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
 <thumbnail>http://imageshack.us/a/img541/1553/51o.png</thumbnail>
+</item>
+
+<item>
+<title>Virgin</title>
+<link>rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://www.cracketzaa.tv/canal/virgintv.php?width=711&height=410</link>
+<thumbnail>http://imageshack.us/a/img841/1742/9hiu.png</thumbnail>
 </item>
 
 <item>
