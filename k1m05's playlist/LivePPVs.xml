@@ -57,17 +57,15 @@
 </item>
 
 <item>
-<title>NHL 11/25/13</title>
+<title>NHL 12/3/13</title>
 <link>
-  <sublink>rtmp://77.95.227.77:80/liverepeater playpath=126181 swfUrl=http://cdn.goodcast.pw/player2.swf pageUrl=http://goodcast.pw/streamn.php?id=126181&width=640&height=490 live=true timeout=10</sublink>
-  <sublink>rtmp://80.82.64.104:1935/live playpath=bh11 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.str3ams.com/embed.php?u=bh11&vw=640&vh=480&domain=beestream.info live=true timeout=10</sublink>
-  <sublink>rtmp://109.200.202.12:80/liverepeater playpath=asd13 swfUrl=http://cdna.aljazeerasport.asia/player2.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=asd13&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>rtmp://80.82.64.90:1935/live playpath=bh19 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.str3ams.com/embed.php?u=bh19&vw=640&vh=480&domain=beestream.info live=true timeout=10</sublink>
-  <sublink>rtmp://37.220.34.34:1935/liverepeater playpath=asd15 swfUrl=http://cdna.aljazeerasport.asia/player2.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=asd15&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>rtmp://85.159.233.85:80/liverepeater playpath=126182 swfUrl=http://cdn.goodcast.pw/player2.swf pageUrl=http://goodcast.pw/streamn.php?id=126182&width=640&height=490 live=true timeout=10</sublink>
-  <sublink>rtmp://80.82.64.104:1935/live playpath=bh10 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.str3ams.com/embed.php?u=bh10&vw=640&vh=480&domain=beestream.info live=true timeout=10</sublink>
-  <sublink>rtmp://109.200.202.11:80/liverepeater playpath=asd16 swfUrl=http://cdna.aljazeerasport.asia/player2.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=asd16&width=630&height=400 live=true timeout=10</sublink>
-  <sublink>rtmp://109.200.202.12:80/liverepeater playpath=asd17 swfUrl=http://cdna.aljazeerasport.asia/player2.swf pageUrl=http://www.aljazeerasport.asia/live.php?id=asd17&width=630&height=400 live=true timeout=10</sublink></link>
+  <sublink>rtmp://109.200.202.11/liverepeater playpath=128540 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128540&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://80.82.64.119:1935/live playpath=ma8 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma8&vw=660&vh=400&domain=www.vipboxsports.me live=true timeout=10</sublink>
+  <sublink>rtmp://109.200.202.11/liverepeater playpath=128539 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128539&width=630&height=400 live=true timeout=10</sublink>
+  <sublink>rtmp://80.82.64.117:1935/live playpath=ma7 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma7&vw=660&vh=400&domain=www.vipboxsports.me live=true timeout=10</sublink>
+  <sublink>rtmp://204.45.157.186/flash playpath=12066 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/M2MjQ0MWM5MWViMTVjOGFlYmU1YTozMWIxNGZhZWEzZWQ2MGM0YTM2MzZhOGI1MmQ1YjYyOA__/NzFjNWUwYWNmOWJhOjllNjE2Yzc0NzI2NTczNjE6MTJhODdlZDczOGI2NTk2YmU1ZT live=true timeout=10</sublink>
+  <sublink>rtmp://80.82.64.117:1935/live playpath=ma10 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.newsko.co.uk/embed.php?channel=ma10&vw=660&vh=400&domain=www.vipboxsports.me live=true timeout=10</sublink>
+  <sublink>rtmp://37.220.34.50/liverepeater playpath=128542 swfUrl=http://cdna.aljazeerasport.asia/players.swf pageUrl=http://aljazeerasport.asia/stream.php?id=128542&width=630&height=400 live=true timeout=10</sublink>
 <thumbnail>http://www.userlogos.org/files/logos/neoknight037/NHL.png</thumbnail>
 </item>
 
