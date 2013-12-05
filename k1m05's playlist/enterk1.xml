@@ -7,7 +7,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>12/4/13 FX West,12/2/13 New History stream, Video Mix | 11/30/13 Fixed NickHD | 11/27/13 Fixed All Links With [COLOR=FFFF4500]  *  [/COLOR] | 11/25/13 Fixed Cartoon Network (Link1) | 11/20/13 Fixed Channels with red * should all be working TruTv,SYFY,ABC,ABCFam,FOX,OWN,NBC,ID,Bravo,BET,AnmlPlnt(L1),ComedyCentral,Discovery(L1),Disney,FoxCrime,FoxMovies,FOX,History2,NatGeo</message>
+<message>12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | 11/30/13 Fixed NickHD | 11/27/13 Fixed All Links With [COLOR=FFFF4500]  *  [/COLOR] | 11/25/13 Fixed Cartoon Network (Link1) | 11/20/13 Fixed Channels with red * should all be working TruTv,SYFY,ABC,ABCFam,FOX,OWN,NBC,ID,Bravo,BET,AnmlPlnt(L1),ComedyCentral,Discovery(L1),Disney,FoxCrime,FoxMovies,FOX,History2,NatGeo</message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ###############################################################################################################################
@@ -140,6 +140,7 @@
 <item>
 <title>Animal Planet [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
+  <sublink>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr2548k.m3u8</sublink>
   <sublink>http://m24.megafun.vn/live.vs?c=vstv078&q=high</sublink>
   <sublink>rtmp://live.iguide.to/edge/41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true pageUrl=http://www.ilive.to/</sublink>
 </link>
