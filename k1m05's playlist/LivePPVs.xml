@@ -51,13 +51,6 @@
 <link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10<link>
 <thumbnail>http://www.northamptonshiresport.org/images/dr_ee4e91ff8c4410e41752c58d944038db.jpg</thumbnail>
 </item>
-
-<item>
-<title>7. [COLOR=white]Showtime Boxing:[/COLOR] [COLOR=red]Unknown card[/COLOR]</title>
-<link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</link>
-<thumbnailhttp://www.northamptonshiresport.org/images/dr_ee4e91ff8c4410e41752c58d944038db.jpg</thumbnail>
-</item>
-
 #######################################################################################################
 <item>
 <title>NHL Network</title>
@@ -79,14 +72,6 @@
   <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=nascar49fast2</sublink>
 </link>
 <thumbnail>http://media.npr.org/assets/img/2013/02/23/nascar_daytona_nationwide_auto_racing_15301727_wide-55c50c6286f877295871e17dee42881054eebf64-s6-c30.jpg</thumbnail>
-</item>
-
-<item>
-<title>CFL Grey Cup (Requires JTV Addon to work)</title>
-<link>
-  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=furby1888</sublink>
-</link>
-<thumbnail>http://bigmouthsports.com/wp-content/uploads/2010/07/cfl-on-tsn-2-july-2010.jpg</thumbnail>
 </item>
 
 <item>
@@ -341,6 +326,3 @@
 <link>http://goo.gl/cJQF9D</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
-
-
-
