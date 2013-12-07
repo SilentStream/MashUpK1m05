@@ -47,10 +47,11 @@
 </item>
 
 <item>
-<title>6. [COLOR=white]Showtime Boxing:[/COLOR] [COLOR=red]Unknown card[/COLOR]</title>
-<link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10<link>
+<title>6. [COLOR=white]Showtime Boxing:[/COLOR] [COLOR=red]Unknown card[/COLOR]*Fixed Sorry </title>
+<link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</link>
 <thumbnail>http://www.northamptonshiresport.org/images/dr_ee4e91ff8c4410e41752c58d944038db.jpg</thumbnail>
 </item>
+
 #######################################################################################################
 <item>
 <title>NHL Network</title>
