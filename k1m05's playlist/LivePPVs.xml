@@ -26,28 +26,13 @@
 </item>
 
 <item>
-<title>3. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]SD (Main Card)[/COLOR]</title>
-<link>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/df/UFC_Fight_Night_33.jpg</thumbnail>
+<title>3. [COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Saturday December 28[/COLOR] [COLOR=white]10:00 esr[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&videoid=NSKHYBoaoVQ</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_168_event_poster.jpg</thumbnail>
 </item>
 
 <item>
-<title>4. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]SD (Main Card)[/COLOR]</title>
-<link>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/df/UFC_Fight_Night_33.jpg</thumbnail>
-</item>
-
-<item>
-<title>5. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]HD (Main Card)[/COLOR]</title>
-<link>
-  <sublink>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-  <sublink>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/df/UFC_Fight_Night_33.jpg</thumbnail>
-</item>
-
-<item>
-<title>6. [COLOR=white]Showtime Boxing:[/COLOR] [COLOR=red]Unknown card[/COLOR]*Fixed Sorry </title>
+<title>4. [COLOR=white]Showtime Boxing:[/COLOR] [COLOR=red]Unknown card[/COLOR]*Fixed Sorry </title>
 <link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</link>
 <thumbnail>http://www.northamptonshiresport.org/images/dr_ee4e91ff8c4410e41752c58d944038db.jpg</thumbnail>
 </item>
