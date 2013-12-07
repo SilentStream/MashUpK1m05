@@ -26,22 +26,22 @@
 </item>
 
 <item>
-<title>3. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]SD (Prelims)[/COLOR]</title>
-<link>http://nlds50.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_1600.m3u8</link>
+<title>3. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]SD (Main Card)[/COLOR]</title>
+<link>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/df/UFC_Fight_Night_33.jpg</thumbnail>
 </item>
 
 <item>
-<title>4. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]SD (Prelims)[/COLOR]</title>
-<link>http://nlds50.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_800.m3u8</link>
+<title>4. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]SD (Main Card)[/COLOR]</title>
+<link>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/df/UFC_Fight_Night_33.jpg</thumbnail>
 </item>
 
 <item>
-<title>5. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]HD (Prelims)[/COLOR]</title>
+<title>5. [COLOR=white]UFC:[/COLOR] [COLOR=red]Fight Night[/COLOR] [COLOR=white]Hunt vs Silva[/COLOR] [COLOR=red]HD (Main Card)[/COLOR]</title>
 <link>
-  <sublink>http://nlds50.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-  <sublink>http://nlds50.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500.m3u8</sublink>
+  <sublink>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
+  <sublink>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/df/UFC_Fight_Night_33.jpg</thumbnail>
 </item>
