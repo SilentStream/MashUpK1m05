@@ -40,7 +40,7 @@
 <item>
 <title>3. [COLOR=FFFF4500]BKB2:[/COLOR] [COLOR=blue]Bare Knuckel Boxing[/COLOR] [COLOR=FFFF4500]2[/COLOR] [COLOR=white]Unknown Card[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</link>
-<thumbnail>http://www.prlog.org/11743702-bare-knuckle-boxing.jpg</thumbnail>
+<thumbnail>http://b.vimeocdn.com/ts/447/989/447989888_640.jpg</thumbnail>
 </item>
 
 <item>
@@ -50,6 +50,12 @@
   <sublink>rtmp://server2.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.cbsconsumerproducts.com/primetime/images/logos/showtime_championship_boxing.gif</thumbnail>
+</item>
+
+<item>
+<title>5. [COLOR=FFFF4500]Invictus[/COLOR] [COLOR=blue]Women's[/COLOR] [COLOR=FFFF4500]MMA[/COLOR] [COLOR=white]LQ[/COLOR]</title>
+<link>rtmp://37.220.32.53:443/liverepeater playpath=13806 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=13806&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</link>
+<thumbnail>http://invictafccom.c.presscdn.com/wp-content/uploads/2013/09/INVICTA-FC-7-Banner.jpg</thumbnail>
 </item>
 
 #######################################################################################################
