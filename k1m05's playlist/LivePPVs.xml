@@ -33,7 +33,11 @@
 
 <item>
 <title>2. [COLOR=FFFF4500]HBO Boxing:[/COLOR] [COLOR=blue]Guillermo[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=blue]Rigondeaux[/COLOR]*</title>
-<link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
+<link>
+  <sublink>rtmp://server.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
+<link>
 <thumbnail>http://assets.sbnation.com/imported_assets/96353/hbo_sports_logo1.jpg</thumbnail>
 </item>
 
