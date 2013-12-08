@@ -14,27 +14,42 @@
 </info>
 
 <item>
-<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<title>5. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
 <item>
-<title>2. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<title>6. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
 <item>
-<title>3. [COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Saturday December 28[/COLOR] [COLOR=white]10:00 est[/COLOR]</title>
+<title>1. [COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Saturday December 28[/COLOR] [COLOR=white]10:00 est[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&videoid=NSKHYBoaoVQ</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_168_event_poster.jpg</thumbnail>
 </item>
 
 <item>
-<title>4. [COLOR=white]Showtime Boxing:[/COLOR] [COLOR=red]Unknown card[/COLOR]*Fixed Sorry </title>
-<link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</link>
-<thumbnail>http://www.northamptonshiresport.org/images/dr_ee4e91ff8c4410e41752c58d944038db.jpg</thumbnail>
+<title>2. [COLOR=FFFF4500]HBO Boxing:[/COLOR] [COLOR=blue]Guillermo[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=blue]Rigondeaux[/COLOR]</title>
+<link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
+<thumbnail>http://assets.sbnation.com/imported_assets/96353/hbo_sports_logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>3. [COLOR=FFFF4500]BKB2:[/COLOR] [COLOR=blue]Bare Knuckel Boxing[/COLOR] [COLOR=FFFF4500]2[/COLOR] [COLOR=white]Unknown Card[/COLOR]</title>
+<link>rtmp://server.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</link>
+<thumbnail>http://www.prlog.org/11743702-bare-knuckle-boxing.jpg</thumbnail>
+</item>
+
+<item>
+<title>4. [COLOR=FFFF4500]Showtime Championship Boxing:[/COLOR] [COLOR=blue]Judah[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=white]Malignaggi[/COLOR]</title>
+<link>
+  <sublink>rtmp://server.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+</link>
+<thumbnail>http://www.cbsconsumerproducts.com/primetime/images/logos/showtime_championship_boxing.gif</thumbnail>
 </item>
 
 #######################################################################################################
