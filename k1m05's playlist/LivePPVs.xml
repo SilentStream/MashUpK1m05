@@ -55,8 +55,9 @@
 </item>
 
 <item>
-<title>[COLOR=blue]NFL[/COLOR] [COLOR=red]HQ[/COLOR]</title>
+<title>[COLOR=blue]NFL[/COLOR]|[COLOR=red]NBA[/COLOR]|[COLOR=blue]Soccer[/COLOR] [COLOR=red]HQ[/COLOR]</title>
 <link>
+  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>
@@ -112,14 +113,6 @@
   <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow4/mnf.m3u8</sublink>
 </link>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=blue]NFL[/COLOR] [COLOR=red]Red[/COLOR][COLOR=white]Zone[/COLOR] [COLOR=blue]HD[/COLOR]</title>
-<link>
-  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10</sublink>
-</link>
-<thumbnail>http://csncalifornia.com/images/56248.JPG</thumbnail>
 </item>
 
 <item>
