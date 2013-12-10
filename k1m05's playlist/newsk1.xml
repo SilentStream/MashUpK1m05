@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>12/2/13 Fixed Fox Business | 11/20/13 Added Many News Channels, Fixed MSNBC,CNBC,</message>
+<message>12/10/13 Fixed Fox Business</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -65,7 +65,7 @@
 
 <item>
 <title>Fox Business</title>
-<link>rtmp://50.23.113.212/zenex playpath=foxbusiness11?id=1505 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/foxbusiness11/1/500/400 live=true timeout=10 conn=S:OK</link>
+<link>rtmp://159.253.143.20/zenex playpath=foxbusiness11?id=1505 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/foxbusiness11/1/500/400 live=true timeout=10 Conn=S:OK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_business.png</thumbnail>
 </item>
 
