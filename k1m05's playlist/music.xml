@@ -1,4 +1,3 @@
-
 #######################################################################################################################################
 <poster>k1m05</poster>
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
@@ -14,6 +13,12 @@
 <title>Chronix Aggression [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
 <link>http://173.192.45.18:10200</link>
 <thumbnail>http://www.chronixradio.com/images/stations/Logo_Aggro_2011.png</thumbnail>
+</item>
+
+<item>
+<title>Christmas Rock[COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
+<link>http://relay4.181.fm:8090/</link>
+<thumbnail>http://www.181.fm/images/nowplaying/logo.png</thumbnail>
 </item>
 
 <item>
