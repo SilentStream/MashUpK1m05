@@ -6,7 +6,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>12/10/13 Fixed A&E/Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
+<message>12/10/13 Fixed A&E/ABC Fam/ABC//Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ###############################################################################################################################
@@ -83,10 +83,11 @@
 </item>
 
 <item>
-<title>ABC[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>ABC[COLOR=FF00FF00]  *  [/COLOR]Link 1 is HD</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/zszvz5gcpmjoulx swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/qt4t1aakeci3emk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmpe://live.univisionbrazil.com/stream playpath=z00001.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00001 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
