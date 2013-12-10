@@ -1,13 +1,12 @@
 ###
 ###
 ###
-
 #######################################################################################################################################
 <poster>k1m05</poster>
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>12/10/13 Fixed A&E/Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
+<message>12/10/13 Fixed A&Ex2/Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
 <thumbnail>http://img820.imageshack.us/img820/4016/bvyg.jpg</thumbnail>
 </info>
 ###############################################################################################################################
@@ -79,7 +78,7 @@
 
 <item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://ny.iguide.to/edge/0uk8e5sp66o6z6m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge/0uk8e5sp66o6z6m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
