@@ -77,7 +77,8 @@
 </popup>
 
 <item>
-<title>Sport Pack 2[COLOR=FFFF0000] LQ[/COLOR] Testing</title>
+<title>Sport Pack 2[COLOR=FFFF0000] LQ[/COLOR] Testing...</title>
+<link>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking118 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/ live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking218 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/ live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking313 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/ live=true timeout=10</sublink>
