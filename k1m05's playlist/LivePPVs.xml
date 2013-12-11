@@ -71,13 +71,13 @@
 </item>
 
 <popup>
-<name>Sports Pack 2 Guide</name>
+<name>[COLOR=yellow]Sport Pack 2[/COLOR] [COLOR=FFFF0000] Guide[/COLOR] Testing</name>
 <popImage>http://img703.imageshack.us/img703/9717/ehc8.jpg</popImage>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </popup>
 
 <item>
-<title>[COLOR=yellow]Sport Pack 2[/COLOR[COLOR=FFFF0000] LQ[/COLOR] Testing</title>
+<title>[COLOR=yellow]Sport Pack 2[/COLOR] [COLOR=FFFF0000] LQ[/COLOR] Testing</title>
 <link>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking118 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking218 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com live=true timeout=10</sublink>
