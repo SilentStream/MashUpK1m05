@@ -435,3 +435,9 @@
 <link>rtmp://198.27.74.25/app playpath=mwc01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/76385/hdclearart/married--with-children-511e683050b94.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=yellow]Series:[/COLOR] 3rd Rock From the Sun</title>
+<link>rtmp://198.27.74.25/app playpath=rock01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?rock01 live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/72389/hdclearart/3rd-rock-from-the-sun-52531372e294c.png</thumbnail>
+</item>
