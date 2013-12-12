@@ -417,3 +417,9 @@
 </link>
 <thumbnail>http://imageshack.us/a/img46/3908/w3ls.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=yellow]Series:[/COLOR] Friends</title>
+<link>rtmp://198.27.74.25/app playpath=friends01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?friends01 live=true timeout=10</link>
+<thumbnail>http://fanart.tv/fanart/tv/79168/hdclearart/friends-511066f06d4a6.png</thumbnail>
+</item>
