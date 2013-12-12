@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]12/3/13 CTH Links fixed | 12/2/13 Added CTH Stadium (Premier League?)[/COLOR]</message>
+<message>[COLOR=FF00FF00]12/12/13 4 working links for each Sky Sports 1,2,3&4[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -174,9 +174,12 @@
 <thumbnail>http://www.redbull.tv/cs/RedBull/RedBullTV/ccurl/148/709/AboutRedBullTV.png</thumbnail>
 </item>
 
+
 <item>
 <title>Sky Sports 1</title>
 <link>
+  <sublink>rtmpe://46.246.124.6:1935/live playpath=ban1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
+  <sublink>rtmp://89.248.174.117/fms/ playpath=ok1 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=go1&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=true timeout=10</sublink>
   <sublink>rtmp://31.220.0.104:1935/live playpath=skysport1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport1&vw=620&vh=490 live=true timeout=10 Conn=S:OK</sublink>
   <sublink>rtmp://89.248.172.121:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player3.php?id=23697&width=700&height=500 live=true timeout=10 token=#atd%#$ZH</sublink>
 </link>
@@ -186,8 +189,9 @@
 <item>
 <title>Sky Sports 2</title>
 <link>
-  <sublink>rtmp://31.220.0.104:1935/live playpath=skysport2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport2&vw=620&vh=490 live=true timeout=10 Conn=S:OK</sublink>
   <sublink>rtmpe://46.246.124.6:1935/live playpath=ban2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
+  <sublink>rtmp://89.248.174.117/fms/ playpath=ok2 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=go1&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=true timeout=10</sublink>
+  <sublink>rtmp://31.220.0.104:1935/live playpath=skysport2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport2&vw=620&vh=490 live=true timeout=10 Conn=S:OK</sublink>
   <sublink>rtmp://37.220.36.7:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.featve.com/ss2.html token=#atd%#$ZH live=true timeout=10</sublink> 
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
@@ -196,9 +200,10 @@
 <item>
 <title>Sky Sports 3</title>
 <link>
-  <sublink>rtmp://31.220.0.104:1935/live playpath=skysport3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport3&vw=620&vh=490 live=true timeout=10 Conn=S:OK</sublink>
-  <sublink>rtmpe://46.246.124.6:1935/live/ban3 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</sublink>
-  <sublink>rtmp://178.18.31.64:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=23699&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink> 
+  <sublink>rtmpe://46.246.124.6:1935/live playpath=ban3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
+  <sublink>rtmp://89.248.174.117/fms/ playpath=ok3 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=go1&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=true timeout=10</sublink>
+  <sublink>rtmp://31.220.0.133:1935/live playpath=skyspors3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skyspors3&vw=620&vh=490 live=true timeout=10 Conn=S:OK</sublink>
+  <sublink>rtmp://89.248.172.121:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=23699&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink> 
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
 </item>
@@ -206,15 +211,17 @@
 <item>
 <title>Sky Sports 4</title>
 <link>
-  <sublink>rtmp://31.220.0.104:1935/live playpath=skysport3 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport4&vw=620&vh=490 live=true timeout=10 Conn=S:OK</sublink>
-  <sublink>rtmpe://46.246.124.6:1935/live/ban4 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</sublink>
+  <sublink>rtmpe://46.246.124.6:1935/live playpath=ban4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
+  <sublink>rtmp://89.248.174.117/fms/ playpath=ok4 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=go1&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=true timeout=10</sublink>
+  <sublink>rtmp://37.220.36.71:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=23700&width=640&height=460 token=#atd%#$ZH live=true timeout=10</sublink> 
+  <sublink>rtmp://31.220.0.104:1935/live playpath=skysport4 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=skysport4&vw=620&vh=490 live=true timeout=10 Conn=S:OK</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports F1</title>
-<link>rtmpe://46.246.29.149:1935/live/ban5 pageUrl=http://www.hdcast.tv/k1m05 live=true timeout=10</link>
+  <sublink>rtmp://89.248.174.117/fms/ playpath=ok5 swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.castok.com/embed.php?v=go1&vw=600&vh=450&typeplayer=0&domain=hdembed.com live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png</thumbnail>
 </item>
 
