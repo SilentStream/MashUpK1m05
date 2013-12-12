@@ -3,7 +3,7 @@
 <fanart>http://imageshack.us/a/img18/5658/il0s.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>12/10/13 Fixed Fox Business</message>
+<message>12/12/13 Fixed Bloomberg 12/10/13 Fixed Fox Business</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -32,7 +32,11 @@
 
 <item>
 <title>Bloomberg</title>
-<link>rtmp://cp116697.live.edgefcs.net:80/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.ooyala.com/cacheable/c78f866930724ffedfe8cf5349712569/player_v2.swf swfVfy=true live=true timeout=10</link>
+<link>
+  <sublink>http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8</sublink>
+  <sublink>http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/x0dDdlNTrs64I5H-29bfEFu4qeIira5r/master.m3u8</sublink>
+</link>
+
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_asia.png</thumbnail>
 </item>
 

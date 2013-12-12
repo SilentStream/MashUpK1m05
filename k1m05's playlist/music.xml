@@ -22,6 +22,24 @@
 
 <item>
 <title>Christmas [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Christmas [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
+<link>http://95.141.24.213:80</link>
+<thumbnail>http://www.christmas-channel.com/img/weihnachtsradio.png</thumbnail>
+</item>
+
+<item>
+<title>Christmas Swing[COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
+<link>http://108.61.73.119:14120</link>
+<thumbnail>http://www.christmas-channel.com/img/weihnachtsradio.png</thumbnail>
+</item>
+
+<item>
+<title>Christmas [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
 <link>rtmp://fms.105.net:1935/live playpath=XMAS swfUrl=http://www.105.net/swf/corePlayerStreamingVisible2013_counter_105.swf?streamRadio=XMAS&radioName=105&autoPlay=1&bufferTime=2.5&rateServer=37.247.51.46/[[DYNAMIC]]/3 pageUrl=http://www.105.net/webradio/play/id/54/name/xmas-radio live=true timeout=10</link>
 <thumbnail>http://www.105.net//media/webradio/00-105xmasradio(4).jpg</thumbnail>
 </item>
