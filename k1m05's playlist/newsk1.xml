@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>12/12/13 Fixed Bloomberg 12/10/13 Fixed Fox Business</message>
+<message>12/12/13. Fixed Bloomberg 12/10/13 Fixed Fox Business</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -75,7 +75,7 @@
 
 <item>
 <title>Fox News</title>
-<link>rtmp://nyk.premiumcdnlive.como/edge/ohn58e97er36vjr swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge/ohn58e97er36vjr swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
 </item>
 
