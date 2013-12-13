@@ -12,10 +12,11 @@
 #######################################################################################################################################
 <subchannel>
 <name>Survivor Series 720p (2013)</name>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://i1.ytimg.com/vi/-YezHFyQKKk/maxresdefault.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/Survivor_series_2013.jpg</thumbnail>
 <link>
-<sublink>https://ia601002.us.archive.org/29/items/SS13k1m05/SS13k1m05.mkv</sublink><host>static link</host></link>
+<sublink>https://ia601002.us.archive.org/29/items/SS13k1m05/SS13k1m05.mkv</sublink><host>static link</host>
+</link>
 </subchannel>
 ###############################
 <subchannel>
