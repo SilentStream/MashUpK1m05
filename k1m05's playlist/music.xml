@@ -22,12 +22,6 @@
 
 <item>
 <title>Christmas [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Christmas [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
 <link>http://95.141.24.213:80</link>
 <thumbnail>http://www.christmas-channel.com/img/weihnachtsradio.png</thumbnail>
 </item>
@@ -131,7 +125,7 @@
 
 <item>
 <title>MTV[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://live.iguide.to/edge/21m6jnuden2puo8 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=I8772LDKksadhGHGagf# live=true timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge/21m6jnuden2puo8 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=I8772LDKksadhGHGagf# live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img401/6301/k5l.png</thumbnail>
 </item>
 
