@@ -4,7 +4,7 @@
 
 #######################################################################################################################################
 <subchannel>
-<name>TNA Bound for Glory (2013) Moded</name>
+<name>TNA Bound for Glory (2013)</name>
 <link>
 <sublink>http://www.putlocker.com/file/B3F1B5FDCF4A9340</sublink><host>putlocker</host>
 </link>
@@ -14,7 +14,8 @@
 <name>Survivor Series 720p (2013)</name>
 <fanart></fanart>
 <thumbnail></thumbnail>
-<link>https://ia601002.us.archive.org/29/items/SS13k1m05/SS13k1m05.mkv</link>
+<link>
+<sublink>https://ia601002.us.archive.org/29/items/SS13k1m05/SS13k1m05.mkv</sublink><host>static link</host></link>
 </subchannel>
 ###############################
 <subchannel>
