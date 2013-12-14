@@ -3,15 +3,17 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
 #######################################################################################################################################
 # Counter 9 - 10/23/13 #
-# http://nlds161.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8
-# http://nlds161.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8
-# http://nlds161.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8
 ##############################################################################################################################
-
 <info>
 <message>[COLOR=FF00FF00]12/09/13[/COLOR] [COLOR=FFFF4500]FIxed RAW HD Link. RedZone HD Will now be link 1 in NFL HQ[/COLOR] [COLOR=FF00FF00]|[/COLOR] [COLOR=FFFF4500]12/7/13 3 Events tonight I dont have start times but the links will load when event starts[/COLOR]10/23/13 [COLOR=FF00FF00]Check "A Random Sports Channel Pack" for NBA NHL and other Sports[/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
+
+<item>
+<title>1. Boxing Live Now more daetails soon...Washing Dishes with the wife :(</title>
+<link>rtmp://server3.ppvmania.tv/live playpath=channel6 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=8 live=true timeout=10</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>7. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
@@ -30,7 +32,6 @@
 <link>plugin://plugin.video.youtube/?action=play_video&videoid=NSKHYBoaoVQ</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_168_event_poster.jpg</thumbnail>
 </item>
-
 #######################################################################################################
 <item>
 <title>NHL Network</title>
@@ -38,7 +39,6 @@
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 #######################################################################################################
-
 <item>
 <title>Formula 1</title>
 <link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</link>
