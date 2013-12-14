@@ -52,9 +52,13 @@
 <name>[COLOR=FFFF4500]Music[/COLOR][COLOR=white]..................................................[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/music.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpK1m05/blob/master/k1m05.Images/Guide/Music.jpg?raw=true</thumbnail>
-<date>12/03/13</date>
+<date>12/12/13</date>
 #######################################################################################################################################
-
+<dir>
+<name>TESTING - DONT CLICK ME I COULD MAKE YOUR SYSTEM HANG</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/OnDemandDir.xml</link>
+<thumbnail>http://xunitytalk.com/images/vbclone/logo1.png</thumbnail>
+</dir>
 
 
 
