@@ -9,10 +9,18 @@
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 
+#######################################################################################################################################
 <item>
-<title>1. Boxing... </title>
-<link>rtmp://server3.ppvmania.tv/live playpath=channel6 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=8 live=true timeout=10</link>
-<thumbnail></thumbnail>
+<title>1. [COLOR=FFFF4500]Showtime Boxing:[/COLOR] [COLOR=FF00FF00]Broner vs. Maidana[/COLOR]</title>
+<link>
+  <sublink>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://174.127.120.190:1935/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://206.217.196.106:1935/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://209.236.74.19:1935/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://205.204.85.37:1935/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+</link>
+<thumbnail>http://s0.uploads.im/Bn7bi.jpg</thumbnail>
 </item>
 
 <item>
