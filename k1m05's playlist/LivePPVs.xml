@@ -10,9 +10,18 @@
 </info>
 
 <item>
-<title>1. Boxing Live Now more daetails soon...Washing Dishes with the wife :(</title>
+<title>1. Boxing... </title>
 <link>rtmp://server3.ppvmania.tv/live playpath=channel6 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=8 live=true timeout=10</link>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>1. [COLOR=FFFF4500]UFC:[/COLOR] [COLOR=FF00FF00]Fight Night[/COLOR] [COLOR=FFFF4500]Johnson vs. Benavidez[/COLOR]</title>
+<link>
+  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Updated_UFC_on_FOX_9.jpg/200px-Updated_UFC_on_FOX_9.jpg</thumbnail>
 </item>
 
 <item>
@@ -28,7 +37,7 @@
 </item>
 
 <item>
-<title>2. [COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Saturday December 28[/COLOR] [COLOR=white]10:00 est[/COLOR]</title>
+<title>[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Saturday December 28[/COLOR] [COLOR=white]10:00 est[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&videoid=NSKHYBoaoVQ</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_168_event_poster.jpg</thumbnail>
 </item>
