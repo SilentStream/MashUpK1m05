@@ -22,7 +22,17 @@
 </link>
 <thumbnail>http://s0.uploads.im/Bn7bi.jpg</thumbnail>
 </item>
-
+#######################################################################################################################################
+<item>
+<title>1. [COLOR=FFFF4500]Showtime Boxing:[/COLOR] [COLOR=FF00FF00]Broner vs. Maidana[/COLOR] [COLOR=FFFF4500]HQ[/COLOR]</title>
+<link>
+  <sublink>rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=channel9 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://174.127.120.190/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=channel9 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=channel9 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+</link>
+<thumbnail>http://s0.uploads.im/Bn7bi.jpg</thumbnail>
+</item>
+#######################################################################################################################################
 <item>
 <title>1. [COLOR=FFFF4500]UFC:[/COLOR] [COLOR=FF00FF00]Fight Night[/COLOR] [COLOR=FFFF4500]Johnson vs. Benavidez[/COLOR]</title>
 <link>
@@ -31,7 +41,7 @@
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Updated_UFC_on_FOX_9.jpg/200px-Updated_UFC_on_FOX_9.jpg</thumbnail>
 </item>
-
+#######################################################################################################################################
 <item>
 <title>z [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
@@ -43,7 +53,7 @@
 <link>rtmp://server2.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
-
+#######################################################################################################################################
 <item>
 <title>[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Saturday December 28[/COLOR] [COLOR=white]10:00 est[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&videoid=NSKHYBoaoVQ</link>
