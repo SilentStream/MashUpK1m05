@@ -3,12 +3,34 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
 #######################################################################################################################################
 # Counter 9 - 10/23/13 #
-##############################################################################################################################
+#######################################################################################################################################
 <info>
 <message>[COLOR=FF00FF00]12/09/13[/COLOR] [COLOR=FFFF4500]FIxed RAW HD Link. RedZone HD Will now be link 1 in NFL HQ[/COLOR] [COLOR=FF00FF00]|[/COLOR] [COLOR=FFFF4500]12/7/13 3 Events tonight I dont have start times but the links will load when event starts[/COLOR]10/23/13 [COLOR=FF00FF00]Check "A Random Sports Channel Pack" for NBA NHL and other Sports[/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 
+#######################################################################################################################################
+<item>
+<title>[COLOR=white]WWE:[/COLOR] [COLOR=red]TLC[/COLOR] [COLOR=white]TABLES, LADDERS, & CHAIRS[/COLOR] Links may not be active till 8est</title>
+<link>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel88 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel9 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>  
+  <sublink>rtmp://119.252.188.161/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://206.217.196.117/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://205.204.85.37/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://109.123.100.182/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/  playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://174.127.120.190/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://206.217.196.106/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://198.105.222.72/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://216.119.148.219/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://209.236.74.19/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://50.97.47.169/?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+  <sublink>rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
+
+</link>
+<thumbnail>http://www.mmaoddsbreaker.com/wp-content/uploads/2013/12/wwe_tlc_2013_poster_by_alitaker-d6wpgto.jpg</thumbnail>
+</item>
 #######################################################################################################################################
 <item>
 <title>1. [COLOR=FFFF4500]Showtime Boxing:[/COLOR] [COLOR=FF00FF00]Broner vs. Maidana[/COLOR]</title>
@@ -24,22 +46,13 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=FFFF4500]Showtime Boxing:[/COLOR] [COLOR=FF00FF00]Broner vs. Maidana[/COLOR] [COLOR=FFFF4500]HQ[/COLOR]STREAMER SAYS BOXING BUT IS UFC MAY CHANGE DUNNO THO</title>
+<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=red]TLC[/COLOR] [COLOR=white]TABLES, LADDERS, & CHAIRS[/COLOR]</title>
 <link>
   <sublink>rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=channel9 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
   <sublink>rtmp://174.127.120.190/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=channel9 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
   <sublink>rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=channel9 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
 </link>
-<thumbnail>http://s0.uploads.im/Bn7bi.jpg</thumbnail>
-</item>
-#######################################################################################################################################
-<item>
-<title>1. [COLOR=FFFF4500]UFC:[/COLOR] [COLOR=FF00FF00]Fight Night[/COLOR] [COLOR=FFFF4500]Johnson vs. Benavidez[/COLOR]</title>
-<link>
-  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10</sublink>
-  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Updated_UFC_on_FOX_9.jpg/200px-Updated_UFC_on_FOX_9.jpg</thumbnail>
+<thumbnail>http://www.mmaoddsbreaker.com/wp-content/uploads/2013/12/wwe_tlc_2013_poster_by_alitaker-d6wpgto.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 <item>
