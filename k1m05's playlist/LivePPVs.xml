@@ -11,11 +11,16 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=red]TLC[/COLOR] [COLOR=white]TABLES, LADDERS, & CHAIRS[/COLOR] Links may not be active till 8est.</title>
+<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=red]TLC[/COLOR] [COLOR=white]TABLES, LADDERS, & CHAIRS[/COLOR]</title>
 <link>
   <sublink>rtmp://server2.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
   <sublink>rtmp://server2.ppvmania.tv/live playpath=channel88 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
-  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel9 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>  
+  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel9 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
+  
+  <sublink>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=charlie3 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://174.127.120.190/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=charlie3 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  <sublink>rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=charlie3 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
+  
   <sublink>rtmp://119.252.188.161/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
   <sublink>rtmp://206.217.196.117/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
   <sublink>rtmp://205.204.85.37/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
