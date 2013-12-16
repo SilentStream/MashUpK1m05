@@ -103,7 +103,9 @@
 
 <item>
 <title>ABC Family[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link></sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00001.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=abc live=true timeout=10</sublink>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 
@@ -112,6 +114,7 @@
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmpe://watch.playfooty.tv/live playpath=amci swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=masalii&vw=600&vh=430</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00025.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=amc
 </link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
@@ -169,7 +172,7 @@
 <title>CBS [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR].</title>
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/k2ebhw7tyclkuv3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00001 live=true timeout=10</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=cbs live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
 </item>
@@ -211,7 +214,9 @@
 
 <item>
 <title>Disney</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/2tag4dzgwof5ma2 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/2tag4dzgwof5ma2 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</link></sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00020.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=disney live=true timeout=10</sublink>
 <thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
 </item>
 
@@ -254,7 +259,10 @@
 
 <item>
 <title>FX[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/j3aqnm2alotcbf7 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true live=true timeout=10</link>
+<link>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/j3aqnm2alotcbf7 swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true live=true timeout=10</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00027.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=fx live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img196/9668/8x6l.png</thumbnail>
 </item>
 
@@ -267,7 +275,10 @@
 
 <item>
 <title>HBO[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true live=true timeout=10</link>
+<link>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/z28ie9oqoku4qoy swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=42834&autoplay=true live=true timeout=10</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00012.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=hbo live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
 </item>
 
@@ -333,6 +344,7 @@
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/sqc67bme7jwrdi3 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=54675&autoplay=true live=true timeout=10 token=I8772LDKksadhGHGagf#</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/2znp9nmpozk4gpr swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10 token=I8772LDKksadhGHGagf#</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=nbc live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/scaled/landing/12/6w8y.png</thumbnail>
 </item>
@@ -351,7 +363,10 @@
 
 <item>
 <title>Showtime[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/bwbop58ixz281wv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</link>
+<link>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/bwbop58ixz281wv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00013.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=showtime live=true timeout=10</sublink>
+</link>
 <thumbnail>http://img96.imageshack.us/img96/1319/2sxk.png</thumbnail>
 </item>
 
@@ -373,9 +388,10 @@
 <item>
 <title>TBS[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/ko4jkhlxqrccjbv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/f8m9p5e2x5wo85e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/mwnwdakj86uqbrf swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ko4jkhlxqrccjbv swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/f8m9p5e2x5wo85e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/mwnwdakj86uqbrf swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00009.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tbs live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img401/6038/8cr0.png</thumbnail>
 </item>
@@ -390,7 +406,10 @@
 
 <item>
 <title>TNT[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=46736&autoplay=true live=true timeout=10</link>
+<link>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=46736&autoplay=true live=true timeout=10
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00008.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tnt live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img208/562/62.png</thumbnail>
 </item>
 
@@ -409,8 +428,9 @@
 <item>
 <title>USA [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/ahwcx2k56oitbkk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
- <sublink>rtmp://nyk.premiumcdnlive.com/edge/h5eovaj1jeegluq swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ahwcx2k56oitbkk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/h5eovaj1jeegluq swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00010.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=usa live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img46/3908/w3ls.png</thumbnail>
 </item>

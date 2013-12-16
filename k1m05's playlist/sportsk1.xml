@@ -64,6 +64,7 @@
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/xoaaohmeuajfeyf swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=I8772LDKksadhGHGagf# live=1 pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/ac0cw5cmguex4di swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00018.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
@@ -74,6 +75,7 @@
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/x5x1bqxxwakitcy swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/du97agywg74nbys swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink> 
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00019.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn2 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
@@ -104,7 +106,7 @@
 
 <item> 
 <title>Fox Sports new</title> 
-<link>http://m24.megafun.vn/live.vs?c=vstv042&q=high</link> 
+<link>rtmp://live.cast-tv.us/stream playpath=z00022.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=foxsports live=true timeout=10</link> 
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_lam_3.png</thumbnail> 
 </item>
 
@@ -140,7 +142,10 @@
 
 <item>
 <title>NFL Network</title>
-<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
+<link>
+  <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00017.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=nflnet live=true timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
 </item>
 

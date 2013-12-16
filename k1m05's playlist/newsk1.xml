@@ -129,7 +129,10 @@
 
 <item>
 <title>MSNBC</title>
-<link>http://goo.gl/gA08BX</link>
+<link>
+  <sublink>http://goo.gl/gA08BX</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00006.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=msnbc live=true timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
 </item>
 
