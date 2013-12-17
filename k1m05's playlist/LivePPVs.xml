@@ -10,69 +10,22 @@
 </info>
 
 #######################################################################################################################################
-<item>
-<title>1. [COLOR=red]WWE:[/COLOR] [COLOR=white]TLC[/COLOR] [COLOR=red]TABLES, LADDERS & CHAIRS[/COLOR]</title>
-<link>
-  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel7 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel88 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
-  <sublink>rtmp://server2.ppvmania.tv/live playpath=channel9 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
-  <sublink>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=charlie3 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-  <sublink>rtmp://174.127.120.190/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=charlie3 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-  <sublink>rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=charlie3 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-  <sublink>rtmp://119.252.188.161/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://206.217.196.117/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://205.204.85.37/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://109.123.100.182/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/  playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://174.127.120.190/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://206.217.196.106/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://198.105.222.72/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://216.119.148.219/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://209.236.74.19/?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://50.97.47.169/?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-  <sublink>rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=Evilgenius swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
-</link>
-<thumbnail>http://www.mmaoddsbreaker.com/wp-content/uploads/2013/12/wwe_tlc_2013_poster_by_alitaker-d6wpgto.jpg</thumbnail>
-</item>
 
-<item>
-<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=red]TLC[/COLOR] [COLOR=white]TABLES, LADDERS, & CHAIRS[/COLOR] SD</title>
-<link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</link>
-<thumbnail>http://www.mmaoddsbreaker.com/wp-content/uploads/2013/12/wwe_tlc_2013_poster_by_alitaker-d6wpgto.jpg</thumbnail>
-</item>
-
-<item>
-<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=red]TLC[/COLOR] [COLOR=white]TABLES, LADDERS, & CHAIRS[/COLOR] SD</title>
-<link>rtmp://server3.ppvmania.tv/live playpath=channel5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</link>
-<thumbnail>http://www.mmaoddsbreaker.com/wp-content/uploads/2013/12/wwe_tlc_2013_poster_by_alitaker-d6wpgto.jpg</thumbnail>
-</item>
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=FFFF4500]Showtime Boxing:[/COLOR] [COLOR=FF00FF00]Broner vs. Maidana[/COLOR]</title>
-<link>
-  <sublink>rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-  <sublink>rtmp://174.127.120.190:1935/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-  <sublink>rtmp://206.217.196.106:1935/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-  <sublink>rtmp://209.236.74.19:1935/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-  <sublink>rtmp://205.204.85.37:1935/?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-  <sublink>rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ app=?rtmp://5.39.81.149/live/ playpath=Dick swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/forum.php live=true timeout=10</sublink>
-</link>
-<thumbnail>http://s0.uploads.im/Bn7bi.jpg</thumbnail>
-</item>
-#######################################################################################################################################
-<item>
-<title>z [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
 <item>
-<title>z [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<title>2. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
 <link>rtmp://server2.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 #######################################################################################################################################
 <item>
-<title>[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Saturday December 28[/COLOR] [COLOR=white]10:00 est[/COLOR]</title>
+<title>3.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Saturday December 28[/COLOR] [COLOR=white]10:00 est[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&videoid=NSKHYBoaoVQ</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_168_event_poster.jpg</thumbnail>
 </item>
@@ -86,15 +39,6 @@
 <item>
 <title>Formula 1</title>
 <link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</link>
-<thumbnail>http://media.npr.org/assets/img/2013/02/23/nascar_daytona_nationwide_auto_racing_15301727_wide-55c50c6286f877295871e17dee42881054eebf64-s6-c30.jpg</thumbnail>
-</item>
-
-<item>
-<title>Auto Racing (Will Require JTV Addon to work)</title>
-<link>
-  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=besweeet64</sublink>
-  <sublink>plugin://plugin.video.jtv.archives/?url=&mode=2&name=nascar49fast2</sublink>
-</link>
 <thumbnail>http://media.npr.org/assets/img/2013/02/23/nascar_daytona_nationwide_auto_racing_15301727_wide-55c50c6286f877295871e17dee42881054eebf64-s6-c30.jpg</thumbnail>
 </item>
 
