@@ -136,6 +136,7 @@
 <link>
   <sublink>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr2548k.m3u8</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true pageUrl=http://www.ilive.to/</sublink>
+  <sublink>http://31.14.180.28:8000/adnet22031</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img19/8571/aq1e.png</thumbnail>
 </item>
@@ -193,6 +194,22 @@
 <title>Discovery Channel [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/it82brayqtelkyi swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+</link>
+<thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery Science</title>
+<link>
+  <sublink>http://31.14.180.28:8000/adnet22033</sublink>
+</link>
+<thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
+</item>
+
+<item>
+<title>Discovery World</title>
+<link>
+  <sublink>http://31.14.180.28:8000/adnet22034</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
 </item>
@@ -314,6 +331,7 @@
 <link>
   <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/14315001/streams/live/playlist.m3u8</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/ibnnu7537h3ax6e swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10</sublink>
+  <sublink>http://31.14.180.28:8000/adnet22035</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img825/993/zx34.png</thumbnail>
 </item>
