@@ -54,7 +54,10 @@
 
 <item>
 <title>CNN</title>
-<link>rtmp://nyk.premiumcdnlive.como/edge/rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>
+  <sublink>rtmp://nyk.premiumcdnlive.como/edge/pevmm1onhjyufpg swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.como/edge/rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_ilive_2.swf token=I8772LDKksadhGHGagf# live=true pageUrl=http://www.ilive.to/ timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
