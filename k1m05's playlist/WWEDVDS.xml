@@ -7,6 +7,17 @@
 #
 #######################################################################################################################################
 <subchannel>
+<name>[COLOR=FFFF4500]12/18/13[/COLOR]: [COLOR=white]Added WM I&II [COLOR=FFFF4500]/[/COLOR] Monday Night Raw Ep. 12/16/13[/COLOR] [COLOR=FFFF4500]|[/COLOR]</name>
+<fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Info.jpg</thumbnail>
+<link>
+<sublink>http://hugefiles.net/</sublink><host>none dont click me</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+#
+#######################################################################################################################################
+<subchannel>
 <name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]12/16/13[/COLOR]</name>
 <fanart>http://i1.ytimg.com/vi/DY86Rv2Fvv8/maxresdefault.jpg</fanart>
 <thumbnail>http://img.bleacherreport.net/img/images/photos/002/663/812/dbry_ortonAI_crop_north.jpg?w=340&h=234&q=75</thumbnail>
@@ -27,8 +38,8 @@
 #######################################################################################################################################
 <subchannel>
 <name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemainia II[/COLOR] [COLOR=FFFF4500] (1986)[/COLOR]</name>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://www.dirtsheets.com/static/51470593e4b0b35e942de2a1/5148fe55e4b08a5531f4a864/5148fe78e4b08a5531f4ae9b/1362931286347/Hogan%20vs.%20Bundy%20Pic.png</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/13/WrestleMania2.jpg</thumbnail>
 <link>
 <sublink>http://hugefiles.net/n7y1ojlrmjf6</sublink><host>hugefiles part 1</host>
 <sublink>http://hugefiles.net/mn9zzpxaxcte</sublink><host>hugefiles part 2</host>
