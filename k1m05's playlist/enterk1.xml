@@ -352,9 +352,9 @@
 </item>
 
 <item>
-<title>NBC [COLOR=FF00FF00]  *  [/COLOR] Link 1 HD</title>
+<title>NBC [COLOR=FF00FF00]  *  [/COLOR] Link 1 HD.</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/sqc67bme7jwrdi3 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=54675&autoplay=true live=true timeout=10 token=I8772LDKksadhGHGagf#</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/r2753xr3sxry349 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=54675&autoplay=true live=true timeout=10 token=I8772LDKksadhGHGagf#</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/2znp9nmpozk4gpr swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10 token=I8772LDKksadhGHGagf#</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=nbc live=true timeout=10</sublink>
 </link>
