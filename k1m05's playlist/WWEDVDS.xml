@@ -6,12 +6,18 @@
 #######################################################################################################################################
 #
 #######################################################################################################################################
+#######################################################################################################################################
 <subchannel>
-<name>[COLOR=white]12/18/13[/COLOR]: [COLOR=FFFF4500]Added WM I&II [COLOR=white]/[/COLOR][COLOR=FFFF4500] Monday Night Raw Ep. 12/16/13[/COLOR] [COLOR=white]|[/COLOR]</name>
-<fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Info.jpg</thumbnail>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]The History of WWE: 50 Years of Sports Entertainment[/COLOR] [COLOR=FFFF4500](2013)[/COLOR]</name>
+<fanart>http://i1.ytimg.com/vi/q3XP-ZUREYc/maxresdefault.jpg</fanart>
+<thumbnail>http://i1.cdnds.net/13/45/618x875/history-of-wwe.jpg</thumbnail>
 <link>
-<sublink>http://hugefiles.net/</sublink><host>none dont click me</host>
+<sublink>http://hugefiles.net/7fuqx4h7lf6k</sublink><host>hugefiles disk 1</host>
+<sublink>http://hugefiles.net/ijqa9fqeunmy</sublink><host>hugefiles disk 2</host>
+<sublink>http://hugefiles.net/dz5a87jgtzhk</sublink><host>hugefiles disk 3</host>
+<sublink>http://180upload.com/fzykugx3ond1</sublink><host>180upload disk 1</host>
+<sublink>http://180upload.com/4z1ijkcx8ff8</sublink><host>180upload disk 2</host>
+<sublink>http://180upload.com/9unh2d1lu5tb</sublink><host>180upload disk 3</host>
 </link>
 </subchannel>
 #######################################################################################################################################
