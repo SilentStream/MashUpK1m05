@@ -46,7 +46,7 @@
 <item>
 <title>[COLOR=blue]NFL[/COLOR]|[COLOR=red]NBA[/COLOR]|[COLOR=blue]Soccer[/COLOR] [COLOR=red]HQ[/COLOR]</title>
 <link>
-  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10</sublink>
+  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>
