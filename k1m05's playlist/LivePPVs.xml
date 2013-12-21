@@ -8,9 +8,10 @@
 <message>[COLOR=FF00FF00]12/09/13[/COLOR] [COLOR=FFFF4500]FIxed RAW HD Link. RedZone HD Will now be link 1 in NFL HQ[/COLOR] [COLOR=FF00FF00]|[/COLOR] [COLOR=FFFF4500]12/7/13 3 Events tonight I dont have start times but the links will load when event starts[/COLOR]10/23/13 [COLOR=FF00FF00]Check "A Random Sports Channel Pack" for NBA NHL and other Sports[/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
-
 #######################################################################################################################################
 
+#######################################################################################################################################
+# http://img29.imageshack.us/img29/2899/4u6v.jpg
 #######################################################################################################################################
 <item>
 <title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
@@ -45,7 +46,7 @@
 <item>
 <title>[COLOR=blue]NFL[/COLOR]|[COLOR=red]NBA[/COLOR]|[COLOR=blue]Soccer[/COLOR] [COLOR=red]HQ[/COLOR]</title>
 <link>
-  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10</sublink>
+  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel2 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=channel3 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>
