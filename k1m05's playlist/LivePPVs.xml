@@ -9,9 +9,13 @@
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 #######################################################################################################################################
-
+<popup>
+<name>[COLOR=white]Sport Pack 2[/COLOR] [COLOR=FFFF0000]Schedule[/COLOR]</name>
+<popImage>http://img29.imageshack.us/img29/2899/4u6v.jpg</popImage>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
+</popup>
 #######################################################################################################################################
-# http://img29.imageshack.us/img29/2899/4u6v.jpg
+# 
 #######################################################################################################################################
 <item>
 <title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
@@ -60,7 +64,7 @@
 </item>
 
 <item>
-<title>[COLOR=white]Sport Pack 2[/COLOR] [COLOR=FFFF0000] LQ[/COLOR]</title>
+<title>[COLOR=white]Sport Pack 2[/COLOR] Just updated[COLOR=FFFF0000] LQ[/COLOR]</title>
 <link>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking101 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking201 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com live=true timeout=10</sublink>
@@ -85,7 +89,6 @@
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking2101 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking2201 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.29.149:1935/live/streamhdking2301 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.org/player.php?u=ban1&vw=640&vh=460&domain=www.hqiframe.com live=true timeout=10</sublink>
-
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item> 
