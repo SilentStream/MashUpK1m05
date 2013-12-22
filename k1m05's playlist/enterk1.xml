@@ -166,6 +166,7 @@
 <item>
 <title>CBS [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR].</title>
 <link>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/6s2m9jt10buq2ww swfUrl=http://player.ilive.to/player_ilive_2.swf token=dvfhgf pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/k2ebhw7tyclkuv3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=dvfhgf pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=cbs live=true timeout=10</sublink>
 </link>
