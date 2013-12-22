@@ -61,7 +61,7 @@
   <sublink>rtmp://server2.ppvmania.tv/live playpath=channel88 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv/live playpath=ELBARTO swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
 </link>
-<thumbnail>https://github.com/mash2k3/MashUpK1m05/blob/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
@@ -138,7 +138,7 @@
   <sublink>rtmp://50.23.239.2:443/liverepeater playpath=stream14 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream14.html live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmp://174.36.251.134:443/liverepeater playpath=stream15 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream15.html live=true timeout=10 token=#atd%#$ZH</sublink>
 </link>
-<thumbnail>https://github.com/mash2k3/MashUpK1m05/blob/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
 </item>
 
 <item>
