@@ -48,6 +48,12 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]Sports Pack 1[/COLOR]|[COLOR=blue]Redzone Link 1 and 4[/COLOR] [COLOR=red]NEvsBal Link 5[/COLOR]</title>
+<link>http://none.com</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]Sports Pack 1[/COLOR] Formally [COLOR=blue]NFL[/COLOR]|[COLOR=red]NBA[/COLOR]|[COLOR=blue]Soccer[/COLOR] [COLOR=red]HQ[/COLOR]</title>
 <link>
   <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_mike7314 swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u</sublink>
