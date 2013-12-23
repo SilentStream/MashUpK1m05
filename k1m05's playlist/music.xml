@@ -181,8 +181,18 @@
 </item>
 ##################################################
 <item>
-<title>Z ilive.to common regex </title>
-<link>plugin://plugin.video.movie25/?url=http%3A%2F%2Fwww.ilive.to%2Fview%2F53857%2F&mode=121&iconimage=http%3A%2F%2Fsnapshots.ilive.to%2Fsnapshots%2Fuehgy5htiasffj3_snapshot.jpg</link>
-<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/5/8/9/8/5898069/5898069_videomixbluelogo_1296079568,66x66,r:1.jpg</thumbnail>
+<title>Z ilive.to common regex. </title>
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf token=Uk78nino pageUrl=http://www.ilive.to live=1 timeout=15</link>
+<regex>
+<name>rtmp</name>
+<expres>(rtmp://[^"]*)<expres>
+<page>http://www.ilive.to/view/52325/watch-live-COMEDY_CENTRAL-streaming-channel-for-free</page>
+</regex>
+<regex>                                                                                                          
+<name>path</name>
+<expres>file: "(.*).flv<expres>
+<page>http://www.ilive.to/view/52325/watch-live-COMEDY_CENTRAL-streaming-channel-for-free</page>
+</regex>
+<thumbnail>http://www.mediabistro.com/fishbowlny/files/2010/12/comedy-central-logo.jpg</thumbnail>
 </item>
 ###################################################
