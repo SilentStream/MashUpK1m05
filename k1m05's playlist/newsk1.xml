@@ -25,7 +25,7 @@
 <title>BBC World News</title>
 <link>
   <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.como/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=2kuHD8s live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.como/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
@@ -48,22 +48,22 @@
 
 <item>
 <title>CNBC</title>
-<link>rtmp://nyk.premiumcdnlive.como/edge/flucjdoowu3uxzf swfUrl=http://player.ilive.to/player_ilive_2.swf token=2kuHD8s pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.como/edge/flucjdoowu3uxzf swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
 </item>
 
 <item>
 <title>CNN.</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/pevmm1onhjyufpg swfUrl=http://player.ilive.to/player_ilive_2.swf token=2kuHD8s pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_ilive_2.swf token=2kuHD8s pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/pevmm1onhjyufpg swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
 <item>
 <title>Euro News</title>
-<link>rtmp://nyk.premiumcdnlive.como/edge/fg2fwiffpklotoc swfUrl=http://player.ilive.to/player_ilive_2.swf token=2kuHD8s live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.como/edge/fg2fwiffpklotoc swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 </item>
 
@@ -75,7 +75,7 @@
 
 <item>
 <title>Fox News</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/ohn58e97er36vjr swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf token=2kuHD8s pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge/ohn58e97er36vjr swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf token=Uk78nino pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
 </item>
 
@@ -168,7 +168,7 @@
 
 <item>
 <title>Weather Channel</title>
-<link>rtmp://nyk.premiumcdnlive.como/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=2kuHD8s live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.como/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
 </item>
 
