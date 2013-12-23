@@ -179,3 +179,10 @@
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/5898069/streams/live/playlist.m3u8</link>
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/5/8/9/8/5898069/5898069_videomixbluelogo_1296079568,66x66,r:1.jpg</thumbnail>
 </item>
+##################################################
+<item>
+<title>Z ilive.to common regex </title>
+<link>plugin://plugin.video.movie25/?url=http%3A%2F%2Fwww.ilive.to%2Fview%2F53857%2F&mode=121&iconimage=http%3A%2F%2Fsnapshots.ilive.to%2Fsnapshots%2Fuehgy5htiasffj3_snapshot.jpg</link>
+<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/5/8/9/8/5898069/5898069_videomixbluelogo_1296079568,66x66,r:1.jpg</thumbnail>
+</item>
+###################################################
