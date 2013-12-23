@@ -199,7 +199,7 @@
 </item>
 ###################################################
 <item>
-<title>Sport.</title>
+<title>Z Sport..</title>
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv swfVfy=true live=true timeout=10</link>
 
 <regex>
@@ -222,5 +222,7 @@
 <page>http://castalba.tv/embed.php?cid=14463</page>
 <referer>http://canhome1a.blogspot.com/</referer>
 </regex>
+
+<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/5/8/9/8/5898069/5898069_videomixbluelogo_1296079568,66x66,r:1.jpg</thumbnail>
 
 </item>
