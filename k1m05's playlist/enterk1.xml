@@ -98,8 +98,9 @@
 <item>
 <title>ABC Family[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino pageUrl=http://www.ilive.to/ live=true timeout=10</link></sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/vx63a0c7mxk2jt8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00001.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=abc live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 
