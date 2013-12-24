@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>12/12/13 OWN fixed, Went trough all the links here most are up :) NO SKY MOVIES :( | 12/10/13 Fixed A&E/ABC Fam/ABC/AMC/Bravo/Cartoon/CBS/Comedy/CW/Disc/DiscTurbo/Disney/Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
+<message>12/23/13 Discovery Link 1 | 12/12/13 OWN fixed, Went trough all the links here most are up :) NO SKY MOVIES :( | 12/10/13 Fixed A&E/ABC Fam/ABC/AMC/Bravo/Cartoon/CBS/Comedy/CW/Disc/DiscTurbo/Disney/Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 ###############################################################################################################################
@@ -195,6 +195,7 @@
 <item>
 <title>Discovery Channel [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
+  <sublink>rtmp://77.81.98.131/strm/ playpath=disco swfUrl=http://www.zstream.eu/jwplayer/jwplayer.flash.swf pageUrl=http://www.zstream.eu/embed.php?v=disco&vw=500&vh=400&video=0&domain=www.zstream.eu live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/it82brayqtelkyi swfUrl=http://player.ilive.to/player_ilive_2.swf token=Uk78nino pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img560/4061/kfsv.png</thumbnail>
