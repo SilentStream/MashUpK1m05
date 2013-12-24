@@ -25,6 +25,12 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Xunity.jpg</thumbnail>
 </info>
 #######################################################################################################################################
+<item>
+<title>Test dir</title>
+<link><dirlist>https://raw.github.com/mash2k3/MashUpK1m05/master/OnDemandDir.xml</dirlist></link>
+<thumbnail>http://img826.imageshack.us/img826/346/m3u.png</thumbnail>
+</item>
+#######################################################################################################################################
 ### Counter
 #######################################################################################################################################
 <info>
