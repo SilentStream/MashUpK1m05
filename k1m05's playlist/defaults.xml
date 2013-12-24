@@ -29,6 +29,8 @@
 #######################################################################################################################################
 #########################################################----------ONDEMAND---------###################################################
 #######################################################################################################################################
+[COLOR=red]WWE[/COLOR]: [COLOR=white][/COLOR] [COLOR=FFFF4500][/COLOR]
+#######################################################################################################################################
 <subchannel>
 <name></name>
 <fanart></fanart>
@@ -36,6 +38,22 @@
 <link>
 <sublink></sublink><host></host>
 <sublink></sublink><host></host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name></name>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<link>
+<sublink></sublink><host>hugefiles part 1</host>
+<sublink></sublink><host>hugefiles part 2</host>
+<sublink></sublink><host>hugefiles part 3</host>
+<sublink></sublink><host>hugefiles part 4</host>
+<sublink></sublink><host>180upload part 1</host>
+<sublink></sublink><host>180upload part 2</host>
+<sublink></sublink><host>180upload part 3</host>
+<sublink></sublink><host>180upload part 4</host>
 </link>
 </subchannel>
 #######################################################################################################################################
