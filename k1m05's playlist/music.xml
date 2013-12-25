@@ -249,3 +249,12 @@
 
 
 ###################################################
+<item>
+<title>[COLOR=green]Za Metallica[/COLOR] Freeze 'em All Concert</title>
+<link>rtmp://nyk.premiumcdnlive.com/edge playpath=$doregex[path] token=Uk78nino swfUrl=http://player.ilive.to/ pageUrl=http://www.ilive.to/</link>
+<regex>
+<name>path</name>
+<expres>file: "(.*).flv<expres>
+<page>http://www.ilive.to/view/53616/</page>
+<referer>fireeaer.tv</referer>
+</regex>
