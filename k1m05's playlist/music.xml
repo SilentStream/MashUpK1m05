@@ -126,7 +126,7 @@
 <item>
 <title>MTV[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/21m6jnuden2puo8 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=8723Hjadsu live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/21m6jnuden2puo8 pageUrl=http://www.ilive.to swfUrl=http://player.ilive.to/player_ilive.swf token=KUHD8273kljDG live=true timeout=10</sublink>
   <sublink><sublink>rtmp://live.cast-tv.us/stream playpath=z00028.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=mtv live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img401/6301/k5l.png</thumbnail>
@@ -251,7 +251,7 @@
 ###################################################
 <item>
 <title>[COLOR=green]Za Metallica[/COLOR] Freeze 'em All Concert</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge playpath=$doregex[path] token=8723Hjadsu swfUrl=http://player.ilive.to/ pageUrl=http://www.ilive.to/</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge playpath=$doregex[path] token=KUHD8273kljDG swfUrl=http://player.ilive.to/ pageUrl=http://www.ilive.to/</link>
 <regex>
 <name>path</name>
 <expres>file: "(.*).flv<expres>
