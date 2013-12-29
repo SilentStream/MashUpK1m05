@@ -5,7 +5,7 @@
 # Counter 9 - 10/23/13 #
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]12/09/13[/COLOR] [COLOR=FFFF4500]FIxed RAW HD Link. RedZone HD Will now be link 1 in NFL HQ[/COLOR] [COLOR=FF00FF00]|[/COLOR] [COLOR=FFFF4500]12/7/13 3 Events tonight I dont have start times but the links will load when event starts[/COLOR]10/23/13 [COLOR=FF00FF00]Check "A Random Sports Channel Pack" for NBA NHL and other Sports[/COLOR] </message>
+<message>[COLOR=FF00FF00]12/09/13[/COLOR] [COLOR=FFFF4500][COLOR=white]FIXED[/COLOR] RAW HD Link. RedZone HD Will now be link 1 in NFL HQ[/COLOR] [COLOR=FF00FF00]|[/COLOR] [COLOR=FFFF4500]12/7/13 3 Events tonight I dont have start times but the links will load when event starts[/COLOR]10/23/13 [COLOR=FF00FF00]Check "A Random Sports Channel Pack" for NBA NHL and other Sports[/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 #######################################################################################################################################
@@ -26,19 +26,19 @@
 </item>http://nlds134.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000.m3u8
 ######################################################################################################################################
 <item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR] FIXED</title>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR] [COLOR=white]FIXED[/COLOR]</title>
 <link>http://nlds137.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_800.m3u8</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
 </item>
 ######################################################################################################################################
 <item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR] FIXED</title>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR] [COLOR=white]FIXED[/COLOR]</title>
 <link>http://nlds137.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_1600.m3u8</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
 </item>
 ######################################################################################################################################
 <item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]HD[/COLOR] FIXED</title>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]HD[/COLOR] [COLOR=white]FIXED[/COLOR]</title>
 <link>
   <sublink>http://nlds137.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000.m3u8</sublink>
   <sublink>http://nlds137.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500.m3u8</sublink>
