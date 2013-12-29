@@ -38,10 +38,10 @@
 </item>
 ######################################################################################################################################
 <item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]HD[/COLOR] FIXED</title>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]Working on other links will keep u posted[/COLOR] FIXED</title>
 <link>
-  <sublink>http://nlds174.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-  <sublink>http://nlds174.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500.m3u8</sublink>
+  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel88 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
+  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTO swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=11 live=true timeout=10</sublink>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
 </item>
