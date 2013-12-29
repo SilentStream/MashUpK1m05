@@ -25,26 +25,6 @@
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>http://nlds134.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000.m3u8
 ######################################################################################################################################
-<item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR] [COLOR=white]NOW FIXED HAD A TYPO[/COLOR]</title>
-<link>http://nlds137.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
-</item>
-######################################################################################################################################
-<item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR] [COLOR=white]NOW FIXED HAD A TYPO[/COLOR]</title>
-<link>http://nlds137.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
-</item>
-######################################################################################################################################
-<item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]HD[/COLOR] [COLOR=white]NOW FIXED HAD A TYPO[/COLOR]</title>
-<link>
-  <sublink>http://nlds137.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-  <sublink>http://nlds137.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
-</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
-</item>
 ######################################################################################################################################
 <item>
 <title>NHL Network</title>
