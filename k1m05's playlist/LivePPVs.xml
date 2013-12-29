@@ -26,22 +26,22 @@
 </item>http://nlds134.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000.m3u8
 ######################################################################################################################################
 <item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>http://nlds174.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_800.m3u8</link>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR] FIXED</title>
+<link>http://nlds174.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_800.m3u8</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
 </item>
 ######################################################################################################################################
 <item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>http://nlds174.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_1600.m3u8</link>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR] FIXED</title>
+<link>http://nlds174.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_1600.m3u8</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
 </item>
 ######################################################################################################################################
 <item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]HD[/COLOR] FIXED</title>
 <link>
-  <sublink>http://nlds174.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000.m3u8</sublink>
-  <sublink>http://nlds174.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_4500.m3u8</sublink>
+  <sublink>http://nlds174.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000.m3u8</sublink>
+  <sublink>http://nlds174.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
 </item>
