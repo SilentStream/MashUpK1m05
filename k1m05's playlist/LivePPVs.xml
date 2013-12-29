@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=yellow]2days Schedule:[/COLOR][COLOR=blue] Hull v ManUn L6&9[/COLOR] [COLOR=red]Cardiff v Southampton L5[/COLOR] [COLOR=blue]AstonV v Crystal Pal L3[/COLOR] [COLOR=red]Newcastle v Stoke L4[/COLOR][COLOR=blue]Everton v Sunderland L6[/COLOR] [COLOR=red]West Ham United v Arsenal L2[/COLOR] [COLOR=blue]Chel v Swansea L8[/COLOR] [COLOR=red]Tottenham Hotspur v West Bromwich L6[/COLOR] [COLOR=blue]Manchester v Liverpool L2&5[/COLOR]</title>
+<title>[COLOR=FFFF4500]Sports Pack 1[/COLOR]RedZone 1 & 12 | Packers vs Bears 5 | Browns vs Steelers 6 | Redskins vs Giants 4 | Ravens vs Bengals 10 | Lions vs Vikings 3 | Jags vs Colts 2 |  Jets vs Dolpins 8 | Panthers vs Falcons 11 | </title>
 <link>http://none.com</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
@@ -56,7 +56,9 @@
   <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel6 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=8 live=true timeout=10</sublink>
   <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel7 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
   <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel88 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTO swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=11 live=true timeout=10</sublink>
+  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTOVIP swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=11 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel12 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10</sublink>
+  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel13 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10</sublink>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
