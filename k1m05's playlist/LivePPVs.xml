@@ -9,11 +9,7 @@
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 #######################################################################################################################################
-<popup>
-<name>[COLOR=white]Sport Pack 2[/COLOR] [COLOR=FFFF0000]Schedule[/COLOR]</name>
-<popImage>http://img29.imageshack.us/img29/2899/4u6v.jpg</popImage>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</popup>
+
 #######################################################################################################################################
 # 
 #######################################################################################################################################
@@ -27,14 +23,23 @@
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
 <link>rtmp://server2.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
-</item>
-#######################################################################################################################################
+</item>http://nlds134.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000.m3u8
+######################################################################################################################################
 <item>
-<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Prelims[/COLOR]</title>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Early Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://cp231028.live.edgefcs.net/live/ playpath=BR_blocked@116950 pageUrl=http://www.ufc.com/media/prelims live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
 </item>
-#######################################################################################################
+######################################################################################################################################
+<item>
+<title>1.[COLOR=white]UFC:[/COLOR] [COLOR=red]168[/COLOR] [COLOR=white]Silva vs Weidman[/COLOR] [COLOR=red]Early Prelims[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds134.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000.m3u8</sublink>
+  <sublink>http://nlds134.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_4500.m3u8</sublink>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/k1m05-UFC-Poster.jpg</thumbnail>
+</item>
+######################################################################################################################################
 <item>
 <title>NHL Network</title>
 <link>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</link>
