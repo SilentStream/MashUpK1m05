@@ -35,6 +35,14 @@
 <link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_scarytales swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/infected live=true timeout=10 token=balls2u</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/scarytales_320.jpg</thumbnail>
 </item>
+
+
+<item>
+<title>Sky Movies: Disney [COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://nyk.premiumcdnlive.com/edge/rxslwv0z7ju9isb swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
+</item>
+
 #######################################################################################################################################
 #########################################################--------------A-------------##################################################
 #######################################################################################################################################
@@ -49,17 +57,13 @@
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/qt4t1aakeci3emk swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/rd14u8o0sd32rk3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmpe://live.univisionbrazil.com/stream playpath=z00001.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00001 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 
 <item>
 <title>ABC Family[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/vx63a0c7mxk2jt8 swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://live.cast-tv.us/stream playpath=z00001.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=abc live=true timeout=10</sublink>
-</link>
+<link>>rtmp://nyk.premiumcdnlive.com/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 
@@ -111,7 +115,10 @@
 
 <item>
 <title>Bravo [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://ams.premiumcdnlive.com/edge playpath=uw433ikqnrj501l swfUrl=http://player.ilive.to/secure_player_ilive_z.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa live=true timeout=10</link>
+<link>
+  <sublink>rtmp://95.211.168.161/wl/channel playpath=7861121BR swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ playpath=uw433ikqnrj501l swfUrl=http://player.ilive.to/secure_player_ilive_z.swf pageUrl=http://www.ilive.to token=udsanjkj827jJHLKJdsa live=true timeout=10<sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img109/20/nu7.png</thumbnail>
 </item>
 #######################################################################################################################################
@@ -131,7 +138,7 @@
 <title>CBS [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR].</title>
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/fmqhvt1ge04s2fd swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/k2ebhw7tyclkuv3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/jlloui0fux61mix swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=cbs live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>
@@ -140,7 +147,7 @@
 <item>
 <title>Comedy Central [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/tuhq23pjmv2t6az swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://95.211.168.161/wl/channel playpath=comed136 swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/live=true timeout=10</sublink> 
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/sfrd5bsagtq9eg0 swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img829/944/cc3l.png</thumbnail>
@@ -474,6 +481,12 @@
 <title>[COLOR=yellow]Series:[/COLOR] COPS</title>
 <link>rtmp://198.27.74.25/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?cops01 live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/74709/clearart/Cops-74709.png</thumbnail>
+</item>
+
+<item>
+<title>1. [COLOR=yellow]Series:[/COLOR] Fresh Prince (RIP Uncle Phil)</title>
+<link>rtmp://198.27.74.25/app playpath=freshprince01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?freshprince01 live=true timeout=10</link>
+<thumbnail>https://pbs.twimg.com/media/Bc8CqNlIcAAzHwc.jpg</thumbnail>
 </item>
 
 <item>
