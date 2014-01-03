@@ -251,7 +251,7 @@
 ###################################################
 <item>
 <title>[COLOR=green]Za Metallica[/COLOR] Freeze 'em All Concert</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge playpath=$doregex[path] token=udsanjkj827jJHLKJdsa swfUrl=http://player.ilive.to/ pageUrl=http://www.ilive.to/</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge playpath=$doregex[path] token=87adjuljlsadkf87HD swfUrl=http://player.ilive.to/ pageUrl=http://www.ilive.to/</link>
 <regex>
 <name>path</name>
 <expres>file: "(.*).flv<expres>

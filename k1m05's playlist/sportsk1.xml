@@ -69,9 +69,9 @@
 <item>
 <title>ESPN.</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ppc1li7inw63z7x swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=udsanjkj827jJHLKJdsa live=1 pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ac0cw5cmguex4di swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ypb87lzx6ak05m3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ppc1li7inw63z7x swfUrl=http://player.ilive.to/secure_player_ilive_z.swf token=87adjuljlsadkf87HD live=1 pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ac0cw5cmguex4di swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ypb87lzx6ak05m3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00018.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
@@ -81,8 +81,8 @@
 <item>
 <title>ESPN2</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/x5x1bqxxwakitcy swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/du97agywg74nbys swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink> 
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/x5x1bqxxwakitcy swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/du97agywg74nbys swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD live=true pageUrl=http://www.ilive.to/ live=true timeout=10</sublink> 
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00019.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn2 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
@@ -132,7 +132,7 @@
 
 <item>
 <title>Golf Channel</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/ts6w24dx29tcwi4 swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge/ts6w24dx29tcwi4 swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 
@@ -144,7 +144,7 @@
 
 <item>
 <title>NBC Sports</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/30sbtmyelnevr80 swfUrl=http://player.ilive.to/player_ilive_2.swf token=udsanjkj827jJHLKJdsa live=true pageUrl=http://www.ilive.to/ timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge/30sbtmyelnevr80 swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD live=true pageUrl=http://www.ilive.to/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nbc_sports_network.png</thumbnail>
 </item>
 
@@ -263,6 +263,10 @@
   <sublink>rtmp://50.7.52.202/vl/_definst_ playpath=testup swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com live=true timeout=10</sublink>
   <sublink>rtmp://67.159.54.98:443/live/live_ppvdirectdotcom swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</sublink>
   <sublink>rtmp://46.105.14.26/live/me swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</sublink>
+  <sublink>http://nlds1.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_800.m3u8</sublink>
+  <sublink>http://nlds1.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_1600.m3u8</sublink>
+  <sublink>http://nlds1.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_3000.m3u8</sublink>
+  <sublink>http://nlds1.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/wweimpact.jpg</thumbnail>
 </item>
