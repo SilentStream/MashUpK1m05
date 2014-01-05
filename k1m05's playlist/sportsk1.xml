@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]0101/14 BT1 Fixed | 12/18/13 NBC Sports Fixed[/COLOR]</message>
+<message>[COLOR=FF00FF00]01/05/14 SNWorld fixed New Eurosport links | 0101/14 BT1 Fixed | 12/18/13 NBC Sports Fixed[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -30,8 +30,8 @@
 </item>
 
 <item>
-<title>Sportsnet World</title>
-<link>rtmp://198.144.120.217/live playpath=setca swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.reyhq.com/embed1.php?live=setca&vw=620&vh=490 live=true timeout=10</link>
+<title>Sportsnet World FIXED</title>
+<link>rtmpe://46.246.124.7:1935/live playpath=HDMSNWL swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
@@ -90,13 +90,19 @@
 
 <item>
 <title>Eurosport</title>
-<link>rtmp://31.220.0.104:443/live playpath=euroo11c swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euroo11c&vw=620&vh=490 live=true timeout=10</link>
+<link>
+  <sublink>https://149.255.37.194/nettv/8811/index.m3u8</sublink>
+  <sublink>rtmp://31.220.0.104:443/live playpath=euroo11c swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euroo11c&vw=620&vh=490 live=true timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
 <item>
 <title>Eurosport 2</title>
-<link>rtmp://31.220.0.103:443/live playpath=euro2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=true timeout=10</link>
+<link>
+  <sublink>https://149.255.37.194/nettv/8814/index.m3u8</sublink>
+  </sublink>rtmp://31.220.0.103:443/live playpath=euro2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=true timeout=10</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
 
