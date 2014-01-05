@@ -30,6 +30,28 @@
 <thumbnail>http://prod.static.chargers.clubs.nfl.com//assets/images/imported/SD/123113bengalsscoutingreport660.jpg</thumbnail>
 </item>
 
+
+################     ||\   || ||    ||	||		    ###############
+################     || \  || ||==||   ||			###############
+################     ||  \ || ||==||   ||			###############
+################     ||   \|| ||	  ||   ||===	###############
+###################################################
+
+<item>
+<title>NHL: Jets vs Penguins HD [COLOR=FFFF0000] Testing Gotham Only![/COLOR]</title>
+<link>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_4500.m3u8|User-Agent=iTunes-AppleTV/4.1</sublink>
+  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_3000.m3u8|User-Agent=iTunes-AppleTV/4.1</sublink>
+<link>
+<thumbnail>http://illegalcurve.com/wp-content/uploads/2013/01/Pens-vs.-Jets-preview.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>NHL: Jets vs Penguins SD [COLOR=FFFF0000] Testing Gotham Only![/COLOR]</title>
+<link>http://nlds136.cdnak.neulion.com/nlds/nhl/penguins/as/live/penguins_hd_1600.m3u8|User-Agent=iTunes-AppleTV/4.1<link>
+<thumbnail>http://illegalcurve.com/wp-content/uploads/2013/01/Pens-vs.-Jets-preview.jpg</thumbnail>
+</item>
+
 #######################################################################################################################################
 #######################################################################################################################################
 #######################################################################################################################################
