@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>12/26/13 [COLOR=FF00FF00]  *  Token fixed [/COLOR]ABC L2 fixed PBS added | 12/23/13 Discovery Link 1 | 12/12/13 OWN fixed, Went trough all the links here most are up :) NO SKY MOVIES :( | 12/10/13 Fixed A&E/ABC Fam/ABC/AMC/Bravo/Cartoon/CBS/Comedy/CW/Disc/DiscTurbo/Disney/Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
+<message>01/07/14 A&E fixed | 12/26/13 [COLOR=FF00FF00]  *  Token fixed [/COLOR]ABC L2 fixed PBS added | 12/23/13 Discovery Link 1 | 12/12/13 OWN fixed, Went trough all the links here most are up :) NO SKY MOVIES :( | 12/10/13 Fixed A&E/ABC Fam/ABC/AMC/Bravo/Cartoon/CBS/Comedy/CW/Disc/DiscTurbo/Disney/Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 
@@ -48,7 +48,7 @@
 #######################################################################################################################################
 <item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge/0uk8e5sp66o6z6m swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>rtmp://nyk.premiumcdnlive.com/edge/5t13xsrrbdoq261 swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
