@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>01/07/14 A&E fixed | 12/26/13 [COLOR=FF00FF00]  *  Token fixed [/COLOR]ABC L2 fixed PBS added | 12/23/13 Discovery Link 1 | 12/12/13 OWN fixed, Went trough all the links here most are up :) NO SKY MOVIES :( | 12/10/13 Fixed A&E/ABC Fam/ABC/AMC/Bravo/Cartoon/CBS/Comedy/CW/Disc/DiscTurbo/Disney/Fox | 12/5/13 NewAnimalPlanet(L1), 12/4/13 FX West,12/2/13 New History stream, Video Mix | </message>
+<message>01/10/14 abchd cbshd nbchd cw foxhd fixed </message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -48,8 +48,9 @@
 </item>
 
 <item>
-<title>ABC[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>ABC[COLOR=FF00FF00]  *  [/COLOR] </title>
 <link>
+  <sublink>rtmp://watch.ilive.to:1935/edge/qt4t1aakeci3emk swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/qt4t1aakeci3emk swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
@@ -57,7 +58,7 @@
 </item>
 
 <item>
-<title>ABC Family[COLOR=FF00FF00]  *  [/COLOR].</title>
+<title>ABC Family[COLOR=FF00FF00]  *  [/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>rtmp://nyk.premiumcdnlive.com/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
@@ -129,7 +130,7 @@
 <item>
 <title>CBS [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR].</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/fmqhvt1ge04s2fd swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge/fmqhvt1ge04s2fd swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/jlloui0fux61mix swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=cbs live=true timeout=10</sublink>
 </link>
@@ -148,6 +149,7 @@
 <item>
 <title>The CW[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
+  <sublink>rtmp://watch.ilive.to:1935/edge/koh5oq74hayye8m swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/fvksu1sp51ijtyd swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/koh5oq74hayye8m swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
@@ -213,6 +215,7 @@
 <item>
 <title>FOX[COLOR=FF00FF00]  *  [/COLOR] Link 1 is HD</title>
 <link>
+  <sublink>rtmp://watch.ilive.to:1935/edge/1ri6383sf1vupgv swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/p8jww0qurpslplc swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ timeout=10</sublink>
   <sublink>rtmpe://live.univisionbrazil.com/stream playpath=z00011.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00011 live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/s210ik8or3eu85z swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ timeout=10</sublink>
@@ -350,7 +353,7 @@
 <item>
 <title>NBC [COLOR=FF00FF00]  *  [/COLOR] Link 1 HD.</title>
 <link>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/bbdrwesuz7v0h6l swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=54675&autoplay=true live=true timeout=10 token=87adjuljlsadkf87HD</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge/bbdrwesuz7v0h6l swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/2znp9nmpozk4gpr swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10 token=87adjuljlsadkf87HD</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=nbc live=true timeout=10</sublink>
 </link>
