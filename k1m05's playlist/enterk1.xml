@@ -53,16 +53,16 @@
 </item>
 
 <item>
-<title>ABC[COLOR=FF00FF00]  *  [/COLOR]Link 1 is HD</title>
+<title>ABC[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/qt4t1aakeci3emk swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/rd14u8o0sd32rk3 swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 
 <item>
-<title>ABC Family[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>ABC Family[COLOR=FF00FF00]  *  [/COLOR].</title>
 <link>rtmp://nyk.premiumcdnlive.com/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
@@ -72,7 +72,7 @@
 <link>
   <sublink>rtmp://nyk.premiumcdnlive.com/edge/z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
   <sublink>rtmpe://watch.playfooty.tv/live playpath=amci swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=masalii&vw=600&vh=430</sublink>
-  <sublink>rtmp://live.cast-tv.us/stream playpath=z00025.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=amc
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00025.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=amc</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
@@ -85,7 +85,7 @@
 
 <item>
 <title>Animal Planet [COLOR=FFFF0000]L!ve[/COLOR] Reindeer</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/16076741/streams/live/playlist.m3u8</link>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/#/streams/live/playlist.m3u8</link>
 <thumbnail>http://img96.imageshack.us/img96/2804/m6jl.jpg</thumbnail>
 </item>
 
@@ -114,11 +114,8 @@
 </item>
 
 <item>
-<title>Bravo [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>
-  <sublink>rtmp://95.211.168.161/wl/channel playpath=7861121BR swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/ live=true timeout=10</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.com/edge/ playpath=uw433ikqnrj501l swfUrl=http://player.ilive.to/secure_player_ilive_z.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD live=true timeout=10<sublink>
-</link>
+<title>Bravo [COLOR=FF00FF00]  *  [/COLOR].</title>
+<link>rtmp://nyk.premiumcdnlive.com/edge/ playpath=uw433ikqnrj501l swfUrl=http://player.ilive.to/secure_player_ilive_z.swf pageUrl=http://www.ilive.to token=87adjuljlsadkf87HD live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img109/20/nu7.png</thumbnail>
 </item>
 #######################################################################################################################################
