@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>01/12/14 Bravo, Comedy Central, Cartoon Net, E!,  Sky Movies(Not Disney), TBS  | 01/10/14 abchd cbshd nbchd cw foxhd fixed </message>
+<message>01/12/14 Spike, Bravo, Comedy Central, Cartoon Net, E!,  Sky Movies(Not Disney), TBS  | 01/10/14 abchd cbshd nbchd cw foxhd fixed </message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -425,8 +425,8 @@
 <item>
 <title>Spike[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
-<sublink>rtmp://nyk.premiumcdnlive.com/edge/sax2mq2alpirnww swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
-<sublink>rtmp://nyk.premiumcdnlive.com/edge/01k7f5wztujnzxo swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink> 
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/sax2mq2alpirnww swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/01k7f5wztujnzxo swfUrl=http://player.ilive.to/player_ilive_2.swf token=87adjuljlsadkf87HD pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=38768&autoplay=true live=true timeout=10</sublink> 
 </link>
 <thumbnail>http://imageshack.us/a/img200/5839/dqlb.png</thumbnail>
 </item>
