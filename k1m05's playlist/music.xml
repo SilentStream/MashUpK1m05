@@ -1,43 +1,7 @@
 #######################################################################################################################################
 <poster>k1m05</poster>
-<fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
+<fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
-<item>
-<title>All Rock 'n' Metal Online Radio (ARMOR) [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
-<link>http://myradiostream.com/15/10122/listen.m3u</link>
-<thumbnail>https://pbs.twimg.com/profile_images/3746998312/24375b7189be25d28c6c51486b9cbdce.jpeg</thumbnail>
-</item>
-
-<item>
-<title>Chronix Aggression [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
-<link>http://173.192.45.18:10200</link>
-<thumbnail>http://www.chronixradio.com/images/stations/Logo_Aggro_2011.png</thumbnail>
-</item>
-
-<item>
-<title>Christmas Rock[COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
-<link>http://relay4.181.fm:8090/</link>
-<thumbnail>http://www.181.fm/images/nowplaying/logo.png</thumbnail>
-</item>
-
-<item>
-<title>Christmas [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
-<link>http://95.141.24.213:80</link>
-<thumbnail>http://www.christmas-channel.com/img/weihnachtsradio.png</thumbnail>
-</item>
-
-<item>
-<title>Christmas Swing[COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
-<link>http://108.61.73.119:14120</link>
-<thumbnail>http://www.christmas-channel.com/img/weihnachtsradio.png</thumbnail>
-</item>
-
-<item>
-<title>Christmas [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
-<link>rtmp://fms.105.net:1935/live playpath=XMAS swfUrl=http://www.105.net/swf/corePlayerStreamingVisible2013_counter_105.swf?streamRadio=XMAS&radioName=105&autoPlay=1&bufferTime=2.5&rateServer=37.247.51.46/[[DYNAMIC]]/3 pageUrl=http://www.105.net/webradio/play/id/54/name/xmas-radio live=true timeout=10</link>
-<thumbnail>http://www.105.net//media/webradio/00-105xmasradio(4).jpg</thumbnail>
-</item>
-
 <item>
 <title>KNAC [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
 <link>http://www.streamlicensing.com/directory/index.cgi/playlist.asx?action=playlist&type=asx&sid=412&stream_id=679</link>
@@ -179,67 +143,6 @@
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/5898069/streams/live/playlist.m3u8</link>
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/5/8/9/8/5898069/5898069_videomixbluelogo_1296079568,66x66,r:1.jpg</thumbnail>
 </item>
-##################################################
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]The Crash Test Dummies - The First Noel</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=oP10_JkHDL0</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]Corey Taylor - X-m@$ [COLOR=red]EXPLICIT[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=od7GUy9XS7c</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]Hollywood Undead - Christmas In Hollywood [COLOR=red]EXPLICIT[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=pzDnUbU1lf8</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]331Erock - Christmas Meets Metal</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=TEvV0fW1_fU</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]Trans-Siberian Orchestra - Holiday Hits</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=UMgxVoVeGEQ</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]Trans Siberian Orchistra - Carol of the Bells</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=MHioIlbnS_A</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]Charlie Parra - Greensleeves</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=aZ7yRj_ScdU</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]Charlie Parra - Jingle Bells</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=mlb5go7FRYw</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]KoЯn - Kidnap The Sandy Claws</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=rve7Po5aKFw</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=green]Xmas Music Video[/COLOR]Iron Maiden - Another Rock and Roll Christmas</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=green]Metallica[/COLOR] Freeze 'em All Concert</title>
@@ -247,16 +150,3 @@
 <thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
 </item>
 
-
-###################################################
-<item>
-<title>[COLOR=green]Za Metallica[/COLOR] Freeze 'em All Concert</title>
-<link>rtmp://nyk.premiumcdnlive.com/edge playpath=$doregex[path] token=87adjuljlsadkf87HD swfUrl=http://player.ilive.to/ pageUrl=http://www.ilive.to/</link>
-<regex>
-<name>path</name>
-<expres>file: "(.*).flv<expres>
-<page>http://www.ilive.to/view/53616/</page>
-<referer>fireeaer.tv</referer>
-</regex>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
-</item>
