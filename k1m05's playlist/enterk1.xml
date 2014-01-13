@@ -84,7 +84,10 @@
 #######################################################################################################################################
 <item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge/ug176dq4n2zftgo swfUrl=http://player.ilive.to/player_ilive_2.swf token=12345dsag pageUrl=http://www.ilive.to/ live=true timeout=10</link>
+<link>
+  <sublink>rtmp://watch.ilive.to:1935/edge/ug176dq4n2zftgo swfUrl=http://player.ilive.to/player_ilive_2.swf token=12345dsag pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge/5t13xsrrbdoq261 swfUrl=http://player.ilive.to/player_ilive_2.swf token=12345dsag pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
