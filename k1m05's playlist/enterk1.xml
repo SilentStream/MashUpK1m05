@@ -368,6 +368,16 @@
 </item>
 
 <item>
+<title>NBC [COLOR=FF00FF00]  Golden Globes Replacement [/COLOR]</title>
+<link>
+  <sublink>rtmp://5.79.72.3/vl/_definst_ playpath=chan75 swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/watch?v=chan75 live=true timeout=10</sublink>
+  <sublink>rtmp://nyk.premiumcdnlive.com/edge/2znp9nmpozk4gpr swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=400&channel=36674&autoplay=true live=true timeout=10 token=12345dsag</sublink>
+  <sublink>rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=nbc live=true timeout=10</sublink>
+</link>
+<thumbnail>http://imageshack.us/scaled/landing/12/6w8y.png</thumbnail>
+</item>
+
+<item>
 <title>NBC [COLOR=FF00FF00]  *  [/COLOR] Link 1 HD</title>
 <link>
   <sublink>rtmp://watch.ilive.to:1935/edge/bbdrwesuz7v0h6l swfUrl=http://player.ilive.to/player_ilive_2.swf token=12345dsag pageUrl=http://www.ilive.to/ live=true timeout=10</sublink>
