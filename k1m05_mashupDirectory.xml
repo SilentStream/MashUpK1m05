@@ -20,17 +20,6 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Twitter.jpg</thumbnail>
 </info>
 #######################################################################################################################################
-<info>
-<message>[COLOR=FF00FF00]Or Post in the XunityTalk Forums http://tinyurl.com/k1m05-Support[/COLOR]</message>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Xunity.jpg</thumbnail>
-</info>
-#######################################################################################################################################
-<item>
-<title>Test dir</title>
-<link><dirlist>https://raw.github.com/mash2k3/MashUpK1m05/master/OnDemandDir.xml</dirlist></link>
-<thumbnail>http://img826.imageshack.us/img826/346/m3u.png</thumbnail>
-</item>
-#######################################################################################################################################
 ### Counter
 #######################################################################################################################################
 <info>
@@ -63,7 +52,7 @@
 <name>[COLOR=FFFF4500]Music[/COLOR][COLOR=white]..................................................[/COLOR]</name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/music.xml</link>
 <thumbnail>https://github.com/mash2k3/MashUpK1m05/blob/master/k1m05.Images/Guide/Music.jpg?raw=true</thumbnail>
-<date>12/12/13</date>
+<date>  </date>
 #######################################################################################################################################
 <dir>
 <name>TESTING - DONT CLICK ME I COULD MAKE YOUR SYSTEM HANG</name>
