@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>Bien Sports 1-8</title>
+<title>Bien Sports 1-12</title>
 <link>
   <sublink>rtmpe://93.120.27.75/live playpath=toni1 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
   <sublink>rtmpe://93.120.27.75/live playpath=toni2 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
@@ -52,6 +52,10 @@
   <sublink>rtmpe://93.120.27.75/live playpath=toni6 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
   <sublink>rtmpe://93.120.27.75/live playpath=toni7 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
   <sublink>rtmpe://93.120.27.75/live playpath=toni8 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
+  <sublink>rtmpe://93.120.27.75/live playpath=toni9 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
+  <sublink>rtmpe://93.120.27.75/live playpath=toni10 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
+  <sublink>rtmpe://93.120.27.75/live playpath=toni11 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
+  <sublink>rtmpe://93.120.27.75/live playpath=toni12 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
 </item>
