@@ -25,7 +25,7 @@
 <title>BBC World News</title>
 <link>
   <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
-  <sublink>rtmp://nyk.premiumcdnlive.como/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=12345dsag live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=12345dsag live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
@@ -63,7 +63,7 @@
 
 <item>
 <title>Euro News</title>
-<link>rtmp://nyk.premiumcdnlive.como/edge/fg2fwiffpklotoc swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf</link>
+<link>rtmp://watch.ilive.to:1935/edge/fg2fwiffpklotoc swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 </item>
 
@@ -168,7 +168,7 @@
 
 <item>
 <title>Weather Channel</title>
-<link>rtmp://nyk.premiumcdnlive.como/edge/0ofj5z5lab0b3ox swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf</link>
+<link>rtmp://watch.ilive.to:1935/edge/0ofj5z5lab0b3ox swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
 </item>
 
