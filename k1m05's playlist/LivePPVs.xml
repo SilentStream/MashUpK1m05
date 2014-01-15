@@ -17,9 +17,27 @@
 
 #######################################################################################################################################
 <item>
-<title>NFL: 49er and Panthers HD GOTHAM ONLY</title>
-<link>http://nlds133.cdnak.neulion.com/nlds/nfl/panthers/as/live/panthers_hd_3000.m3u8</link>
-<thumbnail>http://illegalcurve.com/wp-content/uploads/2013/01/Pens-vs.-Jets-preview.jpg</thumbnail>
+<title>1. [COLOR=FFFF4500]UFC[/COLOR=white]Fight Night[/COLOR]: [COLOR=FFFF4500]SD[/COLOR] [COLOR=white]PRELIMS[/COLOR]</title>
+<link>http://nlds50.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_1600.m3u8</link>
+<thumbnail>http://images.xyience.com/method%3Dget%26s%3Dufc-on-fs1-8.png</thumbnail>
+</item>
+
+<item>
+<title>1. [COLOR=FFFF4500]UFC[/COLOR=white]Fight Night[/COLOR]: [COLOR=FFFF4500]SD[/COLOR] [COLOR=white]PRELIMS[/COLOR]</title>
+<link>http://nlds50.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_800.m3u8</link>
+<thumbnail>http://images.xyience.com/method%3Dget%26s%3Dufc-on-fs1-8.png</thumbnail>
+</item>
+
+<item>
+<title>1. [COLOR=FFFF4500]UFC[/COLOR=white]Fight Night[/COLOR]: [COLOR=FFFF4500]HD[/COLOR] [COLOR=white]PRELIMS[/COLOR]</title>
+<link>http://nlds50.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000.m3u8</link>
+<thumbnail>http://images.xyience.com/method%3Dget%26s%3Dufc-on-fs1-8.png</thumbnail>
+</item>
+
+<item>
+<title>1. [COLOR=FFFF4500]UFC[/COLOR=white]Fight Night[/COLOR]: [COLOR=FFFF4500]HD[/COLOR] [COLOR=white]PRELIMS[/COLOR]</title>
+<link>http://nlds50.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500.m3u8</link>
+<thumbnail>http://images.xyience.com/method%3Dget%26s%3Dufc-on-fs1-8.png</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
