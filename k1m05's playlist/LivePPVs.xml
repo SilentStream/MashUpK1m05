@@ -17,27 +17,9 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=FFFF4500]UFC[/COLOR] [COLOR=white]Fight Night[/COLOR]: [COLOR=FFFF4500]SD[/COLOR] [COLOR=white]MAIN CARD[/COLOR]</title>
-<link>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
-<thumbnail>http://images.xyience.com/method%3Dget%26s%3Dufc-on-fs1-8.png</thumbnail>
-</item>
-
-<item>
-<title>1. [COLOR=FFFF4500]UFC[/COLOR] [COLOR=white]Fight Night[/COLOR]: [COLOR=FFFF4500]SD[/COLOR] [COLOR=white]MAIN CARD[/COLOR]</title>
-<link>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
-<thumbnail>http://images.xyience.com/method%3Dget%26s%3Dufc-on-fs1-8.png</thumbnail>
-</item>
-
-<item>
-<title>1. [COLOR=FFFF4500]UFC[/COLOR] [COLOR=white]Fight Night[/COLOR]: [COLOR=FFFF4500]HD[/COLOR] [COLOR=white]MAIN CARD[/COLOR]</title>
-<link>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</link>
-<thumbnail>http://images.xyience.com/method%3Dget%26s%3Dufc-on-fs1-8.png</thumbnail>
-</item>
-
-<item>
-<title>1. [COLOR=FFFF4500]UFC[/COLOR] [COLOR=white]Fight Night[/COLOR]: [COLOR=FFFF4500]HD[/COLOR] [COLOR=white]MAIN CARD[/COLOR]</title>
-<link>http://nlds177.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</link>
-<thumbnail>http://images.xyience.com/method%3Dget%26s%3Dufc-on-fs1-8.png</thumbnail>
+<title>1.[COLOR=red]UFC[/COLOR] [COLOR=gray]on[/COLOR] [COLOR=FF00FF00]FOX:[/COLOR] [COLOR=FFFF4500]Henderson[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Thomson[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&videoid=0SXPCHqaRgI</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_on_FOX_10.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
