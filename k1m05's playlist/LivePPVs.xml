@@ -58,6 +58,7 @@
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTOVIP swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=11 live=true timeout=10</sublink>
   <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel12 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10</sublink>
   <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel13 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10</sublink>
+  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel14 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
