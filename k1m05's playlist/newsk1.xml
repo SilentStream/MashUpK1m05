@@ -3,21 +3,21 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Fox News is fixed</message>
+<message>1/18/14 ABC News 7, Fox 31 Denver, KFOR-TV Okl</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
 ######################################################################################################################################
 
 <item>
-<title>9 News Colorado</title>
+<title>9 News Colorado [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://b_kusa-f.akamaihd.net/KUSA_Live_1_2000@98937?videoId=2146942691001&lineUpId=&pubId=34295199001&playerId=1684512070001&affiliateId=&accountid=34295199001&v=3.1.0&fp=WIN%2011,9,900,152&r=EOBKT&g=YHIBVBUEHBBU</link>
 <thumbnail>http://www.9news.com/graphics/header/logo.gif</thumbnail>
 </item>
 
 <item>
 <title>ABC News 7 Washington</title>
-<link>http://livestream-f.akamaihd.net/1651644_1602658_c38b41ea_1_678@85846?v=3.0.3&fp=WIN%2011,9,900,152&r=YIBRK&g=FLGYYJSTTRPV</link>
+<link>http://api.new.livestream.com/broadcasts/39812572.m3u8?dw=100</link>
 <thumbnail>http://www.wjla.com/design/wjla/logos/tim-allison-leon-maureen-gordon-doug.png</thumbnail>
 </item>
 
@@ -41,7 +41,7 @@
 </item>
 
 <item>
-<title>City News Toronto</title>
+<title>City News Toronto [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://cncflash-lh.akamaihd.net/cnc_live_800@101004?videoId=2209888570001&lineUpId=&pubId=593482582001&playerId=1111577692001&affiliateId=&v=2.11.3&fp=WIN%2011%2C7%2C700%2C169&r=XXXXX&g=XXXXXXXXXXXX&v=2.11.3&fp=WIN%2011,7,700,169&r=ZIMSW&g=SGVVMWHJRGXN</link>
 <thumbnail>http://www.citynews.ca/wp-content/themes/citynews.ca/images/common/logo.png</thumbnail>
 </item>
@@ -104,8 +104,8 @@
 </item>
 
 <item>
-<title>FOX 31 News Denver</title>
-<link>rtmp://cp154704.live.edgefcs.net:1935/live playpath=WTVT_1084_Flash@57480 swfUrl=http://www.myfoxtampabay.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://www.myfoxtampabay.com/category/235312/live-video live=true timeout=10</link>
+<title>FOX 31 News Denver [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>http://api.new.livestream.com/broadcasts/39892378.m3u8?dw=100</link>
 <thumbnail>http://s2.wp.com/wp-content/themes/vip/localtvcommon/_img/kdvr_logo.png</thumbnail>
 </item>
 
@@ -122,10 +122,11 @@
 </item>
 
 <item>
-<title>KFOR-TV [COLOR=FFFFD700](Oklahoma)[/COLOR]</title>
-<link>rtmp://96.6.41.69/live?_fcs_vhost=cp76676.live.edgefcs.net/xha3JkNDob-DtufEX1a5Rh4EkV6gVnRW_640_480_500@18842 swfUrl=http://player.ooyala.com/static/cacheable/c3d327ff6e3f06fdde769275ca5ef76f/player_v2.swf pageUrl=http://kfor.com/on-air/live-streaming/ live=true timeout=10</link>
+<title>KFOR-TV Oklahoma</title>
+<link>rtmp://216.156.199.134/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=xha3JkNDob-DtufEX1a5Rh4EkV6gVnRW_640_480_500@18842 swfUrl=http://player.ooyala.com/static/cacheable/3280e9e38589d0dbea99b7806328e0b6/player_v2.swf pageUrl=http://kfor.com/on-air/live-streaming/ live=true timeout=10</link>
 <thumbnail>http://s1.wp.com/wp-content/themes/vip/localtvcommon/_img/kfor_logo.png</thumbnail>
 </item>
+
 
 <item>
 <title>MSNBC</title>
@@ -143,7 +144,7 @@
 </item>
 
 <item>
-<title>WGN-TV Chicago</title>
+<title>WGN-TV Chicago [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8</link>
 <thumbnail>http://tribwgntv.files.wordpress.com/2012/12/wgntv_logo_400x140-black1.png?w=194</thumbnail>
 </item>
