@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]1/15/14 BTN Fixed | 01/12/14 Sky Sports 1234[/COLOR][COLOR=FF00FF00]01/05/14 SNWorld fixed New Eurosport links | 0101/14 BT1 Fixed | 12/18/13 NBC Sports Fixed[/COLOR]</message>
+<message>[COLOR=FF00FF00]1/19/14 NFL Will Be On Sports Pack 1 Links 6 & 9, New Sky Sports 123[/COLOR][COLOR=FF00FF00]01/05/14 SNWorld fixed New Eurosport links | 0101/14 BT1 Fixed | 12/18/13 NBC Sports Fixed[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -228,6 +228,7 @@
 <item>
 <title>Sky Sports 1</title>
 <link>
+  <sublink>http://auth.torrent-tv.ru/a/3677/b3dOb3hGZTQxbEx1NXFOVlc2Z2NGcVFZVjZwSkZ0ajI3MHNtb01mUkJmU2syaWtQNEpIYXE1VUZPSnA3OUNoZQ</sublink>
   <sublink>rtmp://37.220.32.36:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23697&width=700&height=500 token=#atd%#$ZH live=true timeout=10</sublink>
   <sublink>rtmp://akamai.kbps.tv:1935/live playpath=skysp1?Key=c73ee8ef672b7d1cc72b21a1f851d81c swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=skysp1&width=600&height=450&domain=webcache.googleusercontent.com live=true timeout=10</sublink>
   <sublink>rtmp://173.193.48.134:443/liverepeater playpath=stream1 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.tiv.pw/stream1.html live=true timeout=10</sublink>
@@ -239,6 +240,7 @@
 <item>
 <title>Sky Sports 2</title>
 <link>
+  <sublink>http://auth.torrent-tv.ru/a/7068/cGdObUlGZTQxbEpvK3VvWTkxS3NmUHJmZFFBTmNQVGxqVEhoeUNFaTR0S0NvR0ZzODNXN0t2M1diUHVGVUlObQ</sublink>
   <sublink>rtmp://37.220.36.18:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=33698&width=700&height=500 token=#atd%#$ZH live=true timeout=10</sublink>
   <sublink>rtmp://akamai.kbps.tv:1935/live playpath=skysp2?Key=c9ebd806ce182094e81fbf573bb2c2d9 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=skysp2&width=600&height=450&domain=hdembed.com live=true timeout=10</sublink>
   <sublink>rtmp://31.220.0.134:1935/live playpath=ss22zx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss22zx&vw=620&vh=490 live=true timeout=10</sublink>
@@ -250,6 +252,7 @@
 <item>
 <title>Sky Sports 3</title>
 <link>
+  <sublink>http://auth.torrent-tv.ru/a/6909/cWdNd2lGZTQxbEtOSjNYbThMSkJaYnVXRmNSL2Z6UTFkbEZ2M0RKR1NYcWNvMFJ0aDZXRUlqQm1UWXVGMzE1MA</sublink>
   <sublink>rtmp://37.220.32.52:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ss3.html token=#atd%#$ZH live=true timeout=10</sublink>
   <sublink>rtmp://31.220.0.82:1935/live playpath=ss3x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490 live=true timeout=10</sublink>
   <sublink>rtmp://akamai.kbps.tv:1935/live playpath=skysp4?Key=5e0637223c7f80b53b7761506893d957 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed.php?s=skysp4&width=600&height=450&domain=webcache.googleusercontent.com live=true timeout=10</sublink>
