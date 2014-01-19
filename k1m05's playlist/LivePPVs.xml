@@ -21,16 +21,6 @@
 <link>plugin://plugin.video.youtube/?action=play_video&videoid=0SXPCHqaRgI</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_on_FOX_10.jpg</thumbnail>
 </item>
-
-<item>
-<title>1.[COLOR=red]HBO[/COLOR] [COLOR=gray]Boxing[/COLOR] [COLOR=FF00FF00]Pascal[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=gray]Bute[/COLOR]HD</title>
-<link>
-  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_kingofstreams swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u</sublink>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
-  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel5 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</sublink>
-</link>
-<thumbnail>https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/1560685_693380740682126_1054222337_n.jpg</thumbnail>
-</item>
 #######################################################################################################################################
 #######################################################################################################################################
 #######################################################################################################################################
@@ -54,7 +44,7 @@
 </item>
 #######################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]HQ[/COLOR] NFL on 5 & 8 Jan 12th</title>
+<title>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]HQ[/COLOR] </title>
 <link>
   <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_kingofstreams swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
