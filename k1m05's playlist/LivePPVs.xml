@@ -23,8 +23,9 @@
 </item>
 
 <item>
-<title>1.[COLOR=red]HBO[/COLOR] [COLOR=gray]Boxing[/COLOR] [COLOR=FF00FF00]Pascal[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=gray]Bute[/COLOR]</title>
+<title>1.[COLOR=red]HBO[/COLOR] [COLOR=gray]Boxing[/COLOR] [COLOR=FF00FF00]Pascal[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=gray]Bute[/COLOR]HD</title>
 <link>
+  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_kingofstreams swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
   <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel5 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</sublink>
 </link>
