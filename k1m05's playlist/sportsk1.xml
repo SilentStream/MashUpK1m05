@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]1/19/14 NFL Will Be On Sports Pack 1 Links 6 & 9, New Sky Sports 123[/COLOR][COLOR=FF00FF00]01/05/14 SNWorld fixed New Eurosport links | 0101/14 BT1 Fixed | 12/18/13 NBC Sports Fixed[/COLOR]</message>
+<message>[COLOR=FF00FF00]1/19/14 NFL Will Be On Sports Pack 1 Links 6 & 9, New Sky Sports 123, BT 12[/COLOR][COLOR=FF00FF00]01/05/14 SNWorld fixed New Eurosport links | 0101/14 BT1 Fixed | 12/18/13 NBC Sports Fixed[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -63,6 +63,7 @@
 <item>
 <title>BT Sports 1</title>
 <link>
+  <sublink>http://auth.torrent-tv.ru/a/6844/ZFFNZk1sZTQxbEkyYm9LMUJrRVVOY1k5UkQzL21xcDlPR1hoWjJ5MjM2ak5Od1BpS3l3bnh2LzU1VTgxNm4yQQ</sublink>
   <sublink>rtmpe://play.finecast.tv/live playpath=hqbt1 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.124.6:1935/live playpath=ban6 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
   <sublink>rtmp://31.220.0.133:443/live playpath=btxx1 swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=btxx1&vw=620&vh=490 live=true timeout=10</sublink>
@@ -73,8 +74,8 @@
 <item>
 <title>BT Sports 2</title>
 <link>
-    <sublink>rtmpe://46.246.124.6:1935/live playpath=ban7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
-	<sublink>rtmp://31.220.0.104:443/live playpath=bt2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=true timeout=10</sublink>
+  <sublink>http://auth.torrent-tv.ru/a/6845/ZVFQdlZGZTQxbEtMQVhjNmVDRFNnczBCQnNmSEI4dDBlSmYvRUIxT2RlMTlJTDg3ZldTNmF0VVdWbUhrTzcrQw</sublink>
+  <sublink>rtmpe://46.246.124.6:1935/live playpath=ban7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink><sublink>rtmp://31.220.0.104:443/live playpath=bt2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=bt2x&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 </item>
@@ -113,7 +114,7 @@
 <item>
 <title>Eurosport</title>
 <link>
-  <sublink>https://149.255.37.194/nettv/8811/index.m3u8</sublink>
+    <sublink>https://149.255.37.194/nettv/8811/index.m3u8</sublink>
   <sublink>rtmp://31.220.0.104:443/live playpath=euroo11c swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euroo11c&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
@@ -123,7 +124,7 @@
 <title>Eurosport 2</title>
 <link>
   <sublink>https://149.255.37.194/nettv/8814/index.m3u8</sublink>
-  </sublink>rtmp://31.220.0.103:443/live playpath=euro2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=true timeout=10</sublink>
+  <sublink>rtmp://31.220.0.103:443/live playpath=euro2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>

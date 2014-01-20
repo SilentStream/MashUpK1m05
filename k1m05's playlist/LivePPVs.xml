@@ -5,7 +5,7 @@
 # Counter 9 - 10/23/13 # http://www39.zippyshare.com/v/23088756/file.html
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]1/19/14[/COLOR] [COLOR=FFFF4500] NFL Will Be On Sports Pack 1 Links 6 & 9[/COLOR] </message>
+<message>[COLOR=FF00FF00]01/20/14[/COLOR] [COLOR=FFFF4500] Sports Pack 1 Link 1 fixed thx again Pedro[/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 #######################################################################################################################################
@@ -46,7 +46,7 @@
 <item>
 <title>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]HQ[/COLOR] </title>
 <link>
-  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_kingofstreams swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u</sublink>
+  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_animalplanetlive swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel2 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel3 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10</sublink>
