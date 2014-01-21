@@ -16,7 +16,7 @@
 </info>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Follow me on Twitter @k1m05 to report dead links[/COLOR]</message>
+<message>[COLOR=FF00FF00]...Follow me on Twitter @k1m05 to report dead links[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Twitter.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -54,4 +54,8 @@
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1011158&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 
-
+<dir>
+<name>OD Dir</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/OnDemandDir.xml</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</dir>
