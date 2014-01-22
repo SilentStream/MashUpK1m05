@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>TruTv Fixed </message>
+<message> FOX HD, TruTv Fixed Green * ones should be back on</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -242,7 +242,7 @@
 <item>
 <title>FOX[COLOR=FF00FF00]  *  [/COLOR] Link 1 is HD</title>
 <link>
-  <sublink>rtmp://watch.ilive.to:1935/edge/1ri6383sf1vupgv swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf4</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge/hlgeankqh3jsm7o swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf4</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge/p8jww0qurpslplc swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf4</sublink>
   <sublink>rtmpe://live.univisionbrazil.com/stream playpath=z00011.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00011 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge/s210ik8or3eu85z swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf4</sublink>
