@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]OK Most marked  [/COLOR][COLOR=FF00FF00]  *  [/COLOR] [COLOR=FFFF4500] seem to be working had to click some of them a cpl times odd   [/COLOR]</message>
+<message>[COLOR=FFFF4500]Bravo/BET Fixed[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -145,13 +145,13 @@
 #######################################################################################################################################
 <item>
 <title>BET [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=kexkxje3nqi6dtl swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf4/link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=kexkxje3nqi6dtl swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf4</link>
 <thumbnail>http://imageshack.us/a/img689/1337/2du8.png</thumbnail>
 </item>
 
 <item>
 <title>Bravo [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://95.211.168.161/wl/channel/7861121BR swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=7861121BR&vw=640&vh=480&domain=superusvoxtv.com live=true timeout=10</link>
+<link>rtmp://watch.ilive.to:1935/edge playpath=bfmw64f3l53st5n swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf4</link>
 <thumbnail>http://imageshack.us/a/img109/20/nu7.png</thumbnail>
 </item>
 #######################################################################################################################################
