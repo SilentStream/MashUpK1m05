@@ -90,7 +90,7 @@
 <item>
 <title>MTV[COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=21m6jnuden2puo8 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=12345dsagf4</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=21m6jnuden2puo8 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=12345dsagf41</sublink>
   <sublink><sublink>rtmp://live.cast-tv.us/stream playpath=z00028.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=mtv live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img401/6301/k5l.png</thumbnail>
