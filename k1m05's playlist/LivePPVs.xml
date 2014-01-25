@@ -142,178 +142,133 @@
 </item>
 
 <item>
-<title>[COLOR=red]N[/COLOR][COLOR=white]B[/COLOR][COLOR=blue]A[/COLOR] [COLOR=FF00FF00]1080p[/COLOR]</title>
-<link>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba3/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba4/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba5/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba6/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba7/workflow6/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow6/mnf.m3u8</sublink>
-</link>
-<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=red]N[/COLOR][COLOR=white]B[/COLOR][COLOR=blue]A[/COLOR] [COLOR=FF00FF00]720p[/COLOR]</title>
-<link>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow5/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow5/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba3/workflow5/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba4/workflow5/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba5/workflow5/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba6/workflow5/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba7/workflow5/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow5/mnf.m3u8</sublink>
-</link>
-<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=red]N[/COLOR][COLOR=white]B[/COLOR][COLOR=blue]A[/COLOR] [COLOR=FF00FF00]576p[/COLOR]</title>
-<link>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba1/workflow4/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba2/workflow4/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba3/workflow4/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba4/workflow4/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba5/workflow4/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba6/workflow4/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba7/workflow4/mnf.m3u8</sublink>
-  <sublink>http://hls.smgbb.cn.wscdns.com/live/hdnba8/workflow4/mnf.m3u8</sublink>
-</link>
-<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
-</item>
-
-<item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] B1G</title>
+<title>B1G</title>
 <link>http://goo.gl/Fh08ox</link>
 <thumbnail>http://s2.wp.com/wp-content/themes/vip/bigtennetwork/img/logo.png?m=1345753057g</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC National 720p</title>
+<title>PAC National 720p</title>
 <link>http://goo.gl/0CofPI</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC National 1080p</title>
+<title>PAC National 1080p</title>
 <link>http://goo.gl/QihNtv</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC National SD</title>
+<title>PAC National SD</title>
 <link>http://goo.gl/hwnFUD</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Arizona 1080p</title>
+<title>PAC Arizona 1080p</title>
 <link>http://goo.gl/9P8KEP</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Arizona 720p</title>
+<title>PAC Arizona 720p</title>
 <link>http://goo.gl/yy2Y0F</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Arizona SD</title>
+<title>PAC Arizona SD</title>
 <link>http://goo.gl/zFAlPa</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Bay Area 1080p</title>
+<title>PAC Bay Area 1080p</title>
 <link>http://goo.gl/IUIs7F</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Bay Area 720p</title>
+<title>PAC Bay Area 720p</title>
 <link>http://goo.gl/gHG3ty</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Bay Area SD</title>
+<title>PAC Bay Area SD</title>
 <link>http://goo.gl/N741Sk</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Los Angeles 1080p</title>
+<title>PAC Los Angeles 1080p</title>
 <link>http://goo.gl/c1zkBg</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Los Angeles 720p</title>
+<title>PAC Los Angeles 720p</title>
 <link>http://goo.gl/m4Xaul</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Los Angeles SD</title>
+<title>PAC Los Angeles SD</title>
 <link>http://goo.gl/4L4fym</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Mountain 1080p</title>
+<title>PAC Mountain 1080p</title>
 <link>http://goo.gl/lSyVT3</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Mountain 720p</title>
+<title>PAC Mountain 720p</title>
 <link>http://goo.gl/6QnKIG</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Mountain SD</title>
+<title>PAC Mountain SD</title>
 <link>http://goo.gl/UhYExe</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Oregon 1080p</title>
+<title>PAC Oregon 1080p</title>
 <link>http://goo.gl/eRhOHd</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Oregon 720p</title>
+<title>PAC Oregon 720p</title>
 <link>http://goo.gl/FLfuDu</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Oregon SD</title>
+<title>PAC Oregon SD</title>
 <link>http://goo.gl/EHfnBH</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Washington 1080p</title>
+<title>PAC Washington 1080p</title>
 <link>http://goo.gl/RtRjJM</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Washington 720p</title>
+<title>PAC Washington 720p</title>
 <link>http://goo.gl/ZOww80</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
 
 <item>
-<title>z[COLOR=FF00FF00](College Football)[/COLOR] PAC Washington SD</title>
+<title>PAC Washington SD</title>
 <link>http://goo.gl/cJQF9D</link>
 <thumbnail>http://x.pac-12.com//profiles/pac12/themes/pac12_foundation/images/pac12/logo.png</thumbnail>
 </item>
