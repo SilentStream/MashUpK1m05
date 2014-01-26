@@ -54,8 +54,9 @@
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1011158&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 
-<dir>
-<name>OD Dir</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/OnDemandDir.xml</link>
-<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
-</dir>
+<item>
+<title>k1m05 On-Demand</title>
+<link><dirlist>https://raw.github.com/mash2k3/MashUpK1m05/master/OnDemandDir.xml</dirlist></link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/k1m05OnDemand.jpg</thumbnail>
+</item>
+
