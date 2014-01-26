@@ -31,17 +31,17 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>1.[COLOR=red]UFC[/COLOR] [COLOR=gray]on[/COLOR] [COLOR=FF00FF00]FOX:[/COLOR] [COLOR=FFFF4500]Henderson[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Thomson[/COLOR] [COLOR=gray]Prelims[/COLOR] [COLOR=red]HD[/COLOR] </title>
+<title>1.[COLOR=red]UFC[/COLOR] [COLOR=gray]on[/COLOR] [COLOR=FF00FF00]FOX:[/COLOR] [COLOR=FFFF4500]Henderson[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Thomson[/COLOR] [COLOR=gray]Main Card[/COLOR] [COLOR=red]HD[/COLOR] </title>
 <link>
-  <sublink>http://nlds149.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500.m3u8</sublink>
-  <sublink>http://nlds149.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000.m3u8</sublink>
+  <sublink>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
+  <sublink>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_on_FOX_10.jpg</thumbnail>
 </item>
 
 <item>
-<title>1.[COLOR=red]UFC[/COLOR] [COLOR=gray]on[/COLOR] [COLOR=FF00FF00]FOX:[/COLOR] [COLOR=FFFF4500]Henderson[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Thomson[/COLOR] [COLOR=gray]Prelims[/COLOR] [COLOR=red]SD[/COLOR] </title>
-<link>http://nlds149.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_1600.m3u8</link>
+<title>1.[COLOR=red]UFC[/COLOR] [COLOR=gray]on[/COLOR] [COLOR=FF00FF00]FOX:[/COLOR] [COLOR=FFFF4500]Henderson[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Thomson[/COLOR] [COLOR=gray]Main Card[/COLOR] [COLOR=red]SD[/COLOR] </title>
+<link>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_on_FOX_10.jpg</thumbnail>
 </item>
 #######################################################################################################################################
