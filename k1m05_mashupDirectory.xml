@@ -5,6 +5,14 @@
 #######################################################################################################################################
 ### Messages
 #######################################################################################################################################
+<notify>
+<new>2</new>
+<message1>WWE Royal Rumble Live Tonight</message1>
+<message2>In k1m05 Live Events</message2>
+<message3>Should have some outstanding HD Streams \m/</message3>
+<old>1</old>
+</notify>
+#######################################################################################################################################
 <info>
 <message>[COLOR=FFFF4500]Check out my WWE DVD section and Past PPVs. Requests welcome @k1m05[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/k1m05OnDemand.jpg</thumbnail>
@@ -54,9 +62,4 @@
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1011158&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 
-<item>
-<title>k1m05 On-Demand</title>
-<link><dirlist>https://raw.github.com/mash2k3/MashUpK1m05/master/OnDemandDir.xml</dirlist></link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/k1m05OnDemand.jpg</thumbnail>
-</item>
 
