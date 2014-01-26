@@ -16,33 +16,9 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>2.[COLOR=red]Showtime[/COLOR] [COLOR=gray]Boxing[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]Peterson[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Jean[/COLOR]</title>
-<link>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel88 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
-  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel5 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10</sublink>
-</link>
-<thumbnail>http://i1.ytimg.com/vi/OmBKQkirk2U/hqdefault.jpg</thumbnail>
-</item>
-
-<item>
-<title>3.[COLOR=red]HBO[/COLOR] [COLOR=gray]Boxing[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]Garcia[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Burgos[/COLOR]</title>
-<link>rtmp://server2.ppvmania.tv:1935/live playpath=channel12 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10</link>
-<thumbnail>http://www.wrestlestube.com/wp-content/uploads/2014/01/IFWT_Mikey-fight-2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
-<item>
-<title>1.[COLOR=red]UFC[/COLOR] [COLOR=gray]on[/COLOR] [COLOR=FF00FF00]FOX:[/COLOR] [COLOR=FFFF4500]Henderson[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Thomson[/COLOR] [COLOR=gray]Main Card[/COLOR] [COLOR=red]HD[/COLOR] </title>
-<link>
-  <sublink>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
-  <sublink>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_on_FOX_10.jpg</thumbnail>
-</item>
-
-<item>
-<title>1.[COLOR=red]UFC[/COLOR] [COLOR=gray]on[/COLOR] [COLOR=FF00FF00]FOX:[/COLOR] [COLOR=FFFF4500]Henderson[/COLOR] [COLOR=gray]vs.[/COLOR] [COLOR=FFFF4500]Thomson[/COLOR] [COLOR=gray]Main Card[/COLOR] [COLOR=red]SD[/COLOR] </title>
-<link>http://nlds50.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/UFC_on_FOX_10.jpg</thumbnail>
+<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]9pm[/COLOR] [COLOR=FFFF4500]EST[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&videoid=J6qj2yQewZs</link>
+<thumbnail>http://th03.deviantart.net/fs70/PRE/f/2013/363/b/7/wwe_royal_rumble_2014_poster_by_jokerword-d6zuied.png</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
@@ -79,9 +55,15 @@
   <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel7 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10</sublink>
   <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel88 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTOVIP swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=11 live=true timeout=10</sublink>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel12 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel12 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=12 live=true timeout=10</sublink>
   <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel13 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10</sublink>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel14 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
+  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel14 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=14 live=true timeout=10</sublink>
+  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10</sublink>
+  <sublink>rtmp://ppvmania.tv:1935/live playpath=ch1free swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=1 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=ch2free swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10</sublink>
+  <sublink>rtmp://ppvmania.tv/live playpath=ch3free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=fs1 live=true timeout=10</sublink>
+  <sublink>rtmp://server.ppvmania.tv/live playpath=ch5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed2 live=true timeout=10</sublink>
+  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTO swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed live=true timeout=10</sublink>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
