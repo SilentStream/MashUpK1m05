@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]Bravo/BET Fixed[/COLOR]</message>
+<message>[COLOR=FFFF4500]E![/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -235,7 +235,7 @@
 #######################################################################################################################################
 <item>
 <title>E!</title>
-<link>rtmp://live.cast-tv.us/stream playpath=z00031.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=disney live=true timeout=10</link>
+<link>rtmp://live.cast-tv.us/stream/z00031.live swfUrl=http://cast-tv.us/jwplayer/jwplayer.flash.swf pageUrl=http://cast-tv.us/embed.php?n=z00031&vw=700&vh=520 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sbs_e_kr.png</thumbnail>
 </item>
 #######################################################################################################################################
