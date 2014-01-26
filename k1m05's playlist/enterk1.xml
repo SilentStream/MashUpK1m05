@@ -480,8 +480,8 @@
 </item>
 
 <item>
-<title>TruTV[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=ki0zpl8lqhgr7ep live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=12345dsagf41</link>
+<title>TruTV[COLOR=FF00FF00]  *  [/COLOR].</title>
+<link>rtmp://watch.ilive.to/edge playpath=ki0zpl8lqhgr7ep live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/view/56389/TruTV-live-stream-channel-for-free token=12345dsagf41</link>
 <thumbnail>http://imageshack.us/a/img855/7817/oprn.png</thumbnail>
 </item>
 
