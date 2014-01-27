@@ -25,11 +25,29 @@
 </item>
 
 <item>
+<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]HD[/COLOR] NEW LINKS</title>
+<link>
+  <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem3 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
+  <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem4 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
+</link>
+<thumbnail>http://th03.deviantart.net/fs70/PRE/f/2013/363/b/7/wwe_royal_rumble_2014_poster_by_jokerword-d6zuied.png</thumbnail>
+</item>
+
+<item>
 <title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv:1935/live playpath=channel1 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</link>
 <thumbnail>http://th03.deviantart.net/fs70/PRE/f/2013/363/b/7/wwe_royal_rumble_2014_poster_by_jokerword-d6zuied.png</thumbnail>
 </item>
 
+
+<item>
+<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]SD[/COLOR] NEW LINKS</title>
+<link>
+  <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem1 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
+  <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem2 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
+</link>
+<thumbnail>http://th03.deviantart.net/fs70/PRE/f/2013/363/b/7/wwe_royal_rumble_2014_poster_by_jokerword-d6zuied.png</thumbnail>
+</item>
 ##############
 ##############
 <item>
