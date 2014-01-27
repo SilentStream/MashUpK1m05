@@ -170,6 +170,8 @@
 <item>
 <title>CBS [COLOR=FFFF0000]HD[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
+  <sublink>rtmp://papa.castok.com:1935/dms/_definst_/ playpath=cbs swfUrl=http://cast-tv.us/jwplayer/jwplayer.flash.swf pageUrl=http://cast-tv.us/cast_embed.php?n=cbs&vw=700&vh=520 live=true timeout=10</sublink>
+  <sublink>rtmp://89.248.163.3/fms22/ playpath=cbs swfUrl=http://tags.kbcast.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.kbcast.com/embed.php?live=cbs&vw=550&vh=400</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=fmqhvt1ge04s2fd live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=12345dsagf41</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=jlloui0fux61mix live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=12345dsagf41</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=zqnitu1q5xf2za2 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=12345dsagf41</sublink>
