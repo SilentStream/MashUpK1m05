@@ -172,6 +172,7 @@
 <link>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=fmqhvt1ge04s2fd live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=12345dsagf41</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=jlloui0fux61mix live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=12345dsagf41</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=zqnitu1q5xf2za2 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=12345dsagf41</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00003.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=cbs live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img703/6273/3pxf.png</thumbnail>

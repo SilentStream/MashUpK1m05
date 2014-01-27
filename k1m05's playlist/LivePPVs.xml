@@ -15,27 +15,19 @@
 <thumbnail>http://illegalcurve.com/wp-content/uploads/2013/01/Pens-vs.-Jets-preview.jpg</thumbnail>
 </item>
 #######################################################################################################################################
-
 <item>
-<title>Devils vs Rangers Winter Classic HD GOTHAM ONLY</title>
+<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]HD[/COLOR]</title>
 <link>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_hd_3000.m3u8</sublink>
-  <sublink>http://nlds136.cdnak.neulion.com/nlds/nhl/devils/as/live/devils_hd_4500.m3u8</sublink>
+  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel88 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</sublink>
+  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel12 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=12 live=true timeout=10</sublink>
 </link>
-<thumbnail>http://3.cdn.nhle.com/sharks/images/upload/2013/11/WC14_Primary_Unbranded.png</thumbnail>
+<thumbnail>http://th03.deviantart.net/fs70/PRE/f/2013/363/b/7/wwe_royal_rumble_2014_poster_by_jokerword-d6zuied.png</thumbnail>
 </item>
 
 <item>
-<title>Devils vs Rangers Winter Classic SD</title>
-<link>rtmp://173.193.197.46/flash playpath=18306 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/IxNjkyMzJhY2MxMjFlNDUyZWViM2RkOjAwMTEyNWE4OGM2YTViNzVmOGQyZTcyMTRkOGRmMWUw/YWUyY2RiZTFiNGVmOmM4NmY2NzY3NjE3MjZjNzU2NzpmODQ5Yzk0ZmEzODY0YjQ5Mm live=true timeout=10</link>
-<thumbnail>http://3.cdn.nhle.com/sharks/images/upload/2013/11/WC14_Primary_Unbranded.png</thumbnail>
-</item>
-
-
-<item>
-<title>Devils vs Rangers Winter Classic SD</title>
-<link>rrtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10</link>
-<thumbnail>http://3.cdn.nhle.com/sharks/images/upload/2013/11/WC14_Primary_Unbranded.png</thumbnail>
+<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]SD[/COLOR]</title>
+<link>rtmp://server.ppvmania.tv:1935/live playpath=channel1 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</link>
+<thumbnail>http://th03.deviantart.net/fs70/PRE/f/2013/363/b/7/wwe_royal_rumble_2014_poster_by_jokerword-d6zuied.png</thumbnail>
 </item>
 
 ##############
