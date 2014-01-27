@@ -43,7 +43,7 @@
 <item>
 <title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]SD2[/COLOR] LINK 1 IS NEW again </title>
 <link>
-  <sublink>rtmp://wempirewindows.zapto.org/live playpath=ricardo swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
+  <sublink>rtmp://188.165.230.204/test playpath=ricardo swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
   <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem2 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://th03.deviantart.net/fs70/PRE/f/2013/363/b/7/wwe_royal_rumble_2014_poster_by_jokerword-d6zuied.png</thumbnail>
