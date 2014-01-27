@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]HD[/COLOR] NEW LINKS</title>
+<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]HD2[/COLOR] NEW LINKS</title>
 <link>
   <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem3 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
   <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem4 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
@@ -41,8 +41,9 @@
 
 
 <item>
-<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]SD[/COLOR] NEW LINKS</title>
+<title>1.[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=gray]SD2[/COLOR] LINK 1 IS NEW</title>
 <link>
+  <sublink>rtmp://46.23.67.10:443/liverepeater playpath=stream40 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player6.php?id=20724&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem1 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
   <sublink>rtmp://wempirewindows.zapto.org/live playpath=prem2 swfUrl=http://91.121.27.183/wmpold/empire/player.swf pageUrl=http://wrestlingempire.com/view.php?pg=prem1 live=true timeout=10</sublink>
 </link>
