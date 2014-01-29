@@ -509,13 +509,13 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=yellow]Series:[/COLOR] COPS</title>
-<link>rtmp://198.27.74.25/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?cops01 live=true timeout=10</link>
+<link>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?cops01 live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/74709/clearart/Cops-74709.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=yellow]Series:[/COLOR] Fresh Prince</title>
-<link>rtmp://198.27.74.25/app playpath=freshprince01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?freshprince01 live=true timeout=10</link>
+<link>rtmp://198.27.75.99/app playpath=freshprince01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?freshprince01 live=true timeout=10</link>
 <thumbnail>https://pbs.twimg.com/media/Bc8CqNlIcAAzHwc.jpg</thumbnail>
 </item>
 
@@ -526,14 +526,14 @@
 </item>
 
 <item>
-<title>[COLOR=yellow]Series:[/COLOR] Married With Children</title>
-<link>rtmp://198.27.74.25/app playpath=mwc01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10</link>
+<title>[COLOR=yellow]Series:[/COLOR] Married... With Children</title>
+<link>rtmp://198.27.75.99/app playpath=mwc01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/76385/hdclearart/married--with-children-511e683050b94.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=yellow]Series:[/COLOR] Trailer Park Boys</title>
-<link>rtmp://198.27.74.25/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?tpb01 live=true timeout=10</link>
+<link>rtmp://198.27.75.99/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?tpb01 live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
 </item>
 
