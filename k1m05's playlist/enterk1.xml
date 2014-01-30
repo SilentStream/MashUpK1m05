@@ -245,9 +245,9 @@
 #########################################################--------------F-------------##################################################
 #######################################################################################################################################
 <item>
-<title>FOX[COLOR=FF00FF00]  *  [/COLOR] Link 1 is HD</title>
+<title>FOX[COLOR=FF00FF00]  *  [/COLOR] HD</title>
 <link>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=hlgeankqh3jsm7o live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=dzwvqjwcujlpwlq live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=p8jww0qurpslplc live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
   <sublink>rtmpe://live.univisionbrazil.com/stream playpath=z00011.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00011 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=s210ik8or3eu85z live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
@@ -376,17 +376,7 @@
 </item>
 
 <item>
-<title>NBC [COLOR=FF00FF00]  Golden Globes Replacement [/COLOR]</title>
-<link>
-  <sublink>rtmp://5.79.72.3/vl/_definst_ playpath=chan75 swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/watch?v=chan75 live=true timeout=10</sublink>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=2znp9nmpozk4gpr live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
-  <sublink>rtmp://live.cast-tv.us/stream playpath=z00002.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=nbc live=true timeout=10</sublink>
-</link>
-<thumbnail>http://imageshack.us/scaled/landing/12/6w8y.png</thumbnail>
-</item>
-
-<item>
-<title>NBC [COLOR=FF00FF00]  *  [/COLOR] Link 1 HD</title>
+<title>NBC [COLOR=FF00FF00]  *  [/COLOR] HD</title>
 <link>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=bbdrwesuz7v0h6l live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge playpath=2znp9nmpozk4gpr live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
