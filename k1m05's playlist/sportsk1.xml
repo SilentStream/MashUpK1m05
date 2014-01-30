@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>BT Sound fixed, Sky Sports News</message>
+<message>BT Sound fixed, Sky Sports News, Fox Sports</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -129,22 +129,10 @@
 </item>
 
 <item> 
-<title>Fox Sports new</title> 
-<link>rtmp://live.cast-tv.us/stream playpath=z00022.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=foxsports live=true timeout=10</link> 
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_lam_3.png</thumbnail> 
+<title>Fox Sports</title> 
+<link>rtmp://watch.ilive.to/edge playpath=f1abfkvu0qlex7l swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/view/53734/ESPN_2-live-stream-channel live=true timeout=10 token=abc109h</link> 
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports.png</thumbnail> 
 </item>
-
-<item>
-<title>Fox Sports Plus[COLOR=FFFF0000] HD[/COLOR]</title>
-<link>http://113.160.49.34/lives/origin03/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
-</item> 
-
-<item>
-<title>Fox Sports Plus</title>
-<link>http://113.160.49.36/lives/origin02/foxsd.isml/foxsd.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
-</item> 
 
 <item>
 <title>Golf Channel</title>
