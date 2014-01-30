@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>BT Sound fixed, Sky Sports News, Fox Sports</message>
+<message>BT Sound fixed, Sky Sports News, Fox Sports HD</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -129,7 +129,7 @@
 </item>
 
 <item> 
-<title>Fox Sports</title> 
+<title>Fox Sports HD</title> 
 <link>rtmp://watch.ilive.to/edge playpath=f1abfkvu0qlex7l swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/view/53734/ESPN_2-live-stream-channel live=true timeout=10 token=abc109h</link> 
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports.png</thumbnail> 
 </item>
