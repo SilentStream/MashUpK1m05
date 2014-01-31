@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]Token fixed for [/COLOR] [COLOR=FF00FF00]  *  [/COLOR]</message>
+<message>[COLOR=FFFF4500]Sky Movies Sci Fi added,Token fixed for [/COLOR] [COLOR=FF00FF00]  *  [/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -40,7 +40,10 @@
 
 <item>
 <title>Sky Movies: Action [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=dwqaqvdkw8obfn2 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>
+  <sublink>rtmp://31.220.0.134:1935/live playpath=movaction swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</sublink>r
+  <sublink>tmp://watch.ilive.to:1935/edge playpath=dwqaqvdkw8obfn2 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 
@@ -64,7 +67,10 @@
 
 <item>
 <title>Sky Movies: Modern Hits [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=r2a6nq2fvadayjm live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>
+  <sublink>rtmp://31.220.0.134:1935/live playpath=movgreats swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=r2a6nq2fvadayjm live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 
@@ -75,8 +81,17 @@
 </item>
 
 <item>
+<title>Sky Movies: Sci Fi [COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://31.220.0.134:1935/live playpath=movaction swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
+</item>
+
+<item>
 <title>Sky Movies: Thriller [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=fxg66p9hl501j6w live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>
+  <sublink>rtmp://31.220.0.134:1935/live playpath=movaction swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=fxg66p9hl501j6w live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+<link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################

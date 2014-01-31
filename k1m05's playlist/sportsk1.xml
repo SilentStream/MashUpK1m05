@@ -30,8 +30,8 @@
 </item>
 
 <item>
-<title>Sportsnet World FIXED</title>
-<link>rtmpe://46.246.124.7:1935/live playpath=HDMSNWL swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+<title>Sportsnet World</title>
+<link>rtmp://31.220.0.134:1935/live playpath=dsee swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
@@ -255,6 +255,8 @@
 <title>Sky Sports News</title>
 <link>
   <sublink>rtmp://31.220.0.134:1935/live playpath=ssncs swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssncs&vw=620&vh=490 live=true timeout=10</sublink>
+  
+  <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
