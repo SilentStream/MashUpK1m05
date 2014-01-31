@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]Sky Movies Sci Fi added,Token fixed for [/COLOR] [COLOR=FF00FF00]  *  [/COLOR]</message>
+<message>[COLOR=FFFF4500]ID, Sky Movies Sci Fi added,Token fixed for [/COLOR] [COLOR=FF00FF00]  *  [/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -353,7 +353,7 @@
 <item>
 <title>Investigation Discovery</title>
 <link>
-  <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/14315001/streams/live/playlist.m3u8</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=fwk9op34parwz0h live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
   <sublink>http://31.14.180.28:8000/adnet22035</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img825/993/zx34.png</thumbnail>
