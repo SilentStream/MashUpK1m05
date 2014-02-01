@@ -80,9 +80,9 @@
 <item>
 <title>[COLOR=FFFF4500]ESPN.[/COLOR]</title>
 <link>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=ppc1li7inw63z7x live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=ac0cw5cmguex4di live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=ypb87lzx6ak05m3 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=ppc1li7inw63z7x live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=ac0cw5cmguex4di live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=ypb87lzx6ak05m3 live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00018.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
@@ -136,7 +136,7 @@
 <title>[COLOR=FFFF4500]Golf Channel[/COLOR]</title>
 <link>
   <sublink>rtmp://37.220.32.56:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=19340&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=ts6w24dx29tcwi4 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=ts6w24dx29tcwi4 live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
@@ -149,7 +149,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]NBC Sports[/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=30sbtmyelnevr80 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>rtmp://watch.ilive.to/edge playpath=30sbtmyelnevr80 live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nbc_sports_network.png</thumbnail>
 </item>
 

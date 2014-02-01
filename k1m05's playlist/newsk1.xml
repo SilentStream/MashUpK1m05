@@ -48,22 +48,22 @@
 
 <item>
 <title>CNBC</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=9umfgmr90uea60x live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>rtmp://watch.ilive.to/edge playpath=9umfgmr90uea60x live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
 </item>
 
 <item>
 <title>CNN.</title>
 <link>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=pevmm1onhjyufpg live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=rjxo8hz17q9waiq live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=pevmm1onhjyufpg live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=rjxo8hz17q9waiq live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
 <item>
 <title>Euro News</title>
-<link>rtmp://watch.ilive.to:1935/edge/fg2fwiffpklotoc live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>rtmp://watch.ilive.to:1935/edge/fg2fwiffpklotoc live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 </item>
 
@@ -75,7 +75,7 @@
 
 <item>
 <title>Fox News</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=ohn58e97er36vjr live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>rtmp://watch.ilive.to/edge playpath=ohn58e97er36vjr live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
 </item>
 
@@ -131,7 +131,7 @@
 <item>
 <title>MSNBC</title>
 <link>
-  <sublink>rtmp://watch.ilive.to:1935/edge playpath=1341ujtliqndod8 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=1341ujtliqndod8 live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00006.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=msnbc live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
@@ -169,7 +169,7 @@
 
 <item>
 <title>Weather Channel</title>
-<link>rtmp://watch.ilive.to:1935/edge/0ofj5z5lab0b3ox live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>rtmp://watch.ilive.to:1935/edge/0ofj5z5lab0b3ox live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
 </item>
 
