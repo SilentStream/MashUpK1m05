@@ -25,16 +25,28 @@
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
-#######################################################################################################################################
-#######################################################################################################################################
-
 <item>
-<title>[COLOR=white]Boxing:[/COLOR] [COLOR=blue]Elvir Muriqi[/COLOR] [COLOR=red]vs[/COLOR] [COLOR=white]Blake Caparello[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=channel2 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true</link>
-<thumbnail>http://a.espncdn.com/media/motion/2014/0124/dm_140124_boxing_fnf_preview/dm_140124_boxing_fnf_preview.jpg</thumbnail>
+<title>1. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds93.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000.m3u8</sublink>
+  <sublink>http://nlds93.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_4500.m3u8</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
 </item>
 
+<item>
+<title>2. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<link>http://nlds93.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_1600.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
+</item>
 
+<item>
+<title>3. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<link>http://nlds93.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_800.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
