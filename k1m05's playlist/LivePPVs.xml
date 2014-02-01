@@ -5,7 +5,7 @@
 # Counter 9 - 10/23/13 # http://www39.zippyshare.com/v/23088756/file.html
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Sport Pac1 link 1 fixed Pedro again thx[/COLOR] [COLOR=FFFF4500] [/COLOR] </message>
+<message>[COLOR=FF00FF00] Boxing added.  I only have 1 link for it so hopefully wont get buffered out.[/COLOR] [COLOR=FFFF4500] [/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1004665&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 #######################################################################################################################################
@@ -18,6 +18,14 @@
 #######################################################################################################################################
 #######################################################################################################################################
 #######################################################################################################################################
+
+<item>
+<title>[COLOR=white]Boxing:[/COLOR] [COLOR=blue]Elvir Muriqi[/COLOR] [COLOR=red]vs[/COLOR] [COLOR=white]Blake Caparello[/COLOR]</title>
+<link>rtmp://server.ppvmania.tv:1935/live playpath=channel2 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://a.espncdn.com/media/motion/2014/0124/dm_140124_boxing_fnf_preview/dm_140124_boxing_fnf_preview.jpg</thumbnail>
+</item>
+
+
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10</link>
