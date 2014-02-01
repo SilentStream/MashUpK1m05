@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>Sky Sports News Fixed again, BT Sound fixed, Sky Sports News, Fox Sports HD</message>
+<message>Eurosports and Golf Fixed</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -101,8 +101,7 @@
 <item>
 <title>Eurosport</title>
 <link>
-    <sublink>https://149.255.37.194/nettv/8811/index.m3u8</sublink>
-  <sublink>rtmp://31.220.0.104:443/live playpath=euroo11c swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euroo11c&vw=620&vh=490 live=true timeout=10</sublink>
+    <sublink>rtmp://31.220.0.134:1935/live playpath=euro11osjos swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
@@ -110,8 +109,7 @@
 <item>
 <title>Eurosport 2</title>
 <link>
-  <sublink>https://149.255.37.194/nettv/8814/index.m3u8</sublink>
-  <sublink>rtmp://31.220.0.103:443/live playpath=euro2x swfUrl=https://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.reyhq.com/embed1.php?live=euro2x&vw=620&vh=490 live=true timeout=10</sublink>
+  <sublink>rtmp://31.220.0.134:1935/live playpath=euroz2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
 </item>
@@ -136,7 +134,10 @@
 
 <item>
 <title>Golf Channel</title>
-<link>rtmp://watch.ilive.to:1935/edge playpath=ts6w24dx29tcwi4 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</link>
+<link>
+  <sublink>rtmp://37.220.32.56:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=19340&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=ts6w24dx29tcwi4 live=true timeout=10 swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=52053&autoplay=true token=abc109h</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 

@@ -71,31 +71,6 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 #######################################################################################################
-<item>
-<title>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]HQ[/COLOR] Modified Plz inform me of boot or freeze issues @k1m05</title>
-<link>
-  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_animalsluvu swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u swfVfy=true</sublink>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel3 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel4 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=6 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel5 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel6 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=8 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel7 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel88 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTOVIP swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=11 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel12 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=12 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel13 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel14 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=14 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://ppvmania.tv:1935/live playpath=ch1free swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=1 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=ch2free swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://ppvmania.tv/live playpath=ch3free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=fs1 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server.ppvmania.tv/live playpath=ch5 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed2 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTO swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed live=true timeout=10 swfVfy=true</sublink>
-</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
-</item>
 #######################################################################################################
 #######################################################################################################
 <item>
@@ -128,13 +103,13 @@
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item> 
-
+rtmp://37.220.32.56:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=19340&width=640&height=460
 <item>
 <title>[COLOR=FFFF4500]Sports Pack 3[/COLOR]</title>
 <link>
-  <sublink>rtmp://37.220.36.7:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player6.php?id=20724&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
+  <sublink>rtmp://37.220.32.56:443/liverepeater playpath=20724 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=19340&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmp://37.220.32.54:443/liverepeater playpath=13903 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=13903&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
-  <sublink>rtmp://37.220.36.7:443/liverepeater playpath=20825 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20825&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
+  <sublink>rtmp://37.220.32.56:443/liverepeater playpath=20825 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20825&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmp://37.220.32.53:443/liverepeater playpath=20719 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=20719&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmp://37.220.32.43:443/liverepeater playpath=20723 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.featve.com/stream5.html live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmp://37.220.34.61:443/liverepeater playpath=13877 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://featve.com/player2.php?id=13877&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
