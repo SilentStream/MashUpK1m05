@@ -22,11 +22,18 @@
 <title>1. [COLOR=red]Super[/COLOR][COLOR=white]Bowl[/COLOR]</title>
   <sublink>rtmp://watch.ilive.to/edge playpath=dzwvqjwcujlpwlq live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
   <sublink>rtmp://us1.wrestling-network.net:2014/dvredge/ playpath=file:sb14.stream swfUrl=http://wrestling-network.net/live/jwplayer.flash.swf pageUrl=http://wrestling-network.net/various/super-bowl-xlviii-live-in-hd_wn4521 live=true timeout=10</sublink>
-  <sublink>rtmp://eu1.wrestling-network.net:2014/dvredge/ playpath=file:sb14.stream swfUrl=http://wrestling-network.net/live/jwplayer.flash.swf pageUrl=http://wrestling-network.net/various/super-bowl-xlviii-live-in-hd_wn4521 live=true timeout=10</sublink>
   <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_animalsluvu swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u swfVfy=true</sublink>
   <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel5 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10 swfVfy=true</sublink>
   <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel88 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10 swfVfy=true</sublink>
   <sublink>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true</sublink>
+</link>
+<thumbnail>http://www.gambling911.com/files/imagecache/slide_image/publisher/Super-Bowl-2014-Prop-Wagers-012714L.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>1. [COLOR=red]Super[/COLOR][COLOR=white]Bowl[/COLOR] Europe Server</title>
+  <sublink>rtmp://eu1.wrestling-network.net:2014/dvredge/ playpath=file:sb14.stream swfUrl=http://wrestling-network.net/live/jwplayer.flash.swf pageUrl=http://wrestling-network.net/various/super-bowl-xlviii-live-in-hd_wn4521 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.gambling911.com/files/imagecache/slide_image/publisher/Super-Bowl-2014-Prop-Wagers-012714L.jpg</thumbnail>
 </item>
