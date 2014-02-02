@@ -266,9 +266,9 @@
 #########################################################--------------F-------------##################################################
 #######################################################################################################################################
 <item>
-<title>FOX[COLOR=FF00FF00]  *  [/COLOR] HD.</title>
+<title>FOX[COLOR=FF00FF00]  *  [/COLOR] HD</title>
 <link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=dzwvqjwcujlpwlq live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=dzwvqjwcujlpwlq swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to/edge playpath=p8jww0qurpslplc live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
   <sublink>rtmpe://live.univisionbrazil.com/stream playpath=z00011.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00011 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to/edge playpath=s210ik8or3eu85z live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
