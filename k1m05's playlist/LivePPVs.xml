@@ -5,7 +5,7 @@
 # Counter 9 - 10/23/13 # http://www39.zippyshare.com/v/23088756/file.html
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00] UFC Tonight \m/ Dont forget to back out to refresh links between Prelims Main Prelims and Main Card[/COLOR] [COLOR=FFFF4500] [/COLOR] </message>
+<message>[COLOR=FF00FF00] \m/ UFC Tonight \m/ [/COLOR] [COLOR=FFFF4500] [/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1034961&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
 
@@ -26,23 +26,23 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Prelims[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<title>1. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]HD[/COLOR]</title>
 <link>
-  <sublink>http://nlds133.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-  <sublink>http://nlds133.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500.m3u8</sublink>
+  <sublink>http://nlds175.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
+  <sublink>http://nlds175.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
 </item>
 
 <item>
-<title>2. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>http://nlds133.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_1600.m3u8</link>
+<title>2. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<link>http://nlds175.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
 </item>
 
 <item>
-<title>3. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>http://nlds133.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_800.m3u8</link>
+<title>3. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<link>http://nlds175.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
 </item>
 #######################################################################################################################################
