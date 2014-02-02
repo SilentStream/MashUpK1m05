@@ -5,17 +5,9 @@
 # Counter 9 - 10/23/13 # http://www39.zippyshare.com/v/23088756/file.html
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]For buffering use 2 6 9 and 13 in Sports Pack  1 [/COLOR] [COLOR=FFFF4500] [/COLOR] </message>
+<message>[COLOR=FF00FF00] [/COLOR] [COLOR=FFFF4500] [/COLOR] </message>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1034961&style=LED_g&nbdigits=5&reloads=1</thumbnail>
 </info>
-
-<notify>
-<new>2</new>
-<message1>[COLOR=red]UFC 169:[/COLOR]</message1>
-<message2>[COLOR=white]Faber[/COLOR] [COLOR=white]red[/COLOR] [COLOR=white]Barao[/COLOR]</message2>
-<message3>[COLOR=blue]SAT. FEB. 1 10EST[/COLOR]</message3>
-<old>1</old>
-</notify>
 
 #######################################################################################################################################
 <item>
@@ -26,25 +18,11 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]HD[/COLOR]</title>
-<link>
-  <sublink>http://nlds175.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</sublink>
-  <sublink>http://nlds175.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
+<title>1. [COLOR=red]ITS[/COLOR] [COLOR=white]Super[/COLOR] [COLOR=FFFF4500]Bowl[/COLOR] [COLOR=white]Sunday[/COLOR][COLOR=FFFF4500]!!![/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&videoid=1ogDPnCvz2Y</link>
+<thumbnail>http://www.gambling911.com/files/imagecache/slide_image/publisher/Super-Bowl-2014-Prop-Wagers-012714L.jpg</thumbnail>
 </item>
 
-<item>
-<title>2. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>http://nlds175.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>3. [COLOR=red]UFC 169:[/COLOR] [COLOR=white]Barao[/COLOR] [COLOR=FFFF4500]vs[/COLOR] [COLOR=white]Faber[/COLOR] [COLOR=FFFF4500]II[/COLOR] [COLOR=red]Main Card[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>http://nlds175.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/UFC_169_2_poster.jpg/418px-UFC_169_2_poster.jpg</thumbnail>
-</item>
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
