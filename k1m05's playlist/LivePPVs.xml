@@ -24,7 +24,7 @@
 </item>
 
 <item>
-<title>1. [COLOR=red]Super[/COLOR] [COLOR=white]Bowl[/COLOR] Preshow Link 3 is a Europeon Server</title>
+<title>1. [COLOR=red]Super[/COLOR] [COLOR=white]Bowl[/COLOR] Preshow</title>
   <sublink>rtmp://watch.ilive.to/edge playpath=dzwvqjwcujlpwlq live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</sublink>
   <sublink>rtmp://us1.wrestling-network.net:2014/dvredge/ playpath=file:sb14.stream swfUrl=http://wrestling-network.net/live/jwplayer.flash.swf pageUrl=http://wrestling-network.net/various/super-bowl-xlviii-live-in-hd_wn4521 live=true timeout=10</sublink>
   <sublink>rtmp://eu1.wrestling-network.net:2014/dvredge/ playpath=file:sb14.stream swfUrl=http://wrestling-network.net/live/jwplayer.flash.swf pageUrl=http://wrestling-network.net/ live=true timeout=10</sublink>
