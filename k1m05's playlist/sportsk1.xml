@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Sky Sports F1[/COLOR]</message>
+<message>[COLOR=FF00FF00]Sky Sports News Fixed[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -256,7 +256,7 @@
 <item>
 <title>[COLOR=FFFF4500]Sky Sports News[/COLOR]</title>
 <link>
-  <sublink>rtmp://31.220.0.134:1935/live playpath=ssncs swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssncs&vw=620&vh=490 live=true timeout=10</sublink>
+  <sublink>rtmp://31.220.0.134:1935/live playpath=ssnt swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ssncs&vw=620&vh=490 live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
