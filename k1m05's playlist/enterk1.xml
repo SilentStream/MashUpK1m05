@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]ID, Sky Movies Sci Fi added,Token fixed for [/COLOR] [COLOR=FF00FF00]  *  [/COLOR]</message>
+<message>[COLOR=FFFF4500]Nick Fixed [/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -408,7 +408,7 @@
 
 <item>
 <title>Nick[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to/edge playpath=hxoq929n5q4a9u3 live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3</link>
+<link>rtmp://cp106256.live.edgefcs.net:443/live/iwantvnick-256@62238</link>
 <thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
 </item>
 #######################################################################################################################################
