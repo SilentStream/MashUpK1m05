@@ -22,14 +22,7 @@
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
-<item>
-<title>1. [COLOR=red]Lion Fight[/COLOR] [COLOR=white]13[/COLOR] [COLOR=FFFF4500]Reece[/COLOR] [COLOR=blue]vs.[/COLOR] [COLOR=FFFF4500]Van Soest[/COLOR]</title>
-<link>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel7 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10 swfVfy=true</sublink>
-  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true</sublink>
-</link>
-<thumbnail>http://www.lionfight.com/wp-content/uploads/2013/12/lf13_pro_card_web_final.jpg</thumbnail>
-</item>
+
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
