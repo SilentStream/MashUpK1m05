@@ -47,7 +47,7 @@
 <item>
 <title>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]HQ[/COLOR] Original</title>
 <link>
-  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_animalsluvu swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u swfVfy=true</sublink>
+  <sublink>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_animalplanetlive swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u swfVfy=true</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10 swfVfy=true</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel2 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true</sublink>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel3 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10 swfVfy=true</sublink>
