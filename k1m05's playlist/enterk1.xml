@@ -99,18 +99,13 @@
 #######################################################################################################################################
 <item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=b8znq68but9v1ux swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-  <sublink>rtmp://watch.ilive.to/edge playpath=ug176dq4n2zftgo swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-  <sublink>rtmp://watch.ilive.to/edge playpath=5t13xsrrbdoq261 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-</link>
+<link>rtmp://watch.ilive.to/edge playpath=b8znq68but9v1ux swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
 <item>
 <title>ABC[COLOR=FF00FF00]  *  [/COLOR] [COLOR=FFFF0000]HD[/COLOR] </title>
 <link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=qt4t1aakeci3emk swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to/edge playpath=qt4t1aakeci3emk swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to/edge playpath=nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
   <sublink>rtmpe://watch.playfooty.tv/live playpath=abcc10 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=abcc10&vw=670&vh=410 live=true timeout=10</sublink>
