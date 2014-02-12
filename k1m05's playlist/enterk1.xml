@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]Nick Fixed [/COLOR]</message>
+<message>[COLOR=FFFF4500]Bravo Fixed [/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -172,7 +172,7 @@
 
 <item>
 <title>Bravo [COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to/edge playpath=bfmw64f3l53st5n swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
+<link>rtmpe://93.120.27.58/live playpath=bravooo swfUrl=http://cdn.ukcast.tv/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=bravooo&vw=600&vh=430 live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img109/20/nu7.png</thumbnail>
 </item>
 #######################################################################################################################################
