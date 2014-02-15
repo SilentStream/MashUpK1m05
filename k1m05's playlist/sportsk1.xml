@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Sportsnet World is fixed[/COLOR]</message>
+<message>[COLOR=FF00FF00]New Sky Sports 123 and f1 Sportsnet World is fixed[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -205,7 +205,7 @@
 <item>
 <title>[COLOR=FFFF4500]Sky Sports 1[/COLOR]</title>
 <link>
-  <sublink>rtmp://akamai.kbps.tv:1935/live playpath=skysp1?cf112=52017c157441a3e2b02630e92c51038b swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed3.php?s=skysp1&width=600&height=450&domain=hdembed.com live=true timeout=10</sublink>
+  <sublink>http://141.0.169.245:443/SkySport1</sublink>
   <sublink>rtmp://37.220.36.69:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=23697&width=700&height=500 live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmp://31.220.0.133:1935/live playpath=sss11xxx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=1169440705&live=sss11xxx&vw=620&vh=490 live=true timeout=10</sublink>
   <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
@@ -216,7 +216,7 @@
 <item>
 <title>[COLOR=FFFF4500]Sky Sports 2[/COLOR]</title>
 <link>
-  <sublink>rtmp://akamai.kbps.tv:1935/live playpath=skysp2?42974=8aa5a106d8df2edf5f74326258c49bb1 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed3.php?s=skysp2&width=600&height=450&domain=hdembed.com live=true timeout=10</sublink>
+  <sublink>http://141.0.169.245:443/SkySport2</sublink>
   <sublink>rtmp://31.220.0.133:1935/live playpath=ss2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490 live=true timeout=10</sublink>
   <sublink>rtmp://37.220.34.18:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=33698&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
@@ -227,7 +227,7 @@
 <item>
 <title>[COLOR=FFFF4500]Sky Sports 3[/COLOR]</title>
 <link>
-  <sublink>rtmp://akamai.kbps.tv:1935/live playpath=skysp4?10d33=eed55ae8f439f9ba9ac7fd505bad8ef6 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://www.kbps.tv/embed3.php?s=skysp4&width=600&height=450&domain=hdembed.com live=true timeout=10</sublink>
+  <sublink>http://141.0.169.245:443/SkySport3</sublink>
   <sublink>rtmp://31.220.0.82:1935/live playpath=ss3x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490 live=true timeout=10</sublink>
   <sublink>rtmp://37.220.36.18:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23699&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
   <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
@@ -248,6 +248,8 @@
 
 <item>
 <title>[COLOR=FFFF4500]Sky Sports F1[/COLOR]</title>
+<link>
+  <sublink>http://141.0.169.245:443/SkySportF1</sublink>
   <sublink>rtmp://31.220.0.134:1935/live playpath=f11 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=f11&vw=620&vh=490 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png</thumbnail>
