@@ -12,17 +12,17 @@
 </info>
 
 <info>
-<message>[COLOR=FFFF4500]Some are have Multi-Audio some are just not English[/COLOR]</message>
+<message>[COLOR=FFFF4500]Some are have Multi-Audio streams[/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
 <info>
-<message>[COLOR=FFFF4500]if they stay up a while i will bleed out the non-english streams [/COLOR]</message>
+<message>[COLOR=FFFF4500]If these streams stay up for a while [/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
 <info>
-<message>[COLOR=FFFF4500]and put them in thier rightful locations. [/COLOR]</message>
+<message>[COLOR=FFFF4500]I will put them in their rightful locations. [/COLOR]</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -32,259 +32,187 @@
 </info>
 
 <item>
-<title>AXN[COLOR=blue]  *  [/COLOR]</title>
+<title>AXN[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/AXN</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>AXN Black[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/AXNBlack</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>AXN White[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/AXNWhite</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Bein 1[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/Al_Jazeera_Sports_1</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Bein 2[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/Al_Jazeera_Sports_2</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Bein 3[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/Al_Jazeera_Sports_3</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Bein 4[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/Al_Jazeera_Sports_4</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Animal Planet[COLOR=blue]  *  [/COLOR]</title>
+<title>Animal Planet[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/AnimalPlanet</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Auto Motor TV[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/AutoMotoTV</link>
+<title>Bein 1[COLOR=yellow]  *  [/COLOR]</title>
+<link>http://141.0.169.245:443/Al_Jazeera_Sports_1</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Boomerang[COLOR=blue]  *  [/COLOR]</title>
+<title>Bein 2[COLOR=yellow]  *  [/COLOR]</title>
+<link>http://141.0.169.245:443/Al_Jazeera_Sports_2</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Bein 3[COLOR=yellow]  *  [/COLOR]</title>
+<link>http://141.0.169.245:443/Al_Jazeera_Sports_3</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Bein 4[COLOR=yellow]  *  [/COLOR]</title>
+<link>http://141.0.169.245:443/Al_Jazeera_Sports_4</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Boomerang[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/Boomerang</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>CBS Drama[COLOR=blue]  *  [/COLOR]</title>
+<title>CBS Drama[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/CBSDrama</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>CBS Reality[COLOR=blue]  *  [/COLOR]</title>
+<title>CBS Reality[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/CBSReality</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Cartoon Network[COLOR=blue]  *  [/COLOR]</title>
+<title>Cartoon Network[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/CN</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>City[COLOR=blue]  *  [/COLOR]</title>
+<title>City[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/City</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Deluxe Lounge HD[COLOR=blue]  *  [/COLOR]</title>
+<title>Deluxe Lounge HD[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/DeluxeLoungeHD</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Discovery[COLOR=blue]  *  [/COLOR]</title>
+<title>Discovery[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/Discovery</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Discovery Science[COLOR=blue]  *  [/COLOR]</title>
+<title>Discovery Science[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/DiscoverySc</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Discovery World[COLOR=blue]  *  [/COLOR]</title>
+<title>Discovery World[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/DiscoveryWorld</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Disney[COLOR=blue]  *  [/COLOR]</title>
+<title>Disney[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/Disney</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Disney Jr[COLOR=blue]  *  [/COLOR]</title>
+<title>Disney Jr[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/DisneyBG</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>EuroSport[COLOR=blue]  *  [/COLOR]</title>
+<title>EuroSport[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/EuroSport</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>EuroSport 2[COLOR=blue]  *  [/COLOR]</title>
+<title>EuroSport 2[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/EuroSport2</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Film Plus[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/FilmPlus</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Fox Crime[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/FoxCrime</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Fox Life[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/FoxLife</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>HBO[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/HBO</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>History[COLOR=blue]  *  [/COLOR]</title>
+<title>History[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/History</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>MTV Live[COLOR=blue]  *  [/COLOR]</title>
+<title>MTV Live[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/MTVLive</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>MTV Rocks[COLOR=blue]  *  [/COLOR]</title>
+<title>MTV Rocks[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/MTVRocks</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>News 7[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/News7</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Nickelodeon[COLOR=blue]  *  [/COLOR]</title>
+<title>Nickelodeon[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/Nickelodeon</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Nova Sport[COLOR=blue]  *  [/COLOR]</title>
+<title>Nova Sport[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/NovaSport</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Retro Music TV[COLOR=blue]  *  [/COLOR]</title>
+<title>Retro Music TV[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/RetroMusicTV</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 1[COLOR=blue]  *  [/COLOR]</title>
+<title>Sky Sports 1[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/SkySport1</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 2[COLOR=blue]  *  [/COLOR]</title>
+<title>Sky Sports 2[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/SkySport2</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports 3[COLOR=blue]  *  [/COLOR]</title>
+<title>Sky Sports 3[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/SkySport3</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Sky Sports F1[COLOR=blue]  *  [/COLOR]</title>
+<title>Sky Sports F1[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/SkySportF1</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>Super 7[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/Super7</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>TV 1000[COLOR=blue]  *  [/COLOR]</title>
+<title>TV 1000[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/TV1000</link>
 <thumbnail>none</thumbnail>
 </item>
 
 <item>
-<title>The Voice[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/TheVoice</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>VH 1 Classic[COLOR=blue]  *  [/COLOR]</title>
+<title>VH 1 Classic[COLOR=yellow]  *  [/COLOR]</title>
 <link>http://141.0.169.245:443/VH1Classic</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Viasat Explorer[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/ViasatExplorer</link>
-<thumbnail>none</thumbnail>
-</item>
-
-<item>
-<title>Viasat History[COLOR=blue]  *  [/COLOR]</title>
-<link>http://141.0.169.245:443/ViasatHistory</link>
 <thumbnail>none</thumbnail>
 </item>
