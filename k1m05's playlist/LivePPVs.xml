@@ -5,13 +5,13 @@
 # Counter 9 - 10/23/13 # http://www39.zippyshare.com/v/23088756/file.html
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00] Follow Scedule below for Sports Pack 1.  Some will go Up and Down[/COLOR]</message>
+<message>[COLOR=FF00FF00] UFC Links will change between Early Prelims, Prelims, & Main Card Back out to refresh list between each card [/COLOR]</message>
 <thumbnail>http://k18.kn3.net/1959A86DE.png</thumbnail>
 </info>
 
 
 <info>
-<message>[COLOR=FFFF4500]NBA All Star Link 6 & 9 PGA Link 11 Olympick Link 7[/COLOR]</message>
+<message>[COLOR=FFFF4500]Sport Pack 1 - NBA All Star Link 6 & 9 PGA Link 11 Olympick Link 7[/COLOR]</message>
 <thumbnail>http://k18.kn3.net/1959A86DE.png</thumbnail>
 </info>
 
@@ -31,6 +31,28 @@
 <thumbnail>http://sas.suplitodomedia.com/articles_images/BookMaker/Dereck-Chisora-vs-Kevin-Johnson.jpg</thumbnail>
 </item>
 #######################################################################################################################################
+
+<item>
+<title>1. [COLOR=red]UFC[/COLOR] [COLOR=white]Fight[/COLOR] [COLOR=FF00FF00]Night[/COLOR] [COLOR=FFFF4500]Machida[/COLOR] [COLOR=blue]vs.[/COLOR] [COLOR=FFFF4500]Mousasi[/COLOR] [COLOR=red]Early Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<link>http://nlds60.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_800.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4e/UFN_36_poster.png</thumbnail>
+</item>
+
+<item>
+<title>2. [COLOR=red]UFC[/COLOR] [COLOR=white]Fight[/COLOR] [COLOR=FF00FF00]Night[/COLOR] [COLOR=FFFF4500]Machida[/COLOR] [COLOR=blue]vs.[/COLOR] [COLOR=FFFF4500]Mousasi[/COLOR] [COLOR=red]Early Prelims[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<link>http://nlds60.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_1600.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4e/UFN_36_poster.png</thumbnail>
+</item>
+
+<item>
+<title>3. [COLOR=red]UFC[/COLOR] [COLOR=white]Fight[/COLOR] [COLOR=FF00FF00]Night[/COLOR] [COLOR=FFFF4500]Machida[/COLOR] [COLOR=blue]vs.[/COLOR] [COLOR=FFFF4500]Mousasi[/COLOR] [COLOR=red]Early Prelims[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<link>
+  <sublink>http://nlds60.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000.m3u8</subliink>
+  <sublink>http://nlds60.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_4500.m3u8</sublink>
+  </link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/4e/UFN_36_poster.png</thumbnail>
+</item>
+
 #######################################################################################################################################
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
