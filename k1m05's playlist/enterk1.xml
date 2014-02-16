@@ -42,7 +42,7 @@
 <title>Sky Movies: Action [COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
   <sublink>rtmp://31.220.0.134:1935/live playpath=movaction swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</sublink>
-  <sublink>tmp://watch.ilive.to:1935/edge playpath=dwqaqvdkw8obfn2 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=dwqaqvdkw8obfn2 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
@@ -264,9 +264,9 @@
 #########################################################--------------F-------------##################################################
 #######################################################################################################################################
 <item>
-<title>FOX[COLOR=FF00FF00]  *  [/COLOR] HD</title>
+<title>FOX[COLOR=FF00FF00]  *  [/COLOR] HD.</title>
 <link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=dzwvqjwcujlpwlq swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=38810&autoplay=true token=abc109h3 live=true timeout=10</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge playpath=5rzdwidqhr268xt swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to/edge playpath=p8jww0qurpslplc swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
   <sublink>rtmpe://live.univisionbrazil.com/stream playpath=z00011.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=z00011 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to/edge playpath=s210ik8or3eu85z swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
