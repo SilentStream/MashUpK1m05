@@ -80,9 +80,8 @@
 <item>
 <title>[COLOR=FFFF4500]ESPN.[/COLOR]</title>
 <link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=ppc1li7inw63z7x swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-  <sublink>rtmp://watch.ilive.to/edge playpath=ac0cw5cmguex4di swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-  <sublink>rtmp://watch.ilive.to/edge playpath=ypb87lzx6ak05m3 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
+  <sublink>rtmp://204.45.157.234/flash playpath=12026 swfVfy=1 swfUrl=http://static2.sawlive.tv/player.swf live=true pageUrl=http://www.sawlive.tv/embed/vrljet1</sublink>
+  <sublink>rtmpe://play.finecast.tv:1935/live playPath=espnuss swfUrl=http://www.finecast.tv/player/player.swf swfVfy=1 live=true pageUrl=http://www.finecast.tv/embed.php?u=espnuss</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00018.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
@@ -92,7 +91,7 @@
 <item>
 <title>[COLOR=FFFF4500]ESPN2[/COLOR]</title>
 <link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=du97agywg74nbys swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/view/53734/ESPN_2-live-stream-channel live=true timeout=10 token=abc109h</sublink>
+  <sublink>rtmpe://play.finecast.tv:1935/live playPath=espnuss2 swfUrl=http://www.finecast.tv/player/player.swf swfVfy=1 live=true pageUrl=http://www.finecast.tv/embed.php?u=espnuss2</sublink>
   <sublink>rtmp://live.cast-tv.us/stream/ playpath=z00019.live swfUrl=http://cast-tv.us/jwplayer/jwplayer.flash.swf pageUrl=http://cast-tv.us/embed.php?n=z00019&vw=700&vh=520 live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
@@ -127,8 +126,11 @@
 </item>
 
 <item> 
-<title>[COLOR=FFFF4500]Fox Sports 1[/COLOR]</title> 
-<link>rtmp://watch.ilive.to/edge playpath=kp7vt9ohkt4pr2h live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=57480&autoplay=true token=abc109h3</link> 
+<title>[COLOR=FFFF4500]Fox Sports[/COLOR]</title> 
+<link>
+  <sublink>rtmp://173.193.46.109/live playpath=189313?313339323737303939365f3062336363663831336462373034663665303166323762366261636533633039 swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/embed.php?cid=16338&wh=640&ht=385&r=lsh.lshunter.tv</sublink>
+  <sublink>rtmp://watch.ilive.to/edge playpath=kp7vt9ohkt4pr2h live=true timeout=10 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=480&channel=57480&autoplay=true token=abc109h3</sublink>
+</link> 
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail> 
 </item>
 
