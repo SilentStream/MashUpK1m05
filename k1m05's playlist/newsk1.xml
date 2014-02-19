@@ -10,19 +10,19 @@
 ######################################################################################################################################
 
 <item>
-<title>[COLOR=FFFF4500]9 News Colorado[/COLOR] [COLOR=FFFF0000]HD[/COLOR]<title>
+<title>[COLOR=FFFF4500]9 News Colorado[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://b_kusa-f.akamaihd.net/KUSA_Live_1_2000@98937?videoId=2146942691001&lineUpId=&pubId=34295199001&playerId=1684512070001&affiliateId=&accountid=34295199001&v=3.1.0&fp=WIN%2011,9,900,152&r=EOBKT&g=YHIBVBUEHBBU</link>
 <thumbnail>http://www.9news.com/graphics/header/logo.gif</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]ABC News 7 Washington[/COLOR]<title>
+<title>[COLOR=FFFF4500]ABC News 7 Washington[/COLOR]</title>
 <link>http://api.new.livestream.com/broadcasts/39812572.m3u8?dw=100</link>
 <thumbnail>http://www.wjla.com/design/wjla/logos/tim-allison-leon-maureen-gordon-doug.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]BBC World News[/COLOR]<title>
+<title>[COLOR=FFFF4500]BBC World News[/COLOR]</title>
 <link>
   <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
   <sublink>rtmp://watch.ilive.to:1935/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=12345dsag live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Bloomberg[/COLOR]<title>
+<title>[COLOR=FFFF4500]Bloomberg[/COLOR]</title>
 <link>
   <sublink>http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8</sublink>
   <sublink>http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/x0dDdlNTrs64I5H-29bfEFu4qeIira5r/master.m3u8</sublink>
@@ -41,19 +41,19 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]City News Toronto[/COLOR] [COLOR=FFFF0000]HD[/COLOR]<title>
+<title>[COLOR=FFFF4500]City News Toronto[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://cncflash-lh.akamaihd.net/cnc_live_800@101004?videoId=2209888570001&lineUpId=&pubId=593482582001&playerId=1111577692001&affiliateId=&v=2.11.3&fp=WIN%2011%2C7%2C700%2C169&r=XXXXX&g=XXXXXXXXXXXX&v=2.11.3&fp=WIN%2011,7,700,169&r=ZIMSW&g=SGVVMWHJRGXN</link>
 <thumbnail>http://www.citynews.ca/wp-content/themes/citynews.ca/images/common/logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]CNBC[/COLOR]<title>
+<title>[COLOR=FFFF4500]CNBC[/COLOR]</title>
 <link>rtmp://watch.ilive.to/edge playpath=9umfgmr90uea60x swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]CNN.[/COLOR]<title>
+<title>[COLOR=FFFF4500]CNN.[/COLOR]</title>
 <link>
   <sublink>rtmp://watch.ilive.to/edge playpath=pevmm1onhjyufpg swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
   <sublink>rtmp://watch.ilive.to/edge playpath=rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
@@ -62,19 +62,19 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Euro News[/COLOR]<title>
+<title>[COLOR=FFFF4500]Euro News[/COLOR]</title>
 <link>rtmp://watch.ilive.to:1935/edge/fg2fwiffpklotoc swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox Business[/COLOR]<title>
+<title>[COLOR=FFFF4500]Fox Business[/COLOR]</title>
 <link>rtmp://159.253.143.20/zenex playpath=foxbusiness11?id=1505 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/foxbusiness11/1/500/400 live=true timeout=10 Conn=S:OK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_business.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox News.[/COLOR]<title>
+<title>[COLOR=FFFF4500]Fox News.[/COLOR]</title>
 <link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
@@ -97,56 +97,56 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox 5 News Washington 1[/COLOR]<title>
+<title>[COLOR=FFFF4500]Fox 5 News Washington 1[/COLOR]</title>
 <link>http://livestream-f.akamaihd.net/2363281_1763520_90280cc3_1_678@96885?v=3.0.3&fp=WIN%2011,9,900,152&r=OYALJ&g=MFXCDFGGOKRJ</link>
 <thumbnail>http://mosquitosquad.files.wordpress.com/2012/05/mzi-aclnccqc.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox 5 News Washington 2[/COLOR]<title>
+<title>[COLOR=FFFF4500]Fox 5 News Washington 2[/COLOR]</title>
 <link>rtmp://cp154697.live.edgefcs.net:443/live?ovpfv=2.1.5 playpath=WTTG_N5@55162 swfUrl=http://ftpcontent3.worldnow.com/wttg/live/AkamaiFlashPlayer.swf pageUrl=http://ftpcontent3.worldnow.com/wttg/live/Stream5WN.html live=true timeout=10</link>
 <thumbnail>http://mosquitosquad.files.wordpress.com/2012/05/mzi-aclnccqc.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox 6 News Alabama[/COLOR]<title>
+<title>[COLOR=FFFF4500]Fox 6 News Alabama[/COLOR]</title>
 <link>http://wbrc-lh.akamaihd.net/i/WBRC_855@91155/master.m3u8</link>
 <thumbnail>http://wbrc.images.worldnow.com/images/22736496_BG1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox 11 News LA 4:30-10:30am/12:00-12:30pm/5:00-6:00pm/10:00-11:00pm[/COLOR]<title>
+<title>[COLOR=FFFF4500]Fox 11 News LA 4:30-10:30am/12:00-12:30pm/5:00-6:00pm/10:00-11:00pm[/COLOR]</title>
 <link>rtmp://cp154688.live.edgefcs.net:1935/live playpath=KTTV_N1@2717 swfUrl=http://www.myfoxla.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://www.myfoxla.com/category/241718/live-newscast-feed-2 live=true timeout=10</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/51-I8792FWL._SL500_AA300_.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]FOX 31 News Denver[/COLOR] [COLOR=FFFF0000]HD[/COLOR]<title>
+<title>[COLOR=FFFF4500]FOX 31 News Denver[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://api.new.livestream.com/broadcasts/39892378.m3u8?dw=100</link>
 <thumbnail>http://s2.wp.com/wp-content/themes/vip/localtvcommon/_img/kdvr_logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]KTLA 5 Las Angeles HD[/COLOR]<title>
+<title>[COLOR=FFFF4500]KTLA 5 Las Angeles HD[/COLOR]</title>
 <link>http://ktlatribune-lh.akamaihd.net/i/KTLATribune_1@109091/master.m3u8</link>
 <thumbnail>http://tribktla.files.wordpress.com/2012/11/ktla-5-logo-for-wordpress.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]KTVU News San Francisco[/COLOR]<title>
+<title>[COLOR=FFFF4500]KTVU News San Francisco[/COLOR]</title>
 <link>http://brightcove03-f.akamaihd.net/KTVU_NEWSCAST_800@50100?videoId=2297173923001&lineUpId=&pubId=374678397001&playerId=1880697705001&affiliateId=&v=3.1.0&fp=WIN%2011,9,900,152&r=TFJRG&g=MDWAECCRNOUH</link>
 <thumbnail>http://media.cmgdigital.com/shared/theme-assets/292013/www.ktvu.com_cd2be1c28b9e4c85a466207b53658e5a.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]KFOR-TV Oklahoma[/COLOR]<title>
+<title>[COLOR=FFFF4500]KFOR-TV Oklahoma[/COLOR]</title>
 <link>rtmp://216.156.199.134/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=xha3JkNDob-DtufEX1a5Rh4EkV6gVnRW_640_480_500@18842 swfUrl=http://player.ooyala.com/static/cacheable/3280e9e38589d0dbea99b7806328e0b6/player_v2.swf pageUrl=http://kfor.com/on-air/live-streaming/ live=true timeout=10</link>
 <thumbnail>http://s1.wp.com/wp-content/themes/vip/localtvcommon/_img/kfor_logo.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR=FFFF4500]MSNBC[/COLOR]<title>
+<title>[COLOR=FFFF4500]MSNBC[/COLOR]</title>
 <link>
   <sublink>rtmp://watch.ilive.to/edge playpath=1341ujtliqndod8 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00006.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=msnbc live=true timeout=10</sublink>
@@ -155,43 +155,43 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]NHK World[/COLOR]<title>
+<title>[COLOR=FFFF4500]NHK World[/COLOR]</title>
 <link>rtmp://ca-1.net.fivecool.org/nhkw/gwm</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nhk_world.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]WGN-TV Chicago[/COLOR] [COLOR=FFFF0000]HD[/COLOR]<title>
+<title>[COLOR=FFFF4500]WGN-TV Chicago[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8</link>
 <thumbnail>http://tribwgntv.files.wordpress.com/2012/12/wgntv_logo_400x140-black1.png?w=194</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]WLKY Louisville[/COLOR]<title>
+<title>[COLOR=FFFF4500]WLKY Louisville[/COLOR]</title>
 <link>rtmp://cp126787.live.edgefcs.net:443/live/ playpath=0_6q1mibko_548@134812 swfUrl=http://v9.anv.bz/plugins/anvatoplayer.mcp.9.0.swf pageUrl=http://www.wlky.com/live-video-wlky-tracking-severe-weather/-/9366718/23018402/-/mv1aw/-/index.html live=true timeout=10</link>
 <thumbnail>http://www.wlky.com/image/view/-/9367982/highRes/4/-/cwgebn/-/site-header-logo.png</thumbnail>
 </item>
   
 <item>
-<title>[COLOR=FFFF4500]WDRB Louisville[/COLOR]<title>
+<title>[COLOR=FFFF4500]WDRB Louisville[/COLOR]</title>
 <link>http://wdrb-lh.akamaihd.net/i/WDRB_982@78352/master.m3u8</link>
 <thumbnail>http://a1.mzstatic.com/us/r30/Purple/v4/fc/b2/8e/fcb28e48-956a-4ed8-a313-f6875e166f39/icon_256.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Weather Nation[/COLOR]<title>
+<title>[COLOR=FFFF4500]Weather Nation[/COLOR]</title>
 <link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf pageUrl=http://www.lyngsat-stream.com/tvchannels/us/WeatherNation.html live=true timeout=10</link>
 <thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/WeatherNation-Logo1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Weather Channel[/COLOR]<title>
+<title>[COLOR=FFFF4500]Weather Channel[/COLOR]</title>
 <link>rtmp://watch.ilive.to:1935/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]WSVN 7 News Miami[/COLOR]<title>
+<title>[COLOR=FFFF4500]WSVN 7 News Miami[/COLOR]</title>
 <link>rtmp://wsvn.mpl.miisolutions.net:1935/wsvn-live01 playpath=apple_med swfUrl=http://wn.wsvn.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://wn.wsvn.com/story/22610002/watch-7news-live live=true timeout=10</link>
 <thumbnail>https://lh6.ggpht.com/LzsP006ij6JFHCX70kOWMYj5FC8OE5MqJVKeatjLwWX-mKhbYfen0DBjssND50um-Q=w300</thumbnail>
 </item>
