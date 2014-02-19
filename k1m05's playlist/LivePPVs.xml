@@ -66,6 +66,25 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 #######################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Olympics Pack[/COLOR] [COLOR=red]test[/COLOR]</title>
+<link>
+  <sublink>http://cdn2.1internet.tv/hls-live/livepkgr/_definst_/apple-lowres/apple-lowres1.m3u8</sublink>
+  <sublink>http://cdnl3.1internet.tv-live.hds.adaptive.level3.net/hls-live/livepkgr/_definst_/apple-lowres/apple-lowres1.m3u8</sublink>
+  <sublink>http://cdn2.1internet.tv/hls-live/livepkgr/_definst_/apple-lowres/apple-lowres1.m3u8</sublink>
+  <sublink>http://cdn2.1internet.tv/hls-live/livepkgr/_definst_/liveevent/liveevent1.m3u8</sublink>
+  <sublink>http://cdnl3.1internet.tv-live.hds.adaptive.level3.net/hls-live/livepkgr/_definst_/liveevent/liveevent1.m3u8</sublink>
+  <sublink>http://cdn2.1internet.tv/hls-live/livepkgr/_definst_/liveevent/liveevent1.m3u8</sublink>
+  <sublink>http://cdn2.1internet.tv/hls-live/livepkgr/_definst_/liveevent/liveevent2.m3u8</sublink>
+  <sublink>http://cdnl3.1internet.tv-live.hds.adaptive.level3.net/hls-live/livepkgr/_definst_/liveevent/liveevent2.m3u8</sublink>
+  <sublink>http://cdn2.1internet.tv/hls-live/livepkgr/_definst_/liveevent/liveevent2.m3u8</sublink>
+  <sublink>http://cdn2.1internet.tv/hls-live/livepkgr/_definst_/liveevent/liveevent3.m3u8</sublink>
+  <sublink>http://cdnl3.1internet.tv-live.hds.adaptive.level3.net/hls-live/livepkgr/_definst_/liveevent/liveevent3.m3u8</sublink>
+  <sublink>http://cdn2.1internet.tv/hls-live/livepkgr/_definst_/liveevent/liveevent3.m3u8</sublink>
+  <sublink>http://cdnl3.1internet.tv-live.hds.adaptive.level3.net/hls-live11/livepkgr/_definst_/sport-3/sport-31.m3u8</sublink>
+</link>
+<thumbnail>https://pbs.twimg.com/profile_images/429001737374945280/SEcAA7kf.jpeg</thumbnail>
+</item>
 #######################################################################################################
 #######################################################################################################
 <item>
