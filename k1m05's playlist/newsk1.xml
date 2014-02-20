@@ -74,19 +74,8 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox News''[/COLOR]</title>
-<link>rtmp://watch1.ilive.to:1935/edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=motngaynew swfUrl=http://www.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/46465</page>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/view/46465</page> 
-</regex>
-</link>
+<title>[COLOR=FFFF4500]Fox News[/COLOR]</title>
+<link>plugin://plugin.video.movie25/?url=http%3A%2F%2Fwww.ilive.to%2Fview%2F57760%2FCBS_%2528HD%2529-live-stream-channel&mode=121&name=CBS+%28HD%29&iconimage=http%3A%2F%2Fsnapshots.ilive.to%2Fsnapshots%2Foisrsc43uc72218_snapshot.jpg&plot=&fanart=&genre=</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
 </item>
 
