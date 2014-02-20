@@ -74,17 +74,17 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox News[/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<title>[COLOR=FFFF4500]Fox News..[/COLOR]</title>
+<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/m/channel.php?n=55789</page>
+<page>http://www.ilive.to/view/46465</page>
 </regex>
 <regex>
 <name>path</name>
 <expres>.*file: "([^."]*)</expres>
-<page>http://www.ilive.to/m/channel.php?n=55789</page> 
+<page>http://www.ilive.to/view/46465</page> 
 </regex>
 <regex>
 <name>tok</name>
