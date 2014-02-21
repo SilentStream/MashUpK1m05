@@ -19,7 +19,23 @@
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
+<item>
+<title>CBC Olympic Coverage</title>
+<link>rtmp://31.220.0.134:1935/live playpath=c9 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://www.cbc.ca/connects/content/images/CBCOlympics.jpeg</thumbnail>
+</item>
 
+<item>
+<title>BBC2 Olympic Coverage</title>
+<link>rtmp://31.220.0.134:1935/live playpath=c10 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://www.scunthorpetelegraph.co.uk/images/localworld/ugc-images/276413/Article/images/20631119/5805642-large.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBCSN Olympic Coverage</title>
+<link>rtmp://31.220.0.134:1935/live playpath=c11 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://static.tumblr.com/7881cb111ec9125abf966ee311c7b0d9/atlgosh/0kGmgsgal/tumblr_static_sochi-large.png</thumbnail>
+</item>
 #######################################################################################################################################
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
