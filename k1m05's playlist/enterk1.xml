@@ -222,8 +222,7 @@
 </item>
 
 <item>
-<title>AMC [COLOR=FF00FF00]  *  [/COLOR].</title>
-<link>
+<title>AMC [COLOR=FF00FF00]  *  [/COLOR]..</title>
 <link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=z4cxm7zlfyqs65m token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
