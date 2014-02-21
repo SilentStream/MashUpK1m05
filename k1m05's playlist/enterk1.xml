@@ -31,6 +31,11 @@
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/scarytales_320.jpg</thumbnail>
 </item>
 
+<item>
+<title>Sky Movies: [COLOR=FF00FF00]  All Are Offline   [/COLOR]</title>
+<link>rtmp://watch.ilive.to/edge playpath=rxslwv0z7ju9isb swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
+</item>
 
 <item>
 <title>Sky Movies: Disney [COLOR=FF00FF00]  *  [/COLOR]</title>
@@ -99,19 +104,56 @@
 #######################################################################################################################################
 <item>
 <title>A&E[COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch.ilive.to/edge playpath=b8znq68but9v1ux swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
+<link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view/56660</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.ilive.to/view/56660</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
 <item>
-<title>ABC[COLOR=FF00FF00]  *  [/COLOR] [COLOR=FFFF0000]HD[/COLOR] </title>
-<link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=qt4t1aakeci3emk swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-  <sublink>rtmp://watch.ilive.to/edge playpath=nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-  <sublink>rtmpe://watch.playfooty.tv/live playpath=abcc10 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=abcc10&vw=670&vh=410 live=true timeout=10</sublink>
+<title>ABC[COLOR=FF00FF00]  *  [/COLOR] [COLOR=FFFF0000]HD[/COLOR]. </title>
+<link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view/45684</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.ilive.to/view/54684</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
 </link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
+
+  <sublink>rtmpe://watch.playfooty.tv/live playpath=abcc10 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=abcc10&vw=670&vh=410 live=true timeout=10</sublink>
+
 
 <item>
 <title>ABC Family[COLOR=FF00FF00]  *  [/COLOR]</title>
