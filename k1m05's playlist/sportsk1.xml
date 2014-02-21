@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]ESPNs and fox sports fixed[/COLOR]</message>
+<message>[COLOR=FF00FF00]Fixed SNWorld/Ontario/One,[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -27,12 +27,6 @@
   <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_flemsey swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/flemsey live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.allwrestlingsuperstars.com/wp-content/uploads/2013/09/Razor-Ramon-Both-Hand-Thumbs-Up.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Sportsnet World[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=setcaz swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 
 <item>
@@ -80,6 +74,7 @@
 <item>
 <title>[COLOR=FFFF4500]ESPN.[/COLOR]</title>
 <link>
+  <sublink>rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf pageUrl=http://thecdn.04stream.com/ live=true timeout=10</sublink>
   <sublink>rtmp://204.45.157.234/flash playpath=12026 swfVfy=1 swfUrl=http://static2.sawlive.tv/player.swf live=true pageUrl=http://www.sawlive.tv/embed/vrljet1</sublink>
   <sublink>rtmpe://play.finecast.tv:1935/live playPath=espnuss swfUrl=http://www.finecast.tv/player/player.swf swfVfy=1 live=true pageUrl=http://www.finecast.tv/embed.php?u=espnuss</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00018.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn live=true timeout=10</sublink>
@@ -267,16 +262,30 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]Sportsnet World[/COLOR]</title>
+<link>rtmpe://46.246.124.6:1935/redirect playpath=setca swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_world.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Sportsnet Ontario[/COLOR]</title>
+<link>rtmpe://46.246.124.6:1935/redirect playpath=snontario swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ontario.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Sportsnet One[/COLOR]</title>
+<link>rtmpe://46.246.124.6:1935/redirect playpath=snone swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_one.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]Wrestling Weekly Shows Live[/COLOR]</title>
 <link>
   <sublink>rtmp://server2.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10</sublink>
   <sublink>rtmp://50.7.52.202/vl/_definst_ playpath=testup swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com live=true timeout=10</sublink>
   <sublink>rtmp://67.159.54.98:443/live/live_ppvdirectdotcom swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</sublink>
   <sublink>rtmp://46.105.14.26/live/me swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com live=true timeout=10</sublink>
-  <sublink>http://nlds1.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_800.m3u8</sublink>
-  <sublink>http://nlds1.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_1600.m3u8</sublink>
-  <sublink>http://nlds1.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_3000.m3u8</sublink>
-  <sublink>http://nlds1.cdnak.neulion.com/nlds/nhl/sharks/as/live/sharks_hd_4500.m3u8</sublink>
 </link>
 <thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/wweimpact.jpg</thumbnail>
 </item>
