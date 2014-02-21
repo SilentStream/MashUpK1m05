@@ -15,6 +15,7 @@
 <thumbnail>http://www.9news.com/graphics/header/logo.gif</thumbnail>
 </item>
 
+
 <item>
 <title>[COLOR=FFFF4500]ABC News 7 Washington[/COLOR]</title>
 <link>http://api.new.livestream.com/broadcasts/39812572.m3u8?dw=100</link>
@@ -112,8 +113,8 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox News[/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<title>[COLOR=FFFF4500]Fox News.[/COLOR]</title>
+<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
