@@ -74,18 +74,18 @@
 </item>
 
 <item>
-<title>Fox..</title>
+<title>Fox News</title>
 <link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/46461</page>
+<page>http://www.ilive.to/view/46465</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/46461</page>
+<page>http://www.ilive.to/view/46465</page>
 <referer> </referer>
 </regex>
 <regex>
@@ -95,8 +95,9 @@
 <referer>http://www.ilive.to</referer>
 </regex>
 </link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
 </item>
+
 <item>
 <title>[COLOR=FFFF4500]Fox 5 News Washington 1[/COLOR]</title>
 <link>http://livestream-f.akamaihd.net/2363281_1763520_90280cc3_1_678@96885?v=3.0.3&fp=WIN%2011,9,900,152&r=OYALJ&g=MFXCDFGGOKRJ</link>
