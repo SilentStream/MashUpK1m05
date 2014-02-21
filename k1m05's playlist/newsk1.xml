@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>MSNBC</message>
+<message>Fox News, CNBC</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -25,7 +25,26 @@
 <title>[COLOR=FFFF4500]BBC World News[/COLOR]</title>
 <link>
   <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
-  <sublink>rtmp://watch.ilive.to:1935/edge/1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf token=12345dsag live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</sublink>
+  <sublink>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view/46461</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.ilive.to/view/46461</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
@@ -48,7 +67,26 @@
 
 <item>
 <title>[COLOR=FFFF4500]CNBC[/COLOR]</title>
-<link>rtmp://watch.ilive.to/edge playpath=9umfgmr90uea60x swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
+<link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view/55015</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.ilive.to/view/55015</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
 </item>
 
@@ -74,7 +112,7 @@
 </item>
 
 <item>
-<title>Fox News</title>
+<title>[COLOR=FFFF4500]Fox News[/COLOR]</title>
 <link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
