@@ -222,8 +222,9 @@
 </item>
 
 <item>
-<title>AMC [COLOR=FF00FF00]  *  [/COLOR]..</title>
-<link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=z4cxm7zlfyqs65m token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<title>AMC [COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>
+  <sublink>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=z4cxm7zlfyqs65m token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -236,6 +237,7 @@
 <page>http://www.ilive.to/server.php</page>
 <referer>http://www.ilive.to</referer>
 </regex>
+</sublink>
 </link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
