@@ -116,7 +116,13 @@
 #######################################################################################################################################
 <item>
 <title>PPV Direct VOD</title>
-<link>rtmp://46.105.14.26/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=15 pageUrl=http://ppvdirect.com/view.php?pg=live
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>file</name>
 <expres>file=([^']*).flv</expres>
