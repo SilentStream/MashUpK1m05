@@ -20,6 +20,32 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
+<title>UFC 170 HD</title>
+<link>http://nlds43.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/ce/Final_UFC_170_event_poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>UFC 170 HD</title>
+<link>http://nlds43.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/ce/Final_UFC_170_event_poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>UFC 170 SD</title>
+<link>http://nlds43.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/ce/Final_UFC_170_event_poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>UFC 170 SD</title>
+<link>http://nlds43.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_800.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/c/ce/Final_UFC_170_event_poster.jpg</thumbnail>
+</item>
+
+
+#######################################################################################################################################
+<item>
 <title>CBC Olympic Coverage</title>
 <link>rtmp://31.220.0.134:1935/live playpath=c9 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.cbc.ca/connects/content/images/CBCOlympics.jpeg</thumbnail>
