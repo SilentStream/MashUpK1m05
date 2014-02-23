@@ -1,3 +1,24 @@
+<item>
+<title>[COLOR=red]WWE[/COLOR][COLOR=white]:[/COLOR] [COLOR=FFFF4500]Elimination Chamber[/COLOR] [COLOR=FF00FF00]SD[/COLOR] </title>
+<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/3e/WWE_EC_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR][COLOR=white]:[/COLOR] [COLOR=FFFF4500]Elimination Chamber[/COLOR] [COLOR=FF00FF00]SD[/COLOR] </title>
+<link>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTOVIP swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=11 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/3e/WWE_EC_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR][COLOR=white]:[/COLOR] [COLOR=FFFF4500]Elimination Chamber[/COLOR] [COLOR=FF00FF00]HD[/COLOR] </title>
+<link>
+  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel8v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
+  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel12v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=14 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/3e/WWE_EC_logo.png</thumbnail>
+</item>
+
 #######################################################################################################################################
 #########################################################----------UPCOMING----------##################################################
 #######################################################################################################################################
@@ -127,6 +148,20 @@
 <name>file</name>
 <expres>file=([^']*).flv</expres>
 <page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+ playpath=actionx 
+<item>
+<title>Cricfree Movs VOD</title>
+<link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid='([^']*)</expres>
+<page>http://cricfree.tv/movie/update/movieaction.php</page>
 <referer> </referer>
 </regex>
 </link>
