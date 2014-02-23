@@ -3,6 +3,19 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <item>
+<title>test</title>
+<link>rtmp://46.105.14.26/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=15 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>file</name>
+<expres>file= ([^']*)</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</item>
+
+<item>
 <title>KNAC [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
 <link>http://www.streamlicensing.com/directory/index.cgi/playlist.asx?action=playlist&type=asx&sid=412&stream_id=679</link>
 <thumbnail>http://www.knac.com/images/hdr/logo.gif</thumbnail>
