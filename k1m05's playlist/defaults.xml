@@ -112,12 +112,20 @@
 <thumbnail></thumbnail>
 </item>
 #######################################################################################################################################
-#####################################################----------VEETLE-STREAMS---------#################################################
+########################################################----------Regular Expression---------#####################################################
 #######################################################################################################################################
-plugin://plugin.video.veetle/?channel=
-52a83998b17ee HD Movies
-504b043f4bf4e new Movies
-52a4d256d6a80 HD Movies
+<item>
+<title>PPV Direct VOD</title>
+<link>rtmp://46.105.14.26/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=15 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</item>
 
 
 
