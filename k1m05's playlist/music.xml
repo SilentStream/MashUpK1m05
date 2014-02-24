@@ -3,12 +3,18 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <item>
-<title>Movs test4</title>
-<link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<title>replay test</title>
+<link>$doregex[rtmp]/dvd playpath=mp4:$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/vod/media</expres>
+<page>http://sportsnationhd.com/view.php?pg=raw</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>file</name>
-<expres>>fid='([^']*)';</expres>
-<page>http://cricfree.tv/movie/update/movieaction.php</page>
+<expres>file=([^']*).mp4</expres>
+<page>http://sportsnationhd.com/view.php?pg=raw</page>
 <referer> </referer>
 </regex>
 </link>
