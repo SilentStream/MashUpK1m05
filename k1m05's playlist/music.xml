@@ -3,12 +3,12 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <item>
-<title>replay test7</title>
+<title>replay test8</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:$doregex[file].mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com/view.php?pg=raw
 <regex>
 <name>file</name>
 <expres>file=([^']*).mp4</expres>
-<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<page>http://sportsnationhd.com/view.php?pg=raw</page>
 <referer> </referer>
 </regex>
 </link>
