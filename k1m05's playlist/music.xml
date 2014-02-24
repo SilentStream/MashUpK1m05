@@ -4,7 +4,7 @@
 #######################################################################################################################################
 
 <item>
-<title>replay test9</title>
+<title>replay test10</title>
 <link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com/view.php?pg=raw
 <regex>
 <name>rtmp</name>
@@ -15,7 +15,7 @@
 <regex>
 <name>file</name>
 <expres>file=([^']*).mp4</expres>
-<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<page>http://sportsnationhd.com/view.php?pg=raw</page>
 <referer> </referer>
 </regex>
 </link>
