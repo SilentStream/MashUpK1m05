@@ -2,18 +2,27 @@
 <poster>k1m05</poster>
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
+
 <item>
-<title>replay test8</title>
-<link>rtmp://37.49.224.102/vod/media playpath=mp4:$doregex[file].mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com/view.php?pg=raw
+<title>replay test9</title>
+<link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com/view.php?pg=raw
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/vod</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>file</name>
 <expres>file=([^']*).mp4</expres>
-<page>http://sportsnationhd.com/view.php?pg=raw</page>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
+
+
 
 <item>
 <title>KNAC [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
