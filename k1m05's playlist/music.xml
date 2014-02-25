@@ -8,17 +8,11 @@
 </info>
 
 <item>
-<title>1. Test V</title>
-<link>$doregex[http]/flv/$doregex[file]/testat123
+<title>1. Test V 2</title>
+<link>$doregex[http]/flv/52d8af0b180fe/testat123
 <regex>
 <name>http</name>
-<expres>payload":"([^']*)\/flv</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>\/flv\/([^']*)\/testat123</expres>
+<expres>'true,"payload"\:"([^"]+)"</expres>
 <page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
 <referer> </referer>
 </regex>
