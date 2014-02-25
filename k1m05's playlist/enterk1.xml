@@ -14,23 +14,30 @@
 #########################################################-----------OTHER------------##################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]The Movie Bay[/COLOR]</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_themoviebay swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/themoviebay live=true timeout=10 token=balls2u</link>
-<thumbnail>http://janbierens.com/wp-content/uploads/2012/04/profanity.jpg</thumbnail>
+<title>[COLOR=purple]Sci-Fi Movies[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52e610b6955aa/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://scs.veetle.com/soget/avatar/777537193/777537193_20140128091943_52e7e6af1a17c.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Infected.[/COLOR]</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_infected swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/infected live=true timeout=10 token=balls2u</link>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/infected_320.jpg</thumbnail>
-</item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500]Scary Tales[/COLOR]</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_scarytales swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/infected live=true timeout=10 token=balls2u</link>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/scarytales_320.jpg</thumbnail>
+<title>[COLOR=purple]Movie Zone[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://scs.veetle.com/soget/avatar/1855272308/1855272308_20131215231953_52aea9990824d.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
