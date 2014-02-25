@@ -8,11 +8,11 @@
 </info>
 
 <item>
-<title>1. Test V 5</title>
+<title>1. Test V 6</title>
 <link>http://$doregex[http]/flv/52d8af0b180fe/testat123
 <regex>
 <name>http</name>
-<expres>:"http:\/\/([^&]+)\/</expres>
+<expres>:"http:\/\/([^"]+)\/</expres>
 <page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
 <referer> </referer>
 </regex>
