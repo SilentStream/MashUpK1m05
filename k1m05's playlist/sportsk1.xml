@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Fixed Golf,SNWorld/Ontario/One,[/COLOR]</message>
+<message>[COLOR=FF00FF00]Fixed Outdoor, Golf[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -131,9 +131,25 @@
 
 <item>
 <title>[COLOR=FFFF4500]Golf Channel[/COLOR]</title>
-<link>
-  <sublink>rtmp://37.220.32.56:443/liverepeater playpath=19340 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=19340&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</sublink>
-  <sublink>rtmp://watch.ilive.to/edge playpath=ts6w24dx29tcwi4 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
+<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view/53912</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.ilive.to/view/53912</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
@@ -176,15 +192,9 @@
 
 <item>
 <title>[COLOR=FFFF4500]Outdoor Channel[/COLOR]</title>
-<link>rtsp://lm02.everyon.tv:1935/ptv2/pld613</link>
+<link>http://lm02.everyon.tv:80/ptv2/phd613/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/outdoor_channel.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR=FFFF4500]Outdoor Channel[COLOR=FFFF0000] HD[/COLOR]</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live//1c551f42019d40e8acf32e8218ef8703.m3u8?bitrate=800</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_asia_plus.png></thumbnail>
-</item> 
 
 <item>
 <title>[COLOR=FFFF4500]Pro Wrestling TV[/COLOR]</title>
