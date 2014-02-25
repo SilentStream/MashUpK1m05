@@ -8,16 +8,16 @@
 </info>
 
 <item>
-<title>1. Test V 17</title>
+<title>LOPFR</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/530cda6d78a87/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
-<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+<thumbnail>http://scs.veetle.com/soget/avatar/1855272308/1855272308_20131215231953_52aea9990824d.jpg</thumbnail>
 </item>
 
 <item>
