@@ -8,6 +8,25 @@
 </info>
 
 <item>
+<title>1. Test V</title>
+<link>$doregex[http]/flv/$doregex[file]/testat123
+<regex>
+<name>http</name>
+<expres>payload":"([^']*)\/flv</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>\/flv\/([^']*)\/testat123</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</item>
+
+<item>
 <title>KNAC [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
 <link>http://www.streamlicensing.com/directory/index.cgi/playlist.asx?action=playlist&type=asx&sid=412&stream_id=679</link>
 <thumbnail>http://www.knac.com/images/hdr/logo.gif</thumbnail>
