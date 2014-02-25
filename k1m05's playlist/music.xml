@@ -2,6 +2,11 @@
 <poster>k1m05</poster>
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
+<info>
+<message>[COLOR=FFFF4500] VH1 is fixed, could be a forign stream tho.[/COLOR]</message>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
+</info>
+
 <item>
 <title>KNAC [COLOR=FF00FF00]  (Radio)  [/COLOR]</title>
 <link>http://www.streamlicensing.com/directory/index.cgi/playlist.asx?action=playlist&type=asx&sid=412&stream_id=679</link>
@@ -143,7 +148,7 @@
 
 <item>
 <title>VH1</title>
-<link>rtmp://149.255.37.162/stream playpath=vh111?id=79477 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/vh111/1/500/380 conn=S:OK timeout=10</link>
+<link>rtmp://94.242.221.176:1937/live/stream44</link>
 <thumbnail>http://imageshack.us/a/img841/1742/9hiu.png</thumbnail>
 </item>
 
