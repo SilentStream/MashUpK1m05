@@ -8,11 +8,11 @@
 </info>
 
 <item>
-<title>1. Test V 12</title>
+<title>1. Test V 13</title>
 <link>$doregex[rtmp]
 <regex>
 <name>rtmp</name>
-<expres>"payload":"(.*)"</expres>
+<expres>"payload":"(.*)("\\\\","g")","isLive"</expres>
 <page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
 <referer> </referer>
 </regex>
