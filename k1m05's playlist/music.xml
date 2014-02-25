@@ -8,8 +8,8 @@
 </info>
 
 <item>
-<title>1. Test V 19</title>
-<link>$doregex[url]$doregex[path]/testat123
+<title>1. Test V 20</title>
+<link>$doregex[url]/flv/$doregex[path]/testat123
 <regex>
 <name>url</name>
 <expres>"payload":"([^"]*)\/flv\/</expres>
