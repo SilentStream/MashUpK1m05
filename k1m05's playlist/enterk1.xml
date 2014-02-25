@@ -14,7 +14,21 @@
 #########################################################-----------OTHER------------##################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Action Movies[/COLOR]</title>
+<title>[COLOR=FF9370DB]Horror[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/51a11f549b6e4/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Action[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
@@ -28,7 +42,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Sci-Fi Movies[/COLOR]</title>
+<title>[COLOR=FF9370DB]Sci-Fi[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
