@@ -3,6 +3,60 @@
 <fanart>http://upload.wikimedia.org/wikipedia/en/archive/a/a9/20131217132643!Royal_Rumble_2014_poster.jpg</fanart>
 #######################################################################################################################################
 <subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]/name>
+<fanart>http://fc00.deviantart.net/fs71/i/2013/108/6/3/tawog___wwe_monday_night_raw_by_mannyg86-d627tvu.jpg</fanart>
+<thumbnail>http://www.wwetapout.com/wp-content/uploads/raw-banner.jpg</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:raw.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]/name>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/153/b/9/b925f5b72cfd7ea23af8466f134dde4c-d3hvolc.jpg</fanart>
+<thumbnail>http://www.wwetapout.com/wp-content/uploads/smackdown-banner.jpg</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:smackdown.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]NXT[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]/name>
+<fanart>http://i1.ytimg.com/vi/zpISHhKBBzc/maxresdefault.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/2940398431/ee52d5c04baa2c67cdb024fd832a6a87.png</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:nxt.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Superstars[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]/name>
+<fanart>http://i1.ytimg.com/vi/V2mgKl_8N70/maxresdefault.jpg</fanart>
+<thumbnail>http://i1.ytimg.com/sh/XIcouF9QQ-M/showposter.jpg?v=4fbb4bcf</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:superstars.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Main Event[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]/name>
+<fanart>http://yuq.me/users/20/027/WXcox2HQuG.png</fanart>
+<thumbnail>http://i1.ytimg.com/sh/1puOALMw94E/showposter.jpg?v=51a523ea</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:mainevent.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=white]TNA[/COLOR]: [COLOR=blue]Impact Wrestling[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]/name>
+<fanart>http://3.bp.blogspot.com/-rp50bepT9Ig/Uao17FIlCKI/AAAAAAAAAEI/CS4zDfguY20/s1600/f490b56559bfe2ad5faaf964d9619b7c.jpeg</fanart>
+<thumbnail>http://www.wwe24seven.com/images/111/4.jpg</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:impact.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
 <name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Elimination Chamber[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=red]HD[/COLOR]</name>
 <fanart>http://wallpaperhdfree.com/wp-content/uploads/2014/02/New-Elimination-Chamber-2014-Wallpaper.jpg</fanart>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f0/WWE_Elimination_Chamber_poster_%282014%29.jpg</thumbnail>
