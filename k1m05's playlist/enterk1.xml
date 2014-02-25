@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500] Friends A&E-NBC are mostly fixed.[/COLOR]</message>
+<message>[COLOR=FFFF4500] Fixed all marked [COLOR=FF00FF00]  *  [/COLOR] If they arent working they must be offline at the moment[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -162,7 +162,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  *  [/COLOR] [COLOR=FFFF0000]HD[/COLOR] [/COLOR]</title>
+<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  *  [/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=qt4t1aakeci3emk token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
@@ -208,7 +208,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]AMC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]/[/COLOR]</title>
+<title>[COLOR=FFFF4500]AMC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
@@ -1354,7 +1354,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR] HD[/COLOR]</title>
+<title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR][COLOR=red] HD[/COLOR]</title>
 <link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=bbdrwesuz7v0h6l token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
@@ -1684,14 +1684,14 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]TNT[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>[COLOR=FFFF4500]TNT[/COLOR]</title>
 <link>rtmp://live.cast-tv.us/stream playpath=z00008.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=tnt live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img208/562/62.png</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]TruTV[/COLOR][COLOR=FF00FF00]  *  [/COLOR].[/COLOR]</title>
+<title>[COLOR=FFFF4500]TruTV[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
