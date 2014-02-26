@@ -7,22 +7,27 @@
 <thumbnail>http://img826.imageshack.us/img826/346/m3u.png</thumbnail>
 </info>
 <info>
-<message>[COLOR=FF00FF00]Or Post in the Xunitytalk.com Forums (Mashup Section) to report dead links[/COLOR]</message>
+<message>[COLOR=FF00FF00]Or Post in the MashUpXBMC.com Forums (k1m05 Section) to report dead links[/COLOR]</message>
 <thumbnail>http://img834.imageshack.us/img834/7852/928o.png</thumbnail>
 </info>
 ##############################################################################################################################
 <name>Check out HackerMils stash for UFC and Boxing on demand</name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05%27s%20playlist/UFCPPVs.xml</link>
 <thumbnail>http://imageshack.us/a/img5/2627/1v7t.png</thumbnail>
-<date>11/03/13</date>
+<date>  </date>
 
-<name>WWE Pay-Per-Views and RAW</name>
+<name>WWE Pay-Per-Views</name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05%27s%20playlist/WWEPPVs.xml</link>
 <thumbnail>http://img27.imageshack.us/img27/2450/54cx.png</thumbnail>
-<date>12/17/13</date>
+<date>  </date>
+
+<name>WWE/TNA Weeklies</name>
+<link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05%27s%20playlist/temp.xml</link>
+<thumbnail>http://img.bleacherreport.net/img/images/photos/002/436/384/wwe-vs-tna_crop_exact.jpg?w=1500&h=1500&q=85</thumbnail>
+<date>  </date>
 
 <name>WWE/TNA DVDs</name>
 <link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/WWEDVDS.xml</link>
 <thumbnail>http://media.tumblr.com/tumblr_lhc03k5ArE1qfo293.jpg</thumbnail>
-<date>12/17/13</date>
+<date>  </date>
 
