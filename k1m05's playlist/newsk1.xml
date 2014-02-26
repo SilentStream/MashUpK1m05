@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Fox News, CNBC</message>
+<message>NHK fixed, New Fox News.com</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -113,7 +113,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox News.[/COLOR]</title>
+<title>[COLOR=FFFF4500]Fox News[/COLOR]</title>
 <link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>appid</name>
@@ -134,6 +134,12 @@
 <referer>http://www.ilive.to</referer>
 </regex>
 </link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Fox News.com[/COLOR]</title>
+<link>http://foxhdlive-f.akamaihd.net/DCL_1_300@6475?v=3.1.0&p=aasp-3.1.0.43.124&fp=WIN%2012,0,0,70&r=RLIII&g=PNYAKDUPNSSI</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
 </item>
 
@@ -197,7 +203,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]NHK World[/COLOR]</title>
-<link>rtmp://ca-1.net.fivecool.org/nhkw/gwm</link>
+<link>rtmp://fdc-ord-cdn-1.srv.fivecool.net/nhkw playpath=gwm swfUrl=http://www3.nhk.or.jp/nhkworld/w/movie/streamhub_player20131030.swf pageUrl=http://www3.nhk.or.jp/nhkworld/w/movie/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nhk_world.png</thumbnail>
 </item>
 
