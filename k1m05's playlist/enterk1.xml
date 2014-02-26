@@ -1488,7 +1488,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Nick[/COLOR]</title>
-<link>rtmp://fmsedge1.tikilive.com:1935/view/24535/ playpath=stream24535 swfUrl=http://www.tikilive.com/public/flash/player/fms/viewerModules/player/PlayerModule.swf?version=2.11.7 pageUrl=http://www.tikilive.com/embed?scheme=embedChannel&channelId=24535&showChat=0&pwidth=695&pheight=500&autoplay=yes live=true timeout=10</link>
+<link>rtmp://fmsedge1.tikilive.com:1935/view/24535_051/ playpath=stream24535 swfUrl=http://www.tikilive.com/public/flash/player/fms/viewerModules/player/PlayerModule.swf?version=2.11.7 pageUrl=http://www.tikilive.com/embed?scheme=embedChannel&channelId=24535&showChat=0&pwidth=695&pheight=500&autoplay=yes live=true timeout=10</link>
 <thumbnail>http://img542.imageshack.us/img542/655/kwv6.png</thumbnail>
 </item>
 #######################################################################################################################################
