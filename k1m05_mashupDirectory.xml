@@ -5,10 +5,14 @@
 #######################################################################################################################################
 ### Messages
 #######################################################################################################################################
-
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]Check out my WWE DVD section and Past PPVs. Requests welcome @k1m05[/COLOR]</message>
+<message>[COLOR=FFFF4500]---[/COLOR][COLOR=FF00FF00]Some New Movie Channels in Entertainment Section[/COLOR][COLOR=FFFF4500]---[/COLOR]</message>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Movies.jpg</thumbnail>
+</info>
+#######################################################################################################################################
+<info>
+<message>[COLOR=FFFF4500]---[/COLOR][COLOR=FF00FF00]New Wrestling Weeklies Replay Source in On-Demand[/COLOR][COLOR=FFFF4500]---[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/k1m05OnDemand.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -49,10 +53,7 @@
 <thumbnail>https://github.com/mash2k3/MashUpK1m05/blob/master/k1m05.Images/Guide/Music.jpg?raw=true</thumbnail>
 <date>  </date>
 #######################################################################################################################################
-<name>[COLOR=FF00FF00]---[/COLOR][COLOR=FFFF4500]Working on fix for most channels now. Will update when complete[/COLOR][COLOR=FF00FF00]---[/COLOR]</name>
-<link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/temp.xml</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Entertainment.jpg</thumbnail>
-<date>  </date>
+
 #######################################################################################################################################
 ### Counter
 #######################################################################################################################################
