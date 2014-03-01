@@ -6,7 +6,7 @@
 #######################################################################################################################################
 
 <info>
-<message>[COLOR=FFFF4500]Sports Pack 1 Fix [/COLOR]</message>
+<message>[COLOR=FFFF4500]Boxing Links will be live b4 event begins[/COLOR]</message>
 <thumbnail>http://k18.kn3.net/1959A86DE.png</thumbnail>
 </info>
 
@@ -22,9 +22,21 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=FFFF4500]Boxing[/COLOR] [COLOR=red]HQ[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
-<thumbnail>http://inthepen.files.wordpress.com/2010/07/boxing.jpg?w=287&h=300</thumbnail>
+<title>1. [COLOR=FFFF4500]James DeGale vs Gevorg Khatchikian[/COLOR] [COLOR=red]SD[/COLOR]</title>
+<link>rtmp://server.ppvmania.tv:1935/live playpath=channel2v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<thumbnail>http://images.starpulse.com/news/bloggers/734445/blog_images/chavezvera.jpg</thumbnail>
+</item>
+
+<item>
+<title>2. [COLOR=FFFF4500]Julio Cesar Chavez Jr. vs. Bryan Vera II[/COLOR] [COLOR=red]SD[/COLOR]</title>
+<link>rtmp://server2.ppvmania.tv:1935/live playpath=channel7v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<thumbnail>http://images.starpulse.com/news/bloggers/734445/blog_images/chavezvera.jpg</thumbnail>
+</item>
+
+<item>
+<title>3. [COLOR=FFFF4500]Julio Cesar Chavez Jr. vs. Bryan Vera II[/COLOR] [COLOR=red]HD[/COLOR]</title>
+<link>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<thumbnail>http://images.starpulse.com/news/bloggers/734445/blog_images/chavezvera.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 
@@ -33,7 +45,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv/live playpath=channel1 swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10 token=Ita38E9yk482kjY</link>
+<link>rtmp://server.ppvmania.tv/live playpath=channel1v swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10 token=Ita38E9yk482kjY</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
