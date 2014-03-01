@@ -1626,8 +1626,14 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR][COLOR=red] HD[/COLOR].</title>
+<title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR][COLOR=red] HD[/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=bbdrwesuz7v0h6l token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/41426</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -1649,6 +1655,12 @@
 <title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/57956</page>
+<referer> </referer>
+</regex>
+<regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
 <page>http://www.ilive.to/view/57956</page>
@@ -1675,6 +1687,12 @@
 <title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/57616</page>
+<referer> </referer>
+</regex>
+<regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
 <page>http://www.ilive.to/view/57616</page>
@@ -1700,6 +1718,12 @@
 <item>
 <title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/56043</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -1741,6 +1765,12 @@
 <item>
 <title>[COLOR=FFFF4500]OWN[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/53857</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -1788,6 +1818,12 @@
 <item>
 <title>[COLOR=FFFF4500]Showtime[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/44126</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -1854,6 +1890,12 @@
 <title>[COLOR=FFFF4500]SYFY[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/45454</page>
+<referer> </referer>
+</regex>
+<regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
 <page>http://www.ilive.to/view/46454</page>
@@ -1880,6 +1922,12 @@
 <item>
 <title>[COLOR=FFFF4500]TBS[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/56043</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -1917,6 +1965,12 @@
 <title>[COLOR=FFFF4500]TLC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/38765</page>
+<referer> </referer>
+</regex>
+<regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
 <page>http://www.ilive.to/view/38765</page>
@@ -1942,6 +1996,12 @@
 <item>
 <title>[COLOR=FFFF4500]TNT[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/57973</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -1976,6 +2036,12 @@
 <title>[COLOR=FFFF4500]TruTV[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/52755</page>
+<referer> </referer>
+</regex>
+<regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
 <page>http://www.ilive.to/view/52755</page>
@@ -2001,6 +2067,12 @@
 <item>
 <title>[COLOR=FFFF4500]Travel [COLOR=FFFF0000]SD[/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/52988</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -2036,6 +2108,12 @@
 <title>[COLOR=FFFF4500]USA [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/58531</page>
+<referer> </referer>
+</regex>
+<regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
 <page>http://www.ilive.to/view/58531</page>
@@ -2061,6 +2139,12 @@
 <item>
 <title>[COLOR=FFFF4500]USA [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/38768</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -2102,6 +2186,12 @@
 <item>
 <title>[COLOR=FFFF4500][COLOR=yellow]Series:[/COLOR] Friends[/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/36673</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
