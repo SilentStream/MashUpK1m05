@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Fixed Outdoor, Golf[/COLOR]</message>
+<message>[COLOR=FF00FF00]Added WWE Network, Fixed Outdoor, Golf[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -18,15 +18,9 @@
 </dir>
 
 <item>
-<title>[COLOR=FFFF4500]Classic Wrestling[/COLOR]</title>
-<link>
-  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_alwaysrocking swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/alwaysrocking live=true timeout=10</sublink>
-  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_mistyskin swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/mistyskin live=true timeout=10</sublink>
-  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_thakpn swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/thakpn live=true timeout=10</sublink>
-  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_dmetal1 swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/dmetal1 live=true timeout=10</sublink>
-  <sublink>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_flemsey swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/flemsey live=true timeout=10</sublink>
-</link>
-<thumbnail>http://www.allwrestlingsuperstars.com/wp-content/uploads/2013/09/Razor-Ramon-Both-Hand-Thumbs-Up.jpg</thumbnail>
+<title>[COLOR=FFFF4500]WWE Network[/COLOR]</title>
+<link>rtmp://173.193.223.149/live playpath=Network342?id=195357 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/network342/1/639/390 live=true timeout=10 conn=S:OK</link>
+<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
 </item>
 
 <item>
