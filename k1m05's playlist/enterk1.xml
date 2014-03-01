@@ -2223,13 +2223,13 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=yellow]Trailer Park Boys[/COLOR] R </title>
-<link>rtmp://$doregex[url]/app playpath=mwc01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
+<title>[COLOR=yellow]Trailer Park Boys[/COLOR] </title>
+<link>$doregex[url]/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
 <regex>
 <name>url</name>
 <expres>value="&streamer=([^"]*)/app</expres>
-<page>http://www.tgun.tv/embed/index2.php?tpb01&widthid=640&heightid=480</page>
-<referer> </referer>
+<page>http://www.tgun.tv/embed/index2.php?tpb01</page>
+<referer>http://www.tgun.tv</referer>
 </regex>
 <thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
 </item>
