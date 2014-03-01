@@ -1593,8 +1593,14 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Spike[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<title>[COLOR=FFFF4500]Spike[/COLOR][COLOR=FF00FF00]  *  [/COLOR] Fixed Bellator</title>
+<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/52479</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
