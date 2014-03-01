@@ -11,7 +11,7 @@
 </info>
 
 <info>
-<message>[COLOR=FFFF4500]Nascar Link 9 NBA OK vs LA then Mia vs Chi Link 3[/COLOR]</message>
+<message>[COLOR=FFFF4500]Ever vs West Ham Link 4, Stoke vs Arsenal Links 6 & 8,Hull vsNewcastle Link 13, Fulham vs Chelsea, Rugby Northampton Saints vs Gloucester Link 7, Rotherham Titans vs Bristol Link 3, Connecticut Huskies vs Cincinnati Bearcats Link 2, Southampton vs Liverpool on Channel 6 & 9,  Bayern Munich vs Schalke 04 Link 7[/COLOR]</message>
 <thumbnail>http://k18.kn3.net/1959A86DE.png</thumbnail>
 </info>
 #######################################################################################################################################
@@ -23,31 +23,9 @@
 #######################################################################################################################################
 
 #######################################################################################################################################
-<item>
-<title>Daytona 500</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv042&q=high</link>
-<thumbnail>http://www.allgoodseats.com/images/daytona-500-logo-2010.jpg</thumbnail>
-</item>
-
 
 #######################################################################################################################################
-<item>
-<title>CBC Olympic Coverage</title>
-<link>rtmp://31.220.0.134:1935/live playpath=c9 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</link>
-<thumbnail>http://www.cbc.ca/connects/content/images/CBCOlympics.jpeg</thumbnail>
-</item>
 
-<item>
-<title>BBC2 Olympic Coverage</title>
-<link>rtmp://31.220.0.134:1935/live playpath=c10 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</link>
-<thumbnail>http://www.scunthorpetelegraph.co.uk/images/localworld/ugc-images/276413/Article/images/20631119/5805642-large.jpg</thumbnail>
-</item>
-
-<item>
-<title>NBCSN Olympic Coverage</title>
-<link>rtmp://31.220.0.134:1935/live playpath=c11 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?COLLCC=620504064&live=euro11osjos&vw=620&vh=490 live=true timeout=10</link>
-<thumbnail>http://static.tumblr.com/7881cb111ec9125abf966ee311c7b0d9/atlgosh/0kGmgsgal/tumblr_static_sochi-large.png</thumbnail>
-</item>
 #######################################################################################################################################
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
