@@ -46,8 +46,11 @@
 </item>
 
 <item>
-<title>5. [COLOR=FF00FF00]Monster Energy SuperCross[/COLOR] [COLOR=red]HD[/COLOR] This one may not come on</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<title>5. [COLOR=FF00FF00]Monster Energy SuperCross[/COLOR] [COLOR=red]HD[/COLOR]</title>
+<link>
+  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTOVIP swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=11 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
+  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
+</link>
 <thumbnail>http://www.mxlarge.com/wp-content/uploads/2014/02/villy-fo.jpg</thumbnail>
 </item>
 
