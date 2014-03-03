@@ -14,12 +14,54 @@
 #########################################################-----------OTHER------------##################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Horror[/COLOR]</title>
+<title>[COLOR=FF9370DB]Movies 1[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/51a11f549b6e4/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e530fffd056f/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Movies 2[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/53106fabdd5e1/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Movies 3[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/53106fb701635/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Movies 4[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e530fffd056f/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -312,6 +354,12 @@
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]AMC+[/COLOR]</title>
+<link>rtmp://ppvmania.tv:1935/live playpath=ch1free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=1 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR=FFFF4500]AMC [/COLOR]</title>
 <link>rtmp://109.123.114.218/zenex playpath=amcnnewss?id=4225 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/amcnnewss/1/500/400 live=true timeout=10 conn=S:OK</link>
