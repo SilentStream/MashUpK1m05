@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Added WWE Network, Fixed Outdoor, Golf[/COLOR]</message>
+<message>[COLOR=FF00FF00]Golf, Added WWE Network, Fixed Outdoor[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -125,7 +125,13 @@
 
 <item>
 <title>[COLOR=FFFF4500]Golf Channel[/COLOR]</title>
-<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<link>rtmp://$doregex[url]/edge/_definst_/  app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/53912</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
