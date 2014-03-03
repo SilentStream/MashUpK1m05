@@ -241,8 +241,8 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]ABC: Oscars[/COLOR][COLOR=FF00FF00]  HQ  [/COLOR]</title>
-<link>rrtmp://server3.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=6 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<title>[COLOR=FFFF4500]ABC Oscars[/COLOR][COLOR=FF00FF00]  HQ  [/COLOR]</title>
+<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=6 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 #######################################################################################################################################
