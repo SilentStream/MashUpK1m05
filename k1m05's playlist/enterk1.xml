@@ -118,14 +118,12 @@
 <link>rtmp://watch1.ilive.to/edge playpath=rxslwv0z7ju9isb swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
+
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Movies: Action [/COLOR][COLOR=FF00FF00]  *  [/COLOR].[/COLOR]</title>
-<link>
-  <sublink>rtmp://31.220.0.134:1935/live playpath=actionx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</sublink>
-  <sublink>rtmp://watch1.ilive.to:1935/edge playpath=dwqaqvdkw8obfn2 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-</link>
+<title>[COLOR=FFFF4500]Sky Movies: Action [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://31.220.0.134:1935/live playpath=actionx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################
