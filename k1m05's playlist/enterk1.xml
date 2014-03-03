@@ -280,6 +280,19 @@
 </link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=FFFF4500]ABC Oscars[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/5313d6522f7cc/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
@@ -1311,6 +1324,32 @@
 <title>[COLOR=FFFF4500]HBO[/COLOR]</title>
 <link>>rtmp://live.cast-tv.us/stream playpath=z00012.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=hbo live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]HBO.[/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/_definst_/ playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp://([^"]*)",</expres>
+<page>http://www.iguide.to/view/1</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.iguide.to/view/1</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.iguide.to/serverfile.php</page>
+<referer>http://www.iguide.to</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
