@@ -208,9 +208,6 @@
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
-
-rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=_we_bno3bDl2YzVudjFvZzdifDEzOTM3OTY2MzR8MTQyLjEzNC45NS4xNTR8NTMxM2E0YjJkZmU1NXwzZDU1NWM1NTA0MmQ0ZWYxY2YzZmVhZmQ0NDgzNDA0MDExMDcyNDM0 playpath=qt4t1aakeci3emk token=motngaynew1 swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
-
 <item>
 <title>[COLOR=FFFF4500]ABC: Oscars[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
@@ -239,6 +236,13 @@ rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=_we_bno3bDl2Yz
 <referer>http://www.ilive.to</referer>
 </regex>
 </link>
+<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]ABC: Oscars[/COLOR]</title>
+<link>rtmp://188.0.226.98/hot/ playpath=iabc?v=b69b3e63335f9dd232ceea805c38e90e swfUrl=http://www.castok.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.castok.com/</link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
 #######################################################################################################################################
