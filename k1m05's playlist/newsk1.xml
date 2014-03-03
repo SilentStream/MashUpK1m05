@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Added Accuweather NHK fixed, New Fox News.com</message>
+<message>Added Accuweather, NHK fixed, New Fox News.com</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -23,13 +23,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]Accuweather[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8
-<regex>
-<name>path</name>
-<expres>ustream:channel_id" content="([^"]*)"</expres>
-<page>http://www.ustream.tv/channel/accuweather-channel</page>
-<referer> </referer>
-</link>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/10208765/streams/live/playlist.m3u8</link>
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/4/9/8/14984935/14984935_awc_ustream_1372170074.jpg</thumbnail>
 </item>
 
