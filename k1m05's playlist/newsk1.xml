@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>NHK fixed, New Fox News.com</message>
+<message>Added Accuweather NHK fixed, New Fox News.com</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -15,11 +15,16 @@
 <thumbnail>http://www.9news.com/graphics/header/logo.gif</thumbnail>
 </item>
 
-
 <item>
 <title>[COLOR=FFFF4500]ABC News 7 Washington[/COLOR]</title>
 <link>http://api.new.livestream.com/broadcasts/39812572.m3u8?dw=100</link>
 <thumbnail>http://www.wjla.com/design/wjla/logos/tim-allison-leon-maureen-gordon-doug.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Accuweather[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/14984935/streams/live/playlist.m3u8</link>
+<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/4/9/8/14984935/14984935_awc_ustream_1372170074.jpg</thumbnail>
 </item>
 
 <item>
