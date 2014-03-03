@@ -124,8 +124,8 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Golf Channel[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/  app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<title>[COLOR=FFFF4500]Golf Channel[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>url</name>
 <expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
