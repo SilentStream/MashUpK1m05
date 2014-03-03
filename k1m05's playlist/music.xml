@@ -7,13 +7,13 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 <item>
-<title>1.</title>
+<title>1..</title>
 <link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
 <regex>
 <name>file</name>
-<expres>fid='([^']*)';</expres>
+<expres>script'>fid='([^']*)'; v_width=</expres>
 <page>http://cricfree.tv/movie/update/skys1.php</page>
-<referer> </referer>
+<referer>http://cricfree.tv</referer>
 </regex>
 </link>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
