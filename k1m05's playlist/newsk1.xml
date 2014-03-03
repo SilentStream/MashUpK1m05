@@ -23,7 +23,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]Accuweather[/COLOR]</title>
-<link><link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8
 <regex>
 <name>path</name>
 <expres>"https://www.ustream.tv/embed/([^."]*)"></expres>
@@ -210,6 +210,18 @@
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00006.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=msnbc live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]NASA Educational[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/$doregex[path]/streams/live/playlist.m3u8
+<regex>
+<name>path</name>
+<expres>"https://www.ustream.tv/embed/([^."]*)"></expres>
+<page>http://www.ustream.tv/channel/nasa-educational</page>
+<referer> </referer>
+</link>
+<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/0/2/0/10208765/10208765_nasatv_education_hr_1330361859.jpg</thumbnail>
 </item>
 
 <item>
