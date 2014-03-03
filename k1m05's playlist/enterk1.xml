@@ -1328,8 +1328,8 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]HBO[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
+<title>[COLOR=FFFF4500]HBO[/COLOR].</title>
+<link>rtmp://$doregex[url]/edge/_definst_/ playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.guide.to live=true timeout=10
 <regex>
 <name>url</name>
 <expres>streamer: "rtmp://([^"]*)",</expres>
