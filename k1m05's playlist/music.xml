@@ -8,14 +8,8 @@
 </info>
 
 <item>
-<title>1.4</title>
-<link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com/
-<regex>
-<name>rtmp</name>
-<expres>streamer=([^']*)/vod/media</expres>
-<page>http://sportsnationhd.com/view.php?pg=raw</page>
-<referer> </referer>
-</regex>
+<title>1.5</title>
+<link>rtmp://37.49.224.102/vod/media playpath=mp4:$doregex[file].mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com/
 <regex>
 <name>file</name>
 <expres>file=([^']*).mp4</expres>
