@@ -10,7 +10,7 @@
 <item>
 <title>\m/</title>
 <link>
-<sublink>rtmp://46.105.14.26/dvd playpath=50years swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=live timeout=10</sublink>
+<sublink>rtmp://46.105.14.26/dvd playpath=50years swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=live timeout=10</sublink><host>static</host>
 </link>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
