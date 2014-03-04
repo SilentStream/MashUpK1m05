@@ -7,6 +7,25 @@
 <thumbnail>http://www.langleymontessori.ca/wp/wp-content/uploads/2014/01/info_symbol1.png</thumbnail>
 </info>
 #######################################################################################################################################
+<item>
+<title>1. Test VOD</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</item>
+#######################################################################################################################################
 <subchannel>
 <name>[COLOR=red]WWE[/COLOR]: [COLOR=white]CM Punk Best in the World[/COLOR] [COLOR=FFFF4500](2011)[/COLOR] staticlinks are new</name>
 <fanart>http://i50.tinypic.com/x926w.jpg</fanart>
