@@ -1,0 +1,851 @@
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>...</message>
+<thumbnail>http://www.langleymontessori.ca/wp/wp-content/uploads/2014/01/info_symbol1.png</thumbnail>
+</info>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white][/COLOR] [COLOR=FFFF4500]History Of WWE: 50 Years Of Sports Entertainment[/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd45</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]WWE Money In The Bank Ladder Match Anthology[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd42</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd42</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Goldberg: The Ultimate Collection[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd43</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd43</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Triple H Thy Kingdom Come[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd44</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd44</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Top 25 Rivalries In Wrestling History[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd40</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd40</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]For All Mankind: The Life and Career of Mick Foley[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd22</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd22</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]You Think You Know Me?: The Story of Edge[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd23</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd23</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Undertaker: The Streak[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd41</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd41</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Top 50 Greatest Finishers[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd1</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd1</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]OMG! The Top 50 Incidents in WWE History[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd2</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd2</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The John Cena Experience[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd3</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd3</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]John Cena: My Life[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd26</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd26</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]WWE The Attitude Era[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd4</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd4</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Greatest Superstars of the 21st Century[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd28</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd28</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Satan's Prison: The Anthology of the Elimination Chamber[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd37</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd37</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Austin vs McMahon: The Whole True Story[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd5</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd5</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Brock Lesnar: Here Comes The Pain[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd6</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd6</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]HHH: The Game[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd7</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd7</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The History of WrestleMania[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd8</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd8</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The Bigshow: A Giants World[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd9</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd9</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Breaking The Code: Behind the Walls of Chris Jericho[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd10</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd10</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]CM Punk: The Best in the World[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd11</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd11</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Top 50 Superstars of All Time[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd29</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd29</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Rock vs Cena: Once in a Lifetime[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd12</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd12</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The Epic Journey of Dwayne 'The Rock' Johnson[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd13</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd13</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Stone Cold Steve Austin: The Bottom Line[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd14</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd14</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The Rise and Fall of ECW[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd15</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd15</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The Rise and Fall of WCW[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd16</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd16</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The Monday Night Wars[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd17</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd17</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Randy Orton: The Evolution of a Viper[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd18</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd18</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]nWo: The Revolution[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd19</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd19</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Jeff Hardy: My Life My Rules[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd20</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd20</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hulk Hogan: Hulk Still Rules![/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd34</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd34</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The Self Destruction of The Ultimate Warrior[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd35</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd35</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hardy Boyz: Leap of Faith[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd21</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd21</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]nWO: Back in Black[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd33</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd33</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]McMahon[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd24</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd24</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The Rock: Know Your Role[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd25</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd25</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Kurt Angle: Its True! Its True![/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd31</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd31</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Cheating Death, Stealing Life: The Eddie Guerrero Story[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd32</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=dvd32</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
