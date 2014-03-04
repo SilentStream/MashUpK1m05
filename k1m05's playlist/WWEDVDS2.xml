@@ -1,16 +1,16 @@
 #######################################################################################################################################
 <poster>k1m05</poster>
-<fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
+<fanart>http://images6.fanpop.com/image/photos/35100000/Paige-wwe-35136815-1284-722.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>...</message>
+<message>.......</message>
 <thumbnail>http://www.langleymontessori.ca/wp/wp-content/uploads/2014/01/info_symbol1.png</thumbnail>
 </info>
 #######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white][/COLOR] [COLOR=FFFF4500]History Of WWE: 50 Years Of Sports Entertainment[/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]History Of WWE: 50 Years Of Sports Entertainment[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
@@ -31,7 +31,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]WWE Money In The Bank Ladder Match Anthology[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]WWE Money In The Bank Ladder Match Anthology[/COLOR] [COLOR=FFFF4500]dead[/COLOR]</title>
 <link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
@@ -262,7 +262,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]WWE The Attitude Era[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]The Attitude Era[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
