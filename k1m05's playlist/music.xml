@@ -9,11 +9,11 @@
 
 #######################################################################################################################################
 <item>
-<title>1.6</title>
-<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<title>1.7</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/dvd</expres>
+<expres>streamer=([^']*)/misc</expres>
 <page>http://ppvdirect.com/view.php?pg=rumble98</page>
 <referer> </referer>
 </regex>
