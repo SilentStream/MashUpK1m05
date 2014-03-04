@@ -3,13 +3,14 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Piles of my files are getting deleted, I apologise and will try to reupload over the next few days</message>
+<message>...</message>
 <thumbnail>http://www.langleymontessori.ca/wp/wp-content/uploads/2014/01/info_symbol1.png</thumbnail>
 </info>
 #######################################################################################################################################
 <item>
 <title>1. Test VOD</title>
-<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<link>
+  <sublink>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/dvd</expres>
@@ -22,6 +23,7 @@
 <page>http://ppvdirect.com/view.php?pg=dvd45</page>
 <referer> </referer>
 </regex>
+</sublink>
 </link>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
