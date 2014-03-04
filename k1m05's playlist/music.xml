@@ -7,13 +7,20 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 
+#######################################################################################################################################
 <item>
-<title>1.5</title>
-<link>rtmp://37.49.224.102/vod/media playpath=mp4:$doregex[file].mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com/
+<title>1.6</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=rumble98</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>file</name>
-<expres>file=([^']*).mp4</expres>
-<page>http://sportsnationhd.com/view.php?pg=raw</page>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=rumble98</page>
 <referer> </referer>
 </regex>
 </link>
