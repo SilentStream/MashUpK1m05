@@ -8,22 +8,9 @@
 </info>
 #######################################################################################################################################
 <item>
-<title>1. Test VOD</title>
+<title>\m/</title>
 <link>
-  <sublink>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
-<regex>
-<name>rtmp</name>
-<expres>streamer=([^']*)/dvd</expres>
-<page>http://ppvdirect.com/view.php?pg=dvd45</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=([^']*).flv</expres>
-<page>http://ppvdirect.com/view.php?pg=dvd45</page>
-<referer> </referer>
-</regex>
-</sublink>
+<sublink>rtmp://46.105.14.26/dvd playpath=50years swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=live timeout=10</sublink>
 </link>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
