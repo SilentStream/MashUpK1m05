@@ -1361,19 +1361,19 @@
 <regex>
 <name>url</name>
 <expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/57341</page>
+<page>http://www.ilive.to/view/36674</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/57341</page>
+<page>http://www.ilive.to/view/36674</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/57341</page>
+<page>http://www.ilive.to/view/36674</page>
 <referer> </referer>
 </regex>
 <regex>
