@@ -8,19 +8,19 @@
 </info>
 
 <item>
-<title>1.2</title>
+<title>1.3</title>
 <link>$doregex[rtmp]/vod/media playpath=mp4:$doregex[file].mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/vod/media</expres>
+<expres>streamer=(.+?)/vod/media</expres>
 <page>http://sportsnationhd.com/view.php?pg=raw</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>file=([^']*).mp4</expres>
+<expres>file=(.+?).mp4</expres>
 <page>http://sportsnationhd.com/view.php?pg=raw</page>
-<referer> </referer>
+<referer>http://sportsnationhd.com/view.php?pg=raw</referer>
 </regex>
 </link>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
