@@ -11,12 +11,12 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1.0</title>
-<link>$doregex[url]
+<title>1.1</title>
+<link>http://dl.firedrive.com/?hd=$doregex[url]==
 <regex>
 <name>url</name>
-<expres>file: '(.*)',</expres>
-<page>http://www.firedrive.com/file/057955C92AF82D5D</page>
+<expres>http://dl.firedrive.com/?hd=(.*)==',</expres>
+<page>http://www.firedrive.com/file/5FAAD61EAA22F47C</page>
 <referer>http://www.firedrive.com</referer>
 </regex>
 </link>
