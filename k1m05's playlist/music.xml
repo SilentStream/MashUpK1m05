@@ -9,18 +9,18 @@
 
 #######################################################################################################################################
 <item>
-<title>1.7</title>
-<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<title>1.8</title>
+<link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/misc</expres>
-<page>http://ppvdirect.com/view.php?pg=rumble98</page>
+<expres>streamer=([^']*)/vod/media</expres>
+<page>http://sportsnationhd.com/view.php?pg=mania1pt2</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file=([^']*).flv</expres>
-<page>http://ppvdirect.com/view.php?pg=rumble98</page>
+<page>http://sportsnationhd.com/view.php?pg=mania1pt2</page>
 <referer> </referer>
 </regex>
 </link>
