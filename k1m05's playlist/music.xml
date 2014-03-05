@@ -9,19 +9,19 @@
 
 #######################################################################################################################################
 <item>
-<title>1.8</title>
-<link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com
+<title>1.9</title>
+<link>$doregex[rtmp]/vod/media/$doregex[file].flv swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/vod/media</expres>
 <page>http://sportsnationhd.com/view.php?pg=mania1pt2</page>
-<referer> </referer>
+<referer>http://sportsnationhd.com/</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>file=([^']*).flv</expres>
+<expres>media&file=([^']*).flv</expres>
 <page>http://sportsnationhd.com/view.php?pg=mania1pt2</page>
-<referer> </referer>
+<referer>http://sportsnationhd.com/</referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
