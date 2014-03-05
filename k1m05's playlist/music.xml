@@ -10,22 +10,16 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1.3</title>
-<link>rtmp://$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://www.coolsport.tv/ live=true timeout=10 token=#atd%#$ZH
+<title>1.4</title>
+<link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
 <regex>
-<name>url</name>
-<expres>'rtmp://([^."]*)',</expres>
-<page>http://1cdn.filotv.pw/stream30.html</page>
-<referer>http://www.coolsport.tv/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>.'file':               '([^."]*)',</expres>
-<page>http://1cdn.filotv.pw/stream30.html</page>
-<referer>http://www.coolsport.tv/</referer>
+<name>file</name>
+<expres>fid='([^']*)';</expres>
+<page>http://cricfree.tv/movie/update/movieaction.php</page>
+<referer> </referer>
 </regex>
 </link>
-<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
 
 <item>
