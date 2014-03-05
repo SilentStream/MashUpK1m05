@@ -10,16 +10,22 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1.1</title>
-<link>$doregex[url]
+<title>1.0</title>
+<link>rtmp://$doregex[url]/edge/_definst_/ playpath=$doregex[path] token= swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://www.coolsport.tv/skynews.html live=true timeout=10
 <regex>
 <name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k31uRXSR6oGbpo5KKmd</page>
-<referer>http://www.dailymotion.com/</referer>
+<expres>'streamer':           'rtmp:',</expres>
+<page>1cdn.filotv.pw/stream30.html</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.'file':               '([^."]*)',</expres>
+<page>http://1cdn.filotv.pw/stream30.html</page>
+<referer> </referer>
 </regex>
 </link>
-<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
 </item>
 
 <item>
