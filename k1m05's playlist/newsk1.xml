@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Added Accuweather, NHK fixed, New Fox News.com</message>
+<message>CNN Fixed Added Accuweather, NHK fixed, New Fox News.com</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -97,11 +97,8 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]CNN.[/COLOR]</title>
-<link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=pevmm1onhjyufpg swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-  <sublink>rtmp://watch.ilive.to/edge playpath=rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-</link>
+<title>[COLOR=FFFF4500]CNN[/COLOR]</title>
+<link>rtmp://173.193.197.46/app playpath=15757 swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d325a545a6c4d7a453d/7ca9bfe02d0c live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
 </item>
 
