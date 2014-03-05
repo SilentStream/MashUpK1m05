@@ -10,12 +10,12 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1.0</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ playpath=$doregex[path] token= swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://www.coolsport.tv/skynews.html live=true timeout=10
+<title>1.1</title>
+<link>rtmp://$doregex[url]/ playpath=$doregex[path] token= swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://www.coolsport.tv/skynews.html live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'streamer':           'rtmp:',</expres>
-<page>1cdn.filotv.pw/stream30.html</page>
+<page>http:1cdn.filotv.pw/stream30.html</page>
 <referer> </referer>
 </regex>
 <regex>
