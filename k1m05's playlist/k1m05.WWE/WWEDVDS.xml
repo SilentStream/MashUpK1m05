@@ -24,7 +24,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Mr. Wrestlemania[/COLOR] [COLOR=FFFF4500]Part 1[/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Mr. Wrestlemania[/COLOR] [COLOR=FFFF4500]Part 2[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
@@ -38,7 +38,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Mr. Wrestlemania[/COLOR] [COLOR=FFFF4500]Part 1[/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Mr. Wrestlemania[/COLOR] [COLOR=FFFF4500]Part 3[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
