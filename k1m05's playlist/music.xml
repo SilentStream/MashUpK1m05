@@ -9,8 +9,8 @@
 
 #######################################################################################################################################
 <item>
-<title>1.9</title>
-<link>$doregex[rtmp]/vod/media/$doregex[file].flv swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com
+<title>2.0</title>
+<link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf timeout=10 pageUrl=http://sportsnationhd.com
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/vod/media</expres>
