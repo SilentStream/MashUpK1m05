@@ -9,10 +9,18 @@
 
 #######################################################################################################################################
 #######################################################################################################################################
+#######################################################################################################################################
 <item>
-<title>1.5</title>
-<link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
-<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+<title>1.0</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file: '(.*)',</expres>
+<page>http://www.firedrive.com/file/057955C92AF82D5D</page>
+<referer>http://www.firedrive.com</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
 </item>
 
 <item>
