@@ -12,11 +12,6 @@
 </info>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FFFF4500]---[/COLOR][COLOR=FF00FF00]New Wrestling Weeklies Replay Source in On-Demand[/COLOR][COLOR=FFFF4500]---[/COLOR]</message>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/k1m05OnDemand.jpg</thumbnail>
-</info>
-#######################################################################################################################################
-<info>
 <message>[COLOR=orange]http://Tinyurl.com/k1m05[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Donate.jpg</thumbnail>
 </info>
@@ -28,8 +23,8 @@
 #######################################################################################################################################
 ### Links
 #######################################################################################################################################
-<name>[COLOR=FF00FF00]New Click Me[/COLOR]</name>
-<link>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/k1m05.WWE/WWEDirectory.xml</link>
+<name>[COLOR=FF00FF00]---New Click Me---[/COLOR]</name>
+<link><dirlist>https://github.com/mash2k3/MashUpK1m05/raw/master/k1m05's%20playlist/k1m05.WWE/WWEDirectory.xml</dirlist></link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 <date>  </date>
 #######################################################################################################################################
@@ -58,13 +53,3 @@
 <thumbnail>https://github.com/mash2k3/MashUpK1m05/blob/master/k1m05.Images/Guide/Music.jpg?raw=true</thumbnail>
 <date>  </date>
 #######################################################################################################################################
-
-#######################################################################################################################################
-### Counter
-#######################################################################################################################################
-<info>
-<message>[COLOR=FF00FF00]                 [/COLOR]</message>
-<thumbnail>http://www.e-zeeinternet.com/count.php?page=1011158&style=LED_g&nbdigits=5&reloads=1</thumbnail>
-</info>
-
-
