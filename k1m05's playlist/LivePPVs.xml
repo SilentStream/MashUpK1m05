@@ -32,7 +32,6 @@
   <sublink>rtmp://37.49.224.102/live playpath=france swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=france live=true timeout=10</sublink>
   <sublink>rtmp://37.49.224.102/live playpath=england swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=england live=true timeout=10</sublink>
   <sublink>rtmp://37.49.224.102/live playpath=spain swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=spain live=true timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/live playpath=scotland swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=spain live=true timeout=10</sublink>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
