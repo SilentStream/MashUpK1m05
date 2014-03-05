@@ -10,15 +10,8 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1.4</title>
-<link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
-<regex>
-<name>file</name>
-<expres>fid='([^']*)';</expres>
-<page>http://cricfree.tv/movie/update/movieaction.php</page>
-<referer> </referer>
-</regex>
-</link>
+<title>1.5</title>
+<link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
 
@@ -30,44 +23,44 @@
 
 <item>
 <title>Totally_70s</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_totally_70s swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/Totally_70s live=true timeout=10</link>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_totally_70s swfUrl=https://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/Totally_70s live=true timeout=10 token=balls2u swfVfy=true</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/totally_70s_320.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>D-Town Radio</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_dtownradio swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/dtownradio live=true timeout=10</link>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_dtownradio swfUrl=https://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/dtownradio live=true timeout=10 token=balls2u swfVfy=true</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/dtownradio_320.jpg</thumbnail>
 </item>
 
 <item>
 <title>RockTown Radio</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_rocktown swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/rocktown live=true timeout=10</link>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_rocktown swfUrl=https://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/rocktown live=true timeout=10 token=balls2u swfVfy=true</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/rocktown_320.jpg</thumbnail>
 </item>
 
 <item>
 <title>FreakShow Inc.</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_freakshowinc swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/freakshowinc live=true timeout=10</link>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_freakshowinc swfUrl=https://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/freakshowinc live=true timeout=10 token=balls2u swfVfy=true</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/freakshowinc_320.jpg</thumbnail>
 </item>
 
 <item>
 <title>Good Time Radio</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_goodtimeradio swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/goodtimeradio live=true timeout=10</link>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_goodtimeradio swfUrl=https://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/goodtimeradio live=true timeout=10 token=balls2u swfVfy=true</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/goodtimeradio_320.jpg</thumbnail>
 </item>
 
 <item>
 <title>Headstockburn</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_headstockburn swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/ live=true timeout=10</link>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_headstockburn swfUrl=https://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ live=true timeout=10 token=balls2u swfVfy=true</link>
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/headstockburn_320.jpg</thumbnail>
 </item>
 
 <item>
 <title>Capital</title>
-<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_ swfUrl=http://vaughnlive.tv/swf/VaughnLive_v3_2.swf pageUrl=http://vaughnlive.tv/ live=true timeout=10</link>
+<link>rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_ swfUrl=https://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/ live=true timeout=10 token=balls2u swfVfy=true</link>
 <thumbnail>http://capital.gcstatic.com/d/capitalfm.com/img/capital_tv_logo.png</thumbnail>
 </item>
 <---- http://www.m.1hd.ru/ ----->
