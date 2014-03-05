@@ -6,12 +6,12 @@
 #######################################################################################################################################
 
 <info>
-<message>[COLOR=FFFF4500]Boxing Links will be live b4 event begins[/COLOR]</message>
+<message>[COLOR=FFFF4500]Sports Pack 1 Links for tonight Below[/COLOR]</message>
 <thumbnail>http://k18.kn3.net/1959A86DE.png</thumbnail>
 </info>
 
 <info>
-<message>[COLOR=FFFF4500]...[/COLOR]</message>
+<message>[COLOR=FFFF4500]S. Africa vs Brazil Link 3, England vs Denmark Link 7, Germany vs Chile Link 3, Whales vs Iceland Link 2, Nuggets vs Mavericks Link 3[/COLOR]</message>
 <thumbnail>http://k18.kn3.net/1959A86DE.png</thumbnail>
 </info>
 #######################################################################################################################################
@@ -29,22 +29,9 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv/live playpath=channel1v swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10 token=Ita38E9yk482kjY</link>
+<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]Use New WWE Section for live RAW[/COLOR]</title>
+<link>rtmp://none.com/none.m3u8</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
-<link>rtmp://server2.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10 token=Ita38E9yk482kjY</link>
-<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
-</item>
-######################################################################################################################################
-######################################################################################################################################
-<item>
-<title>NHL Network Offline</title>
-<link>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</link>
-<thumbnail>http://images.wikia.com/icehockey/images/a/a5/NHL_Shield.png</thumbnail>
 </item>
 #######################################################################################################
 <item>
