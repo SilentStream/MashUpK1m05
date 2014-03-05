@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF9370DB]Movies[COLOR=FF00FF00]  &  [/COLOR=yellow]Series[/COLOR]</message>
+<message>[COLOR=FF9370DB]Movies[COLOR=FF00FF00]  &  [COLOR=yellow]Series[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -183,7 +183,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=yellow]Series:[/COLOR] Friends[/COLOR]</title>
+<title>[COLOR=yellow]Friends[/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
 <regex>
 <name>url</name>
