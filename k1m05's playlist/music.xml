@@ -10,11 +10,11 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1.0</title>
+<title>1.1</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>hd_url":"(.*)","stream</expres>
+<expres>hq_url":"(.*)","stream</expres>
 <page>http://www.dailymotion.com/embed/video/k31uRXSR6oGbpo5KKmd</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
