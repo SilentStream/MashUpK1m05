@@ -1495,6 +1495,13 @@
 #########################################################--------------N-------------##################################################
 #######################################################################################################################################
 <item>
+<title>[COLOR=FFFF4500]National Geographic</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e34_wcif.sdp/e34_wcif.sdp-mr2548k.m3u8</link>
+<thumbnail>http://imageshack.us/a/img21/4820/4pjl.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
 <title>[COLOR=FFFF4500]National Geographic [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
 <regex>
