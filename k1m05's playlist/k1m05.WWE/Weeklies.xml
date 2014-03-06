@@ -5,41 +5,53 @@
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>
   <sublink>rtmp://46.105.14.26/vod playpath=raw1 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=raw1 timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:raw.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</link>
+  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:raw.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink>
+</link>
 <thumbnail>http://www.wwetapout.com/wp-content/uploads/raw-banner.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>
   <sublink>rtmp://46.105.14.26/vod playpath=sd2 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=sd2 timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:smackdown.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</link>
+  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:smackdown.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink>
+</link>
 <thumbnail>http://www.wwetapout.com/wp-content/uploads/smackdown-banner.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]NXT[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>
   <sublink>rtmp://46.105.14.26/vod playpath=nxt1 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=nxt1 timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:nxt.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</link>
+  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:nxt.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink>
+</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2940398431/ee52d5c04baa2c67cdb024fd832a6a87.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Superstars[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>
   <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:superstars.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</link>
+</link>
 <thumbnail>http://i1.ytimg.com/sh/XIcouF9QQ-M/showposter.jpg?v=4fbb4bcf</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Main Event[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>
   <sublink>rtmp://46.105.14.26/vod playpath=me2 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=me2 timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:mainevent.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</link>
+  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:mainevent.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink>
+</link>
 <thumbnail>http://i1.ytimg.com/sh/1puOALMw94E/showposter.jpg?v=51a523ea</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=white]TNA[/COLOR]: [COLOR=blue]Impact Wrestling[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>
   <sublink>rtmp://46.105.14.26/vod playpath=tna33 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=tna3 timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:impact.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</link>
+  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:impact.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink>
+</link>
 <thumbnail>http://www.wwe24seven.com/images/111/4.jpg</thumbnail>
 </item>
