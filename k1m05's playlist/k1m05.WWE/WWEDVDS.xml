@@ -94,18 +94,56 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Goldberg: The Ultimate Collection[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Goldberg: The Ultimate Collection[/COLOR] [COLOR=FFFF4500]Part 1[/COLOR]</title>
 <link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/dvd</expres>
-<page>http://ppvdirect.com/view.php?pg=dvd43</page>
+<page>http://ppvdirect.com/view.php?pg=goldberg1</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file=([^']*).flv</expres>
-<page>http://ppvdirect.com/view.php?pg=dvd43</page>
+<page>http://ppvdirect.com/view.php?pg=goldberg1</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Goldberg: The Ultimate Collection[/COLOR] [COLOR=FFFF4500]Part 2[/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=goldberg2</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=goldberg2</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Goldberg: The Ultimate Collection[/COLOR] [COLOR=FFFF4500]Part 3[/COLOR]</title>
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=goldberg3</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=goldberg3</page>
 <referer> </referer>
 </regex>
 </link>
