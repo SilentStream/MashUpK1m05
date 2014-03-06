@@ -12,8 +12,8 @@
 #######################################################################################################################################
 
 <item>
-<title>1.5</title>
-<link>rtmp://$doregex[rtmp]?$doregex[varst] playpath=live_$doregex[file] swfUrl=https://vaughnlive.tv/$doregex[swf] pageUrl=https://vaughnlive.tv/ live=true timeout=10 token=ҥߑ
+<title>1.6</title>
+<link>rtmp://$doregex[rtmp]?$doregex[varst] playpath=live_$doregex[file] swfUrl=https://vaughnlive.tv/$doregex[swf] pageUrl=https://vaughnlive.tv/ live=true timeout=10
 <regex>
 <name>rtmp</name>
 <expres>return "(.+?),edge</expres>
