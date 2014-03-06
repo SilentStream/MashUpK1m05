@@ -12,7 +12,7 @@
 #######################################################################################################################################
 
 <item>
-<title>1.7</title>
+<title>1.8</title>
 <link>rtmp://$doregex[rtmp]?$doregex[varst] playpath=live_$doregex[file] swfUrl=https://vaughnlive.tv/$doregex[swf]/swf/VaughnSoftPlayer.swf pageUrl=https://vaughnlive.tv/ live=true timeout=10 token=balls2u
 <regex>
 <name>rtmp</name>
@@ -34,7 +34,7 @@
 </regex>
 <regex>
 <name>swf</name>
-<expres>"/(.+?)"/swf/VaughnSoftPlayer.swf</expres>
+<expres>swfobject.embedSWF.+?"(.+?)/swf/VaughnSoftPlayer.swf</expres>
 <page>https://vaughnlive.tv/embed/video/thirdparty</page>
 <referer>https://vaughnlive.tv/</referer>
 </regex>
