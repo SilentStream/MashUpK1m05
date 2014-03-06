@@ -12,25 +12,25 @@
 #######################################################################################################################################
 
 <item>
-<title>1.0</title>
+<title>1.1</title>
 <link>rtmp://$doregex[rtmp]?$doregex[varst] playpath=$doregex[file] swfUrl= pageUrl= live=true timeout=10 token=balls2u
 <regex>
 <name>rtmp</name>
-<expres>return "([^']*),edge</expres>
+<expres>return%20"([^']*),edge</expres>
 <page>https://vaughnlive.tv/embed/video/thirdparty</page>
-<referer> </referer>
+<referer>https://vaughnlive.tv/</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>flashvars.k2 = "([^']*)"</expres>
+<expres>flashvars.k2%20=%20"([^']*)"</expres>
 <page>https://vaughnlive.tv/embed/video/thirdparty</page>
-<referer> </referer>
+<referer>https://vaughnlive.tv/</referer>
 </regex>
 <regex>
 <name>varst</name>
-<expres>flashvars.t = "([^']*)"</expres>
+<expres>flashvars.t%20=%20"([^']*)"</expres>
 <page>https://vaughnlive.tv/embed/video/thirdparty</page>
-<referer> </referer>
+<referer>https://vaughnlive.tv/</referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
