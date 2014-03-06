@@ -33,7 +33,7 @@
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Superstars[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
 <link>
-  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:superstars.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</link>
+  <sublink>rtmp://37.49.224.102/vod/media playpath=mp4:superstars.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink>
 </link>
 <thumbnail>http://i1.ytimg.com/sh/XIcouF9QQ-M/showposter.jpg?v=4fbb4bcf</thumbnail>
 </item>
