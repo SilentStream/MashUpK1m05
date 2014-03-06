@@ -12,23 +12,23 @@
 #######################################################################################################################################
 
 <item>
-<title>1.1</title>
+<title>1.2</title>
 <link>rtmp://$doregex[rtmp]?$doregex[varst] playpath=$doregex[file] swfUrl= pageUrl= live=true timeout=10 token=balls2u
 <regex>
 <name>rtmp</name>
-<expres>return%20"([^']*),edge</expres>
+<expres>return "(.+?),edge</expres>
 <page>https://vaughnlive.tv/embed/video/thirdparty</page>
 <referer>https://vaughnlive.tv/</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>flashvars.k2%20=%20"([^']*)"</expres>
+<expres>flashvars.k2 = "(.+?)"</expres>
 <page>https://vaughnlive.tv/embed/video/thirdparty</page>
 <referer>https://vaughnlive.tv/</referer>
 </regex>
 <regex>
 <name>varst</name>
-<expres>flashvars.t%20=%20"([^']*)"</expres>
+<expres>flashvars.t = "(.+?)"</expres>
 <page>https://vaughnlive.tv/embed/video/thirdparty</page>
 <referer>https://vaughnlive.tv/</referer>
 </regex>
