@@ -12,8 +12,8 @@
 #######################################################################################################################################
 
 <item>
-<title>2.0</title>
-<link>rtmp://$doregex[rtmp]?$doregex[varst] playpath=live_$doregex[file] swfUrl=https://vaughnlive.tv$doregex[swf]/swf/VaughnSoftPlayer.swf pageUrl=https://vaughnlive.tv/ live=true timeout=10 token=ҥߑ
+<title>2.1</title>
+<link>rtmp://$doregex[rtmp]?undefined playpath=live_$doregex[file] swfUrl=https://vaughnlive.tv$doregex[swf]/swf/VaughnSoftPlayer.swf pageUrl=https://vaughnlive.tv/ live=true timeout=10 token=ҥߑ
 <regex>
 <name>rtmp</name>
 <expres>return "(.+?),edge</expres>
@@ -23,12 +23,6 @@
 <regex>
 <name>file</name>
 <expres>flashvars.k2 = "(.+?)"</expres>
-<page>https://vaughnlive.tv/embed/video/thirdparty</page>
-<referer>https://vaughnlive.tv/</referer>
-</regex>
-<regex>
-<name>varst</name>
-<expres>flashvars.t = "(.+?)"</expres>
 <page>https://vaughnlive.tv/embed/video/thirdparty</page>
 <referer>https://vaughnlive.tv/</referer>
 </regex>
