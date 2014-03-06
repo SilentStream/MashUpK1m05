@@ -13,13 +13,13 @@
 
 
 <item>
-<title>2.3</title>
+<title>2.4</title>
 <link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
 <regex>
 <name>file</name>
-<expres>fid='(.*)'</expres>
+<expres>.+?fid='(.+?)'.+?</expres>
 <page>http://cricfree.tv/movie/update/movieaction.php</page>
-<referer> </referer>
+<referer>http://cricfree.tv/</referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
