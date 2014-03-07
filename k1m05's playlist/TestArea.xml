@@ -8,13 +8,13 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <item>
-<title>2.1</title>
+<title>2.2</title>
 <link>$doregex[file]
 <regex>
 <name>file</name>
 <expres>"m3u8_url":"(.+?)/*~</expres>
 <page>http://new.livestream.com/accounts/6388794/events/2596592/player?autoPlay=true?autoPlay=true</page>
-<referer>http://cricfree.tv/</referer>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
