@@ -15,8 +15,8 @@
 
 
 <item>
-<title>2.6</title>
-<link>$doregex[rtsp]_1_550@$doregex[end]
+<title>2.7</title>
+<link>$doregex[rtsp]_1_2000@$doregex[end]
 <regex>
 <name>rtsp</name>
 <expres>"rtsp_url":"(.+?)_1_150</expres>
