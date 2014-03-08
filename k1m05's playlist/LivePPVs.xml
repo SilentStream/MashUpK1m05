@@ -4,16 +4,18 @@
 #######################################################################################################################################
 # Counter 9 - 10/23/13 # http://www39.zippyshare.com/v/23088756/file.html
 #######################################################################################################################################
-
-<info>
-<message>[COLOR=FFFF4500]Sports Pack 1 Links for tonight Below[/COLOR]</message>
-<thumbnail>http://k18.kn3.net/1959A86DE.png</thumbnail>
-</info>
-
-<info>
-<message>[COLOR=FFFF4500]S. Africa vs Brazil Link 3, England vs Denmark Link 7, Germany vs Chile Link 3, Whales vs Iceland Link 2, Nuggets vs Mavericks Link 3[/COLOR]</message>
-<thumbnail>http://k18.kn3.net/1959A86DE.png</thumbnail>
-</info>
+<item>
+<title>1. [COLOR=blue]Bellator SD[/COLOR] Link 4 in Sports Pack for HQ </title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch1.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
 #######################################################################################################################################
 <item>
 <title>Random LQ Sports Channel</title>
@@ -25,16 +27,7 @@
 
 #######################################################################################################################################
 #######################################################################################################
-<item>
-<title>[COLOR=FFFF4500]Sports Pack 2[/COLOR] [COLOR=red]temp[/COLOR] [COLOR=FFFF4500]Wales Link 1, France Link 2, England Link 3, Spain Link 4[/COLOR]</title>
-<link>
-  <sublink>rtmp://37.49.224.102/live playpath=wales swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=wales live=true timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/live playpath=france swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=france live=true timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/live playpath=england swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=england live=true timeout=10</sublink>
-  <sublink>rtmp://37.49.224.102/live playpath=spain swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=spain live=true timeout=10</sublink>
-</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
+
 #######################################################################################################################################
 
 #######################################################################################################################################
