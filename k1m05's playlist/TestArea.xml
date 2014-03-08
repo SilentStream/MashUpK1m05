@@ -23,7 +23,7 @@
 #				Sky Sports 1
 #######################################################################################################################################
 <item>
-<title>1.0</title>
+<title>1.2</title>
 <link>rtmp://$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://www.coolsport.tv/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -33,7 +33,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file.+?:(.+?)'</expres>
+<expres>'file':.+?'(.+?)',</expres>
 <page>http://1cdn.filotv.pw/stream30.html</page>
 <referer> </referer>
 </regex>
