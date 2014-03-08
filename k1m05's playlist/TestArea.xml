@@ -14,24 +14,6 @@
 
 
 
-<item>
-<title>2.7</title>
-<link>$doregex[rtsp]_1_2000@$doregex[end]
-<regex>
-<name>rtsp</name>
-<expres>"rtsp_url":"(.+?)_1_150</expres>
-<page>http://new.livestream.com/accounts/6388794/events/2596592/player?autoPlay=true?autoPlay=true</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>end</name>
-<expres>150@(.+?)"</expres>
-<page>http://new.livestream.com/accounts/6388794/events/2596592/player?autoPlay=true?autoPlay=true</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-</item>
 #######################################################################################################################################
 #				Sky Sports 1
 #######################################################################################################################################
