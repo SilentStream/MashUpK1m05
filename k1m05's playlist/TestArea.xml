@@ -7,12 +7,22 @@
 <poster>k1m05</poster>
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
+
+#######################################################################################################################################
+#				Sky Sports 1
+#######################################################################################################################################
 <item>
-<title>2.3</title>
-<link>$doregex[file]
+<title>2.4</title>
+<link>$doregex[rtsp]550$doregex[end]
 <regex>
-<name>file</name>
-<expres>"rtsp_url":"(.+?)"</expres>
+<name>rtsp</name>
+<expres>"rtsp_url":"(.+?)1_.+?@</expres>
+<page>http://new.livestream.com/accounts/6388794/events/2596592/player?autoPlay=true?autoPlay=true</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>end</name>
+<expres>150@(.+?)'</expres>
 <page>http://new.livestream.com/accounts/6388794/events/2596592/player?autoPlay=true?autoPlay=true</page>
 <referer> </referer>
 </regex>
@@ -22,6 +32,10 @@
 #######################################################################################################################################
 #				Sky Sports 1
 #######################################################################################################################################
+
+
+
+
 <item>
 <title>[COLOR=blue]Sky Sports 1[/COLOR]</title>
 <link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
