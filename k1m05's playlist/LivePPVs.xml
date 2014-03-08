@@ -19,18 +19,20 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=FFFF4500]UFC Fight Nigh[/COLOR] [COLOR=red]HQ[/COLOR]3pm est</title>
+<title>1. [COLOR=FFFF4500]Canelo vs Angulo[/COLOR] [COLOR=red][/COLOR]</title>
 <link>
   <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
   <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel7v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel8v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
-  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel10v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=12 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
   <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel11v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
   <sublink>rtmp://ppvmania.tv:1935/live playpath=channel12v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=14 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
-  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
 </link>
-<thumbnail>http://www.tapology.com/system/poster_images/21272/profile/UFC_Fight_Night_37_Gustafsson_vs_Manuwa_Poster.jpg?1391367711</thumbnail>
+<thumbnail>http://2l7kr2xl4t7418ewd3w7ur01d2m.wpengine.netdna-cdn.com/wp-content/uploads/2014/01/canelo-vs-angulo-poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>2. [COLOR=white]Monster Energy[/COLOR] [COLOR=blue]Supercross[/COLOR]</title>
+<link><sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink></link>
+<thumbnail>http://images.motorcycle-usa.com/photogallerys/monster-supercross.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 <item>
