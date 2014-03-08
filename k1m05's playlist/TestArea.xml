@@ -11,18 +11,21 @@
 #######################################################################################################################################
 #				Sky Sports 1
 #######################################################################################################################################
+
+"rtsp_url":"rtsp://212-123.livestream.com:8080/livestreamiphone/6388794_1191932_344f81f6_1_150@156550"
+
 <item>
-<title>2.4</title>
+<title>2.5</title>
 <link>$doregex[rtsp]550$doregex[end]
 <regex>
 <name>rtsp</name>
-<expres>"rtsp_url":"(.+?)1_.+?@</expres>
+<expres>"rtsp_url":"(.+?)1_</expres>
 <page>http://new.livestream.com/accounts/6388794/events/2596592/player?autoPlay=true?autoPlay=true</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>end</name>
-<expres>150@(.+?)'</expres>
+<expres>150@(.+?)"</expres>
 <page>http://new.livestream.com/accounts/6388794/events/2596592/player?autoPlay=true?autoPlay=true</page>
 <referer> </referer>
 </regex>
