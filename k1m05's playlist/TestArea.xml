@@ -88,16 +88,3 @@
 </link>
 <thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
 </item>
-
-<item>
-<title>[COLOR=FFFF4500]Test 7[/COLOR]</title>
-<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1_150@156550/master.m3u8
-<regex>
-<name>file</name>
-<expres>livestreamiphone/(.+?)_1_150@</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2712276/viewing_info</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
-</item>
