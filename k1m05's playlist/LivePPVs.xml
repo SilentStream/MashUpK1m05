@@ -25,23 +25,6 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=FFFF4500]Canelo vs Angulo[/COLOR] [COLOR=red][/COLOR]</title>
-<link>
-  <sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
-  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
-  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel11v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=13 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
-  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel12v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=14 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink>
-</link>
-<thumbnail>http://2l7kr2xl4t7418ewd3w7ur01d2m.wpengine.netdna-cdn.com/wp-content/uploads/2014/01/canelo-vs-angulo-poster.jpg</thumbnail>
-</item>
-#######################################################################################################################################
-<item>
-<title>2. [COLOR=white]Monster Energy[/COLOR] [COLOR=blue]Supercross[/COLOR]</title>
-<link><sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=5 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</sublink></link>
-<thumbnail>http://images.motorcycle-usa.com/photogallerys/monster-supercross.jpg</thumbnail>
-</item>
-#######################################################################################################################################
-<item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]Use New WWE Section for live RAW[/COLOR]</title>
 <link>rtmp://none.com/none.m3u8</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
