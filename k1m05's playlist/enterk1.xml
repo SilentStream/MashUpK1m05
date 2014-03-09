@@ -180,6 +180,12 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
+<title>[COLOR=FFFF4500]AMC and/or Fox Live, Temp Stream Plz dont rely on this[/COLOR]</title>
+<link>rtmp://ppvmania.tv:1935/live playpath=ELBARTO swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=1 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
+<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
+</item>
+ 
+<item>
 <title>[COLOR=FFFF4500]AMC [/COLOR]</title>
 <link>rtmp://109.123.114.218/zenex playpath=amcnnewss?id=4225 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/amcnnewss/1/500/400 live=true timeout=10 conn=S:OK</link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
