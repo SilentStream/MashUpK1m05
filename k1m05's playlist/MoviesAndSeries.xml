@@ -15,7 +15,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FF9370DB]Sky Movies: Action [/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=actionx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://31.220.0.138:1935/live playpath=actionx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################
@@ -39,7 +39,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FF9370DB]Sci-Fi [/COLOR][COLOR=FF00FF00]  Offline  [/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=scifi swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=scifi&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://31.220.0.138:1935/live playpath=scifi swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=scifi&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################
@@ -68,7 +68,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Movies 2[/COLOR]</title>
+<title>[COLOR=FF9370DB]Movies 2[/COLOR].</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
@@ -124,7 +124,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Action 2[/COLOR]</title>
+<title>[COLOR=FF9370DB]Action 2[/COLOR].</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
