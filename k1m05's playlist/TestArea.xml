@@ -90,11 +90,17 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Test .2[/COLOR]</title>
-<link>http://player.livestream-f.akamaihd.net/i/$doregex[eve]/master.m3u8
+<title>[COLOR=FFFF4500]Test 3[/COLOR]</title>
+<link>http://player.livestream-f.akamaihd.net/i/$doregex[one]_1@$doregex[two]/master.m3u8
 <regex>
-<name>eve</name>
-<expres>livestreamiphone/(.+?)"</expres>
+<name>one</name>
+<expres>livestreamiphone/(.+?)_1_"</expres>
+<page>http://new.livestream.com/WTEN/live</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>two</name>
+<expres>_1@(.+?)/</expres>
 <page>http://new.livestream.com/WTEN/live</page>
 <referer> </referer>
 </regex>
