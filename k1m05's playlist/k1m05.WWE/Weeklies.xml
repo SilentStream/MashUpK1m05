@@ -2,6 +2,12 @@
 <poster>k1m05</poster>
 <fanart>http://images6.fanpop.com/image/photos/35100000/Paige-wwe-35136815-1284-722.jpg</fanart>
 #######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]TNA[/COLOR] [COLOR=red]LockDown[/COLOR]</title>
+<link>rtmp://46.105.14.26/vod playpath=tp1.flv swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=rumble98</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>

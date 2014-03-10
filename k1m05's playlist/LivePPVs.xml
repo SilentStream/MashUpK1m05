@@ -13,26 +13,6 @@
 <thumbnail>http://illegalcurve.com/wp-content/uploads/2013/01/Pens-vs.-Jets-preview.jpg</thumbnail>
 </item>
 #######################################################################################################################################
-#######################################################################################################
-<item>
-<title>1. [COLOR=FFFF4500]TNA[/COLOR] [COLOR=red]LockDown[/COLOR] 9est</title>
-<link>rtmp://server2.ppvmania.tv:1935/live playpath=channel7v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/63/TNA_Lockdown_2014_Poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>2. [COLOR=FFFF4500]TNA[/COLOR] [COLOR=red]LockDown[/COLOR] 9est</title>
-<link>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/63/TNA_Lockdown_2014_Poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>3. [COLOR=FFFF4500]TNA[/COLOR] [COLOR=red]LockDown[/COLOR] 9est</title>
-<link>rtmp://82.192.95.75/vl/_definst_ playpath=wnhd3 swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com live=true timeout=10</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/63/TNA_Lockdown_2014_Poster.jpg</thumbnail>
-</item>
-
-#######################################################################################################################################
 
 #######################################################################################################################################
 #######################################################################################################
