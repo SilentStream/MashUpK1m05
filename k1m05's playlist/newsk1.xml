@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>CNN Fixed Added Accuweather, NHK fixed, New Fox News.com</message>
+<message>Fox News </message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -73,7 +73,13 @@
 
 <item>
 <title>[COLOR=FFFF4500]CNBC[/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/30303</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
@@ -116,7 +122,13 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox News[/COLOR]</title>
-<link>rtmp://watch1.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/46465</page>
+<referer> </referer>
+</regex>
 <regex>
 <name>appid</name>
 <expres>\?xs=([^"]*)</expres>
