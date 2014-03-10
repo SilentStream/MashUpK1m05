@@ -5,7 +5,7 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR=white]TNA[/COLOR] [COLOR=blue]LockDown[/COLOR]</title>
+<title>[COLOR=white]TNA:[/COLOR] [COLOR=blue]LockDown[/COLOR]</title>
 <link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
 <regex>
 <name>rtmp</name>
@@ -24,18 +24,18 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>[COLOR=white]TNA[/COLOR] [COLOR=blue]LockDown[/COLOR]</title>
+<title>[COLOR=white]TNA:[/COLOR] [COLOR=blue]LockDown[/COLOR]</title>
 <link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=1
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/dvd</expres>
-<page>http://ppvdirect.com/view.php?pg=1</page>
+<page>http://ppvdirect.com/view.php?pg=tp1</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file=([^']*).flv</expres>
-<page>http://ppvdirect.com/view.php?pg=1</page>
+<page>http://ppvdirect.com/view.php?pg=tp1</page>
 <referer> </referer>
 </regex>
 </link>
