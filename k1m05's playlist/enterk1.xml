@@ -2191,80 +2191,9 @@
 #########################################################------------SERIES----------##################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500][COLOR=yellow]Series:[/COLOR] COPS[/COLOR]</title>
+<title>[COLOR=FFFF4500][COLOR=yellow]Series:[/COLOR] Go To Movies and Series Section[/COLOR]</title>
 <link>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?cops01 live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/74709/clearart/Cops-74709.png</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500][COLOR=yellow]Series:[/COLOR] Fresh Prince[/COLOR]</title>
-<link>rtmp://198.27.75.99/app playpath=freshprince01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?freshprince01 live=true timeout=10</link>
-<thumbnail>https://pbs.twimg.com/media/Bc8CqNlIcAAzHwc.jpg</thumbnail>
-</item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500][COLOR=yellow]Series:[/COLOR] Friends[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
-<regex>
-<name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/36673</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/36673</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/36673</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
-<thumbnail>http://fanart.tv/fanart/tv/79168/hdclearart/friends-511066f06d4a6.png</thumbnail>
-</item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500][COLOR=yellow]Series:[/COLOR] Married... With Children[/COLOR]</title>
-<link>rtmp://198.27.75.99/app playpath=mwc01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10</link>
-<thumbnail>http://fanart.tv/fanart/tv/76385/hdclearart/married--with-children-511e683050b94.png</thumbnail>
-</item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=yellow]Trailer Park Boys[/COLOR] </title>
-<link>$doregex[url]/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
-<regex>
-<name>url</name>
-<expres>value="&streamer=([^"]*)/app</expres>
-<page>http://www.tgun.tv/embed/index2.php?tpb01</page>
-<referer>http://www.tgun.tv</referer>
-</regex>
-<thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
-</item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500][COLOR=yellow]Concert:[/COLOR] INXS Live Baby Live (1991)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=WpHkEkQ6W1E</link>
-<thumbnail>http://www.wkmradio.com/archivos/noticia4281.jpg</thumbnail>
-</item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500][COLOR=yellow]Music DVD:[/COLOR] Collision Course (2004)[/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&videoid=aEtF2f-IVYA</link>
-<thumbnail>http://ughh.com/store/covers_large/WB48962DVD.jpg</thumbnail>
-</item>

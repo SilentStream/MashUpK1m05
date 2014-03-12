@@ -182,34 +182,9 @@
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
-<item>
-<title>[COLOR=yellow]Friends[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
-<regex>
-<name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/36673</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/36673</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/36673</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
+
+<title>[COLOR=FFFF4500][COLOR=yellow]Series:[/COLOR] Friends[/COLOR]</title>
+<link>rtmp://198.27.74.25/app playpath=friends02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/79168/hdclearart/friends-511066f06d4a6.png</thumbnail>
 </item>
 #######################################################################################################################################
