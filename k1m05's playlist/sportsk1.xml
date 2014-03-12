@@ -288,19 +288,19 @@
 
 <item>
 <title>[COLOR=FFFF4500]Sportsnet World[/COLOR]</title>
-<link>rtmpe://46.246.124.6:1935/redirect playpath=setca swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect playpath=setca swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_world.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Sportsnet Ontario[/COLOR]</title>
-<link>rtmpe://46.246.124.6:1935/redirect playpath=snontario swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect playpath=snontario swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ontario.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Sportsnet One[/COLOR]</title>
-<link>rtmpe://46.246.124.6:1935/redirect playpath=snone swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
+<link>rtmpe://cdn.hdcast.org:1935/redirect playpath=snone swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_one.png</thumbnail>
 </item>
 
