@@ -61,7 +61,6 @@
   <sublink>http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I/master.m3u8</sublink>
   <sublink>http://live.bltvios.com.edgesuite.net/oza2w6q8gX9WSkRx13bskffWIuyf/x0dDdlNTrs64I5H-29bfEFu4qeIira5r/master.m3u8</sublink>
 </link>
-
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_asia.png</thumbnail>
 </item>
 
@@ -73,32 +72,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]CNBC[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
-<regex>
-<name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/30303</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/55015</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/55015</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
+<link>http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
 </item>
 
@@ -204,7 +178,6 @@
 <link>rtmp://216.156.199.134/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=xha3JkNDob-DtufEX1a5Rh4EkV6gVnRW_640_480_500@18842 swfUrl=http://player.ooyala.com/static/cacheable/3280e9e38589d0dbea99b7806328e0b6/player_v2.swf pageUrl=http://kfor.com/on-air/live-streaming/ live=true timeout=10</link>
 <thumbnail>http://s1.wp.com/wp-content/themes/vip/localtvcommon/_img/kfor_logo.png</thumbnail>
 </item>
-
 
 <item>
 <title>[COLOR=FFFF4500]MSNBC[/COLOR]</title>
