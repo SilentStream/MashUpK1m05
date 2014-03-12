@@ -117,10 +117,10 @@
 </item>
 
 <item> 
-<title>[COLOR=FFFF4500]Fox Sports .[/COLOR]</title> 
-<link>rtmp://198.204.255.66:1935/publish playpath=foxsp swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://ukcast.tv/
-  <sublink>rtmp://198.204.255.66:1935/publish playpath=foxsp swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://ukcast.tv/</sublink>
-  <sublink>rtmp://173.193.46.109/live playpath=189313?313339323737303939365f3062336363663831336462373034663665303166323762366261636533633039 swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/embed.php?cid=16338&wh=640&ht=385&r=lsh.lshunter.tv</sublink>
+<title>[COLOR=FFFF4500]Fox Sports [/COLOR]</title> 
+<link>
+  <sublink>rtmpe://strm.ukcast.tv/redirect playpath=foxsp swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://ukcast.tv/ live=true timeout=10</sublink>
+  <sublink>rtmp://198.204.255.66:1935/publish playpath=foxsp swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://ukcast.tv/ live=true timeout=10</sublink>
 </link> 
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail> 
 </item>
