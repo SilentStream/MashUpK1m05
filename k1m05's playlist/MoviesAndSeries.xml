@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF9370DB]Movies[COLOR=FF00FF00]  &  [COLOR=yellow]Series[/COLOR]</message>
+<message>[COLOR=FF9370DB]Sky Movies are Down[COLOR=FF00FF00]  |  [COLOR=yellow]Series[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -59,7 +59,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e530fffd056f/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/5094608402fb9/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -73,7 +73,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/53106fabdd5e1/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52e610b6955aa/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -101,7 +101,35 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e530fffd056f/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/531a1f8712b80/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Movies 5[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52104b077f5e5/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Movies 6[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/5305195cb1949/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -129,7 +157,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52e5252530d6c/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e8f678782f27//flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -143,7 +171,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/50189699d5c4e/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/ /flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -157,7 +185,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/ /flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
