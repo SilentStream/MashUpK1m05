@@ -5,7 +5,7 @@
 #######################################################################################################################################
 
 <info>
-<message>[COLOR=FF00FF00]Cool-Sport[/COLOR]</message>
+<message>[COLOR=FF00FF00]Cool-Sport, Mostly works needs a lil fine tuning.  Bed for the night zzzzzz[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 
@@ -993,94 +993,6 @@
 
 #######################################################################################################################################
 
-
-
-
-
-
-
-
-<item>
-<title>Chelsea</title>
-<link>$doregex[url]$doregex[path]
-<regex>
-<name>url</name>
-<expres>streamer=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>Chelsea</title>
-<link>$doregex[url]$doregex[path]
-<regex>
-<name>url</name>
-<expres>streamer=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>Chelsea</title>
-<link>$doregex[url]$doregex[path]
-<regex>
-<name>url</name>
-<expres>streamer=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>Golf</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream19.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream19.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
 #######################################################################################################################################
 
 #######################################################################################################################################
@@ -1223,77 +1135,6 @@
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
 <page>http://1cdn.filotv.pw/stream15.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-
-
-
-
-
-
-
-
-<item>
-<title>Chelsea</title>
-<link>$doregex[url]$doregex[path]
-<regex>
-<name>url</name>
-<expres>streamer=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>Chelsea</title>
-<link>$doregex[url]$doregex[path]
-<regex>
-<name>url</name>
-<expres>streamer=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>Chelsea</title>
-<link>$doregex[url]$doregex[path]
-<regex>
-<name>url</name>
-<expres>streamer=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
 <referer> </referer>
 </regex>
 </link>
