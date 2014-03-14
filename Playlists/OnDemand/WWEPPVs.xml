@@ -1,0 +1,280 @@
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart>http://upload.wikimedia.org/wikipedia/en/archive/a/a9/20131217132643!Royal_Rumble_2014_poster.jpg</fanart>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</name>
+<fanart>http://fc00.deviantart.net/fs71/i/2013/108/6/3/tawog___wwe_monday_night_raw_by_mannyg86-d627tvu.jpg</fanart>
+<thumbnail>http://www.wwetapout.com/wp-content/uploads/raw-banner.jpg</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:raw.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</name>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/153/b/9/b925f5b72cfd7ea23af8466f134dde4c-d3hvolc.jpg</fanart>
+<thumbnail>http://www.wwetapout.com/wp-content/uploads/smackdown-banner.jpg</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:smackdown.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]NXT[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</name>
+<fanart>http://i1.ytimg.com/vi/zpISHhKBBzc/maxresdefault.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/2940398431/ee52d5c04baa2c67cdb024fd832a6a87.png</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:nxt.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Superstars[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</name>
+<fanart>http://i1.ytimg.com/vi/V2mgKl_8N70/maxresdefault.jpg</fanart>
+<thumbnail>http://i1.ytimg.com/sh/XIcouF9QQ-M/showposter.jpg?v=4fbb4bcf</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:superstars.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Main Event[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</name>
+<fanart>http://yuq.me/users/20/027/WXcox2HQuG.png</fanart>
+<thumbnail>http://i1.ytimg.com/sh/1puOALMw94E/showposter.jpg?v=51a523ea</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:mainevent.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=white]TNA[/COLOR]: [COLOR=blue]Impact Wrestling[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</name>
+<fanart>http://3.bp.blogspot.com/-rp50bepT9Ig/Uao17FIlCKI/AAAAAAAAAEI/CS4zDfguY20/s1600/f490b56559bfe2ad5faaf964d9619b7c.jpeg</fanart>
+<thumbnail>http://www.wwe24seven.com/images/111/4.jpg</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:impact.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Elimination Chamber[/COLOR] [COLOR=FFFF4500]2014[/COLOR] [COLOR=red]HD[/COLOR]</name>
+<fanart>http://wallpaperhdfree.com/wp-content/uploads/2014/02/New-Elimination-Chamber-2014-Wallpaper.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/f/f0/WWE_Elimination_Chamber_poster_%282014%29.jpg</thumbnail>
+<link>
+<sublink>http://www.dailymotion.com/embed/video/k1yrJVTuqQpv755BaBQ</sublink><host>dailymotion hd pre-show</host>
+<sublink>http://www.dailymotion.com/embed/video/k1HYDEFIZwH3Ng5AUoY</sublink><host>dailymotion hd part 1</host>
+<sublink>http://www.dailymotion.com/embed/video/k3BeAjQWaelPFw5AUq7</sublink><host>dailymotion hd part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k5oI4o1XObW9895AUr9</sublink><host>dailymotion hd part 3</host>
+<sublink>http://www.dailymotion.com/embed/video/kOyLo2lbKRSlBp5AUoY</sublink><host>dailymotion hd part 1</host>
+<sublink>http://www.dailymotion.com/embed/video/k2onRfXO5qGEoI5AUq7</sublink><host>dailymotion hd part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k5cHmFXVotDqu75AUr9</sublink><host>dailymotion hd part 3</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR] [COLOR=gray]Royal Rumble[/COLOR] [COLOR=FF00FF00]:[/COLOR] [COLOR=FFFF4500](2014)[/COLOR] FIXED Thanks to Mash2k3 Pic by: @just_tweet1 </name>
+<fanart>http://upload.wikimedia.org/wikipedia/en/archive/a/a9/20131217132643!Royal_Rumble_2014_poster.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/media/BfBLP-aIYAEH7Iy.jpg:large</thumbnail>
+<link>
+<sublink>http://billionuploads.com/qhnm3gp5qajw</sublink><host>billionuploads part 1</host>
+<sublink>http://billionuploads.com/fz9t40dbktxb</sublink><host>billionuploads part 2</host>
+<sublink>http://movreel.com/mqw1undoycum</sublink><host>movreel part 1</host>
+<sublink>http://movreel.com/88nox58cs5rp</sublink><host>movreel part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k3rZlWepnIawDu5gNSj?syndication=114459?logo=0&autoPlay=1&quality=720</sublink><host>720p dailymotion kickoff show</host>
+<sublink>http://www.dailymotion.com/embed/video/k79voOUqwnHVaH5gTcx?syndication=114459?logo=0&autoPlay=1&quality=720</sublink><host>720p dailymotion part 1</host>
+<sublink>http://www.dailymotion.com/embed/video/k1oQoguXjUOUIN5gTd3?syndication=114459?logo=0&autoPlay=1&quality=720</sublink><host>720p  dailymotion part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k720dkSaFnhx685gTdz?syndication=114459?logo=0&autoPlay=1&quality=720</sublink><host>720p dailymotion part 3</host>
+<sublink>http://hugefiles.net/16e5qklj4mpx</sublink><host>hugefiles part 1</host>
+<sublink>http://hugefiles.net/86ugsxcrp6ns</sublink><host>hugefiles part 2</host>
+<sublink>http://180upload.com/qoc3zjdxo7pg</sublink><host>180upload part 1</host>
+<sublink>http://180upload.com/a6o1a3jhmxel</sublink><host>180upload part 2</host>
+</link>
+</subchannel>http://www.dailymotion.com/embed/video/k2a18FJIUVNWQy5wmQL?syndication=114459?logo=0&autoPlay=1&quality=480
+#######################################################################################################################################
+<subchannel>
+<name>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Feb 17 2014[/COLOR] [COLOR=red]HD[/COLOR]</name>
+<fanart>http://i1.ytimg.com/vi/DY86Rv2Fvv8/maxresdefault.jpg</fanart>
+<thumbnail>http://www.wwe.com/f/wysiwyg/image/2014/02/RAW_1082_Photo_022crop.jpg</thumbnail>
+<link>
+<sublink>rtmp://37.49.224.102/vod/media playpath=mp4:raw.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/</sublink><host>static sd</host>
+<sublink>http://www.dailymotion.com/embed/video/k2a18FJIUVNWQy5wmQL</sublink><host>dailymotion hd part 1</host>
+<sublink>http://www.dailymotion.com/embed/video/k5a3GbMQE2S7aN5wmRi</sublink><host>dailymotion hd part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k3BsxJQRHpXcav5wmRJ</sublink><host>dailymotion hd part 3</host>
+<sublink>http://www.dailymotion.com/embed/video/k6SPw6zdDyRIX15w9vW</sublink><host>dailymotion hd part 1</host>
+<sublink>http://www.dailymotion.com/embed/video/kklJJYA7ZD5TGS5w9xX</sublink><host>dailymotion hd part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k2xhVmm6zHnsnJ5w9zp</sublink><host>dailymotion hd part 3</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>TLC: Tables, Ladders & Chairs (2013) 720p</name>
+<fanart>http://i1.ytimg.com/vi/4lLLZYuB8nU/maxresdefault.jpg</fanart>
+<thumbnail>http://www.mmaoddsbreaker.com/wp-content/uploads/2013/12/wwe_tlc_2013_poster_by_alitaker-d6wpgto.jpg</thumbnail>
+<link>
+<sublink>http://hugefiles.net/nyte6xs9fa18</sublink><host>hugefiles</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>TLC: Tables, Ladders & Chairs (2013)</name>
+<fanart>http://i1.ytimg.com/vi/4lLLZYuB8nU/maxresdefault.jpg</fanart>
+<thumbnail>http://www.mmaoddsbreaker.com/wp-content/uploads/2013/12/wwe_tlc_2013_poster_by_alitaker-d6wpgto.jpg</thumbnail>
+<link>
+<sublink>http://180upload.com/s3ci90l52ydd</sublink><host>180upload</host>
+<sublink>http://hugefiles.net/frjqq1msjefo</sublink><host>hugefiles</host>
+<sublink>http://epicshare.net/po48uxwywl7s</sublink><host>epicshare</host>
+<sublink>http://billionuploads.com/fjy3zmfonh42</sublink><host>billionuploads</host>
+<sublink>http://movreel.com/ykgia4oe6yc2</sublink><host>movreel</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>TNA Bound for Glory (2013)</name>
+<fanart>http://4.bp.blogspot.com/-F7IaIZje8YI/UmaWTb7CYmI/AAAAAAAABtw/nRomrgnWEkg/s1600/Ray+v+Styles+BFG.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/0f/Bound_for_Glory_%282013%29.jpg</thumbnail>
+<link>
+<sublink>http://www.putlocker.com/file/B3F1B5FDCF4A9340</sublink><host>putlocker</host>
+</link>
+</subchannel>
+#######################################################################################################################################
+<subchannel>
+<name>Survivor Series 720p (2013)</name>
+<fanart>http://i1.ytimg.com/vi/-YezHFyQKKk/maxresdefault.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d4/Survivor_series_2013.jpg</thumbnail>
+<link>
+<sublink>https://ia601002.us.archive.org/29/items/SS13k1m05/SS13k1m05.mkv</sublink><host>static link</host>
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Night of Champions 720p (2013)</name>
+<fanart>http://i1.ytimg.com/vi/L36CFuBmpks/maxresdefault.jpg</fanart>
+<thumbnail>http://img2.timg.co.il/forums/1_171050481.jpg</thumbnail>
+<link>
+<sublink>http://www.dailymotion.com/embed/video/k1eS4hf2Ydl5IO4Dcdc</sublink><host>dailymotion part 1</host>
+<sublink>http://www.dailymotion.com/embed/video/k3y1v6DXLp2sPV4DeD0</sublink><host>dailymotion part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k2ZcvsQJBC6qeG4DdGY</sublink><host>dailymotion part 3</host>
+<sublink>http://www.dailymotion.com/embed/video/k44ezPVbGWl74r4DdIY</sublink><host>dailymotion part 4</host>
+
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Night of Champions (2013)</name>
+<fanart>http://i1.ytimg.com/vi/L36CFuBmpks/maxresdefault.jpg</fanart>
+<thumbnail>http://img2.timg.co.il/forums/1_171050481.jpg</thumbnail>
+<link>
+<sublink>http://www.dailymotion.com/embed/video/k3mN4Izrq5VXKw4DbMV</sublink><host>dailymotion part 1</host>
+<sublink>http://www.dailymotion.com/embed/video/k1BL7qfc6DpNae4DbQ2</sublink><host>dailymotion part 2</host>
+<sublink>http://www.dailymotion.com/embed/video/k4EHgSu57jUEeK4DbQm</sublink><host>dailymotion part 3</host>
+<sublink>http://www.dailymotion.com/embed/video/k2KLtiaijPjqAa4DbR7</sublink><host>dailymotion part 4</host>
+<sublink>http://www.dailymotion.com/embed/video/k6NIZxcHqmm5fj4DbVU</sublink><host>dailymotion part 5</host>
+<sublink>http://www.dailymotion.com/embed/video/k3TiI0g6GrY0ps4Dc39</sublink><host>dailymotion part 6</host>
+<sublink>http://www.dailymotion.com/embed/video/kZU10ca5PDJEQ54Dc6I</sublink><host>dailymotion part 7</host>
+<sublink>http://www.dailymotion.com/embed/video/k3PN8679YUZGmU4DccM</sublink><host>dailymotion part 8</host>
+<sublink>http://www.dailymotion.com/embed/video/k7pf9h4T8YO4Rm4Dck0</sublink><host>dailymotion part 9</host>
+<sublink>http://www.dailymotion.com/embed/video/k4j0YweSLMiV2w4DctH</sublink><host>dailymotion part 10</host>
+<sublink>http://www.dailymotion.com/embed/video/k3NXDxg8LN1LAA4DcxS</sublink><host>dailymotion part 11</host>
+<sublink>http://www.dailymotion.com/embed/video/kb7S4VsFUEyFiP4DcGy</sublink><host>dailymotion part 12</host>
+<sublink>http://www.dailymotion.com/embed/video/k1XRTzvCeMZo4H4DcXc</sublink><host>dailymotion part 13</host>
+<sublink>http://www.dailymotion.com/embed/video/k1OuHcDaXnJ2l74DcOp</sublink><host>dailymotion part 14</host>
+<sublink>http://www.dailymotion.com/embed/video/k1StJpbwrLgPlU4DcVq</sublink><host>dailymotion part 15</host>
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Summerslam (2013)</name>
+<fanart>http://i1.ytimg.com/vi/L36CFuBmpks/maxresdefault.jpg</fanart>
+<thumbnail>http://img2.timg.co.il/forums/1_171050481.jpg</thumbnail>
+<link>
+<sublink>http://www.dailymotion.com/video/k2hZuQeWmbhrCm4t5Bd</sublink><host>dailymotion part 1 hd</host>
+<sublink>http://www.dailymotion.com/video/kMSRrlVFtFkMQS4t5HW</sublink><host>dailymotion part 2 hd</host>
+<sublink>http://www.dailymotion.com/video/k3JZ2htgkIBWOT4t5R6</sublink><host>dailymotion part 3 hd</host>
+<sublink>http://www.dailymotion.com/video/kszotHXQAhPvi74t5RH</sublink><host>dailymotion part 4 hd</host>
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Money In The Bank (2013)</name>
+<fanart>http://th02.deviantart.net/fs70/PRE/f/2013/177/d/b/rob_van_dam_returns_at_mitb__13_wallpaper_by_yeshudave029-d6arfpd.png</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8a/WWE_Money_In_The_Bank_2013_poster.jpg</thumbnail>
+<link>
+<sublink>http://180upload.com/l4pgi5jjiok3</sublink><host>180upload</host>
+<sublink>http://billionuploads.com/e8918d83n0qo</sublink><host>billionuploads</host>
+<sublink>http://hugefiles.net/6x0117zqiqxa</sublink><host>hugefiles</host>
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Payback (2013)</name>
+<fanart>http://fanart.tv/fanart/movies/197044/moviebackground/wwe-payback-2013-51a1ec1f74aa4.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/0b/WWEPayback2013RandyOrtonPoster.jpg</thumbnail>
+<link>
+<sublink>https://ia601707.us.archive.org/18/items/WWE.Payback.2013.720p.HDTV.x264RUDOS/WWE.Payback.2013.720p.HDTV.x264-RUDOS.mkv
+</sublink><host>Static Link</host>
+<sublink>http://180upload.com/bjx1xiom97we</sublink><host>180upload</host>
+<sublink>http://180upload.com/k8120497q8z0</sublink><host>180upload</host>
+<sublink>http://billionuploads.com/szslqn08cbcq/WWE.Payback.2013.HDTV.x264-SYM!.mp4.html</sublink><host>billionuploads</host>
+<sublink>http://www.putlocker.com/file/9E78596B4FFC324D</sublink><host>putlocker</host>
+<sublink>http://www.putlocker.com/file/0F577ED31C778410</sublink><host>putlocker</host>
+<sublink>http://www.putlocker.com/file/F97C84CE38015746</sublink><host>putlocker</host>
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Extreme Rules (2013)</name>
+<fanart>http://www.wrestlingvalley.org/wv/02/49756/49756.jpg</fanart>
+<thumbnail>https://sphotos-b.xx.fbcdn.net/hphotos-ash3/p480x480/943539_577140838987394_124173064_n.jpg</thumbnail>
+<link>
+
+<sublink>http://billionuploads.com/l2lzdma0bfqt/WWE.Extreme.Rules.2013.PPV.HDTV.x264-WYW.mp4.html</sublink><host>billionuploads</host>
+<sublink>http://180upload.com/90d27joeadpf</sublink><host>180upload</host>
+<sublink>http://www.putlocker.com/file/6B84AED1A175790A</sublink><host>putlocker</host>
+<sublink>http://180upload.com/51t7hwugivsc</sublink><host>180upload</host>
+<sublink>http://billionuploads.com/njim06w0a8y8/WWE.Extreme Rules.19th.May.2013.PDTV.x264-Sir.Paul.mp4.html</sublink><host>billionuploads</host>
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Wrestlemania (2013)</name>
+<fanart>http://upload.wikimedia.org/wikipedia/commons/d/dd/Wrestlemania_29_Stage.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/08/Wm29poster.jpg</thumbnail>
+<link>
+<sublink>http://archive.org/download/Wrestlemania29/wrestlemania.29.ppv.720p.hdtv.x264-kyr.mkv</sublink><host>Static Link</host>
+<sublink>http://archive.org/download/WM29...WWER/WWE.Wrestlemania.XXIX.HD.Replay.mp4</sublink><host>Static Link</host>
+<sublink>http://movreel.com/dfidtrdqi3cq</sublink><host>movreel</host>
+<sublink>http://180upload.com/reyhxsnvfuji</sublink><host>180upload</host>
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Elimination Chamber (2013)</name>
+<fanart>http://4.bp.blogspot.com/-CME2HeMi2XU/URyGxcSZqMI/AAAAAAAAFrM/3sFaZIA4Wu8/s1600/Elimination%20Chamber-2013-02.jpg</fanart>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/41/Eliminationchamber2013poster.png</thumbnail>
+<link>
+<sublink>http://movreel.com/7mxuy5ny6fqh</sublink><host>movreel</host>
+<sublink>http://www.novamov.com/video/7b70422787e7b</sublink><host>novamov</host>
+<sublink>http://www.videoweed.es/file/533d99112d6ac</sublink><host>videoweed</host>
+<sublink>http://movreel.com/nxbutxfqh6rr</sublink><host>movreel</host>
+<sublink>http://www.sockshare.com/file/E6C9D28488B82205</sublink><host>sockshare</host>
+<sublink>http://movreel.com/nxbutxfqh6rr</sublink><host>movreel</host>
+</link>
+</subchannel>
+###############################
+<subchannel>
+<name>Royal Rumble (2013)</name>
+<fanart>http://fc00.deviantart.net/fs70/i/2013/102/b/7/royal_rumble_2013___cm_punk_vs__the_rock_by_thereller-d61j0gj.jpg</fanart>
+<thumbnail>http://i.imgur.com/kEPcI.png</thumbnail>
+<link>
+<sublink>http://www.dailymotion.com/video/k1durbEsN2wZe13Mn9w</sublink><host>dailymotion Part 1 HD</host>
+<sublink>http://www.dailymotion.com/video/k2LmLpfiORH02k3Mn9H</sublink><host>dailymotion Part 2 HD</host>
+<sublink>http://www.dailymotion.com/video/k7BDWMTNPWgcxk3Mna3</sublink><host>dailymotion Part 3 HD</host>
+<sublink>http://www.dailymotion.com/video/k5PSypXuGNflN63Mnap</sublink><host>dailymotion Part 4 HD</host>
+<sublink>http://movreel.com/ui0l88lln1ft</sublink><host>movreel Part 1</host>
+<sublink>http://movreel.com/ltly19mvumep</sublink><host>movreel Part 2</host>
+<sublink>http://archive.org/download/01-WWE.Royal.Rumble.27.01.2013.HDTV.x264-Arabic.Sub/01-WWE.Royal.Rumble.27.01.2013.HDTV.x264-Arabic.Sub.mp4</sublink><host>Static Link</host>
+<sublink>http://180upload.com/wukdqjpw2aaq</sublink><host>180upload</host>
+<sublink>http://movreel.com/lqeriwnc9zpt</sublink><host>movreel</host>
+</link>
+</subchannel>
+
