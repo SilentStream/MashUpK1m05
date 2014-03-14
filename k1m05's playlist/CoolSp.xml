@@ -867,19 +867,19 @@
 #######################################################################################################################################
 
 <item>
-<title>Sky Sports News.</title>
+<title>Sky Sports News..</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
 <page>http://1cdn.filotv.pw/ss.html</page>
-<referer> </referer>
+<referer>http://coolsport.tv</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://1cdn.filotv.pw/ss.html</page>
-<referer> </referer>
+<referer>http://coolsports.tv</referer>
 </regex>
 </link>
 <thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
@@ -889,7 +889,7 @@
 #######################################################################################################################################
 <item>
 <title>Sky Sports 1</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -898,7 +898,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://1cdn.filotv.pw/ss1.html</page>
 <referer> </referer>
 </regex>
@@ -919,7 +919,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://1cdn.filotv.pw/ss2.html</page>
 <referer> </referer>
 </regex>
@@ -940,7 +940,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://1cdn.filotv.pw/ss3.html</page>
 <referer> </referer>
 </regex>
@@ -961,7 +961,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://1cdn.filotv.pw/ss4.html</page>
 <referer> </referer>
 </regex>
