@@ -702,7 +702,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://cdn.adprudence-scam.com/stream8.html</page>
 <referer> </referer>
 </regex>
@@ -723,7 +723,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://cdn.adprudence-scam.com/stream9.html</page>
 <referer> </referer>
 </regex>
@@ -744,7 +744,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"](.+?)',</expres>
 <page>http://cdn.adprudence-scam.com/stream10.html</page>
 <referer> </referer>
 </regex>
@@ -765,7 +765,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://cdn.adprudence-scam.com/stream11.html</page>
 <referer> </referer>
 </regex>
@@ -786,7 +786,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://cdn.adprudence-scam.com/stream12.html</page>
 <referer> </referer>
 </regex>
@@ -807,7 +807,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://cdn.adprudence-scam.com/stream13.html</page>
 <referer> </referer>
 </regex>
@@ -828,7 +828,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>'['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://cdn.adprudence-scam.com/stream14.html</page>
 <referer> </referer>
 </regex>
@@ -849,7 +849,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://cdn.adprudence-scam.com/stream15.html</page>
 <referer> </referer>
 </regex>
@@ -867,7 +867,7 @@
 #######################################################################################################################################
 
 <item>
-<title>Sky Sports News</title>
+<title>Sky Sports News.</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -877,7 +877,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
+<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
 <page>http://1cdn.filotv.pw/ss.html</page>
 <referer> </referer>
 </regex>
