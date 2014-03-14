@@ -671,7 +671,7 @@
 #######################################################################################################################################
 
 <item>
-<title>Stream 32.</title>
+<title>Stream 32</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -681,7 +681,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>,'.*?['"]file['"][:,]\s*['"]([^'"]+)['"].*?['"]</expres>
+<expres>['"]file['"][:,]\s*['"]</expres>
 <page>http://cdn.adprudence-scam.com/stream7.html</page>
 <referer> </referer>
 </regex>
