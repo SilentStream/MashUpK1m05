@@ -14,7 +14,7 @@
 <dir>
 <title>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]HQ[/COLOR]</title>
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack1.xml</link>
-<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </dir>
 #######################################################################################################################################
 <item>
@@ -29,7 +29,7 @@
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]..Use New WWE Section for live RAW[/COLOR]</title>
 <link>rtmp://none.com/none.m3u8</link>
-
+<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 #######################################################################################################
 
