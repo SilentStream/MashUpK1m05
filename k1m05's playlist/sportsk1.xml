@@ -275,11 +275,11 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Sky Sports News.[/COLOR]</title>
+<title>[COLOR=FFFF4500]Sky Sports News[/COLOR]</title>
 <link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=$doregex[file] swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=skysnews&vw=620&vh=490&domain=cricfree.tv live=true timeout=10
 <regex>
 <name>file</name>
-<expres>fid=.+?(.+?)';</expres>
+<expres>fid="(.+?)"</expres>
 <page>http://cricfree.tv/update/news.php</page>
 <referer>http://cricfree.tv/</referer>
 </regex>
