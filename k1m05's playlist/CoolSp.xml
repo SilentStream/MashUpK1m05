@@ -13,7 +13,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 1</title>
+<title>Stream 01</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -34,7 +34,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 2</title>
+<title>Stream 02</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -55,7 +55,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 3</title>
+<title>Stream 03</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -76,7 +76,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 4</title>
+<title>Stream 04</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -97,7 +97,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 5</title>
+<title>Stream 05</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -118,7 +118,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 6</title>
+<title>Stream 06</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -139,7 +139,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 7</title>
+<title>Stream 07</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -160,7 +160,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 8</title>
+<title>Stream 08</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -181,7 +181,7 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 9</title>
+<title>Stream 09</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -672,17 +672,17 @@
 
 <item>
 <title>Stream 32.</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream7.html</page>
+<page>http://1cdn.filotv.pw/stream7.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://cdn.adprudence-scam.com/stream7.html</page>
+<page>http://1cdn.filotv.pw/stream7.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -693,17 +693,17 @@
 #######################################################################################################################################
 <item>
 <title>Stream 33</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream8.html</page>
+<page>http://1cdn.filotv.pw/stream8.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://cdn.adprudence-scam.com/stream8.html</page>
+<page>http://1cdn.filotv.pw/stream8.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -714,17 +714,17 @@
 #######################################################################################################################################
 <item>
 <title>Stream 34</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream9.html</page>
+<page>http://1cdn.filotv.pw/stream9.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://cdn.adprudence-scam.com/stream9.html</page>
+<page>http://1cdn.filotv.pw/stream9.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -735,17 +735,17 @@
 #######################################################################################################################################
 <item>
 <title>Stream 35</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream10.html</page>
+<page>http://1cdn.filotv.pw/stream10.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"](.+?)',</expres>
-<page>http://cdn.adprudence-scam.com/stream10.html</page>
+<page>http://1cdn.filotv.pw/stream10.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -756,17 +756,17 @@
 #######################################################################################################################################
 <item>
 <title>Stream 36</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream11.html</page>
+<page>http://1cdn.filotv.pw/stream11.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://cdn.adprudence-scam.com/stream11.html</page>
+<page>http://1cdn.filotv.pw/stream11.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -777,17 +777,17 @@
 #######################################################################################################################################
 <item>
 <title>Stream 37</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream12.html</page>
+<page>http://1cdn.filotv.pw/stream12.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://cdn.adprudence-scam.com/stream12.html</page>
+<page>http://1cdn.filotv.pw/stream12.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -798,17 +798,17 @@
 #######################################################################################################################################
 <item>
 <title>Stream 38</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream13.html</page>
+<page>http://1cdn.filotv.pw/stream13.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://cdn.adprudence-scam.com/stream13.html</page>
+<page>http://1cdn.filotv.pw/stream13.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -819,17 +819,17 @@
 #######################################################################################################################################
 <item>
 <title>Stream 39</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream14.html</page>
+<page>http://1cdn.filotv.pw/stream14.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://cdn.adprudence-scam.com/stream14.html</page>
+<page>http://1cdn.filotv.pw/stream14.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -840,17 +840,17 @@
 #######################################################################################################################################
 <item>
 <title>Stream 40</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
+<page>http://1cdn.filotv.pw/stream15.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
+<page>http://1cdn.filotv.pw/stream15.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -868,7 +868,7 @@
 
 <item>
 <title>Sky Sports News..</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -910,7 +910,7 @@
 #######################################################################################################################################
 <item>
 <title>Sky Sports 2</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -931,7 +931,7 @@
 #######################################################################################################################################
 <item>
 <title>Sky Sports 3</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -952,7 +952,7 @@
 #######################################################################################################################################
 <item>
 <title>Sky Sports 4</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -1002,13 +1002,13 @@
 <regex>
 <name>url</name>
 <expres>streamer=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
+<page>http://1cdn.filotv.pw/stream15.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>file=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/stream15.html</page>
+<page>http://1cdn.filotv.pw/stream15.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -1023,34 +1023,13 @@
 <regex>
 <name>url</name>
 <expres>streamer=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/nba.html</page>
+<page>http://1cdn.filotv.pw/nba.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>file=(.+?)&</expres>
-<page>http://cdn.adprudence-scam.com/nba.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>Golf</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream19.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream19.html</page>
+<page>http://1cdn.filotv.pw/nba.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -1072,27 +1051,6 @@
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
 <page>http://1cdn.filotv.pw/nfl.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://serviidb.com/sites/default/files/coolsporttv.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>Golf</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream19.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream19.html</page>
 <referer> </referer>
 </regex>
 </link>
