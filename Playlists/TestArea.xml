@@ -1,14 +1,4 @@
 #######################################################################################################################################
-#
-#				Cricfree
-#
-#######################################################################################################################################
-#######################################################################################################################################
-#######################################################################################################################################
-#
-#				Cricfree
-#
-#######################################################################################################################################
 #######################################################################################################################################
 <poster>k1m05</poster>
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
@@ -89,3 +79,27 @@
 <thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
 </item>
 
+<item>
+<title>test</title>
+<link>rtmpe$doregex[rtmp] playpath=$doregex[file] swfUrl=http$doregex[rtmp] timeout=10 pageUrl=http://hdfoots.com/
+<regex>
+<name>rtmp</name>
+<expres>rtmpe([^']*)'</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=455&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file: '([^']*)'</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=455&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>flashplayer: 'http([^']*)'</expres>
+<page>http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=455&domain=hdfoots.com</page>
+<referer>http://hdfoots.com/</referer>
+</regex>
+</link>
+<thumbnail>http://cdn-77.siteslike.com/images/chrome.png?35c36e89ef751b74c7aa3b07d7e0f6b6</thumbnail>
+</item>
