@@ -80,8 +80,8 @@
 </item>
 
 <item>
-<title>test</title>
-<link>rtmpe$doregex[rtmp] playpath=$doregex[file] swfUrl=http$doregex[rtmp] timeout=10 pageUrl=http://hdfoots.com/
+<title>test.</title>
+<link>rtmpe$doregex[rtmp] playpath=$doregex[file] swfUrl=http$doregex[rtmp] pageUrl=http://hdfoots.com/ live=true timeout=10
 <regex>
 <name>rtmp</name>
 <expres>rtmpe([^']*)'</expres>
