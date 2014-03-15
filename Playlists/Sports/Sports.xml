@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]ESPN2 Fixed[/COLOR]</message>
+<message>[COLOR=FF00FF00]SSF1 are updated but still not on[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -216,7 +216,6 @@
 <thumbnail>http://www.redbull.tv/cs/RedBull/RedBullTV/ccurl/148/709/AboutRedBullTV.png</thumbnail>
 </item>
 
-
 <item>
 <title>[COLOR=FFFF4500]Sky Sports 1[/COLOR]</title>
 <link>
@@ -271,8 +270,44 @@
 <referer>http://cricfree.tv/</referer>
 </regex>
 </link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=FFFF4500]Sky Sports F1[/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
+<regex>
+<name>url</name>
+<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
+<page>http://www.ilive.to/view/60210</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>appid</name>
+<expres>\?xs=([^"]*)</expres>
+<page>http://www.ilive.to/view/60210</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>.*file: "([^."]*).flv</expres>
+<page>http://www.ilive.to/view/60210</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png</thumbnail>
+</item>
+
+
+
+http://www.ilive.to/view/60210
+
 
 <item>
 <title>[COLOR=FFFF4500]Sky Sports News.[/COLOR]</title>
