@@ -9,7 +9,11 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </info>
 #######################################################################################################################################
-
+<dir>
+<name>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]Schedule[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack1Sched.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</dir>
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Link 01[/COLOR]</title>

@@ -231,7 +231,6 @@
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
-
 <item>
 <title>[COLOR=yellow]Trailer Park Boys[/COLOR].</title>
 <link>rtmp://$doregex[url]/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
@@ -242,4 +241,30 @@
 <referer> </referer>
 </regex>
 <thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow]Mythbusters[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52fc0e0192bd0/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://fanart.tv/fanart/tv/73388/hdclearart/mythbusters-5047b7930a515.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow]Duck Dynasty[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52fc0e0192bd0/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://fanart.tv/fanart/tv/256825/clearart/duck-dynasty-4f76f0bc53d28.png</thumbnail>
 </item>
