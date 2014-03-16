@@ -180,22 +180,10 @@
 #######################################################################################################################################
 <item>
 <title>Sky Sports 3 Ita (needs Work)</title>
-<link>rtmpe$doregex[rtmp] playpath=$doregex[file] swfUrl=http$doregex[rtmp] timeout=10 pageUrl=http://hdfoots.com/
-<regex>
-<name>rtmp</name>
-<expres>rtmpe([^']*)'</expres>
-<page>http://cricfree.tv/update/sky3ita.php</page>
-<referer>http://cricfree.tv/</referer>
-</regex>
+<link>rtmpe://cdn.hdcast.org:1935/redirect/ playpath=$doregex[file] swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf timeout=10 pageUrl=http://hdfoots.com/
 <regex>
 <name>file</name>
-<expres>file: '([^']*)'</expres>
-<page>http://cricfree.tv/update/sky3ita.php</page>
-<referer>http://cricfree.tv/</referer>
-</regex>
-<regex>
-<name>swf</name>
-<expres>flashplayer: 'http([^']*)'</expres>
+<expres>fid="([^']*)"</expres>
 <page>http://cricfree.tv/update/sky3ita.php</page>
 <referer>http://cricfree.tv/</referer>
 </regex>
