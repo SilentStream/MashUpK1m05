@@ -117,7 +117,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]F1[/COLOR] [COLOR=FF00FF00]HD Non-English[/COLOR</title>
+<title>[COLOR=FFFF4500]F1[/COLOR] [COLOR=FF00FF00]HD Non-English[/COLOR]</title>
 <link>
   <sublink>http://195.189.239.15/streaming/sport1hd/fullhd/playlist.m3u8</sublink>
   <sublink>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8</sublink>
@@ -126,7 +126,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]F1[/COLOR] [COLOR=FF00FF00]SD Non-English[/COLOR</title>
+<title>[COLOR=FFFF4500]F1[/COLOR] [COLOR=FF00FF00]SD Non-English[/COLOR]</title>
 <link>
   <sublink>rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live//stream-antena3_1</sublink>
   <sublink>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e761_wcif.sdp/e761_wcif.sdp-mr2548k.m3u8</sublink>
