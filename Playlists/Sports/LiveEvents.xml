@@ -28,3 +28,15 @@
 <thumbnail>http://illegalcurve.com/wp-content/uploads/2013/01/Pens-vs.-Jets-preview.jpg</thumbnail>
 </item>
 #######################################################################################################################################
+<item>
+<title>NBA Raptors Test</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/snone.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1924547160/Raptors_Logo.jpg</thumbnail>
+</item>
