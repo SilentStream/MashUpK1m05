@@ -33,3 +33,104 @@
 <link>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
 </item>
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] A 1</title>
+<link>rtmp://176.31.231.14/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=Cheese swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-2/105210-wrestle-zone-net-channel-2-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] A 2</title>
+<link>rtmp://174.127.120.190/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Cheese swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-2/105210-wrestle-zone-net-channel-2-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] A 3</title>
+<link>rtmp://192.241.155.144/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Cheese swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-2/105210-wrestle-zone-net-channel-2-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] A 4</title>
+<link>rtmp://107.170.238.92/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Cheese swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-2/105210-wrestle-zone-net-channel-2-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] A UK</title>
+<link>rtmp://91.121.9.48/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=Cheese swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-7/55317-wrestle-zone-net-channel-7-a.htmll live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] B 1</title>
+<link>rtmp://176.31.231.14/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=Pizza swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-7/55317-wrestle-zone-net-channel-7-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] B 2</title>
+<link>rtmp://174.127.120.190/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Pizza swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-7/55317-wrestle-zone-net-channel-7-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] B 3</title>
+<link>rtmp://192.241.155.144/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Pizza swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-7/55317-wrestle-zone-net-channel-7-a.html live=true timeout=10 swfVfy=true</link>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] B 4</title>
+<link>rtmp://107.170.238.92/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Pizza swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-7/55317-wrestle-zone-net-channel-7-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]UFC[/COLOR] [COLOR=white]171[/COLOR] [COLOR=FFFF4500]Hendricks[/COLOR] [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Lawler[/COLOR] B UK</title>
+<link>rtmp://91.121.9.48/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=Pizza swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/channel-7/55317-wrestle-zone-net-channel-7-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/48/UFC_171_event_poster.jpg</thumbnail>
+</item>
+ #######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+ #######################################################################################################################################
+<item>
+<title>[COLOR=red]Showtime Boxing:[/COLOR][COLOR=FFFF4500][/COLOR]Garcia [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Herrera[/COLOR] </title>
+<link>rtmp://176.31.231.14/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=Boobies playpath= swfUrl=http://247hdsports.net/P/player.swf pageUrl=wrestle-zone.net.pk/channel-9/88848-wrestle-zone-nets-channel-9-a.html live=true timeout=10 swfVfy=true</link>
+ <thumbnail>http://www.behindthering.com/wp-content/uploads/2014/02/Garcia-VS.-Herrera.jpg</thumbnail>
+</item>
+ #######################################################################################################
+<item>
+<title>[COLOR=red]Showtime Boxing:[/COLOR][COLOR=FFFF4500][/COLOR]Garcia [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Herrera[/COLOR] </title>
+<link>rtmp://174.127.120.190/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Boobies playpath= swfUrl=http://247hdsports.net/P/player.swf pageUrl=wrestle-zone.net.pk/channel-9/88848-wrestle-zone-nets-channel-9-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://www.behindthering.com/wp-content/uploads/2014/02/Garcia-VS.-Herrera.jpg</thumbnail>
+</item>
+  #######################################################################################################
+<item>
+<title>[COLOR=red]Showtime Boxing:[/COLOR][COLOR=FFFF4500][/COLOR]Garcia [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Herrera[/COLOR] </title>
+<link>rtmp://192.241.155.144/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Boobies playpath= swfUrl=http://247hdsports.net/P/player.swf pageUrl=wrestle-zone.net.pk/channel-9/88848-wrestle-zone-nets-channel-9-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://www.behindthering.com/wp-content/uploads/2014/02/Garcia-VS.-Herrera.jpg</thumbnail>
+</item>
+ #######################################################################################################
+<item>
+<title>[COLOR=red]Showtime Boxing:[/COLOR][COLOR=FFFF4500][/COLOR]Garcia [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Herrera[/COLOR] </title>
+<link> rtmp://107.170.238.92/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=Boobies playpath= swfUrl=http://247hdsports.net/P/player.swf pageUrl=wrestle-zone.net.pk/channel-9/88848-wrestle-zone-nets-channel-9-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://www.behindthering.com/wp-content/uploads/2014/02/Garcia-VS.-Herrera.jpg</thumbnail>
+</item>
+  #######################################################################################################
+<item>
+<title>[COLOR=red]Showtime Boxing:[/COLOR][COLOR=FFFF4500][/COLOR]Garcia [COLOR=white]vs.[/COLOR] [COLOR=FFFF4500]Herrera[/COLOR] </title>
+<link>rtmp://91.121.9.48/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=Boobies playpath= swfUrl=http://247hdsports.net/P/player.swf pageUrl=wrestle-zone.net.pk/channel-9/88848-wrestle-zone-nets-channel-9-a.html live=true timeout=10 swfVfy=true</link>
+<thumbnail>http://www.behindthering.com/wp-content/uploads/2014/02/Garcia-VS.-Herrera.jpg</thumbnail>
+</item>
+
