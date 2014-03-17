@@ -198,19 +198,19 @@
 
 <item>
 <title>[COLOR=yellow]COPS[/COLOR]</title>
-<link>rtmp://198.27.74.99/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?cops01 live=true timeout=10</link>
+<link>rtmp://198.27.74.99/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?drewcarey live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/74709/clearart/Cops-74709.png</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=yellow]Drew Carey Show[/COLOR] tg</title>
-<link>rtmp://$doregex[url]/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
+<title>[COLOR=yellow]Drew Carey Show[/COLOR] tgu</title>
+<link>$doregex[url]/app playpath=drewcarey swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
 <regex>
 <name>url</name>
-<expres>value="&streamer=([^"]*)/app</expres>
+<expres>value=.+?streamer=(.+?)/app</expres>
 <page>http://www.tgun.tv/menus/players/dlock/playerindex5.php?drewcarey</page>
-<referer> </referer>
+<referer>http://www.tgun.tv/menus/players/dlock/playerindex5.php?drewcarey</referer>
 </regex>
 </link>
 <thumbnail>http://fanart.tv/fanart/tv/71355/tvthumb/T_71355.jpg</thumbnail>
