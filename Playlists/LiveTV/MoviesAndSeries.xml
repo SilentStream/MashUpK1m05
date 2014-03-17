@@ -204,7 +204,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=yellow]Drew Carey Show[/COLOR] tgu</title>
+<title>[COLOR=yellow]Drew Carey Show[/COLOR]</title>
 <link>$doregex[url]/app playpath=drewcarey swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
 <regex>
 <name>url</name>
@@ -253,13 +253,13 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=yellow]Trailer Park Boys[/COLOR] tg</title>
-<link>rtmp://$doregex[url]/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
+<title>[COLOR=yellow]Trailer Park Boys[/COLOR]</title>
+<link>$doregex[url]/app playpath=tpb02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
 <regex>
 <name>url</name>
-<expres>value="&streamer=([^"]*)/app</expres>
-<page>http://www.tgun.tv/menus/players/dlock/playerindex3.php?tpb02</page>
-<referer> </referer>
+<expres>value=.+?streamer=(.+?)/app</expres>
+<page>http://www.tgun.tv/menus/players/dlock/playerindex5.php?tpb02</page>
+<referer>http://www.tgun.tv/menus/players/dlock/playerindex5.php?tpb02</referer>
 </regex>
 </link>
 <thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
