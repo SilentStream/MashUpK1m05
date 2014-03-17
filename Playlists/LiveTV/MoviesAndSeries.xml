@@ -129,7 +129,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/5305195cb1949/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/532504c3ee9b9/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -157,7 +157,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4e8f678782f27//flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/504b043f4bf4e//flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -166,12 +166,12 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Disney Films[/COLOR]</title>
+<title>[COLOR=FF9370DB]Animation[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/ /flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/519569e8d44ea/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -204,6 +204,19 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
+<title>[COLOR=yellow]Drew Carey Show[/COLOR]</title>
+<link>rtmp://$doregex[url]/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
+<regex>
+<name>url</name>
+<expres>value="&streamer=([^"]*)/app</expres>
+<page>http://www.tgun.tv/embed/index2.php?tpb01&widthid=640&heightid=480</page>
+<referer> </referer>
+</regex>
+<thumbnail>http://fanart.tv/fanart/tv/71355/tvthumb/T_71355.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
 <title>[COLOR=yellow]Fresh Prince[/COLOR]</title>
 <link>rtmp://198.27.74.99/app playpath=freshprince01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?freshprince01 live=true timeout=10</link>
 <thumbnail>https://pbs.twimg.com/media/Bc8CqNlIcAAzHwc.jpg</thumbnail>
@@ -226,13 +239,20 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=yellow]Trailer Park Boys[/COLOR]</title>
-<link>rtmp://198.27.74.99/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?tpb01 live=true timeout=10</link>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52f9c4bb4622a/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
 <thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=yellow]Trailer Park Boys[/COLOR].</title>
+<title>[COLOR=yellow]Trailer Park Boys[/COLOR]</title>
 <link>rtmp://$doregex[url]/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
 <regex>
 <name>url</name>
@@ -241,6 +261,20 @@
 <referer> </referer>
 </regex>
 <thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=yellow]Vikings[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/4f9f9f1c76a64/flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://fanart.tv/fanart/tv/260449/hdclearart/vikings-515bd110ccf94.png</thumbnail>
 </item>
 
 <item>
