@@ -204,12 +204,12 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=yellow]Drew Carey Show[/COLOR]</title>
+<title>[COLOR=yellow]Drew Carey Show[/COLOR] tg</title>
 <link>rtmp://$doregex[url]/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
 <regex>
 <name>url</name>
 <expres>value="&streamer=([^"]*)/app</expres>
-<page>http://www.tgun.tv/embed/index2.php?tpb01&widthid=640&heightid=480</page>
+<page>http://www.tgun.tv/menus/players/dlock/playerindex5.php?drewcarey</page>
 <referer> </referer>
 </regex>
 </link>
@@ -253,12 +253,12 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=yellow]Trailer Park Boys[/COLOR]</title>
+<title>[COLOR=yellow]Trailer Park Boys[/COLOR] tg</title>
 <link>rtmp://$doregex[url]/app playpath=tpb01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10
 <regex>
 <name>url</name>
 <expres>value="&streamer=([^"]*)/app</expres>
-<page>http://www.tgun.tv/embed/index2.php?tpb01&widthid=640&heightid=480</page>
+<page>http://www.tgun.tv/menus/players/dlock/playerindex3.php?tpb02</page>
 <referer> </referer>
 </regex>
 </link>
