@@ -212,6 +212,7 @@
 <page>http://www.tgun.tv/embed/index2.php?tpb01&widthid=640&heightid=480</page>
 <referer> </referer>
 </regex>
+</link>
 <thumbnail>http://fanart.tv/fanart/tv/71355/tvthumb/T_71355.jpg</thumbnail>
 </item>
 #######################################################################################################################################
@@ -260,6 +261,7 @@
 <page>http://www.tgun.tv/embed/index2.php?tpb01&widthid=640&heightid=480</page>
 <referer> </referer>
 </regex>
+</link>
 <thumbnail>http://fanart.tv/fanart/tv/70566/clearart/T_70566.png</thumbnail>
 </item>
 #######################################################################################################################################
