@@ -26,6 +26,12 @@
 <link>rtmp://107.161.18.10/live playpath=raww swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/ live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]NEW Test[/COLOR]</title>
+<link>rtmp://live.veemi.com/vlb playpath=wnhd3 swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=www.veemi.com/embed.php?v=wnhd3&vw=1074&vh=500&domain=wrestling-network.net live=true timeout=10</link>
+<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
+</item>
 #######################################################################################################################################
 
 #######################################################################################################################################
