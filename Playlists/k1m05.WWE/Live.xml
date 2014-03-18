@@ -16,8 +16,14 @@
 
 
 <item>
-<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]NEW TESTING[/COLOR]</title>
+<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]NEW HD[/COLOR]</title>
 <link>rtmp://198.27.68.72/live playpath=raww swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/ live=true timeout=10</link>
+<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]NEW SD[/COLOR]</title>
+<link>rtmp://107.161.18.10/live playpath=raww swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/ live=true timeout=10</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 #######################################################################################################################################
