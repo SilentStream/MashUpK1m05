@@ -41,7 +41,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
@@ -65,11 +65,6 @@
 </link>
 <thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
 </item>
-
-
-#######################################################################################################################################
-#######################################################################################################################################
-
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
@@ -79,69 +74,6 @@
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  *  [/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=qt4t1aakeci3emk token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
-<regex>
-<name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/46476</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/46476</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
-<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
-</item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500]ABC Family[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
-<regex>
-<name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/30303</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/30303</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/30303</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
-<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
-</item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500]AMC and/or Fox Live, Temp Stream Plz Dont rely on this[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv/live playpath=ELBARTO swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed live=true timeout=10 swfVfy=true token=Ita38E9yk482kjY</link>
-<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=FFFF4500]AMC [/COLOR]</title>
