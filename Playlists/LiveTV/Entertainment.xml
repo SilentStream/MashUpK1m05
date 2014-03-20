@@ -383,11 +383,11 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Bravo [/COLOR]..[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>[COLOR=FFFF4500]Bravo [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>'file': "([^"]*)'</expres>
+<expres>'file': "(.+?)'</expres>
 <page>http://www.ilive.to/m/channel.php?n=52480</page>
 <referer>http://www.ilive.to</referer>
 </link>
