@@ -321,30 +321,24 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Disney [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
+<link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/53932</page>
-<referer> </referer>
+<expres>file': "([^"]+?)"</expres>
+<page>http://www.ilive.to/m/channel.php?n=53932</page>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
+</link>
+<thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
+</item>
+
+<title>[COLOR=FFFF4500]Disney Jr.[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>$doregex[url]
 <regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/53932</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/53932</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
+<name>url</name>
+<expres>file': "([^"]+?)"</expres>
+<page>http://www.ilive.to/m/channel.php?n=50694</page>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
 </link>
 <thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
@@ -352,31 +346,13 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Disney [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
+<title>[COLOR=FFFF4500]Disney Jr.[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/38804</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/38804</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/38804</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
+<expres>file': "([^"]+?)"</expres>
+<page>http://www.ilive.to/m/channel.php?n=38804</page>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
 </link>
 <thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
@@ -391,29 +367,6 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Disney XD[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=00frve13jvs116n token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
-<regex>
-<name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/38804</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/38804</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
-<thumbnail>http://imageshack.us/a/img849/1654/2e66.png</thumbnail>
-</item>
 #######################################################################################################################################
 #########################################################--------------E-------------##################################################
 #######################################################################################################################################
@@ -433,31 +386,25 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]FOX[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
+<title>[COLOR=FFFF4500]FOX[/COLOR][COLOR=FF00FF00]  ?  [/COLOR]</title>
+<link>$doregex[url]$doregex[file]/edge/_definst_/playlist.m3u8?xs=$doregex[end]
 <regex>
 <name>url</name>
-<expres>streamer: "rtmp:\/\/([^"]*)\/edge\/</expres>
-<page>http://www.ilive.to/view/57538</page>
-<referer> </referer>
+<expres>file': "([^"]+?)\/edge\/_definst_\/</expres>
+<page>http://www.ilive.to/m/channel.php?n=38804</page>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
 <regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/57538</page>
-<referer> </referer>
+<name>file</name>
+<expres>http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/m/channel.php?n=56002</page>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
 <regex>
-<name>path</name>
-<expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/57538</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
+<name>end</name>
+<expres>m3u8?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/m/channel.php?n=38004</page>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
 </link>
 <thumbnail>http://imageshack.us/a/img713/3384/c1av.png</thumbnail>
