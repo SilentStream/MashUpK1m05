@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>NHK Fixed, New Fox News Link</message>
+<message>ABC 7 Wash,NHK Fixed, New Fox News Link</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -17,7 +17,14 @@
 
 <item>
 <title>[COLOR=FFFF4500]ABC News 7 Washington[/COLOR]</title>
-<link>http://api.new.livestream.com/broadcasts/39812572.m3u8?dw=100</link>
+<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@85846/master.m3u8
+<regex>
+<name>file</name>
+<expres>livestreamiphone/(.+?)_1_150@</expres>
+<page>http://new.livestream.com/api/accounts/1651644/events/1602658/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://www.wjla.com/design/wjla/logos/tim-allison-leon-maureen-gordon-doug.png</thumbnail>
 </item>
 
