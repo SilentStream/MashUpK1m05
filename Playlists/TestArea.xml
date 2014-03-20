@@ -80,17 +80,17 @@
 </item>
 
 <item>
-<title>test</title>
+<title>test.</title>
 <link>$doregex[rtmp] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 token=WY846p1E1g15W7s
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)&amp;</expres>
+<expres>streamer=([^']*)&</expres>
 <page>http://www.hqzone.tv/forums/view.php?pg=4</page>
 <referer>http://www.hqzone.tv/</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>file=([^']*)&amp;</expres>
+<expres>file=([^']*)&</expres>
 <page>http://www.hqzone.tv/forums/view.php?pg=4</page>
 <referer>http://www.hqzone.tv/</referer>
 </regex>
@@ -105,17 +105,17 @@
 </item>
 
 <item>
-<title>test2</title>
+<title>test.2</title>
 <link>$doregex[rtmp] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 token=WY846p1E1g15W7s
 <regex>
 <name>rtmp</name>
-<expres>streamer=(.+?)&amp;</expres>
+<expres>streamer=(.+?)&</expres>
 <page>http://www.hqzone.tv/forums/view.php?pg=4</page>
 <referer>http://www.hqzone.tv/</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>file=(.+?)&amp;</expres>
+<expres>file=(.+?)&</expres>
 <page>http://www.hqzone.tv/forums/view.php?pg=4</page>
 <referer>http://www.hqzone.tv/</referer>
 </regex>
