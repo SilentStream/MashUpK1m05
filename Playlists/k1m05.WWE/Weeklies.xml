@@ -4,11 +4,11 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1.. [COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
-<link>$doregex[rtmp]/vod/media playpath=raw$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
+<title>1. [COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>rtmp$doregex[rtmp]/vod/media playpath=raw$doregex[file].mp4 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/vod/media</expres>
+<expres>rtmp([^']*)/vod/media</expres>
 <page>http://sportsnationhd.com/view.php?pg=raw20140317</page>
 <referer>http://sportsnationhd.com/</referer>
 </regex>
