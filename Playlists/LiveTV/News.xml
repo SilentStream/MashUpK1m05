@@ -16,11 +16,11 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]ABC News 7 Washington[/COLOR]</title>
+<title>[COLOR=FFFF4500]ABC News 7 Washington.[/COLOR]</title>
 <link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@85846/master.m3u8
 <regex>
 <name>file</name>
-<expres>livestreamiphone/(.+?)_1_150@</expres>
+<expres>livestreamiphone/(.+?)_1_198@</expres>
 <page>http://new.livestream.com/api/accounts/1651644/events/1602658/viewing_info</page>
 <referer> </referer>
 </regex>
