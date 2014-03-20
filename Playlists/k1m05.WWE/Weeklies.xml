@@ -4,74 +4,74 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<title>[COLOR=red]1. WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:raw20140317.mp4 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=raw20140317 timeout=10</link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<title>[COLOR=red]1. WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=smackdown20140314 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=smackdown20140314 timeout=10</link>
 <thumbnail>http://www.wwetapout.com/wp-content/uploads/smackdown-banner.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]NXT[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<title>[COLOR=red]1. WWE[/COLOR]: [COLOR=white]NXT[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:nxt.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=nxt timeout=10</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2940398431/ee52d5c04baa2c67cdb024fd832a6a87.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Superstars[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<title>[COLOR=red]1. WWE[/COLOR]: [COLOR=white]Superstars[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:superstars.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=superstars timeout=10</link>
 <thumbnail>http://i1.ytimg.com/sh/XIcouF9QQ-M/showposter.jpg?v=4fbb4bcf</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Main Event[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<title>[COLOR=red]1. WWE[/COLOR]: [COLOR=white]Main Event[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:mainevent20140318.mp4 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=mainevent20140318 timeout=10</link>
 <thumbnail>http://i1.ytimg.com/sh/1puOALMw94E/showposter.jpg?v=51a523ea</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=white]TNA[/COLOR]: [COLOR=blue]Impact Wrestling[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<title>[COLOR=white]1. TNA[/COLOR]: [COLOR=blue]Impact Wrestling[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=impact20140313 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=impact20140313 timeout=10</link>
 <thumbnail>http://www.wwe24seven.com/images/111/4.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
+<title>[COLOR=red]2. WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:raw20140324.mp4 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=raw20140317 timeout=10</link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
+<title>[COLOR=red]2. WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=smackdown20140321 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=smackdown20140314 timeout=10</link>
 <thumbnail>http://www.wwetapout.com/wp-content/uploads/smackdown-banner.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]NXT[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
+<title>[COLOR=red]2. WWE[/COLOR]: [COLOR=white]NXT[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:nxt.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=nxt timeout=10</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2940398431/ee52d5c04baa2c67cdb024fd832a6a87.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Superstars[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
+<title>[COLOR=red]2. WWE[/COLOR]: [COLOR=white]Superstars[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:superstars.mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=superstars timeout=10</link>
 <thumbnail>http://i1.ytimg.com/sh/XIcouF9QQ-M/showposter.jpg?v=4fbb4bcf</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Main Event[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
+<title>[COLOR=red]2. WWE[/COLOR]: [COLOR=white]Main Event[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=mp4:mainevent20140325.mp4 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=mainevent20140318 timeout=10</link>
 <thumbnail>http://i1.ytimg.com/sh/1puOALMw94E/showposter.jpg?v=51a523ea</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=white]TNA[/COLOR]: [COLOR=blue]Impact Wrestling[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
+<title>[COLOR=white]2. TNA[/COLOR]: [COLOR=blue]Impact Wrestling[/COLOR] [COLOR=FFFF4500]Next Week[/COLOR]</title>
 <link>rtmp://37.49.224.102/vod/media playpath=impact20140320 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=impact20140313 timeout=10</link>
 <thumbnail>http://www.wwe24seven.com/images/111/4.jpg</thumbnail>
 </item>
