@@ -8,6 +8,24 @@
 </info>
 
 ######################################################################################################################################
+<item>
+<title>CNC</title>
+<link>$doregex[rtmp]/live/ playpath=$doregex[file]584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1395208786? pageUrl=http://www.livestation.com/ live=true timeout=10
+<regex>
+<name>rtmp</name>
+<expres>[streamer]=([^']*)/live/</expres>
+<page>http://www.livestation.com/en/cnc</page>
+<referer>http://www.livestation.com/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*)584</expres>
+<page>http://www.livestation.com/en/cnc</page>
+<referer>http://www.livestation.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=FFFF4500]9 News Colorado[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
