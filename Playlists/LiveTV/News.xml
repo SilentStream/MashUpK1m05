@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>ABC 7 Wash,NHK Fixed, New Fox News Link</message>
+<message>ABC 7 Wash Now HD,NHK Fixed, New Fox News Link</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -16,7 +16,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]ABC News 7 Washington.[/COLOR]</title>
+<title>[COLOR=FFFF4500]ABC News 7 Washington[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@85846/master.m3u8
 <regex>
 <name>file</name>
