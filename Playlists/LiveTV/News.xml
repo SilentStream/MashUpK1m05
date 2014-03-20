@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>New Fox News Link</message>
+<message>NHK Fixed, New Fox News Link</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -208,7 +208,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]NHK World[/COLOR]</title>
-<link>rtmp://fdc-ord-cdn-1.srv.fivecool.net/nhkw playpath=gwm swfUrl=http://www3.nhk.or.jp/nhkworld/w/movie/streamhub_player20131030.swf pageUrl=http://www3.nhk.or.jp/nhkworld/w/movie/ live=true timeout=10</link>
+<link>http://nhkworldlive-lh.akamaihd.net/i/nhkworld_w@145835/index_512_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nhk_world.png</thumbnail>
 </item>
 
