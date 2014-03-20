@@ -7,6 +7,20 @@
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
+<item>
+<title>[COLOR=FFFF4500]1. CNN[/COLOR]</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>file': "([^"]+?)"</expres>
+<page>http://www.ilive.to/m/channel.php?n=46461</page>
+<referer>http://www.ilive.to/m/channel.php?n=46461</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
+</item>
+
+
 ######################################################################################################################################
 <item>
 <title>CNC</title>
