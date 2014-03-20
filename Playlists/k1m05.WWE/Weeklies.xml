@@ -5,9 +5,35 @@
 #######################################################################################################################################
 <item>
 <title>1 [COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
-<link>rtmp://37.49.224.102/vod/media playpath=raw20140317 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/ timeout=10</link>
+<link>rtmp://37.49.224.102/vod/media playpath=mp4:raw20140317.mp4 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=raw20140317 timeout=10</link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=white]test[/COLOR] [COLOR=blue][/COLOR]</title>
+<link>rtmp$doregex[rtmp]/vod/media playpath=mp4:$doregex[file].mp4 swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=raw20140317 timeout=10
+<regex>
+<name>rtmp</name>
+<expres>streamer=rtmp([^']*)/vod/media</expres>
+<page>http://sportsnationhd.com/view.php?pg=raw20140317</page>
+<referer>http://sportsnationhd.com/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>media&file=([^']*).mp4</expres>
+<page>http://sportsnationhd.com/view.php?pg=raw20140317</page>
+<referer>http://sportsnationhd.com/</referer>
+</regex>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/63/TNA_Lockdown_2014_Poster.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
 
 
 
