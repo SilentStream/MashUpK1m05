@@ -80,26 +80,52 @@
 </item>
 
 <item>
-<title>test.</title>
-<link>rtmpe$doregex[rtmp] playpath=$doregex[file] swfUrl=http$doregex[swf] pageUrl=http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=455&domain=hdfoots.com live=true timeout=10
+<title>test</title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 token=WY846p1E1g15W7s
 <regex>
 <name>rtmp</name>
-<expres>rtmpe([^']*)'</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=455&domain=hdfoots.com</page>
-<referer>http://hdfoots.com/</referer>
+<expres>streamer=([^']*)&amp;</expres>
+<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
+<referer>http://www.hqzone.tv/</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>file: '([^']*)'</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=455&domain=hdfoots.com</page>
-<referer>http://hdfoots.com/</referer>
+<expres>file=([^']*)&amp;</expres>
+<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
+<referer>http://www.hqzone.tv/</referer>
 </regex>
 <regex>
 <name>swf</name>
-<expres>flashplayer: 'http([^']*)'</expres>
-<page>http://www.hdcast.org/embedlive2.php?u=EURO1HD&vw=640&vh=455&domain=hdfoots.com</page>
-<referer>http://hdfoots.com/</referer>
+<expres>src="([^']*)"</expres>
+<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
+<referer>http://www.hqzone.tv/</referer>
 </regex>
 </link>
-<thumbnail>http://cdn-77.siteslike.com/images/chrome.png?35c36e89ef751b74c7aa3b07d7e0f6b6</thumbnail>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
+
+<item>
+<title>test2</title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 token=WY846p1E1g15W7s
+<regex>
+<name>rtmp</name>
+<expres>streamer=(.+?)&amp;</expres>
+<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
+<referer>http://www.hqzone.tv/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=(.+?)&amp;</expres>
+<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
+<referer>http://www.hqzone.tv/</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>src="(.+?)"</expres>
+<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
+<referer>http://www.hqzone.tv/</referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</item>
+
