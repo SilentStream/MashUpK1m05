@@ -4,8 +4,28 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<title>1.. [COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
 <link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/vod/media</expres>
+<page>http://sportsnationhd.com/view.php?pg=raw20140317</page>
+<referer>http://sportsnationhd.com/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>;file=([^']*).mp4</expres>
+<page>http://sportsnationhd.com/view.php?pg=raw20140317</page>
+<referer>http://sportsnationhd.com/</referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+
+
+<item>
+<title>2. [COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/vod/media</expres>
@@ -19,8 +39,9 @@
 <referer>http://sportsnationhd.com/</referer>
 </regex>
 </link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/63/TNA_Lockdown_2014_Poster.jpg</thumbnail>
 </item>
+
 
 
 <item>
