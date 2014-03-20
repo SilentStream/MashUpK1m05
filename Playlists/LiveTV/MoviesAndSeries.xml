@@ -198,9 +198,10 @@
 
 <item>
 <title>[COLOR=yellow]COPS[/COLOR]</title>
-<link>rtmp://198.27.74.99/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?drewcarey live=true timeout=10</link>
+<link>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?drewcarey live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/74709/clearart/Cops-74709.png</thumbnail>
 </item>
+
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
