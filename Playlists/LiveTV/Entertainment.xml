@@ -41,6 +41,12 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
+<title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=purple]    [/COLOR]</title>
+<link>rtmpe://173.208.201.162:1935/goLive playpath=zJtx6glRuebarG8 swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#| live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img198/6494/jc3w.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
 <link>$doregex[url]
 <regex>
