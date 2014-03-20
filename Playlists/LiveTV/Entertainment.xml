@@ -38,7 +38,7 @@
 <regex>
 <name>tok</name>
 <expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
+<page>http://www.ilive.to/m/channel.php?n=52480</page>
 <referer>http://www.ilive.to</referer>
 </regex>
 </link>
@@ -383,7 +383,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Bravo [/COLOR].[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>[COLOR=FFFF4500]Bravo [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
 <regex>
 <name>url</name>
@@ -405,8 +405,8 @@
 </regex>
 <regex>
 <name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
+<expres>tok.+?"(.+?)"</expres>
+<page>http://www.ilive.to/m/channel.php?n=52480</page>
 <referer>http://www.ilive.to</referer>
 </regex>
 </link>
