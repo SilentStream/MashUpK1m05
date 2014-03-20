@@ -3,6 +3,25 @@
 <fanart>http://images6.fanpop.com/image/photos/35100000/Paige-wwe-35136815-1284-722.jpg</fanart>
 #######################################################################################################################################
 #######################################################################################################################################
+<item>
+<title>1. [COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<link>$doregex[rtmp]/vod/media playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/vod/media</expres>
+<page>http://sportsnationhd.com/view.php?pg=raw20140317</page>
+<referer>http://sportsnationhd.com/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>media&file=([^']*).flv</expres>
+<page>http://sportsnationhd.com/view.php?pg=raw20140317</page>
+<referer>http://sportsnationhd.com/</referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR=white]TNA:[/COLOR] [COLOR=blue]LockDown[/COLOR]</title>
