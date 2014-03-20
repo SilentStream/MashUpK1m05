@@ -383,7 +383,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Bravo [/COLOR].[COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>[COLOR=FFFF4500]Bravo [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to live=true timeout=10
 <regex>
 <name>url</name>
@@ -394,12 +394,6 @@
 <regex>
 <name>appid</name>
 <expres>/?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/52480</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file: "([^."]*).flv</expres>
 <page>http://www.ilive.to/view/52480</page>
 <referer> </referer>
 </regex>
