@@ -99,11 +99,11 @@
 </item>
 
 <item>
-<title>test*</title>
-<link>$doregex[streamer] app=live playpath=$doregex[file] token=WY846p1E1g15W7s swfUrl=$doregex[swf] live=true timeout=15 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed</link>
+<title>test**</title>
+<link>$doregex[streamer]/live playpath=$doregex[file] token=WY846p1E1g15W7s swfUrl=$doregex[swf] live=true timeout=15 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed</link>
 <regex>
 <name>streamer</name>
-<expres>streamer=([^&]*)</expres>
+<expres>streamer=(.+?)/live</expres>
 <page>http://www.hqzone.tv/forums/view.php?pg=testfeed</page>
 <referer>http://hqzone.tv/forums/view.php?pg=vipstreams</referer>
 </regex>
@@ -115,11 +115,11 @@
 </regex>
 <regex>
 <name>swf</name>
-<expres>src="([^"]*)</expres>
+<expres>src="(.+?)"</expres>
 <page>http://www.hqzone.tv/forums/view.php?pg=testfeed</page>
 <referer>http://hqzone.tv/forums/view.php?pg=vipstreams</referer>
 </regex>
-<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </link>
+<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
