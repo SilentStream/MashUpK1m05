@@ -81,8 +81,29 @@
 
 
 <item>
+<title>[COLOR=FFFF4500]test.[/COLOR]</title>
+<link>$doregex[url]app playpath=freshprince02 swfUrl=http://www.tgun.tv$doregex[swf] pageUrl=http://www.tgun.tv/
+<regex>
+<name>url</name>
+<expres>streamer=(.+?)app</expres>
+<page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
+<referer>http://www.tgun.tv/</referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>data="(.+?)"</expres>
+<page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
+<referer>http://www.tgun.tv/</referer>
+</regex>
+</link>
+<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
+</item>
+
+
+
+<item>
 <title>[COLOR=FFFF4500]test..[/COLOR]</title>
-<link>$doregex[url]app playpath=freshprince02 swfUrl=http://www.tgun.tv$doregex[swf] pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03
+<link>$doregex[url]app playpath=freshprince02 swfUrl=http://www.tgun.tv$doregex[swf] pageUrl=http://www.tgun.tv/ live=true timeout=10
 <regex>
 <name>url</name>
 <expres>streamer=(.+?)app</expres>
