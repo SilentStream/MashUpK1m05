@@ -80,40 +80,21 @@
 </item>
 
 <item>
-<title>test</title>
-<link>$doregex[rtmp]live playpath=$doregex[file] swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 token=WY846p1E1g15W7s
+<title>[COLOR=FFFF4500]test[/COLOR]</title>
+<link>$doregex[url]/app playpath=seinfeld03 swfUrl=http://www.tgun.tv$doregex[swf] pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03
 <regex>
-<name>rtmp</name>
-<expres>streamer=([^']*)live</expres>
-<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
-<referer>http://www.hqzone.tv/</referer>
+<name>url</name>
+<expres>value="&streamer=([^"]+?)/app</expres>
+<page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
+<referer> </referer>
 </regex>
 <regex>
-<name>file</name>
-<expres>file=([^']*)(/\\&-]amp</expres>
-<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
-<referer>http://www.hqzone.tv/</referer>
-</regex>
-</link>
-<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
-</item>
-
-<item>
-<title>test2</title>
-<link>$doregex[rtmp]live playpath=$doregex[file] swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 token=WY846p1E1g15W7s
-<regex>
-<name>rtmp</name>
-<expres>streamer=(.+?)live</expres>
-<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
-<referer>http://www.hqzone.tv/</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=(.+?)(/\\&-]amp</expres>
-<page>http://www.hqzone.tv/forums/view.php?pg=4</page>
-<referer>http://www.hqzone.tv/</referer>
+<name>swf</name>
+<expres>data="([^"]+?)"</expres>
+<page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
+<referer> </referer>
 </regex>
 </link>
-<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
 
