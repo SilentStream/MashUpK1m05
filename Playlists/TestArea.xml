@@ -80,17 +80,17 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]test..[/COLOR]</title>
-<link>$doregex[url]/app playpath=seinfeld03 swfUrl=http://www.tgun.tv$doregex[swf] pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03
+<title>[COLOR=FFFF4500]test[/COLOR]</title>
+<link>$doregex[url]app playpath=seinfeld03 swfUrl=http://www.tgun.tv$doregex[swf] pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03
 <regex>
 <name>url</name>
-<expres>value="([^&])streamer=([^"]+?)/app</expres>
+<expres>streamer=(.+?)app</expres>
 <page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
 <referer>http://www.tgun.tv/</referer>
 </regex>
 <regex>
 <name>swf</name>
-<expres>data="([^"]+?)"</expres>
+<expres>data="(.+?)"</expres>
 <page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
 <referer>http://www.tgun.tv/</referer>
 </regex>
