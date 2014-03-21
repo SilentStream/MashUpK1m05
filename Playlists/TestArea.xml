@@ -99,17 +99,11 @@
 </item>
 
 <item>
-<title>test**</title>
-<link>$doregex[streamer]/live playpath=$doregex[file] token=WY846p1E1g15W7s swfUrl=$doregex[swf] live=true timeout=15 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed</link>
+<title>test*</title>
+<link>rtmp$doregex[streamer]/live playpath=ELBARTO token=WY846p1E1g15W7s swfUrl=$doregex[swf] live=true timeout=15 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=testfeed</link>
 <regex>
 <name>streamer</name>
-<expres>streamer=(.+?)/live</expres>
-<page>http://www.hqzone.tv/forums/view.php?pg=testfeed</page>
-<referer>http://hqzone.tv/forums/view.php?pg=vipstreams</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=([^&]*)</expres>
+<expres>streamer=rtmp(.+?)/live</expres>
 <page>http://www.hqzone.tv/forums/view.php?pg=testfeed</page>
 <referer>http://hqzone.tv/forums/view.php?pg=vipstreams</referer>
 </regex>
