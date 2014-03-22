@@ -18,7 +18,7 @@
 </dir>
 
 <item>
-<title>[COLOR=FFFF4500]Sky Sports News~[/COLOR]<title>
+<title>[COLOR=FFFF4500]Sky Sports News *[/COLOR]<title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -39,7 +39,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 1~[/COLOR]<title>
+<title>[COLOR=FFFF4500]Sky Sports 1 *[/COLOR]<title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -60,7 +60,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 2~[/COLOR]<title>
+<title>[COLOR=FFFF4500]Sky Sports 2 *[/COLOR]<title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -81,7 +81,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 3~[/COLOR]<title>
+<title>[COLOR=FFFF4500]Sky Sports 3 *[/COLOR]<title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -102,7 +102,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 4~[/COLOR]<title>
+<title>[COLOR=FFFF4500]Sky Sports 4 *[/COLOR]<title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
