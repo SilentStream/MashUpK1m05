@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Golf Fixed and ...[/COLOR]</message>
+<message>[COLOR=FF00FF00]Golf Fixed and...[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -18,7 +18,7 @@
 </dir>
 
 <item>
-<title>[COLOR=FFFF4500]Sky Sports News[/COLOR]<title>
+<title>Sky Sports News..</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -33,13 +33,13 @@
 <referer>http://coolsports.tv</referer>
 </regex>
 </link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 1[/COLOR]<title>
+<title>Sky Sports 1</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -54,13 +54,13 @@
 <referer> </referer>
 </regex>
 </link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 2[/COLOR]<title>
+<title>Sky Sports 2</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -75,13 +75,13 @@
 <referer> </referer>
 </regex>
 </link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 3[/COLOR]<title>
+<title>Sky Sports 3</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -96,13 +96,13 @@
 <referer> </referer>
 </regex>
 </link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 4[/COLOR]<title>
+<title>Sky Sports 4</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -117,12 +117,8 @@
 <referer> </referer>
 </regex>
 </link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-
 <item>
 <title>[COLOR=FFFF4500]BOEU[/COLOR]</title>
 <link>http://94.242.221.141/hls/a-lo/stream47.m3u8</link>
