@@ -21,7 +21,7 @@
 <name>url</name>
 <expres>file': "([^"]+?)"</expres>
 <page>http://www.ilive.to/m/channel.php?n=56660</page>
-<referer>http://www.ilive.to/m/channel.php?n=56660</referer>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
 </link>
 <thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
@@ -35,7 +35,7 @@
 <name>url</name>
 <expres>file': "([^"]+?)"</expres>
 <page>http://www.ilive.to/m/channel.php?n=30303</page>
-<referer>http://www.ilive.to/m/channel.php?n=30303</referer>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
 </link>
 #######################################################################################################################################

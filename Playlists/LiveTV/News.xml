@@ -49,6 +49,12 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]Al Jazeera[/COLOR]</title>
+<link>http://ajam.lsops.net/live/ajam_en_hls.smil/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]BBC World News[/COLOR]</title>
 <link>http://livestation_hls-lh.akamaihd.net/i/bbcworld_en@105465/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
@@ -102,18 +108,18 @@
 
 <item>
 <title>[COLOR=FFFF4500]Euro News[/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge/fg2fwiffpklotoc swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
+<link>http://livestation_hls-lh.akamaihd.net/i/euronews_en@107240/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Fox Business[/COLOR]</title>
-<link>rtmp://159.253.143.20/zenex playpath=foxbusiness11?id=1505 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/foxbusiness11/1/500/400 live=true timeout=10 Conn=S:OK</link>
+<link>rtmp://173.193.223.149/live playpath=foxbusssss?id=194650 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/foxbusssss/1/600/400 live=true timeout=10 Conn=S:OK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_business.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox News NEW[/COLOR]</title>
+<title>[COLOR=FFFF4500]Fox News[/COLOR]</title>
 <link>rtmp://108.59.14.229/live playpath=foxnewsnews?id=195762 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/foxnewsnews/1/500/400 live=true timeout=10 conn=S:OK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
 </item>
@@ -138,14 +144,15 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox 5 News Washington 1[/COLOR]</title>
-<link>http://livestream-f.akamaihd.net/2363281_1763520_90280cc3_1_678@96885?v=3.0.3&fp=WIN%2011,9,900,152&r=OYALJ&g=MFXCDFGGOKRJ</link>
-<thumbnail>http://mosquitosquad.files.wordpress.com/2012/05/mzi-aclnccqc.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=FFFF4500]Fox 5 News Washington 2[/COLOR]</title>
-<link>rtmp://cp154697.live.edgefcs.net:443/live?ovpfv=2.1.5 playpath=WTTG_N5@55162 swfUrl=http://ftpcontent3.worldnow.com/wttg/live/AkamaiFlashPlayer.swf pageUrl=http://ftpcontent3.worldnow.com/wttg/live/Stream5WN.html live=true timeout=10</link>
+<link>$doregex[file]
+<regex>
+<name>file</name>
+<expres>"rtsp_url":"(.+?)"</expres>
+<page>http://new.livestream.com/accounts/2363281/events/1763520/player?autoPlay=true</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://mosquitosquad.files.wordpress.com/2012/05/mzi-aclnccqc.png</thumbnail>
 </item>
 
@@ -156,15 +163,29 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox 11 News LA 4:30-10:30am/12:00-12:30pm/5:00-6:00pm/10:00-11:00pm[/COLOR]</title>
-<link>rtmp://cp154688.live.edgefcs.net:1935/live playpath=KTTV_N1@2717 swfUrl=http://www.myfoxla.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://www.myfoxla.com/category/241718/live-newscast-feed-2 live=true timeout=10</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/51-I8792FWL._SL500_AA300_.png</thumbnail>
+<title>[COLOR=FFFF4500]FOX 31 News Denver[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
+<link>$doregex[file]
+<regex>
+<name>file</name>
+<expres>"rtsp_url":"(.+?)"</expres>
+<page>http://new.livestream.com/accounts/3417789/events/1980088/player?autoPlay=true</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://s2.wp.com/wp-content/themes/vip/localtvcommon/_img/kdvr_logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]FOX 31 News Denver[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>http://api.new.livestream.com/broadcasts/39892378.m3u8?dw=100</link>
-<thumbnail>http://s2.wp.com/wp-content/themes/vip/localtvcommon/_img/kdvr_logo.png</thumbnail>
+<title>[COLOR=FFFF4500]Fox 11 News LA 4:30-10:30am/12:00-12:30pm/5:00-6:00pm/10:00-11:00pm[/COLOR]</title>
+<link>$doregex[file]
+<regex>
+<name>file</name>
+<expres>"rtsp_url":"(.+?)"</expres>
+<page>http://new.livestream.com/accounts/6140873/events/2549324/player?autoPlay=true</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51-I8792FWL._SL500_AA300_.png</thumbnail>
 </item>
 
 <item>
@@ -180,17 +201,8 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]KFOR-TV Oklahoma[/COLOR]</title>
-<link>rtmp://216.156.199.134/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=xha3JkNDob-DtufEX1a5Rh4EkV6gVnRW_640_480_500@18842 swfUrl=http://player.ooyala.com/static/cacheable/3280e9e38589d0dbea99b7806328e0b6/player_v2.swf pageUrl=http://kfor.com/on-air/live-streaming/ live=true timeout=10</link>
-<thumbnail>http://s1.wp.com/wp-content/themes/vip/localtvcommon/_img/kfor_logo.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=FFFF4500]MSNBC[/COLOR]</title>
-<link>
-  <sublink>rtmp://watch.ilive.to/edge playpath=1341ujtliqndod8 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</sublink>
-  <sublink>rtmp://live.cast-tv.us/stream playpath=z00006.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=msnbc live=true timeout=10</sublink>
-</link>
+<link>rtmp://173.193.227.91/live playpath=msnbcbcb?id=194645 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/msnbcbcb/1/600/400 live=true timeout=10 conn=S:OK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
 </item>
 
