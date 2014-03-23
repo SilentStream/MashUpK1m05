@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>ABC 7 Wash Now HD,NHK Fixed, New Fox News Link</message>
+<message>BBC world</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -69,27 +69,30 @@
 <item>
 <title>[COLOR=FFFF4500]BBC World News[/COLOR]</title>
 <link>
+  <sublink>http://livestation_hls-lh.akamaihd.net/i/bbcworld_en@105465/master.m3u8</sublink>
   <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
-  <sublink>rtmp://watch.ilive.to:1935/edge/_definst_/ app=edge/_definst_/?xs=$doregex[appid] playpath=$doregex[path] token=$doregex[tok] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to
+  <sublink>$doregex[url]
 <regex>
-<name>appid</name>
-<expres>\?xs=([^"]*)</expres>
-<page>http://www.ilive.to/view/46461</page>
-<referer> </referer>
+<name>url</name>
+<expres>file': "([^"]+?)"</expres>
+<page>http://www.ilive.to/m/channel.php?n=56660</page>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]BBC World News[/COLOR]</title>
+<link>
+  <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
+  <sublink>$doregex[url]
 <regex>
-<name>path</name>
-<expres>.*file: "([^."]*).flv</expres>
-<page>http://www.ilive.to/view/46461</page>
-<referer> </referer>
+<name>url</name>
+<expres>file': "([^"]+?)"</expres>
+<page>http://www.ilive.to/m/channel.php?n=56660</page>
+<referer>http://www.ilive.to/m/</referer>
 </regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
