@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>BBC world</message>
+<message>..</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 
@@ -78,21 +78,7 @@
 <page>http://www.ilive.to/m/channel.php?n=56660</page>
 <referer>http://www.ilive.to/m/</referer>
 </regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]BBC World News[/COLOR]</title>
-<link>
-  <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
-  <sublink>$doregex[url]
-<regex>
-<name>url</name>
-<expres>file': "([^"]+?)"</expres>
-<page>http://www.ilive.to/m/channel.php?n=56660</page>
-<referer>http://www.ilive.to/m/</referer>
-</regex>
+</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
