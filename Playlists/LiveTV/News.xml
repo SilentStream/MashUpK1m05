@@ -22,24 +22,6 @@
 
 
 ######################################################################################################################################
-<item>
-<title>CNC</title>
-<link>$doregex[rtmp]/live/ playpath=$doregex[file]584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1395208786? pageUrl=http://www.livestation.com/ live=true timeout=10
-<regex>
-<name>rtmp</name>
-<expres>[streamer]=([^']*)/live/</expres>
-<page>http://www.livestation.com/en/cnc</page>
-<referer>http://www.livestation.com/</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=([^']*)584</expres>
-<page>http://www.livestation.com/en/cnc</page>
-<referer>http://www.livestation.com/</referer>
-</regex>
-</link>
-<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=FFFF4500]9 News Colorado[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
@@ -68,18 +50,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]BBC World News[/COLOR]</title>
-<link>
-  <sublink>http://livestation_hls-lh.akamaihd.net/i/bbcworld_en@105465/master.m3u8</sublink>
-  <sublink>rtmp://dvrrtmp1.giniko.com/bbcnews/mp4:bbcnews.stream</sublink>
-  <sublink>$doregex[url]
-<regex>
-<name>url</name>
-<expres>file': "([^"]+?)"</expres>
-<page>http://www.ilive.to/m/channel.php?n=56660</page>
-<referer>http://www.ilive.to/m/</referer>
-</regex>
-</sublink>
-</link>
+<link>http://livestation_hls-lh.akamaihd.net/i/bbcworld_en@105465/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
 </item>
 
@@ -96,6 +67,25 @@
 <title>[COLOR=FFFF4500]City News Toronto[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://cncflash-lh.akamaihd.net/cnc_live_800@101004?videoId=2209888570001&lineUpId=&pubId=593482582001&playerId=1111577692001&affiliateId=&v=2.11.3&fp=WIN%2011%2C7%2C700%2C169&r=XXXXX&g=XXXXXXXXXXXX&v=2.11.3&fp=WIN%2011,7,700,169&r=ZIMSW&g=SGVVMWHJRGXN</link>
 <thumbnail>http://www.citynews.ca/wp-content/themes/citynews.ca/images/common/logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]CNC[/COLOR]</title>
+<link>$doregex[rtmp]/live/ playpath=$doregex[file]584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1395208786? pageUrl=http://www.livestation.com/ live=true timeout=10
+<regex>
+<name>rtmp</name>
+<expres>[streamer]=([^']*)/live/</expres>
+<page>http://www.livestation.com/en/cnc</page>
+<referer>http://www.livestation.com/</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*)584</expres>
+<page>http://www.livestation.com/en/cnc</page>
+<referer>http://www.livestation.com/</referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
 
 <item>
