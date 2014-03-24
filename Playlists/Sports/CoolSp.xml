@@ -578,18 +578,18 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 28</title>
+<title>Stream 28..</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream28.html</page>
+<page>http://cdn.kingofplayers.com/stream3.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream28.html</page>
+<page>http://cdn.kingofplayers.com/stream3.html</page>
 <referer> </referer>
 </regex>
 </link>
