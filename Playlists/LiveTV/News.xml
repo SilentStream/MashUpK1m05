@@ -8,17 +8,11 @@
 </info>
 
 <item>
-<title>[COLOR=FFFF4500]1.3[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<title>[COLOR=FFFF4500]1.4[/COLOR]</title>
+<link>rtmp://$doregex[url] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
 <regex>
 <name>url</name>
-<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/46461/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>app</name>
-<expres>\/?xs=([^"]+?)"</expres>
+<expres>"rtmp:\/\/([^"]+?)"</expres>
 <page>http://www.ilive.to/view/46461/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
