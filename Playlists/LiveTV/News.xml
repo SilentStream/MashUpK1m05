@@ -7,6 +7,30 @@
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
+<item>
+<title>0.1</title>
+<link>rtmp://$doregex[rtmp] app=?$doregex[app] playpath=$doregex[file] swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FacebookPlayer.swf pageUrl=http://www.filmon.com/ live=true timeout=10
+<regex>
+<name>rtmp</name>
+<expres>"rtmp:\/\/([^']*)\/live\/</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2069</page>
+<referer>http://www.filmon.com/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>/?([^']*)"</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2069</page>
+<referer>http://www.filmon.com/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>"name":"([^']*)"</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2069</page>
+<referer>http://www.filmon.com/</referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=FFFF4500]9 News Colorado[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
@@ -83,6 +107,12 @@
 <title>[COLOR=FFFF4500]CNBC[/COLOR]</title>
 <link>http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]CPAC Canada[/COLOR]</title>
+<link>http://brightcove03-f.akamaihd.net//cpac1eDVR13_01_800@141215</link>
+<thumbnail>http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png</thumbnail>
 </item>
 
 <item>
