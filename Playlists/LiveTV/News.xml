@@ -8,7 +8,7 @@
 </info>
 ######################################################################################################################################
 <item>
-<title>0.2</title>
+<title>0.3</title>
 <link>rtmp://$doregex[rtmp]/live app=?$doregex[app] playpath=$doregex[file] swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FacebookPlayer.swf pageUrl=http://www.filmon.com/ live=true timeout=10
 <regex>
 <name>rtmp</name>
@@ -24,7 +24,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>"name":"(.+?*)"</expres>
+<expres>"name":"(.+?)"</expres>
 <page>http://www.filmon.com/tv/channel/export?channel_id=2069</page>
 <referer>http://www.filmon.com/</referer>
 </regex>
