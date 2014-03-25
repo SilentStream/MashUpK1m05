@@ -8,8 +8,8 @@
 </info>
 
 <item>
-<title>[COLOR=FFFF4500]0.9[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=true timeout=10 token=motngaynew1
+<title>[COLOR=FFFF4500]1.0[/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf live=true timeout=10 token=motngaynew1
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
