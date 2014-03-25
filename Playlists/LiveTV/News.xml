@@ -3,30 +3,9 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>..</message>
+<message>Fixed Fox News and CNN Marked [COLOR=FF00FF00]  *  [/COLOR] for same host indicator</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
-
-<item>
-<title>[COLOR=FFFF4500]1.4[/COLOR]</title>
-<link>rtmp://$doregex[url] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
-<regex>
-<name>url</name>
-<expres>"rtmp:\/\/([^"]+?)"</expres>
-<page>http://www.ilive.to/view/46461/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/46461/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
-</item>
-
-
 ######################################################################################################################################
 
 <item>
@@ -107,6 +86,30 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]CNN[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/46461/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/46461/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/46461/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
+</item>
+<item>
 <title>[COLOR=FFFF4500]CNN[/COLOR]</title>
 <link>rtmp://173.193.197.46/app playpath=15757 swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6a4d325a545a6c4d7a453d/7ca9bfe02d0c live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
@@ -131,13 +134,25 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox News[/COLOR]</title>
-<link>$doregex[url]
+<title>[COLOR=FFFF4500]Fox News[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
 <regex>
 <name>url</name>
-<expres>file': "([^"]+?)"</expres>
-<page>http://www.ilive.to/m/channel.php?n=46465</page>
-<referer>http://www.ilive.to/m/</referer>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/46465/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/46465/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/46465/</page>
+<referer>http://www.ilive.to/</referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
@@ -252,12 +267,6 @@
 <title>[COLOR=FFFF4500]Weather Nation[/COLOR]</title>
 <link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf pageUrl=http://www.lyngsat-stream.com/tvchannels/us/WeatherNation.html live=true timeout=10</link>
 <thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/WeatherNation-Logo1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Weather Channel[/COLOR]</title>
-<link>rtmp://watch.ilive.to:1935/edge/0ofj5z5lab0b3ox swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/tt/the_weather_channel_us.png</thumbnail>
 </item>
  
 <item>
