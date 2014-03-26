@@ -8,28 +8,10 @@
 </info>
 ######################################################################################################################################
 <item>
-<title>0.4</title>
-<link>rtmp://$doregex[rtmp]/live app=?$doregex[app] playpath=$doregex[file] swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FacebookPlayer.swf pageUrl=http://www.filmon.com/ live=true timeout=10
-<regex>
-<name>rtmp</name>
-<expres>"rtmp(.+?)\</expres>
-<page>http://www.filmon.com/tv/channel/export?channel_id=2069</page>
-<referer>http://www.filmon.com/</referer>
-</regex>
-<regex>
-<name>app</name>
-<expres>/?(.+?)"</expres>
-<page>http://www.filmon.com/tv/channel/export?channel_id=2069</page>
-<referer>http://www.filmon.com/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>"name":"(.+?)"</expres>
-<page>http://www.filmon.com/tv/channel/export?channel_id=2069</page>
-<referer>http://www.filmon.com/</referer>
-</regex>
+<title>The Weather Network</title>
+<link>http://brightcove03-f.akamaihd.net/nationalhd_1_2000@106499?videoId=3390540381001&lineUpId=2885755745001&pubId=1942203455001&playerId=2875005130001&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=TRYFB&g=GVSCLABKVEQM
 </link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+<thumbnail>http://s2.twnmm.com/images/the-weather-network-logo.png</thumbnail>
 </item>
 
 <item>
