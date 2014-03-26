@@ -34,8 +34,8 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Rob Van Dam Live.[/COLOR]</title>
-<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@156550/master.m3u8
+<title>[COLOR=FFFF4500]Rob Van Dam Live[/COLOR]</title>
+<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@143704/master.m3u8
 <regex>
 <name>file</name>
 <expres>livestreamiphone/(.+?)_1_1500@</expres>
@@ -47,7 +47,7 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]WWE Network[/COLOR].</title>
+<title>[COLOR=FFFF4500]WWE Network[/COLOR]</title>
 <link>
   <sublink>rtmp://108.59.14.229/live playpath=MIPS2?id=198068 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/mips2/1/639/390 live=true timeout=10 conn=S:OK</sublink>
   <sublink>rtmp://75.126.203.130/live playpath=MIPS2?id=198068 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/mips2/1/639/390 live=true timeout=10 conn=S:OK</sublink>
