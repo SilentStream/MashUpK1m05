@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##########################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Streams marked [COLOR=FF00FF00]  *  [/COLOR] are mostly all fixed[/COLOR]</message>
+<message>[COLOR=FF00FF00]CBS [COLOR=FF00FF00]  ***  [/COLOR] AMCs Bravo Disney NBC[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 <info>
@@ -136,8 +136,8 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR=FFFF4500]AMC [/COLOR]</title>
-<link>rtmp://109.123.114.218/zenex playpath=amcnnewss?id=4225 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/amcnnewss/1/500/400 live=true timeout=10 conn=S:OK</link>
+<title>[COLOR=FFFF4500]AMC. [/COLOR]</title>
+<link>rtmp://174.36.169.182/live playpath=amcnewsn?id=195764 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/amcnewsn/1/500/400 live=true timeout=10 conn=S:OK</link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
 
@@ -147,28 +147,21 @@
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/56886/</page>
+<page>http://www.ilive.to/view/58663/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
 <name>app</name>
 <expres>\/?xs=([^"]+?)"</expres>
-<page>http://www.ilive.to/view/56886/</page>
+<page>http://www.ilive.to/view/58663/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/56886/</page>
+<page>http://www.ilive.to/view/58663/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
-</link>
-<thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]AMC [/COLOR]</title>
-<link>rtmp://46.23.67.98:443/liverepeater playpath=stream11 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://cdn.adprudence-scam.com/stream11.html live=true timeout=10 token=#atd%#$ZH
 </link>
 <thumbnail>http://imageshack.us/a/img542/1716/f15h.png</thumbnail>
 </item>
@@ -351,19 +344,19 @@
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/75976/</page>
+<page>http://www.ilive.to/view/57976/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
 <name>app</name>
 <expres>\/?xs=([^"]+?)"</expres>
-<page>http://www.ilive.to/view/75976/</page>
+<page>http://www.ilive.to/view/57976/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/75976/</page>
+<page>http://www.ilive.to/view/57976/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 </link>
@@ -548,19 +541,19 @@
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/53932/</page>
+<page>http://www.ilive.to/view/38804/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
 <name>app</name>
 <expres>\/?xs=([^"]+?)"</expres>
-<page>http://www.ilive.to/view/53932/</page>
+<page>http://www.ilive.to/view/38804/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/53932/</page>
+<page>http://www.ilive.to/view/38804/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 </link>

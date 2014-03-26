@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Golf, SportsNets Fixed and New Sky Sports[/COLOR]</message>
+<message>[COLOR=FF00FF00]ESPN2 NBC Sports[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -75,6 +75,31 @@
   <sublink>rtmp://204.45.157.234/flash playpath=12026 swfVfy=1 swfUrl=http://static2.sawlive.tv/player.swf live=true pageUrl=http://www.sawlive.tv/embed/vrljet1</sublink>
   <sublink>rtmpe://play.finecast.tv:1935/live playPath=espnuss swfUrl=http://www.finecast.tv/player/player.swf swfVfy=1 live=true pageUrl=http://www.finecast.tv/embed.php?u=espnuss</sublink>
   <sublink>rtmp://live.cast-tv.us/stream playpath=z00018.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn live=true timeout=10</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]ESPN2[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/57977/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/57977/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/57977/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
