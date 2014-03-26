@@ -169,8 +169,52 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]NBC Sports[/COLOR]</title>
-<link>rtmp://watch.ilive.to/edge playpath=30sbtmyelnevr80 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/ token=abc109h34 live=true timeout=10</link>
+<title>[COLOR=FFFF4500]NBC Sports[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/61256/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/61256/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/61256/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nbc_sports_network.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]NBC Sports[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/61239/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/61239/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/61239/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nbc_sports_network.png</thumbnail>
 </item>
 
