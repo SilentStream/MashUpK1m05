@@ -36,10 +36,11 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]WWE Network[/COLOR]</title>
+<title>[COLOR=FFFF4500]WWE Network[/COLOR].</title>
 <link>
-  <sublink>rtmp://75.126.203.130/live playpath=MIPS2?id=198068 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/whsportstv9/1/639/390 live=true timeout=10 conn=S:OK</sublink>
+  <sublink>rtmp://75.126.203.130/live playpath=MIPS2?id=198068 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/mips2/1/639/390 live=true timeout=10 conn=S:OK</sublink>
   <sublink>rtmp://149.255.37.19:80/pub playpath=u89rIpfBawmy67Z0bBu7 swfUrl=http://www.icastlive.tv/_.swf pageUrl=http://static.icastlive.tv/embed.php?channel=15107&vw=614&vh=320&domain=ppvdirect.com live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
 </item>
+
