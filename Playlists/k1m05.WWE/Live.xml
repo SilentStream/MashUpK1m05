@@ -34,11 +34,11 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Rob Van Dam Live[/COLOR]</title>
+<title>[COLOR=FFFF4500]Rob Van Dam Live.[/COLOR]</title>
 <link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@156550/master.m3u8
 <regex>
 <name>file</name>
-<expres>livestreamiphone/(.+?)_1_150@</expres>
+<expres>livestreamiphone/(.+?)_1_1500@</expres>
 <page>http://new.livestream.com/api/accounts/5644803/events/2458640/viewing_info</page>
 <referer> </referer>
 </regex>
