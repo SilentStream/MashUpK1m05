@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##########################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]CBS [COLOR=FF00FF00]  ***  [/COLOR] AMCs Bravo Disney NBC[/COLOR]</message>
+<message>[COLOR=FF00FF00]CBS [COLOR=FF00FF00]  ***  [/COLOR] AMCs Bravo Disney NBC...[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 <info>
@@ -20,7 +20,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -46,7 +46,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]ABC Family[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -78,7 +78,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -103,7 +103,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]ABC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -136,7 +136,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]AMC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -162,7 +162,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Animal Planet [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -210,7 +210,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]BET [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -236,7 +236,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Bravo [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -278,7 +278,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]CBS [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -304,7 +304,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]CBS [/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -330,7 +330,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]CBS [/COLOR][COLOR=FF00FF00]  ***  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -356,7 +356,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Comedy Central [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -382,7 +382,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]The CW[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -408,7 +408,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]The CW[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -435,7 +435,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Discovery Channel [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -461,7 +461,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Discovery Channel [/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -487,7 +487,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Discovery Turbo [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -513,7 +513,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Disney [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -538,7 +538,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <title>[COLOR=FFFF4500]Disney Jr.[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -564,7 +564,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Disney Jr.[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -599,7 +599,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]FOX[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -625,7 +625,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]FOX[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -651,7 +651,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Fox Movies[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -677,7 +677,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]FOX Crime[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -703,7 +703,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Food Network[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -774,7 +774,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -799,7 +799,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -824,7 +824,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]HBO Family[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -849,7 +849,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -875,7 +875,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]HBO Plus[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -901,7 +901,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]HBO Comedy[/COLOR][COLOR=FF00FF00]  *  [/COLOR][COLOR=FFFF4500] HD [/COLOR</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -927,7 +927,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]HGTV[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -953,7 +953,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]History UK[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -979,7 +979,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]History[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1006,7 +1006,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Investigation Discovery [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1032,7 +1032,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Investigation Discovery [/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1071,7 +1071,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Nickelodeon[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1105,7 +1105,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]National Geographic [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1131,7 +1131,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]National Geographic [/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1157,7 +1157,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]NBC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1183,7 +1183,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]NBC [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1216,7 +1216,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Nick[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1249,7 +1249,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]OWN[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1292,7 +1292,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Showtime[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1325,7 +1325,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Spike[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1351,7 +1351,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]SYFY[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1376,7 +1376,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]SYFY[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1403,7 +1403,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]TBS[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1439,7 +1439,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]TLC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1465,7 +1465,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]MAX[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1491,7 +1491,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]TNT[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1517,7 +1517,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]TNT[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1550,7 +1550,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]TruTV[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1576,7 +1576,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Travel [COLOR=FFFF0000]SD[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1610,7 +1610,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]USA [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -1636,7 +1636,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]USA [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=udsanjkj827jJHLKJdsa
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
