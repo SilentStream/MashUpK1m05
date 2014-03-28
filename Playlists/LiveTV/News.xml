@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Fox 25 Boston added</message>
+<message>............</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
@@ -146,17 +146,11 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox 25 Boston.[/COLOR]</title>
-<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@$doregex[play]/master.m3u8
+<title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]</title>
+<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@70510/master.m3u8
 <regex>
 <name>file</name>
 <expres>livestreamiphone/(.+?)_1_.+?@</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>play</name>
-<expres>livestreamiphone/.+?_1_@(.+?)/</expres>
 <page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
 <referer> </referer>
 </regex>
