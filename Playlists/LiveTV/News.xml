@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Fixed Fox News and CNN Marked [COLOR=FF00FF00]  *  [/COLOR] for same host indicator</message>
+<message>Fox 25 Boston added</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
@@ -147,7 +147,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]</title>
-<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@156550/master.m3u8
+<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@138101/master.m3u8
 <regex>
 <name>file</name>
 <expres>livestreamiphone/(.+?)_1_198@</expres>
