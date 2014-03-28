@@ -19,7 +19,7 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR].</title>
 <link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=Na179256b626fec29a317197f1f98b68
 <regex>
 <name>url</name>
@@ -952,8 +952,8 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]History UK[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=Na179256b626fec29a317197f1f98b68
+<title>[COLOR=FFFF4500]History UK[/COLOR][COLOR=FF00FF00]  *.  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -971,6 +971,12 @@
 <expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
 <page>http://www.ilive.to/view/59020/</page>
 <referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server.php</page>
+<referer>http://www.ilive.to</referer>
 </regex>
 </link>
 <thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
