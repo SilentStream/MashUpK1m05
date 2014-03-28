@@ -103,19 +103,19 @@
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/46461/</page>
+<page>http://www.ilive.to/view/57832/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
 <name>app</name>
 <expres>\/?xs=([^"]+?)"</expres>
-<page>http://www.ilive.to/view/46461/</page>
+<page>http://www.ilive.to/view/57832/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/46461/</page>
+<page>http://www.ilive.to/view/57832/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
