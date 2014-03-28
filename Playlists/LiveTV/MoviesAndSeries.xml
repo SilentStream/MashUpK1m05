@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF9370DB]Sky Movies are Down[COLOR=FF00FF00]  |  [COLOR=yellow]Series[/COLOR]</message>
+<message>[COLOR=FF9370DB]Movies 1-11 Should work Sky Greats Prem And Thriller Work as well[COLOR=FF00FF00]  |  [COLOR=yellow]Series[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -54,7 +54,7 @@
 ###########################################################---------Veetle---Movies----------########################################## anim 1 4 5 greats prem thr
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Movies 1.[/COLOR]</title>
+<title>[COLOR=FF9370DB]Movies 1[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
@@ -73,7 +73,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52e610b6955aa/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52d8af0b180fe/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -87,7 +87,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/53106fb701635/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52f96bcbe352d/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -129,7 +129,7 @@
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/532504c3ee9b9/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/5306dc5fa6016/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -138,12 +138,12 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Action 1[/COLOR]</title>
+<title>[COLOR=FF9370DB]Movies 7[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/530d359352bec/flash</page>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/52b9de465466a/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -152,12 +152,54 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Action 2[/COLOR].</title>
+<title>[COLOR=FF9370DB]Movies 8[/COLOR].</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>"payload":"(.*)","isLive"</expres>
 <page>http://veetle.com/index.php/channel/ajaxStreamLocation/504b043f4bf4e//flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://www.etgroup.ca/wp-content/uploads/2012/04/Movies.gif</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Movies 9[/COLOR].</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/5305195cb1949//flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://www.etgroup.ca/wp-content/uploads/2012/04/Movies.gif</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Movies 10[/COLOR].</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/521d7104d7aa2//flash</page>
+<referer>http://veetle.com</referer>
+</regex>
+</link>
+<thumbnail>http://www.etgroup.ca/wp-content/uploads/2012/04/Movies.gif</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Movies 11[/COLOR].</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>"payload":"(.*)","isLive"</expres>
+<page>http://veetle.com/index.php/channel/ajaxStreamLocation/515b2f405f40b//flash</page>
 <referer>http://veetle.com</referer>
 </regex>
 </link>
@@ -177,21 +219,6 @@
 </link>
 <thumbnail>http://www.etgroup.ca/wp-content/uploads/2012/04/Movies.gif</thumbnail>
 </item>
-#######################################################################################################################################
-#######################################################################################################################################
-<item>
-<title>[COLOR=FF9370DB]Movie Zone[/COLOR]</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>"payload":"(.*)","isLive"</expres>
-<page>http://veetle.com/index.php/channel/ajaxStreamLocation/ /flash</page>
-<referer>http://veetle.com</referer>
-</regex>
-</link>
-<thumbnail>http://scs.veetle.com/soget/avatar/1855272308/1855272308_20131215231953_52aea9990824d.jpg</thumbnail>
-</item>
-
 #######################################################################################################################################
 #########################################################------------SERIES----------#############################################################
 #######################################################################################################################################
