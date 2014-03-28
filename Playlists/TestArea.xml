@@ -19,6 +19,25 @@
 <link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@156550/master.m3u8
 <regex>
 <name>file</name>
+<expres>livestreamiphone/(.+?)_1_198@</expres>
+<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500].test.[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=11f2eb93cfe49106b5336b9d36ce05de493c5692&mode=1</link>
+<thumbnail>http://mawords.com/images/bloodzeed.tv.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR]</title>
+<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@156550/master.m3u8
+<regex>
+<name>file</name>
 <expres>livestreamiphone/(.+?)_1_150@</expres>
 <page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
 <referer> </referer>
@@ -77,45 +96,4 @@
 </regex>
 </link>
 <thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=FFFF4500]test.[/COLOR]</title>
-<link>$doregex[url]app playpath=freshprince02 swfUrl=http://www.tgun.tv$doregex[swf] pageUrl=http://www.tgun.tv/
-<regex>
-<name>url</name>
-<expres>streamer=(.+?)app</expres>
-<page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
-<referer>http://www.tgun.tv/</referer>
-</regex>
-<regex>
-<name>swf</name>
-<expres>data="(.+?)"</expres>
-<page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
-<referer>http://www.tgun.tv/</referer>
-</regex>
-</link>
-<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR=FFFF4500]test..[/COLOR]</title>
-<link>$doregex[url]app playpath=freshprince02 swfUrl=http://www.tgun.tv$doregex[swf] pageUrl=http://www.tgun.tv/ live=true timeout=10
-<regex>
-<name>url</name>
-<expres>streamer=(.+?)app</expres>
-<page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
-<referer>http://www.tgun.tv/</referer>
-</regex>
-<regex>
-<name>swf</name>
-<expres>data="(.+?)"</expres>
-<page>http://www.tgun.tv/menus/players/dlock/playerindex4.php?seinfeld03</page>
-<referer>http://www.tgun.tv/</referer>
-</regex>
-</link>
-<thumbnail>http://imageshack.us/a/img46/5514/nc9o.png</thumbnail>
 </item>
