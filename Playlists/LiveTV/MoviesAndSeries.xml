@@ -51,14 +51,14 @@
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################
-###########################################################---------Veetle---Movies----------####################################################
+###########################################################---------Veetle---Movies----------########################################## anim 1 4 5 greats prem thr
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Movies 1[/COLOR]</title>
+<title>[COLOR=FF9370DB]Movies 1.[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>"payload":"(.*)","isLive"</expres>
+<expres>"payload":"(.+?)","isLive"</expres>
 <page>http://veetle.com/index.php/channel/ajaxStreamLocation/5094608402fb9/flash</page>
 <referer>http://veetle.com</referer>
 </regex>
