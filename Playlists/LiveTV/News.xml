@@ -3,15 +3,10 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>............</message>
+<message>Fox 25 Boston added, Fox News and CNN Fixed</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500]Metro CB Scanner for Storm Day [COLOR=FFFF0000]Audio[/COLOR]</title>
-<link>http://audio4.radioreference.com/656103530.mp3</link>
-<thumbnail>http://blu.stb.s-msn.com/i/84/A8E5D1761F50F7C981975C7AE3DA.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=FFFF4500]The Weather Network [COLOR=FFFF0000]HD[/COLOR]</title>
@@ -104,7 +99,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]CNN[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -122,6 +117,12 @@
 <expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
 <page>http://www.ilive.to/view/46461/</page>
 <referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_usa.png</thumbnail>
@@ -166,7 +167,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox News[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=motngaynew1
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
 <regex>
 <name>url</name>
 <expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
@@ -184,6 +185,12 @@
 <expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
 <page>http://www.ilive.to/view/46465/</page>
 <referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
