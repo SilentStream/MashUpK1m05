@@ -48,7 +48,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]WWE Network[/COLOR]</title>
-<link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=live live=true timeout=10
+<link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://ppvdirect.com/view.php?pg=live live=true timeout=10
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/live</expres>
@@ -58,6 +58,12 @@
 <regex>
 <name>file</name>
 <expres>file=(.+?)&amp;</expres>
+<page>http://ppvdirect.com/view.php?pg=7</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>swf</name>
+<expres>src="(.+?)"</expres>
 <page>http://ppvdirect.com/view.php?pg=7</page>
 <referer> </referer>
 </regex>
