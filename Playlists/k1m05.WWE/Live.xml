@@ -47,7 +47,7 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>WWE Net Regex try 3</title>
+<title>WWE Net Regex try 4</title>
 <link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=live live=true timeout=10
 <regex>
 <name>rtmp</name>
@@ -57,7 +57,7 @@
 </regex>
 <regex>
 <name>file</name>
-<expres>file=([^']*)&amp;</expres>
+<expres>file=(.+?)&amp;</expres>
 <page>http://ppvdirect.com/view.php?pg=7</page>
 <referer> </referer>
 </regex>
