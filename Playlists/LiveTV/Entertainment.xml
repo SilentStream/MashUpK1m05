@@ -1518,7 +1518,8 @@
 <title>[COLOR=FFFF4500]PBS[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>
   <sublink>rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10</sublink>
-  <sublink>http://livestream-f.akamaihd.net/1537057_2871700_3977de42_1_678@182865</sublink>
+  <sublink>rtsp://213-171.livestream.com:8080/livestreamiphone/1537057_2838159_9088e0a8_1_198@182865</sublink>
+  <sublink>http://livestream-f.akamaihd.net/1537057_2871700_3977de42_1_2320@182865?v=3.0.3&fp=WIN%2012,0,0,77&r=PGEOV&g=FOJHQLLTBDXH</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/oprah_winfrey_network_east.png</thumbnail>
 </item>
