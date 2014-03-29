@@ -10,11 +10,22 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </dir>
 
+<dir>
+<name>[COLOR=FF00FF00]Tonights HBO Boxing is said to be on Link 6[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack1Sched.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR=FF00FF00]Link 1 is LQ for Boxing 4&10 for Supercross[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack1Sched.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</dir>
+
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Link 01[/COLOR]</title>
-<link>rtmp://31.220.0.104:1935/live playpath=cc7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=cc7&vw=620&vh=490
- live=true timeout=10</link>
+<link>rtmp://37.220.36.68:443/liverepeater playpath=20724 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
