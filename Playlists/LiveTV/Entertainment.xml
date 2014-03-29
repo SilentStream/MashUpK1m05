@@ -960,7 +960,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
 <regex>
 <name>url</name>
@@ -1009,37 +1009,6 @@
 <name>path</name>
 <expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
 <page>http://www.ilive.to/view/59887/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
-<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
-<regex>
-<name>url</name>
-<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/36674/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>app</name>
-<expres>\/?xs=([^"]+?)"</expres>
-<page>http://www.ilive.to/view/36674/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/36674/</page>
 <referer>http://www.ilive.to/</referer>
 </regex>
 <regex>
@@ -1214,33 +1183,8 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]History[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
-<regex>
-<name>url</name>
-<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/56822/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>app</name>
-<expres>\/?xs=([^"]+?)"</expres>
-<page>http://www.ilive.to/view/56822/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/56822/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
+<title>[COLOR=FFFF4500]History[/COLOR]</title>
+<link>rtmpe://94.242.228.20:443/liveedge/historyyy2948 </link>
 <thumbnail>http://imageshack.us/a/img607/3204/u366.png</thumbnail>
 </item>
 #######################################################################################################################################
@@ -1572,7 +1516,10 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]PBS[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
-<link>rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10</link>
+<link>
+  <sublink>rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10</sublink>
+  <sublink>http://livestream-f.akamaihd.net/1537057_2871700_3977de42_1_678@182865</sublink>
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/oprah_winfrey_network_east.png</thumbnail>
 </item>
 #######################################################################################################################################

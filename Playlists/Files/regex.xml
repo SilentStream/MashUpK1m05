@@ -7,17 +7,36 @@
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/vod/media</expres>
-<page></page>
+<page>http://sportsnationhd.com/view.php?pg=f1</page>
 <referer>http://sportsnationhd.com/</referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>media&file=([^']*).flv</expres>
-<page></page>
+<page>http://sportsnationhd.com/view.php?pg=f1</page>
 <referer>http://sportsnationhd.com/</referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>WWE Net Regex try</title>
+<link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/live</expres>
+<page>http://ppvdirect.com/view.php?pg=7</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=7</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 <item>
