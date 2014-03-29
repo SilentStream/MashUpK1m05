@@ -47,6 +47,25 @@
 </item>
 #######################################################################################################################################
 <item>
+<title>WWE Net Regex try</title>
+<link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/live</expres>
+<page>http://ppvdirect.com/view.php?pg=7</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=7</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
 <title>[COLOR=FFFF4500]WWE Network[/COLOR]</title>
 <link>
   <sublink>rtmp://108.59.14.229/live playpath=MIPS2?id=198068 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/mips2/1/639/390 live=true timeout=10 conn=S:OK</sublink>
