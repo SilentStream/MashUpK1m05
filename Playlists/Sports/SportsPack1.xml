@@ -5,7 +5,7 @@
 
 #######################################################################################################################################
 <dir>
-<name>[COLOR=FF00FF00]Click me for[/COLOR] [COLOR=red]3/26/14 Schedule[/COLOR]</name>
+<name>[COLOR=FF00FF00]Click me for[/COLOR] [COLOR=red]3/26/14 Schedule...[/COLOR]</name>
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack1Sched.xml</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </dir>
@@ -13,7 +13,8 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Link 01[/COLOR]</title>
-<link>rtmp://edge2.video.vaughnsoft.net:443/live playpath=live_animalplanetlive swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mike7314 live=true timeout=10 token=balls2u swfVfy=true</link>
+<link>rtmp://31.220.0.104:1935/live playpath=cc7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=cc7&vw=620&vh=490
+ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
