@@ -52,11 +52,11 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 6 Dead[/COLOR]</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 6 Dead.[/COLOR]</title>
 <link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@70510/master.m3u8
 <regex>
 <name>file</name>
-<expres>livestreamiphone/(.+?)_1_198@</expres>
+<expres>livestreamiphone/(.+?)_1_.+?@</expres>
 <page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
 <referer> </referer>
 </regex>
