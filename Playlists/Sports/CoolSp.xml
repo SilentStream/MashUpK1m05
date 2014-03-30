@@ -410,14 +410,8 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 20</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream20.html</page>
-<referer> </referer>
-</regex>
+<title>Stream 20.</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
