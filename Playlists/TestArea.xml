@@ -39,11 +39,11 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Cottonland (2006)[/COLOR]</title>
+<title>[COLOR=FFFF4500]CottonLand (2006)[/COLOR]</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>h264_ld_url":"(.+?)","stream_h264_hq_url":"</expres>
+<expres>hq_url":"(.*)","stream</expres>
 <page>http://www.dailymotion.com/embed/video/k31uRXSR6oGbpo5KKmd</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
