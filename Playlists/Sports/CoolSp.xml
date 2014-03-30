@@ -12,7 +12,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 01</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -33,7 +33,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 02</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -54,7 +54,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 03</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -75,7 +75,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 04</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -96,7 +96,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 05</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -117,7 +117,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 06</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -138,7 +138,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 07</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -159,7 +159,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 08</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -180,7 +180,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 09</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -201,7 +201,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 10</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -222,7 +222,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 11</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -243,7 +243,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 12</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -264,7 +264,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 13</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -285,7 +285,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 14</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -306,7 +306,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 15</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -327,7 +327,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 16</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -348,7 +348,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 17</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -369,7 +369,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 18</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -390,7 +390,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 19</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -426,7 +426,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 21</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -447,7 +447,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 22 *</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -468,7 +468,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 23</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -489,7 +489,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 24</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -510,7 +510,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 25</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -531,7 +531,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 26</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -552,7 +552,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 27</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -573,7 +573,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 28</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -594,7 +594,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 29</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -615,7 +615,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 30</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -636,7 +636,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 31</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -664,7 +664,7 @@
 
 <item>
 <title>Stream 32.</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -685,7 +685,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 33</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -706,7 +706,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 34</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -727,7 +727,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 35</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -748,7 +748,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 36</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -769,7 +769,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 37</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -790,7 +790,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 38</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -811,7 +811,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 39</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -832,7 +832,7 @@
 #######################################################################################################################################
 <item>
 <title>Stream 40</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
