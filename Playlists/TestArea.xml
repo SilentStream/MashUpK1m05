@@ -72,18 +72,18 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 4[/COLOR] Testing.</title>
-<link>http://212-133.livestream.com:8080/livestreamiphone/$doregex[file]2000@$doregex[path]/master.m3u8
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 4[/COLOR] Testing...</title>
+<link>http://$doregex[file]2000@$doregex[path]/master.m3u8
 <regex>
 <name>file</name>
-<expres>rtsp://.+?.livestream.com:8080/livestreamiphone/(.+?)150@</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<expres>rtsp://(.+?)150@</expres>
+<page>http://new.livestream.com/accounts/6388794/events/2596592/player</page>
 <referer>http://bigbrothercanada.slice.ca/</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>150@(.+?)"</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<page>http://new.livestream.com/accounts/6388794/events/2596592/player</page>
 <referer>http://bigbrothercanada.slice.ca/</referer>
 </regex>
 </link>
