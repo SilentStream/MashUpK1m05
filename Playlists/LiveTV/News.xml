@@ -33,6 +33,31 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]BT Edmonton Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
+<link>http://btflash-lh.akamaihd.net/BTEDMFLASH_live_5@120223?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
+<regex>
+<name>vidid</name>
+<expres>videoPlayer" value="([^"]+?)"</expres>
+<page>http://www.btedmonton.ca/videos/</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>pubid</name>
+<expres>pubId=([^"]+?)"</expres>
+<page>http://www.btedmonton.ca/videos/</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>plyid</name>
+<expres>playerID" value="([^"]+?)"</expres>
+<page>http://www.btedmonton.ca/videos/</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.bttoronto.ca/wp-content/themes/bt/images/logo.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]BT Vancouver Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTVANFLASH_live_6@120224?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
