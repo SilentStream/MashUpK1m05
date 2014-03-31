@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Fox 25 Boston added, Fox News and CNN Fixed</message>
+<message>Fox 25 Boston Fixed, BT Streams added they only work for morning show</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
@@ -297,14 +297,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]</title>
-<link>http://player.livestream-f.akamaihd.net/i/$doregex[file]_1@70510/master.m3u8
-<regex>
-<name>file</name>
-<expres>livestreamiphone/(.+?)_1_.+?@</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
-<referer> </referer>
-</regex>
-</link>
+<link>http://livestream-f.akamaihd.net/6396048_2598396_6bd45fed_1_678@138112?v=3.0.3&fp=WIN%2012,0,0,77&r=WXCOX&g=DOHCCAJNNVSU</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/71UrgItISlL._SL500_AA300_.png</thumbnail>
 </item>
 
