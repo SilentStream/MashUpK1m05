@@ -15,11 +15,23 @@
 </info>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR]</title>
-<link>http://livestream-f.akamaihd.net/6388794_1191932_119b2307_1_2000@156550?v=3.0.3&fp=WIN%2012,0,0,77&r=ECHGI&g=WGFOBIZEPRYC</link>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR] Test Me Plz</title>
+<link>http://$doregex[file]_1_2000@$doregex[path]/master.m3u8
+<regex>
+<name>file</name>
+<expres>rtsp://(.+?)_1_</expres>
+<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>150@(.+?)"</expres>
+<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
 </item>
-
 <item>
 <title>[COLOR=FFFF4500]Big Brother Canada Camera 2[/COLOR]</title>
 <link>http://livestream-f.akamaihd.net/6388794_1191932_3a18d256_1_2000@156550?v=3.0.3&fp=WIN%2012,0,0,77&r=UFVGO&g=BRGWBPHEFXNP</link>
