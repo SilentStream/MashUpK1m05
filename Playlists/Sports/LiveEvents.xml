@@ -35,14 +35,14 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>NBA Raptors Test</title>
-<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<title>Metamoris 3</title>
+<link>$doregex[url]
 <regex>
-<name>file</name>
-<expres>fid=.+?(.+?)';</expres>
-<page>http://cricfree.tv/update/snone.php</page>
-<referer>http://cricfree.tv/</referer>
+<name>url</name>
+<expres>"progressive_url_hd":"(.+?)"</expres>
+<page>http://new.livestream.com/accounts/1537057/events/2838159/videos/46580045/player?width=943&height=820&autoPlay=true&mute=false</page>
+<referer> </referer>
 </regex>
 </link>
-<thumbnail>https://pbs.twimg.com/profile_images/1924547160/Raptors_Logo.jpg</thumbnail>
+<thumbnail>http://cdn.fansided.com/wp-content/blogs.dir/229/files/2014/01/1013230_10151906589227773_514886919_n.jpg</thumbnail>
 </item>
