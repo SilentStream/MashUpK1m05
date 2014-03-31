@@ -102,3 +102,22 @@
 </link>
 <thumbnail>http://www.alluc.to/thumbnails/8497l/Cottonland.jpg</thumbnail>
 </item>
+
+<item>
+<title>Test2</title>
+<link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/live</expres>
+<page></page>
+<referer>http://sportsnationhd.com/view.php?pg=weeklyrawstream</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>media&file=([^']*)&amp;</expres>
+<page></page>
+<referer>http://sportsnationhd.com/view.php?pg=weeklyrawstream</referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
