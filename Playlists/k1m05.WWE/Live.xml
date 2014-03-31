@@ -4,13 +4,13 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>rtmp://ppvmania.tv/live playpath=ch1free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=1 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s‏</link>
+<link>rtmp://ppvmania.tv:1935/live playpath=ch1free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=1</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
-<link>rtmp://server2.ppvmania.tv/live playpath=ch2free swfUrl=http://www.hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10 token=WY846p1E1g15W7s‏</link>
+<link>rtmp://server2.ppvmania.tv:1935/live playpath=ch2free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=2</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
