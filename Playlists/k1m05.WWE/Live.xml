@@ -45,9 +45,19 @@
 </link>
 <thumbnail>http://tradiov.com/la/wp-content/uploads/2014/01/trv-on-air-show-art-rvd.png</thumbnail>
 </item>
+
+
+
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]WWE Network[/COLOR]</title>
+<title>[COLOR=FFFF4500]WWE Network 1[/COLOR]</title>
+<link>rtmp://198.27.68.72/live playpath=networku swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=7 live=true timeout=10</link>
+<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=FFFF4500]WWE Network 2[/COLOR]</title>
 <link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://ppvdirect.com/view.php?pg=live live=true timeout=10
 <regex>
 <name>rtmp</name>
@@ -71,4 +81,3 @@
 <thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
 </item>
 
-\
