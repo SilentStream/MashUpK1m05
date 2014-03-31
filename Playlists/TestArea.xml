@@ -104,7 +104,7 @@
 </item>
 
 <item>
-<title>Test4</title>
+<title>Test5</title>
 <link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
 <regex>
 <name>rtmp</name>
@@ -114,7 +114,7 @@
 </regex>
 <regex>
 <name>file</name>
-<expres>file=([^']*)&amp;</expres>
+<expres>file=(.+?)&amp;</expres>
 <page>http://sportsnationhd.com/view.php?pg=weeklyrawstream</page>
 <referer> </referer>
 </regex>
