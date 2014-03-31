@@ -91,19 +91,6 @@
 </item>
 
 <item>
-<title>Metamoris 3 try 2</title>
-<link>$doregex[url]
-<regex>
-<name>url</name>
-<expres>"progressive_url_hd":"(.+?)"</expres>
-<page>http://new.livestream.com/accounts/1537057/events/2838159/videos/46580045/player?width=943&height=820&autoPlay=true&mute=false</page>
-<referer>http://www.dailymotion.com/</referer>
-</regex>
-</link>
-<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=FFFF4500]CottonLand (2006)[/COLOR]</title>
 <link>$doregex[url]
 <regex>
