@@ -15,19 +15,19 @@
 </info>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR] Testing...</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR] Testing</title>
 <link>http://$doregex[file]_1_2000@$doregex[path]/master.m3u8
 <regex>
 <name>file</name>
 <expres>rtsp://(.+?)_1_</expres>
-<page>http://new.livestream.com/accounts/6388794/events/2596592/player</page>
-<referer> </referer>
+<page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
+<referer>http://bigbrothercanada.slice.ca/</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>150@(.+?)"</expres>
-<page>http://new.livestream.com/accounts/6388794/events/2596592/player</page>
-<referer> </referer>
+<page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
+<referer>http://bigbrothercanada.slice.ca/</referer>
 </regex>
 </link>
 <thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
