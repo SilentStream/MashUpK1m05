@@ -34,18 +34,18 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR] Testing.</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 2[/COLOR] Testing.</title>
 <link>http://212-133.livestream.com:8080/livestreamiphone/$doregex[file]2000@$doregex[path]/master.m3u8
 <regex>
 <name>file</name>
 <expres>rtsp://.+?.livestream.com:8080/livestreamiphone/(.+?)150@</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701973/viewing_info</page>
 <referer>http://bigbrothercanada.slice.ca/</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>150@(.+?)"</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701973/viewing_info</page>
 <referer>http://bigbrothercanada.slice.ca/</referer>
 </regex>
 </link>
@@ -53,18 +53,37 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR] Testing.</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 3[/COLOR] Testing.</title>
 <link>http://212-133.livestream.com:8080/livestreamiphone/$doregex[file]2000@$doregex[path]/master.m3u8
 <regex>
 <name>file</name>
 <expres>rtsp://.+?.livestream.com:8080/livestreamiphone/(.+?)150@</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701980/viewing_info</page>
 <referer>http://bigbrothercanada.slice.ca/</referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>150@(.+?)"</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701980/viewing_info</page>
+<referer>http://bigbrothercanada.slice.ca/</referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 4[/COLOR] Testing.</title>
+<link>http://212-133.livestream.com:8080/livestreamiphone/$doregex[file]2000@$doregex[path]/master.m3u8
+<regex>
+<name>file</name>
+<expres>rtsp://.+?.livestream.com:8080/livestreamiphone/(.+?)150@</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<referer>http://bigbrothercanada.slice.ca/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>150@(.+?)"</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
 <referer>http://bigbrothercanada.slice.ca/</referer>
 </regex>
 </link>
