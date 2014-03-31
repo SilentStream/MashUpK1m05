@@ -103,21 +103,4 @@
 <thumbnail>http://www.alluc.to/thumbnails/8497l/Cottonland.jpg</thumbnail>
 </item>
 
-<item>
-<title>Test5</title>
-<link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
-<regex>
-<name>rtmp</name>
-<expres>streamer=([^']*)/live</expres>
-<page>http://sportsnationhd.com/view.php?pg=weeklyrawstream</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=(.+?)&amp;</expres>
-<page>http://sportsnationhd.com/view.php?pg=weeklyrawstream</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-</item>
+
