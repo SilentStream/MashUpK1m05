@@ -15,18 +15,18 @@
 </info>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR] Testing</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR] Testing...</title>
 <link>http://$doregex[file]_1_2000@$doregex[path]/master.m3u8
 <regex>
 <name>file</name>
 <expres>rtsp://(.+?)_1_</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<page>http://new.livestream.com/accounts/6388794/events/2596592/player</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>150@(.+?)"</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<page>http://new.livestream.com/accounts/6388794/events/2596592/player</page>
 <referer> </referer>
 </regex>
 </link>
