@@ -2,6 +2,12 @@
 <poster>k1m05</poster>
 <fanart>http://images6.fanpop.com/image/photos/35100000/Paige-wwe-35136815-1284-722.jpg</fanart>
 #######################################################################################################################################
+
+<info>
+<message>[COLOR=FF00FF00]WWE Network 2 fixed[/COLOR]</message>
+<thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
+</info>
+
 <item>
 <title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server5.ppvmania.tv/live/ playpath=channel1free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=1</link>
@@ -63,13 +69,6 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]WWE Network 1[/COLOR]</title>
-<link>rtmp://198.27.68.72/live playpath=networku swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=7 live=true timeout=10</link>
-<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=FFFF4500]WWE Network 2[/COLOR]</title>
 <link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=$doregex[swf] pageUrl=http://ppvdirect.com/view.php?pg=live live=true timeout=10
 <regex>
 <name>rtmp</name>
@@ -95,7 +94,7 @@
 
 
 <item>
-<title>[COLOR=FFFF4500]WWE Network 3[/COLOR]</title>
+<title>[COLOR=FFFF4500]WWE Network 2[/COLOR]</title>
 <link>rtmpe://94.242.228.20:443/liveedge/ playpath=BestInTheWorld4785 pageUrl=http://zingo.tv/watch.php?id=517&width=639&height=390 live=true timeout=10</link>
 <thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
 </item>
