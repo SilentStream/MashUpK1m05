@@ -13,114 +13,150 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Link 01[/COLOR]</title>
-<link>rtmp://37.220.36.68:443/liverepeater playpath=20724 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH</link>
+<link>rtmp://5.79.75.129:2195/live/channel101 swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_1 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 02[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed</link>
+<link>rtmp://5.79.75.129:2195/live/channel1234 swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_2 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 03[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=channel2v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live3/channel13a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_3 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 04[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live4/channel14a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_4 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 05[/COLOR]</title>
-<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live3/channel15a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_5 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 06[/COLOR]</title>
-<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏‏</link>
+<link>rtmp://5.79.75.129:2195/live/channel16b swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_6 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 07[/COLOR]</title>
-<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏‏</link>
+<link>rtmp://5.79.75.129:2195/live2/channel17bb swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_7 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 08[/COLOR]</title>
-<link>rtmp://server2.ppvmania.tv:1935/live playpath=channel7v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live3/channel18aa swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_8 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 09[/COLOR]</title>
-<link>rtmp://server2.ppvmania.tv:1935/live playpath=channel8v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live4/channel19 swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_9 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 10[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTOVIP swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏‏</link>
+<link>rtmp://5.79.75.129:2195/live4/channel10a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_10 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 11[/COLOR]</title>
-<link>rtmp://server2.ppvmania.tv:1935/live playpath=channel10v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live4/channel11a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_11 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 12[/COLOR]</title>
-<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel11v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏‏</link>
+<link>rtmp://5.79.75.129:2195/live3/channel12a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_12 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 13[/COLOR]</title>
-<link>rtmp://ppvmania.tv:1935/live playpath=channel12v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏‏</link>
+<link>rtmp://5.79.75.129:2195/live2/channel13a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_13 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 14[/COLOR]</title>
-<link>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live2/channel14a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_14 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 15[/COLOR]</title>
-<link>rtmp://ppvmania.tv:1935/live playpath=ch1free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏‏</link>
+<link>rtmp://5.79.75.129:2195/live3/channel15bb swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_15 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 16[/COLOR]</title>
-<link>rtmp://server2.ppvmania.tv:1935/live playpath=ch2free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live/channel16bb swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_16 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 17[/COLOR]</title>
-<link>rtmp://ppvmania.tv/live playpath=ch3free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live2/channel17a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_17 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 18[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv/live playpath=ch5 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏‏</link>
+<link>rtmp://5.79.75.129:2195/live2/channel18a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_18 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]Link 19[/COLOR]</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=ELBARTO swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</link>
+<link>rtmp://5.79.75.129:2195/live2/channel19a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_19 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Link 20[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live2/channel20a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_20 token=srdR4BagmxxTAjQ live=true timeout=10</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Link 21[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live3/channel21a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_21 token=srdR4BagmxxTAjQ live=true timeout=10</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Link 22[/COLOR]</title>
+<link>rtmp://server5.ppvmania.tv/live/ playpath=channel1free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=1</link>
+<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Link 23[/COLOR]</title>
+<link>rtmp://server5.ppvmania.tv/live/ playpath=channel2free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=2</link>
+<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Link 24[/COLOR]</title>
+<link>rtmp://server5.ppvmania.tv/live/ playpath=ELBARTO swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=2</link>
+<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Link 25[/COLOR]</title>
+<link>rtmp://37.49.224.102/live/ playpath=weeklyrawstream swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=weeklyrawstream live=true timeout=10</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
