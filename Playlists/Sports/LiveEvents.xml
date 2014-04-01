@@ -10,6 +10,12 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </dir>
 #######################################################################################################
+<popup>
+<name>Buffering info</name>
+<popImage>http://i1121.photobucket.com/albums/l514/k1m05_/Untitled.png</popImage>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
+</popup>
+
 <dir>
 <name>[COLOR=yellow]Sports Pack 2[/COLOR] [COLOR=red]LQ[/COLOR] WIP</name>
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/CoolSp.xml</link>
