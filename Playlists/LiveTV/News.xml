@@ -3,12 +3,12 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Fox 25 Boston Fixed, BT Streams added they only work for morning show</message>
+<message>BT Winnepeg fixed, BT Streams added they only work for morning show</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]BT Montreal Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR] Offline now may work tomorrow</title>
+<title>[COLOR=FFFF4500]BT Montreal Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTMTLFLASH_live_2@120220?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
 <name>vidid</name>
@@ -34,7 +34,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]BT Winnipeg Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
-<link>http://btflash-lh.akamaihd.net/BTWINFLASH_live_4@120221?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
+<link>http://btflash-lh.akamaihd.net/BTWINFLASH_live_4@120222?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
 <name>vidid</name>
 <expres>videoPlayer" value="([^"]+?)"</expres>
