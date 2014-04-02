@@ -174,6 +174,8 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail> 
 </item>
 
+<item>
+<title>[COLOR=FFFF4500]Golf[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
 <regex>
 <name>url</name>
@@ -200,6 +202,8 @@
 <referer>http://www.ilive.to</referer>
 </regex>
 </link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/golf_channel_us.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=FFFF4500]NBATV a[/COLOR]</title>
