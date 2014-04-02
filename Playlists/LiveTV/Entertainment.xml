@@ -1567,7 +1567,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Showtime[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<title>[COLOR=FFFF4500]Showtime[/COLOR][COLOR=FF00FF00]  **  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
 <regex>
 <name>url</name>
