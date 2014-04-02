@@ -10,15 +10,28 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
-<link>rtmp://142.4.209.22/misc playpath=98royalrumble swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=rumble98</link>
+<title>1. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=wwe981</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=wwe981</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
 #######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]No Way Out of Texas: In Your House (February 15, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>2. [COLOR=red]WWE[/COLOR]: [COLOR=white]No Way Out of Texas: In Your House (February 15, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98nowayout swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=nowayout98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -26,7 +39,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]WrestleMania XIV (March 29, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>3. [COLOR=red]WWE[/COLOR]: [COLOR=white]WrestleMania XIV (March 29, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=mania14 swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=mania14</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -34,7 +47,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Unforgiven: In Your House (April 26, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>4. [COLOR=red]WWE[/COLOR]: [COLOR=white]Unforgiven: In Your House (April 26, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98unforgiven swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=unforgiven98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -42,7 +55,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Over the Edge: In Your House (May 31, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>5. [COLOR=red]WWE[/COLOR]: [COLOR=white]Over the Edge: In Your House (May 31, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98overtheedge swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=overtheedge98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -50,7 +63,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]King of the Ring (June 28, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>6. [COLOR=red]WWE[/COLOR]: [COLOR=white]King of the Ring (June 28, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98kingofthering swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=kingofthering98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -58,7 +71,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Fully Loaded: In Your House (July 26, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>7. [COLOR=red]WWE[/COLOR]: [COLOR=white]Fully Loaded: In Your House (July 26, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98fullyloaded swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=fullyloaded98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -66,7 +79,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]SummerSlam (August 30, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>8. [COLOR=red]WWE[/COLOR]: [COLOR=white]SummerSlam (August 30, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98summerslam swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=summerslam98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -74,7 +87,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Breakdown: In Your House (September 27, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>9. [COLOR=red]WWE[/COLOR]: [COLOR=white]Breakdown: In Your House (September 27, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98breakdown swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=breakdown98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -82,7 +95,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Judgment Day: In Your House (October 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>10. [COLOR=red]WWE[/COLOR]: [COLOR=white]Judgment Day: In Your House (October 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98judgementday swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=judgementday98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -90,7 +103,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Survivor Series (October 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>11. [COLOR=red]WWE[/COLOR]: [COLOR=white]Survivor Series (October 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98survivorseries swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=survivorseries98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -98,7 +111,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Capital Carnage (December 6, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>12. [COLOR=red]WWE[/COLOR]: [COLOR=white]Capital Carnage (December 6, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98capitalcarnage swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=capitalcarnage98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -106,7 +119,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Rock Bottom: In Your House (December 13, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>13. [COLOR=red]WWE[/COLOR]: [COLOR=white]Rock Bottom: In Your House (December 13, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98rockbottom swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=rockbottom98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -114,7 +127,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 24, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>14. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 24, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99rumble swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=rumble99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -122,7 +135,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]St. Valentine's Day Massacre: In Your House (February 14, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>15. [COLOR=red]WWE[/COLOR]: [COLOR=white]St. Valentine's Day Massacre: In Your House (February 14, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99valetine swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=valentine99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -130,7 +143,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]WrestleMania XV (March 28, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>16. [COLOR=red]WWE[/COLOR]: [COLOR=white]WrestleMania XV (March 28, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=mania15 swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=mania15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -138,7 +151,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Backlash: In Your House (April 25, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>17. [COLOR=red]WWE[/COLOR]: [COLOR=white]Backlash: In Your House (April 25, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99backlash swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=backlash99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -146,7 +159,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Over the Edge (May 23, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>18. [COLOR=red]WWE[/COLOR]: [COLOR=white]Over the Edge (May 23, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99overtheedge swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=overtheedge99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -154,7 +167,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]King of the Ring (June 27, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>19. [COLOR=red]WWE[/COLOR]: [COLOR=white]King of the Ring (June 27, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99kingofthering swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=kingofthering99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -162,7 +175,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Fully Loaded (July 25, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>20. [COLOR=red]WWE[/COLOR]: [COLOR=white]Fully Loaded (July 25, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99fullyloaded swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=fullyloaded99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -170,7 +183,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]SummerSlam (August 22, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>21. [COLOR=red]WWE[/COLOR]: [COLOR=white]SummerSlam (August 22, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99summerslam swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=summerslam99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -178,7 +191,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Unforgiven (September 26, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>22. [COLOR=red]WWE[/COLOR]: [COLOR=white]Unforgiven (September 26, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99unforgiven swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=unforgiven99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -186,7 +199,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Rebellion (October 2, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>23. [COLOR=red]WWE[/COLOR]: [COLOR=white]Rebellion (October 2, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99rebellion swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=rebellion99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -194,7 +207,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]No Mercy (October 17, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>24. [COLOR=red]WWE[/COLOR]: [COLOR=white]No Mercy (October 17, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99nomercy swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=nomercy99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -202,7 +215,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Survivor Series (November 14, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>25. [COLOR=red]WWE[/COLOR]: [COLOR=white]Survivor Series (November 14, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99survivorseries swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=survivorseries99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -210,7 +223,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Armageddon (December 12, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>26. [COLOR=red]WWE[/COLOR]: [COLOR=white]Armageddon (December 12, 1999)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=99armageddon swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=armageddon99</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
