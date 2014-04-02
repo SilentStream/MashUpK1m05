@@ -10,8 +10,27 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
-<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=wwe981
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=wwe981</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=wwe981</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)..[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=wwe981
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/misc</expres>
@@ -31,7 +50,7 @@
 
 #######################################################################################################################################
 <item>
-<title>2. [COLOR=red]WWE[/COLOR]: [COLOR=white]No Way Out of Texas: In Your House (February 15, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>02. [COLOR=red]WWE[/COLOR]: [COLOR=white]No Way Out of Texas: In Your House (February 15, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98nowayout swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=nowayout98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -39,7 +58,7 @@
 
 #######################################################################################################################################
 <item>
-<title>3. [COLOR=red]WWE[/COLOR]: [COLOR=white]WrestleMania XIV (March 29, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>03. [COLOR=red]WWE[/COLOR]: [COLOR=white]WrestleMania XIV (March 29, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=mania14 swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=mania14</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -47,7 +66,7 @@
 
 #######################################################################################################################################
 <item>
-<title>4. [COLOR=red]WWE[/COLOR]: [COLOR=white]Unforgiven: In Your House (April 26, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>04. [COLOR=red]WWE[/COLOR]: [COLOR=white]Unforgiven: In Your House (April 26, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98unforgiven swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=unforgiven98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -55,7 +74,7 @@
 
 #######################################################################################################################################
 <item>
-<title>5. [COLOR=red]WWE[/COLOR]: [COLOR=white]Over the Edge: In Your House (May 31, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>05. [COLOR=red]WWE[/COLOR]: [COLOR=white]Over the Edge: In Your House (May 31, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98overtheedge swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=overtheedge98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -63,7 +82,7 @@
 
 #######################################################################################################################################
 <item>
-<title>6. [COLOR=red]WWE[/COLOR]: [COLOR=white]King of the Ring (June 28, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>06. [COLOR=red]WWE[/COLOR]: [COLOR=white]King of the Ring (June 28, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98kingofthering swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=kingofthering98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -71,7 +90,7 @@
 
 #######################################################################################################################################
 <item>
-<title>7. [COLOR=red]WWE[/COLOR]: [COLOR=white]Fully Loaded: In Your House (July 26, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>07. [COLOR=red]WWE[/COLOR]: [COLOR=white]Fully Loaded: In Your House (July 26, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98fullyloaded swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=fullyloaded98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -79,7 +98,7 @@
 
 #######################################################################################################################################
 <item>
-<title>8. [COLOR=red]WWE[/COLOR]: [COLOR=white]SummerSlam (August 30, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>08. [COLOR=red]WWE[/COLOR]: [COLOR=white]SummerSlam (August 30, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98summerslam swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=summerslam98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
@@ -87,7 +106,7 @@
 
 #######################################################################################################################################
 <item>
-<title>9. [COLOR=red]WWE[/COLOR]: [COLOR=white]Breakdown: In Your House (September 27, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
+<title>09. [COLOR=red]WWE[/COLOR]: [COLOR=white]Breakdown: In Your House (September 27, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>rtmp://142.4.209.22/misc playpath=98breakdown swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=breakdown98</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </item>
