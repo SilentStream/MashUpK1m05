@@ -5,7 +5,7 @@
 #######################################################################################################################################
 
 <info>
-<message>[COLOR=FF00FF00]....[/COLOR]</message>
+<message>[COLOR=FF00FF00]Big[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 
@@ -29,21 +29,21 @@
 
 <item>
 <title>[COLOR=FFFF4500]Big Brother Canada Camera 4[/COLOR]</title>
-<link>rtsp://212-125.livestream.com:8080/livestreamiphone/6388794_1191932_e9f71f01_1_150@156550</link>
+<link>rtsp://212-125.livestream.com:8080/livestreamiphone/6388794_1191932_e9f71f01_1_550@156550</link>
 <thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]CottonLand (2006)[/COLOR]</title>
-<link>$doregex[url]
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 4 RexEx 1[/COLOR]</title>
+<link>rtsp://$doregex[svr]550@156550
 <regex>
-<name>url</name>
-<expres>hq_url":"(.+?)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/x1kpaje</page>
-<referer>http://www.dailymotion.com/</referer>
+<name>svr</name>
+<expres>rtsp://(.+?)_1_</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<referer> </referer>
 </regex>
-</link>
-<thumbnail>http://www.alluc.to/thumbnails/8497l/Cottonland.jpg</thumbnail>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
 </item>
+
 
 
