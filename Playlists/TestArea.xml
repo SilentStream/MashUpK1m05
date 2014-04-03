@@ -43,7 +43,7 @@
 <link>rtsp://$doregex[svr]550@156550
 <regex>
 <name>svr</name>
-<expres>rtsp://([^"]+?).livestream.com</expres>
+<expres>rtsp://(.?).livestream.com</expres>
 <page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
 <referer> </referer>
 </link>
