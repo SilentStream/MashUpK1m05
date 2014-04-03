@@ -311,29 +311,23 @@
 
 <item>
 <title>[COLOR=FFFF4500]Sportsnet World[/COLOR]</title>
-<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
-<regex>
-<name>file</name>
-<expres>fid=.+?(.+?)';</expres>
-<page>http://cricfree.tv/update/setcafl.php</page>
-<referer>http://cricfree.tv/</referer>
-</regex>
-</link>
+<link><link>rtmpe://46.246.124.13:1935/redirect playpath=snon swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_world.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Sportsnet Ontario *[/COLOR]</title>
+<title>[COLOR=FFFF4500]Sportsnet Ontario[/COLOR]</title>
 <link>rtmpe://46.246.124.13:1935/redirect playpath=snon swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_ontario.png</thumbnail>
 </item>
+rtmp://31.220.0.133:1935/live<playpath>s1 <swfUrl>http://p.jwpcdn.com/6/8/jwplayer.flash.swf <pageUrl>http://www.eucast.tv/embed.php?live=s1&vw=620&vh=490
 
 <item>
-<title>[COLOR=FFFF4500]Sportsnet One[/COLOR]</title>
+<title>[COLOR=FFFF4500]Sportsnet One.[/COLOR]</title>
 <link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
 <regex>
 <name>file</name>
-<expres>fid=.+?(.+?)';</expres>
+<expres>fid='(.+?)';</expres>
 <page>http://cricfree.tv/update/snone.php</page>
 <referer>http://cricfree.tv/</referer>
 </regex>
