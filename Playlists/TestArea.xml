@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 RexEx 4[/COLOR]</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 RexEx 5[/COLOR]</title>
 <link>rtsp://$doregex[svr]550@156550
 <regex>
 <name>svr</name>
