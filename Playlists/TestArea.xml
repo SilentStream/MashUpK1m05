@@ -10,7 +10,7 @@
 </info>
 
 <info>
-<message>[COLOR=FF00FF00]...and they are gone again.../COLOR]</message>
+<message>[COLOR=FF00FF00]...and they are gone again...[/COLOR]</message>
 <thumbnail>http://bigbrothercanada.slice.ca/asset/img/logos/bb-logo-header.png</thumbnail>
 </info>
 
@@ -39,11 +39,11 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 RexEx 3[/COLOR]</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 RexEx 4[/COLOR]</title>
 <link>rtsp://$doregex[svr]550@156550
 <regex>
 <name>svr</name>
-<expres>rtsp://([^"]+?)_1_</expres>
+<expres>rtsp://([^"]+?).livestream.com</expres>
 <page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
 <referer> </referer>
 </link>
