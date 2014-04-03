@@ -41,6 +41,7 @@
 <expres>rtsp://(.+?)_1_</expres>
 <page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
 <referer> </referer>
+</link>
 </regex>
 <thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
 </item>
