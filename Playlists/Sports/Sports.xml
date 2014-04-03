@@ -329,7 +329,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Sportsnet Ontario ***[/COLOR]</title>
+<title>[COLOR=FFFF4500]Sportsnet Ontario **[/COLOR]</title>
 <link>rtmpe://46.246.124.13:1935/redirect playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
 <regex>
 <name>path</name>
