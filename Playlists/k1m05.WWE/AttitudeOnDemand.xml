@@ -10,25 +10,6 @@
 
 #######################################################################################################################################
 <item>
-<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR] *</title>
-<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=7
-<regex>
-<name>rtmp</name>
-<expres>streamer=([^']*)/misc</expres>
-<page>http://ppvdirect.com/view.php?pg=wwe981</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=([^']*).flv</expres>
-<page>http://ppvdirect.com/view.php?pg=wwe981</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
-</item>
-#######################################################################################################################################
-<item>
 <title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)..[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
 <link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=wwe981
 <regex>
