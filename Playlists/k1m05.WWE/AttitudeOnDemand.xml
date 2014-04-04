@@ -10,8 +10,8 @@
 
 #######################################################################################################################################
 <item>
-<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
-<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=wwe981
+<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Royal Rumble (January 18, 1998)[/COLOR] [COLOR=FFFF4500][/COLOR] *</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=7
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/misc</expres>
