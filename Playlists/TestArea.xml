@@ -113,8 +113,8 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 4 HD[/COLOR]</title>
-<link>http://$doregex[svr]1_2000@156550/master.m3u8
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 4 HD*[/COLOR]</title>
+<link>http://$doregex[svr]1_2320@156550/master.m3u8
 <regex>
 <name>svr</name>
 <expres>rtsp://([^']*)1_150</expres>
