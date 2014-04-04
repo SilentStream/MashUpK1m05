@@ -15,6 +15,18 @@
 </item>
 
 <item>
+<title>1. [COLOR=FFFF4500]WWE Network *[/COLOR]</title>
+<link>rtmp://198.27.68.72/live playpath=networku swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=9 live=true timeout=10</link>
+<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
+</item>
+
+<item>
+<title>1. [COLOR=FFFF4500]WWE Network *[/COLOR]</title>
+<link>rtmp://208.43.175.45/stream playpath=sdfsdfdddss?id=120338 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/sdfsdfdddss/1/639/390 live=true timeout=10</link>
+<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
+</item>
+
+<item>
 <title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
 <link>rtmp://server5.ppvmania.tv/live/ playpath=channel1free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=1</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
@@ -69,12 +81,5 @@
 </link>
 <thumbnail>http://tradiov.com/la/wp-content/uploads/2014/01/trv-on-air-show-art-rvd.png</thumbnail>
 </item>
-
-
-
 #######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500]WWE Network[/COLOR]</title>
-<link>rtmp://208.43.175.45/stream playpath=sdfsdfdddss?id=120338 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/sdfsdfdddss/1/639/390 live=true timeout=7</link>
-<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
-</item>
+
