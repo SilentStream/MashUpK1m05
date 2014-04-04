@@ -296,8 +296,28 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]</title>
-<link>http://livestream-f.akamaihd.net/6396048_2598396_6bd45fed_1_678@138112?v=3.0.3&fp=WIN%2012,0,0,77&r=WXCOX&g=DOHCCAJNNVSU</link>
+<title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]*</title>
+<link>http://$doregex[svr]1_2320@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_198</expres>
+<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 LQ[/COLOR]</title>
+<link>http://$doregex[svr]1_150@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/71UrgItISlL._SL500_AA300_.png</thumbnail>
 </item>
 
