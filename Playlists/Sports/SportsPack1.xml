@@ -10,7 +10,13 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </dir>
 
+<info>
+<message>[COLOR=FF00FF00]Belfast Boxing [/COLOR][COLOR=pink]  Live Right Now[/COLOR][COLOR=FF00FF00] Link 10[/COLOR]/message>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
+</info>
+
 #######################################################################################################################################
+
 <item>
 <title>[COLOR=FFFF4500]Link 01[/COLOR]</title>
 <link>rtmp://5.79.75.129:2195/live/channel101 swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_1 token=srdR4BagmxxTAjQ live=true timeout=10</link>
