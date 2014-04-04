@@ -15,14 +15,14 @@
 </item>
 
 <item>
-<title>1. [COLOR=FFFF4500]WWE Network *[/COLOR]</title>
+<title>1. [COLOR=FFFF4500]WWE Network **[/COLOR]</title>
 <link>rtmp://198.27.68.72/live playpath=networku swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=9 live=true timeout=10</link>
 <thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
 </item>
 
 <item>
-<title>1. [COLOR=FFFF4500]WWE Network **[/COLOR]</title>
-<link>rtmp://208.43.175.45/stream playpath=sdfsdfdddssid=120338&s=sdfsdfdddss&g=1&a=1&l= swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/sdfsdfdddss/1/639/390 live=true timeout=10</link>
+<title>1. [COLOR=FFFF4500]WWE Network ***[/COLOR]</title>
+<link>rtmp://37.220.32.56:443/liverepeater playpath=stream28 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream28.html live=true timeout=10</link>
 <thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
 </item>
 
