@@ -4,7 +4,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]HQ links seem to rarely work :([/COLOR]/message>
+<message>[COLOR=FF00FF00]HQ links seem to rarely work :([/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -113,36 +113,3 @@
 </item>
 
 #######################################################################################################################################
-<item>
-<title>[COLOR=FFFF4500]Big Brother Test Spot HQ[/COLOR]</title>
-<link>http://$doregex[svr]1_550@156550/master.m3u8
-<regex>
-<name>svr</name>
-<expres>rtsp://([^']*)1_150</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Big Brother Test Spot LQ[/COLOR]</title>
-<link>http://$doregex[svr]1_150@156550/master.m3u8
-<regex>
-<name>svr</name>
-<expres>rtsp://([^']*)1_150</expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://liveimages.bigbrothercanada.slice.ca/feed_2701980.jpg?$doregex[jpg]
-<regex>
-<name>jpg</name>
-<expres><img src="http://liveimages.bigbrothercanada.slice.ca/feed_2701980.jpg?([^']*)"></expres>
-<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
-<referer> </referer>
-</regex>
-</thumbnail>
-</item>
-
