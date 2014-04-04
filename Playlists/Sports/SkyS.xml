@@ -11,13 +11,13 @@
 
 
 <item>
-<title>1. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]</title>
+<title>1. New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]</title>
 <link>rtmpe://94.242.228.36:443/liveedge/sky14818 pageUrl=http://zingo.tv live=true timeout=7</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
 
 <item>
-<title>New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 2[/COLOR]</title>
+<title>1. New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 2[/COLOR]</title>
 <link>rtmpe://94.242.228.20:443/liveedge/sky27092 pageUrl=http://zingo.tv live=true timeout=7</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
@@ -29,20 +29,20 @@
 </item>
 
 <item>
-<title>New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 4[/COLOR]</title>
+<title>1. New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 4[/COLOR]</title>
 <link>rtmpe://94.242.228.22:443/liveedge/sky41200 pageUrl=http://zingo.tv live=true timeout=7</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
 
 <item>
-<title>New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 4[/COLOR]</title>
+<title>1. New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] F1[/COLOR]</title>
 <link>rtmpe://94.242.228.22:443/liveedge/skys14570 pageUrl=http://zingo.tv live=true timeout=7</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
 
 
 <item>
-<title>1. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR]</title>
+<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR]</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -63,7 +63,7 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]</title>
+<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -84,7 +84,7 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 2[/COLOR]</title>
+<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 2[/COLOR]</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -105,7 +105,7 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 3[/COLOR]</title>
+<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 3[/COLOR]</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
@@ -126,7 +126,7 @@
 
 #######################################################################################################################################
 <item>
-<title>1. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 4[/COLOR]</title>
+<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 4[/COLOR]</title>
 <link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
