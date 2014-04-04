@@ -3,43 +3,13 @@
 <poster>k1m05</poster>
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
-
 <info>
-<message>[COLOR=FF00FF00]Big Brother Feeds are back Dont know for how long...[/COLOR]</message>
-<thumbnail>http://bigbrothercanada.slice.ca/asset/img/logos/bb-logo-header.png</thumbnail>
+<message>[COLOR=FF00FF00]HQ links seem to rarely work :([/COLOR]/message>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
-
-<info>
-<message>[COLOR=FF00FF00]...and they are gone again...[/COLOR]</message>
-<thumbnail>http://bigbrothercanada.slice.ca/asset/img/logos/bb-logo-header.png</thumbnail>
-</info>
-
+#######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1[/COLOR]</title>
-<link>rtsp://213-171.livestream.com:8080/livestreamiphone/6388794_1191932_6f22b559_1_550@156550</link>
-<thumbnail>http://liveimages.bigbrothercanada.slice.ca/feed_2596592.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 2[/COLOR]</title>
-<link>rtsp://212-57.livestream.com:8080/livestreamiphone/6388794_1191932_d4a98745_1_550@156550</link>
-<thumbnail>http://liveimages.bigbrothercanada.slice.ca/feed_2701973.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 3[/COLOR]</title>
-<link>rtsp://212-57.livestream.com:8080/livestreamiphone/6388794_1191932_cb787737_1_550@156550</link>
-<thumbnail>http://liveimages.bigbrothercanada.slice.ca/feed_2701980.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 4[/COLOR]</title>
-<link>rtsp://212-125.livestream.com:8080/livestreamiphone/6388794_1191932_e9f71f01_1_550@156550</link>
-<thumbnail>http://liveimages.bigbrothercanada.slice.ca/feed_2701984.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 RexEx 13 HQ[/COLOR]</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 HQ[/COLOR]</title>
 <link>http://$doregex[svr]1_550@156550/master.m3u8
 <regex>
 <name>svr</name>
@@ -52,7 +22,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 RexEx 13 LQ[/COLOR]</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 LQ[/COLOR]</title>
 <link>http://$doregex[svr]1_150@156550/master.m3u8
 <regex>
 <name>svr</name>
@@ -62,5 +32,117 @@
 </regex>
 </link>
 <thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 2 HQ[/COLOR]</title>
+<link>http://$doregex[svr]1_550@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701973/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 2 LQ[/COLOR]</title>
+<link>http://$doregex[svr]1_150@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701973/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 3 HQ[/COLOR]</title>
+<link>http://$doregex[svr]1_550@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701980/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 3 LQ[/COLOR]</title>
+<link>http://$doregex[svr]1_150@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701980/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 4 HQ[/COLOR]</title>
+<link>http://$doregex[svr]1_550@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 4 LQ[/COLOR]</title>
+<link>http://$doregex[svr]1_150@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Big Brother Test Spot HQ[/COLOR]</title>
+<link>http://$doregex[svr]1_550@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Big Brother Test Spot LQ[/COLOR]</title>
+<link>http://$doregex[svr]1_150@156550/master.m3u8
+<regex>
+<name>svr</name>
+<expres>rtsp://([^']*)1_150</expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://liveimages.bigbrothercanada.slice.ca/feed_2701980.jpg?$doregex[jpg]
+<regex>
+<name>jpg</name>
+<expres><img src="http://liveimages.bigbrothercanada.slice.ca/feed_2701980.jpg?([^']*)"></expres>
+<page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
+<referer> </referer>
+</regex>
+</thumbnail>
 </item>
 
