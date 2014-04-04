@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##########################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Showtime is fixed[/COLOR]</message>
+<message>[COLOR=FF00FF00]New [/COLOR][COLOR=yellow]  *  [/COLOR][COLOR=FF00FF00] Channels</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 <info>
@@ -2104,3 +2104,159 @@
 #######################################################################################################################################
 #######################################################################################################################################
 
+
+<item>
+<title>[COLOR=FFFF4500]Jim Jam[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.37:8800/live/ch17/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]MTV Live[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.37:8800/live/ch50/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Mediacorp[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.37:8800/live/ch15/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]VJ Fashion[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.37:8800/live/ch16/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Nickelodeon[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch43/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]History[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch45/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Bio[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch46/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Crime Investigation[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch47/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Life Time[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.36:8800/live/ch48/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery Kids[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch36/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Fashion One[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch37/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]HD[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch38/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]National Geographic Wild[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch39/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]MGM[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch40/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Travel[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch41/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]MTV Rock[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.35:8800/live/ch42/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch29/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery World[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch30/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Animal Planet[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch31/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery Turbo[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch32/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Discovery Science[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch33/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Home & Health[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch34/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]TLC[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.34:8800/live/ch35/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Metro TV[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.33:8800/live/ch22/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Baby First[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.33:8800/live/ch27/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]BBC[/COLOR][COLOR=yellow]  *  [/COLOR]</title>
+<link>http://202.75.23.33:8800/live/ch28/04.m3u8</link>
+<thumbnail>http://www.advancedvisualconsulting.com/ORANGE_TV.gif</thumbnail>
+</item>
