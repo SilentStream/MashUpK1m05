@@ -113,11 +113,11 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 4 HD*[/COLOR]</title>
-<link>http://$doregex[svr]1_2320@156550/master.m3u8
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 4 HD Testing[/COLOR]</title>
+<link>http://212-123.livestream.com$doregex[svr]1_2000@156550/master.m3u8
 <regex>
 <name>svr</name>
-<expres>rtsp://([^']*)1_150</expres>
+<expres>rtsp://.+?livestream.com([^']*)1_150</expres>
 <page>http://new.livestream.com/api/accounts/6388794/events/2701984/viewing_info</page>
 <referer> </referer>
 </regex>
