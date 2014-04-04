@@ -1,0 +1,12 @@
+<item>
+<title>DailyMotion 480p</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hq_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/k31uRXSR6oGbpo5KKmd</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>

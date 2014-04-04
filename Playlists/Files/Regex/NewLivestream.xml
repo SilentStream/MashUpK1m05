@@ -1,0 +1,12 @@
+<item>
+<title>New.Livestreams</title>
+<link>$doregex[file]
+<regex>
+<name>file</name>
+<expres>"rtsp_url":"(.+?)"</expres>
+<page>http://new.livestream.com/accounts/6388794/events/2596592/player?autoPlay=true</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</item>
