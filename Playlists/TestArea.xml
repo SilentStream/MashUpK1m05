@@ -39,11 +39,11 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 RexEx 6[/COLOR]</title>
+<title>[COLOR=FFFF4500]Big Brother Canada Camera 1 RexEx 7[/COLOR]</title>
 <link>rtsp://$doregex[svr]
 <regex>
 <name>svr</name>
-<expres>rtsp://(.+?)"</expres>
+<expres>rtsp://([^']*)"</expres>
 <page>http://new.livestream.com/api/accounts/6388794/events/2596592/viewing_info</page>
 <referer> </referer>
 </link>
