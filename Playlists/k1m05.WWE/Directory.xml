@@ -1,18 +1,11 @@
+#######################################################################################################################################
+<poster>k1m05</poster>
+<fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
+<void>http://imageshack.us/a/img18/5658/il0s.jpg</void>
+#######################################################################################################################################
 <dir>
 <name>[COLOR=FFFF4500]Live WWE[/COLOR]</name>
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Live.xml</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR=FFFF4500]WWE Attitude[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/AttitudeOnDemand.xml</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
-</dir>
-
-<dir>
-<name>[COLOR=FFFF4500]DVS And Documentaries[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/WWEDVDS.xml</link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </dir>
 
@@ -23,7 +16,19 @@
 </dir>
 
 <dir>
-<name>[COLOR=FFFF4500][/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Wrestlemania.xml</link>
+<name>[COLOR=FFFF4500]Wrestlemanias[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Wrestlemanias.xml</link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR=FFFF4500]DVDS And Documentaries[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/WWEDVDS.xml</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR=FFFF4500]WWE Attitude[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/AttitudeOnDemand.xml</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
 </dir>

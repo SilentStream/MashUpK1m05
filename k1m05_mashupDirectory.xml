@@ -11,7 +11,7 @@
 <message>[COLOR=orange]Fixed alot of channels plz let me know on twitter of any down channels you can :) thx[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Donate.jpg</thumbnail>
 </info>
-https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Wrestlemania.xml
+
 <info>
 <message>[COLOR=orange]http://Tinyurl.com/k1m05[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Donate.jpg</thumbnail>
@@ -25,16 +25,9 @@ https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Wrestleman
 ### Links
 #######################################################################################################################################
 #######################################################################################################################################
-<name>[COLOR=FF00FF00]---------[/COLOR][COLOR=FFFF4500]01 Test[/COLOR][COLOR=FF00FF00]---------[/COLOR]</name>
+<name>[COLOR=FF00FF00]---------[/COLOR][COLOR=FFFF4500]WWE Zone[/COLOR][COLOR=FF00FF00]---------[/COLOR]</name>
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Directory.xml</link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-<date>  </date>
-
-
-
-<name>[COLOR=FF00FF00]---[/COLOR][COLOR=FFFF4500]Movies & Series[/COLOR][COLOR=FF00FF00]---[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/LiveTV/Wrestlemanias.xml</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Movies.jpg</thumbnail>
 <date>  </date>
 #######################################################################################################################################
 <name>[COLOR=FF00FF00]---[/COLOR][COLOR=FFFF4500]Movies & Series[/COLOR][COLOR=FF00FF00]---[/COLOR]</name>
@@ -73,22 +66,4 @@ https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Wrestleman
 <thumbnail>http://www.bigbrothercanada2014.com/wp-content/uploads/2014/02/9c2af5b8bce47f1e4f67a3efc3973f8c.jpeg</thumbnail>
 <date>  </date>
 #######################################################################################################################################
-<name>[COLOR=FF00FF00]---------[/COLOR][COLOR=FFFF4500]Live WWE[/COLOR][COLOR=FF00FF00]---------[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Live.xml</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-<date>  </date>
-#######################################################################################################################################
-<name>[COLOR=FF00FF00]-------[/COLOR][COLOR=FFFF4500]Attitude Era PPVs[/COLOR][COLOR=FF00FF00]-------[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/AttitudeOnDemand.xml</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8b/WWF_Attitude_Logo.png</thumbnail>
-<date>  </date>
-#######################################################################################################################################
-<name>[COLOR=FF00FF00]-------[/COLOR][COLOR=FFFF4500]DVDs and Docs[/COLOR][COLOR=FF00FF00]------[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/WWEDVDS.xml</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-<date>  </date>
-#######################################################################################################################################
-<name>[COLOR=FF00FF00]-------[/COLOR][COLOR=FFFF4500]Weekly Replays[/COLOR][COLOR=FF00FF00]------[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Weeklies.xml</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-<date>  </date>
+
