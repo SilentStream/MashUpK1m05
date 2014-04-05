@@ -38,10 +38,9 @@
 
 <item>
 <title>[COLOR=white]TNA[/COLOR]: [COLOR=blue]Impact Wrestling[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
-<link>rtmp://37.49.224.102/vod/media playpath=impact20140403 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=impact20140313 timeout=10</link>
+<link>rtmp://37.49.224.102/vod/media playpath=mp4:impact20140403.mp4 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=impact20140313 timeout=10</link>
 <thumbnail>http://www.wwe24seven.com/images/111/4.jpg</thumbnail>
 </item>
 #######################################################################################################################################
 #######################################################################################################################################
 
-rtmp://server2.ppvmania.tv/vod/ playpath=mp4:wwefns328.mp4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=weeklies 
