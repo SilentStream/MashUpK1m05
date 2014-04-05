@@ -7,10 +7,10 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]01 Part 1[/COLOR]</title>
-<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/dvd</expres>
+<expres>streamer=([^']*)/misc</expres>
 <page>http://ppvdirect.com/view.php?pg=mania1cd1</page>
 <referer> </referer>
 </regex>
@@ -28,10 +28,10 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]01 Part 2[/COLOR]</title>
-<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/dvd</expres>
+<expres>streamer=([^']*)/misc</expres>
 <page>http://ppvdirect.com/view.php?pg=mania1cd2</page>
 <referer> </referer>
 </regex>
@@ -49,10 +49,10 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]02 Part 1[/COLOR]</title>
-<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/dvd</expres>
+<expres>streamer=([^']*)/misc</expres>
 <page>http://ppvdirect.com/view.php?pg=mania2cd1</page>
 <referer> </referer>
 </regex>
@@ -70,10 +70,10 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]02 Part 2[/COLOR]</title>
-<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/dvd</expres>
+<expres>streamer=([^']*)/misc</expres>
 <page>http://ppvdirect.com/view.php?pg=mania2cd2</page>
 <referer> </referer>
 </regex>
@@ -91,10 +91,10 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]03 Part 1[/COLOR]</title>
-<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
-<expres>streamer=([^']*)/dvd</expres>
+<expres>streamer=([^']*)/misc</expres>
 <page>http://ppvdirect.com/view.php?pg=mania3cd1</page>
 <referer> </referer>
 </regex>
