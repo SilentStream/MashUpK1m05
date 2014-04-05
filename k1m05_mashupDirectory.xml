@@ -25,11 +25,6 @@
 ### Links
 #######################################################################################################################################
 #######################################################################################################################################
-<name>[COLOR=FF00FF00]---------[/COLOR][COLOR=FFFF4500]WWE Zone[/COLOR][COLOR=FF00FF00]---------[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Directory.xml</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-<date>  </date>
-#######################################################################################################################################
 <name>[COLOR=FF00FF00]---[/COLOR][COLOR=FFFF4500]Movies & Series[/COLOR][COLOR=FF00FF00]---[/COLOR]</name>
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/LiveTV/MoviesAndSeries.xml</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Movies.jpg</thumbnail>
@@ -66,4 +61,8 @@
 <thumbnail>http://www.bigbrothercanada2014.com/wp-content/uploads/2014/02/9c2af5b8bce47f1e4f67a3efc3973f8c.jpeg</thumbnail>
 <date>  </date>
 #######################################################################################################################################
-
+#######################################################################################################################################
+<name>[COLOR=FF00FF00]---------[/COLOR][COLOR=FFFF4500]WWE Area[/COLOR][COLOR=FF00FF00]---------[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Directory.xml</link>
+<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
+<date>  </date>
