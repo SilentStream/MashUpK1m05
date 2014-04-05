@@ -11,7 +11,7 @@
 <message>[COLOR=orange]Fixed alot of channels plz let me know on twitter of any down channels you can :) thx[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Donate.jpg</thumbnail>
 </info>
-
+https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/k1m05.WWE/Wrestlemania.xml
 <info>
 <message>[COLOR=orange]http://Tinyurl.com/k1m05[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Donate.jpg</thumbnail>
@@ -23,6 +23,12 @@
 </info>
 #######################################################################################################################################
 ### Links
+#######################################################################################################################################
+#######################################################################################################################################
+<name>[COLOR=FF00FF00]---[/COLOR][COLOR=FFFF4500]Movies & Series[/COLOR][COLOR=FF00FF00]---[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/LiveTV/Wrestlemanias.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/Movies.jpg</thumbnail>
+<date>  </date>
 #######################################################################################################################################
 <name>[COLOR=FF00FF00]---[/COLOR][COLOR=FFFF4500]Movies & Series[/COLOR][COLOR=FF00FF00]---[/COLOR]</name>
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/LiveTV/MoviesAndSeries.xml</link>
