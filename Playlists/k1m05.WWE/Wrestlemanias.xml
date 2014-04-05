@@ -405,7 +405,7 @@
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500] 12[/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]12[/COLOR]</title>
 <link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
@@ -809,13 +809,13 @@
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/misc</expres>
-<page></page>
+<page>http://ppvdirect.com/view.php?pg=mania29</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file=([^']*).flv</expres>
-<page></page>
+<page>http://</page>
 <referer> </referer>
 </regex>
 </link>
