@@ -3,53 +3,68 @@
 <fanart>http://images6.fanpop.com/image/photos/35100000/Paige-wwe-35136815-1284-722.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>.......</message>
+<message>New Source For Mr. Wrestlemania</message>
 <thumbnail>http://www.langleymontessori.ca/wp/wp-content/uploads/2014/01/info_symbol1.png</thumbnail>
 </info>
 #######################################################################################################################################
-
-#######################################################################################################################################
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Mr. Wrestlemania[/COLOR] [COLOR=FFFF4500]Part 1[/COLOR]</title>
-<link>$doregex[url]
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
-<name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/kOqPa9pyKRBCyI5DWng</page>
-<referer>http://www.dailymotion.com/</referer>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=shawnmrmania1</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=shawnmrmania1</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
-
-#######################################################################################################################################
+###########
+###########
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Mr. Wrestlemania[/COLOR] [COLOR=FFFF4500]Part 2[/COLOR]</title>
-<link>$doregex[url]
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
-<name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k5L5xPIOkOvnjA5DWo9</page>
-<referer>http://www.dailymotion.com/</referer>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=shawnmrmania2</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=shawnmrmania2</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
-
-#######################################################################################################################################
+###########
+###########
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Mr. Wrestlemania[/COLOR] [COLOR=FFFF4500]Part 3[/COLOR]</title>
-<link>$doregex[url]
+<link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
-<name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k2AVwW3XrTRGZI5DWpk</page>
-<referer>http://www.dailymotion.com/</referer>
+<name>rtmp</name>
+<expres>streamer=([^']*)/dvd</expres>
+<page>http://ppvdirect.com/view.php?pg=shawnmrmania3</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=shawnmrmania3</page>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
-
 #######################################################################################################################################
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]History Of WWE: 50 Years Of Sports Entertainment[/COLOR] [COLOR=FFFF4500][/COLOR]</title>
