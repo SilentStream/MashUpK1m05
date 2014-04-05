@@ -402,3 +402,422 @@
 <thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
 </item>
 #######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500] 12[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania12</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania12</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]13[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania13</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania13</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]14[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania14</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania14</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]15[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania15</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania5</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]16[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania16</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania16</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]17[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania17</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania17</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]18 Part 1[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania18cd1</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania18cd1</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]18 Part 2[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania18cd2</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania18cd2</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]19[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania19</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania19</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]20 Part 1[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania20cd1</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania20cd1</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]20 Part 2[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania20cd2</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania20cd2</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]21[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania21</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania21</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]22[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania22</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania22</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]23[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania23</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania23</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]24[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania24</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania24</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]25[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania25</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania25</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]26[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania26</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania26</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]27[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania27</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania27</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]28[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page>http://ppvdirect.com/view.php?pg=mania28</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=mania28</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]29[/COLOR]</title>
+<link>$doregex[rtmp]/misc playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/misc</expres>
+<page></page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page></page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
