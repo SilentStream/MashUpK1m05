@@ -54,14 +54,165 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>Metamoris 3</title>
-<link>$doregex[url]
+<title>LQ Sports Channel</title>
+<link>rtmp://81.17.23.118:1935/stream/fsgdf78gds.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=24g4c4s41576e4e4y415n244v254u2w2b42413x2m2w233e4&adx=&stream=h524b464l5a4t2y27484x264v28443n244v503f3k3w4i4t5y455t224z2u2340303p2y2a4o2243353y3q2x5b4s425t4d4t5u4i2k4j4v5k474n33574a414p4h4z33456t2y3s2p2n584z2944454341494z29434o5a4l5n5s2s2c4f5x2g5y2l594x2j594a45464c4t2343434t2y3s2p224&sooor=MjQ=&str=is&idom=firstrownow.eu live=true timeout=10</link>
+<thumbnail>http://illegalcurve.com/wp-content/uploads/2013/01/Pens-vs.-Jets-preview.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live/channel101 $doregex[swf] $doregex[page]1 $doregex[tok] $doregex[true]
 <regex>
-<name>url</name>
-<expres>"progressive_url_hd":"(.+?)"</expres>
-<page>http://new.livestream.com/accounts/1537057/events/2838159/videos/46580045/player?width=943&height=820&autoPlay=true&mute=false</page>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
 <referer> </referer>
 </regex>
 </link>
-<thumbnail>http://cdn.fansided.com/wp-content/blogs.dir/229/files/2014/01/1013230_10151906589227773_514886919_n.jpg</thumbnail>
+<thumbnail>http://fc02.deviantart.net/fs70/f/2014/027/2/5/wwe_wrestlemania_xxx_2014_title_match_by_dinesh_musiclover-d73xfvs.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live3/channel15a $doregex[swf] $doregex[page]5 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://fc02.deviantart.net/fs70/f/2014/027/2/5/wwe_wrestlemania_xxx_2014_title_match_by_dinesh_musiclover-d73xfvs.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live2/channel13a $doregex[swf] $doregex[page]13 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://fc02.deviantart.net/fs70/f/2014/027/2/5/wwe_wrestlemania_xxx_2014_title_match_by_dinesh_musiclover-d73xfvs.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live2/channel17a $doregex[swf] $doregex[page]17 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://fc02.deviantart.net/fs70/f/2014/027/2/5/wwe_wrestlemania_xxx_2014_title_match_by_dinesh_musiclover-d73xfvs.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live3/channel15bb $doregex[swf] $doregex[page]15 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://fc02.deviantart.net/fs70/f/2014/027/2/5/wwe_wrestlemania_xxx_2014_title_match_by_dinesh_musiclover-d73xfvs.jpg</thumbnail>
 </item>
