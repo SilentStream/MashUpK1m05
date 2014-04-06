@@ -29,12 +29,51 @@
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part </title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part 1</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>hd_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k31uRXSR6oGbpo5KKmd</page>
+<page>http://www.dailymotion.com/embed/video/k26B3QX3ij3KMR6BQRO</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2011/03/wwe-hof.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part 2</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hd_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/k1cSs75xFP4R5y6BQUT</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2011/03/wwe-hof.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part 3</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hd_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/k3IuBHajWV9SIy6BQWD</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2011/03/wwe-hof.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part 4</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hd_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/k5fITOHHlyrbHD6BQYi</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
