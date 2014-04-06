@@ -7,6 +7,13 @@
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
+<Item>
+<title>[COLOR blue]test[/COLOR]</title>
+<link>http://cctv.lsops.net/live/cctv_en_hls.smil/playlist.m3u8</link>
+<thumbnail>http://wallpoper.com/images/00/37/80/13/abstract-test_00378013.jpg</thumbnail>
+</item>
+
+
 <item>
 <title>[COLOR=FFFF4500]BT Montreal Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTMTLFLASH_live_2@120220?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
