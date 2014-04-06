@@ -126,6 +126,68 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]Link 18 b[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live2/channel18a $doregex[swf] $doregex[page]18 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/Playlists/Files/Regex/Sources.xml</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/Playlists/Files/Regex/Sources.xml</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/Playlists/Files/Regex/Sources.xml</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>https://raw.githubusercontent.com/mash2k3/MashUpK1m05/master/Playlists/Files/Regex/Sources.xml</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Link 18 c[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live2/channel18a $doregex[swf] $doregex[page]18 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]Link 19[/COLOR]</title>
 <link>rtmp://5.79.75.129:2195/live2/channel19a swfUrl=http://supremecater.com/player/src.swf pageUrl=http://plus1hd.com/forums/view.php?pg=live_stream_19 token=srdR4BagmxxTAjQ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
