@@ -8,7 +8,7 @@
 </info>
 #######################################################################################################################################
 <item>
-<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Ultimate Warrior: The Ultimate Collection DVD-1[/COLOR] [COLOR=FFFF4500]Part 1[/COLOR]</title>
+<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Ultimate Warrior: The Ultimate Collection[/COLOR] [COLOR=FFFF4500]Part 1[/COLOR]</title>
 <link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
@@ -28,7 +28,7 @@
 ###########
 ###########
 <item>
-<title>02. [COLOR=red]WWE[/COLOR]: [COLOR=white]Ultimate Warrior: The Ultimate Collection DVD-1[/COLOR] [COLOR=FFFF4500]Part 1[/COLOR]</title>
+<title>02. [COLOR=red]WWE[/COLOR]: [COLOR=white]Ultimate Warrior: The Ultimate Collection[/COLOR] [COLOR=FFFF4500]Part 2[/COLOR]</title>
 <link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
@@ -48,7 +48,7 @@
 ###########
 ###########
 <item>
-<title>03. [COLOR=red]WWE[/COLOR]: [COLOR=white]Ultimate Warrior: The Ultimate Collection DVD-1[/COLOR] [COLOR=FFFF4500]Part 1[/COLOR]</title>
+<title>03. [COLOR=red]WWE[/COLOR]: [COLOR=white]Ultimate Warrior: The Ultimate Collection[/COLOR] [COLOR=FFFF4500]Part 3[/COLOR]</title>
 <link>$doregex[rtmp]/dvd playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
