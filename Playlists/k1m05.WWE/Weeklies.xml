@@ -4,21 +4,8 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] 1</title>
-<link>$doregex[rtmp]/vod playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
-<regex>
-<name>rtmp</name>
-<expres>streamer=([^']*)/vod</expres>
-<page>http://ppvdirect.com/view.php?pg=hof14</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=([^']*).flv</expres>
-<page>http://ppvdirect.com/view.php?pg=hof14</page>
-<referer> </referer>
-</regex>
-</link>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Working but Buffering ??? Looking for more</title>
+<link>rtmp://server2.ppvmania.tv/vod/ playpath=mp4:hof.mp4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=weeklies</link>
 <thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2011/03/wwe-hof.jpg</thumbnail>
 </item>
 
