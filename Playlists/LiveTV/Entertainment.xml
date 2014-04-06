@@ -991,6 +991,12 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]HBO[/COLOR][COLOR=FF00FF00]  USA?  [/COLOR]</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=hbo1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=hbo1569&vw=600&vh=430 live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img35/4518/so3q.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]HBO Family[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
 <regex>
