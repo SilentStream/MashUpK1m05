@@ -4,7 +4,7 @@
 #######################################################################################################################################
 #######################################################################################################################################
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] 1</title>
 <link>$doregex[rtmp]/vod playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
 <regex>
 <name>rtmp</name>
@@ -21,6 +21,26 @@
 </link>
 <thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2011/03/wwe-hof.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] 2</title>
+<link>$doregex[rtmp]/vod playpath=$doregex[file] swfUrl=http://ppvdirect.com/player/player-licensed.swf timeout=10 pageUrl=http://ppvdirect.com/view.php?pg=live
+<regex>
+<name>rtmp</name>
+<expres>streamer=([^']*)/vod</expres>
+<page>http://ppvdirect.com/view.php?pg=hof14</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>file=([^']*).flv</expres>
+<page>http://ppvdirect.com/view.php?pg=hof14</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2011/03/wwe-hof.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw [/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
