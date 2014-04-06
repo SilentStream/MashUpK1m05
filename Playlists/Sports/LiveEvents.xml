@@ -60,10 +60,30 @@
 </item>
 
 
+<item>
+<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR] NEW</title>
+<link>
+  <sublink>rtmp://176.31.231.14/ app=?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://205.204.85.3/ app=?rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.23.72.56/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://109.123.92.182/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://174.127.120.190/ app=?rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://206.217.196.96/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://162.243.174.134/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://107.170.238.92/ app=?rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://173.255.139.204/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://216.119.149.40/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://198.105.223.90/ app=?rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://199.195.192.220/ app=?rtmp://91.121.9.48/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://209.236.75.19/ app=?rtmp://176.31.231.14/?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://91.121.9.48/ app=?rtmp://5.39.81.149/live/ playpath=Cylon2 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+</link>
+<thumbnail>http://fc02.deviantart.net/fs70/f/2014/027/2/5/wwe_wrestlemania_xxx_2014_title_match_by_dinesh_musiclover-d73xfvs.jpg</thumbnail>
+</item>
 
 
 <item>
-<title>01. [COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR]</title>
+<title>07. [COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR]</title>
 <link>rtmp://5.79.75.129:2195/live/channel101 $doregex[swf] $doregex[page]1 $doregex[tok] $doregex[true]
 <regex>
 <name>swf</name>
@@ -219,7 +239,7 @@
 
 <item>
 <title>06. [COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR] NEW</title>
-<link>rtmp://176.31.231.14/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag $doregex[all]
+<link>
   <sublink>rtmp://176.31.231.14/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
   <sublink>rtmp://205.204.85.29/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
   <sublink>rtmp://46.23.72.139/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
@@ -230,3 +250,4 @@
 </link>
 <thumbnail>http://fc02.deviantart.net/fs70/f/2014/027/2/5/wwe_wrestlemania_xxx_2014_title_match_by_dinesh_musiclover-d73xfvs.jpg</thumbnail>
 </item>
+
