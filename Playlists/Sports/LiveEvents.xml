@@ -218,14 +218,15 @@
 </item>
 
 <item>
-<title>06. [COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR]</title>
+<title>06. [COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania [/COLOR] [COLOR=FFFF4500]XXX[/COLOR] NEW</title>
 <link>rtmp://176.31.231.14/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag $doregex[all]
-<regex>
-<name>all</name>
-<expres><wzall>(.+?)</wzall></expres>
-<page>http://goo.gl/Vq6n6x</page>
-<referer> </referer>
-</regex>
+  <sublink>rtmp://176.31.231.14/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://205.204.85.29/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.23.72.139/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://109.123.92.195/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://174.127.120.190/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://174.127.120.210/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://192.241.155.144/ app=?rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=file=fag swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://fc02.deviantart.net/fs70/f/2014/027/2/5/wwe_wrestlemania_xxx_2014_title_match_by_dinesh_musiclover-d73xfvs.jpg</thumbnail>
 </item>
