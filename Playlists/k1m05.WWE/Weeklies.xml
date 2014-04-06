@@ -9,13 +9,13 @@
 <regex>
 <name>rtmp</name>
 <expres>streamer=([^']*)/vod</expres>
-<page>http://ppvdirect.com/view.php?pg=1</page>
+<page>http://ppvdirect.com/view.php?pg=hof14</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>file</name>
 <expres>file=([^']*).flv</expres>
-<page>http://ppvdirect.com/view.php?pg=1</page>
+<page>http://ppvdirect.com/view.php?pg=hof14</page>
 <referer> </referer>
 </regex>
 </link>
