@@ -17,14 +17,15 @@
 </item>
 
 <item>
-<title>1. New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 2[/COLOR]*</title>
+<title>1. New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 2[/COLOR]</title>
 <link>rtmpe://akamai.kbps.tv:1935/live playpath=skysp2?=36e75d1b7bb1d5d0e094066674281066 swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=http://hdembed.com live=true timeout=7</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
 
 <item>
-<title>1. New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 3[/COLOR]</title>
-<link>rtmpe://94.242.228.19:443/liveedge/sky35724 pageUrl=http://zingo.tv live=true timeout=7</link>
+<title>1. New [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 3[/COLOR]*</title>
+<link>rtmp://37.220.36.18:443/liverepeater playpath=23699 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ss3.html live=true timeout=7
+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
 
@@ -153,7 +154,7 @@
 #######################################################################################################################################
 
 <item>
-<title>2. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]*</title>
+<title>2. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]</title>
 <link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
 <regex>
 <name>file</name>
