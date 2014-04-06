@@ -28,6 +28,18 @@
 <thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2011/03/wwe-hof.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part </title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hd_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/k31uRXSR6oGbpo5KKmd</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>http://24wrestling.sescoops.netdna-cdn.com/24/wp-content/uploads/2011/03/wwe-hof.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw [/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
