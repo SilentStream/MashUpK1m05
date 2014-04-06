@@ -747,12 +747,12 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 36</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<title>Stream 36*</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream11.html</page>
+<page>http://cdn.kingofplayers.com/stream11.html</page>
 <referer> </referer>
 </regex>
 <regex>
