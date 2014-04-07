@@ -10,12 +10,12 @@
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part 1</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014 HD[/COLOR] Part 1</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>hq_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k26B3QX3ij3KMR6BQRO</page>
+<page>http://www.dailymotion.com/embed/video/k3uaDUzArHapYF6CnCh</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
@@ -23,12 +23,12 @@
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part 2</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014 HD[/COLOR] Part 2</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>hq_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k1cSs75xFP4R5y6BQUT</page>
+<page>http://www.dailymotion.com/embed/video/k1JQs9e6Do3ybk6CpDB</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
@@ -36,12 +36,12 @@
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part 3</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014 HD[/COLOR] Part 3</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>hq_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k3IuBHajWV9SIy6BQWD</page>
+<page>http://www.dailymotion.com/embed/video/k6vlt8oCOaNOCD6CpEU</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
@@ -49,12 +49,12 @@
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014[/COLOR] Part 4</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014 HD[/COLOR] Part 4</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
 <expres>hq_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k5fITOHHlyrbHD6BQYi</page>
+<page>http://www.dailymotion.com/embed/video/k7hYdqEfAsE8uL6CpGu</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
