@@ -821,3 +821,57 @@
 </link>
 <thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
 </item>
+
+
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]30[/COLOR] Part 1</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hq_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/k2YWNTwkUZqQ7J6DPng</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]30[/COLOR] Part 2</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hq_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/kbKIL7Z1sCtI4i6DPoL</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]30[/COLOR] Part 3</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hq_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/k5bRmJuRuiGg5y6DPs0</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]30[/COLOR] Part 4</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hq_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/k6MwK3B5KxXSuH6DPti</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>http://asklogo.com/images/W/wwf%20wrestlemania%20logo.jpg</thumbnail>
+</item>
