@@ -28,44 +28,62 @@
 
 <item>
 <title>1. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
-<link>rtmp://server5.ppvmania.tv/live/ playpath=channel1free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=1</link>
+<link>rtmp://5.79.75.129:2195/live/channel101 $doregex[swf] $doregex[page]1 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
 <item>
-<title>2. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
-<link>rtmp://server5.ppvmania.tv/live/ playpath=channel2free swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=2</link>
+<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live2/channel14a $doregex[swf] $doregex[page]14 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
-
-<item>
-<title>3. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
-<link>rtmp://server5.ppvmania.tv/live/ playpath=ELBARTO swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://www.hqzone.tv/forums/view.php?pg=2</link>
-<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
-</item>
-
-<item>
-<title>4. [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
-<link>rtmp://37.49.224.102/live/ playpath=weeklyrawstream swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=weeklyrawstream live=true timeout=10</link>
-<thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]NEW HD[/COLOR]</title>
-<link>rtmp://198.27.68.72/live playpath=raww swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/ live=true timeout=10</link>
-<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]NEW SD[/COLOR]</title>
-<link>rtmp://107.161.18.10/live playpath=raww swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/ live=true timeout=10</link>
-<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]NEW HD2[/COLOR]</title>
-<link>rtmp://live.veemi.com/vlb playpath=wnhd3 swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/embed.php?v=wnhd3&vw=1074&vh=500&domain=wrestling-network.net live=true timeout=10</link>
-<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
-</item>
-
