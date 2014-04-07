@@ -10,11 +10,11 @@
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014 HD[/COLOR] Part 1</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014.HD[/COLOR] Part 1</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
+<expres>hd_url":"(.*)","stream</expres>
 <page>http://www.dailymotion.com/embed/video/k3uaDUzArHapYF6CnCh</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
@@ -27,7 +27,7 @@
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
+<expres>hd_url":"(.*)","stream</expres>
 <page>http://www.dailymotion.com/embed/video/k1JQs9e6Do3ybk6CpDB</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
@@ -40,7 +40,7 @@
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
+<expres>hd_url":"(.*)","stream</expres>
 <page>http://www.dailymotion.com/embed/video/k6vlt8oCOaNOCD6CpEU</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
@@ -53,7 +53,7 @@
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
+<expres>hd_url":"(.*)","stream</expres>
 <page>http://www.dailymotion.com/embed/video/k7hYdqEfAsE8uL6CpGu</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
