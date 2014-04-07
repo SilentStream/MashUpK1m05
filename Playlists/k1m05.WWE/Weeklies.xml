@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014.HD[/COLOR] Part 1</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Hall Of Fame [/COLOR] [COLOR=FFFF4500]2014 HD[/COLOR] Part 1</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
