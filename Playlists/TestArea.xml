@@ -130,7 +130,7 @@
 
 
 <item>
-<title>hdcast</title>
+<title>hdcast...</title>
 <link>$doregex[rtmp]$doregex[path]$doregex[end]
 <regex>
 <name>rtmp</name>
@@ -140,7 +140,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>fid="(.+?)"</expres>
+<expres>fid="(.*)"</expres>
 <page>http://cricfree.tv/update/setcafl.php</page>
 <referer>http://cricfree.tv/</referer>
 </regex>
