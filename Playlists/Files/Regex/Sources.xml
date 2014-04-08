@@ -1,3 +1,8 @@
+<hdcastrtmp>rtmpe://46.246.124.38:1935/redirect playpath=</hdcastrtmp>
+<hacastend> swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf pageUrl=http://www.hdcast.org/ live=true timeout=10</hacastend>
+
+
+
 <wzall> swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</wzall>
 
 <true>live=true timeout=10</true>
@@ -9,3 +14,5 @@
 <hqzswf>swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf</hqzswf>
 <hqztok>token=WY846p1E1g15W7s</hqztok>
 <hqzpage>pageUrl=http://www.hqzone.tv/forums/view.php?pg=1</hqzpage>
+
+
