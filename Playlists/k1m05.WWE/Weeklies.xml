@@ -63,12 +63,12 @@
 
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw [/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR] *</title>
-<link>tmp://server6.ppvmania.tv/vod/ playpath=mp4:wweraw.mp4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=weeklies</link>
+<link>rtmp://server6.ppvmania.tv/vod/ playpath=mp4:wweraw.mp4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=weeklies</link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Smackdown[/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR] *</title>
 <link>
   <sublink>rtmp://198.27.68.72/vod playpath=sd5 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=sd4</sublink>
   <sublink>rtmp://server2.ppvmania.tv/vod/ playpath=mp4:wwefns44.mp4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=weeklies</sublink>
