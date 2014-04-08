@@ -126,3 +126,30 @@
 </item>
 
 #######################################################################################################################################
+
+
+
+<item>
+<title>hdcast</title>
+<link>$doregex[rtmp]
+<regex>
+<name>rtmp</name>
+<expres><hdcastrtmp>(.+?)</hdcastrtmp></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>fid="(.+?)"</expres>
+<page>http://cricfree.tv/update/setcafl.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+<regex>
+<name>end</name>
+<expres><hdcastend>(.+?)</hdcastend></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
