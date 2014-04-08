@@ -131,7 +131,7 @@
 
 <item>
 <title>hdcast</title>
-<link>$doregex[rtmp]
+<link>$doregex[rtmp]$doregex[path]$doregex[end]
 <regex>
 <name>rtmp</name>
 <expres><hdcastrtmp>(.+?)</hdcastrtmp></expres>
