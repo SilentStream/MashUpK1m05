@@ -62,8 +62,8 @@
 </item>
 
 <item>
-<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw [/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR]</title>
-<link>tmp://server6.ppvmania.tv/vod/wweraw.mp4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=weeklies</link>
+<title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Monday Night Raw [/COLOR] [COLOR=FFFF4500]Weekly Replay[/COLOR] *</title>
+<link>tmp://server6.ppvmania.tv/vod/ playpath=mp4:wweraw.mp4 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=weeklies</link>
 <thumbnail>http://4.bp.blogspot.com/-jFWjG67txpU/Tz5lWw8gnKI/AAAAAAAAEfY/0xcjbmfPgfw/s1600/Wwelogo.png</thumbnail>
 </item>
 
