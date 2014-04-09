@@ -1,6 +1,6 @@
 #######################################################################################################################################
 <kbpsrtmp>rtmpe://akamai.kbps.tv:1935/live playpath=</kbpsrtmp>
-<kbpsend> swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=www.kbps.tv/embed.php?s=whs121223&width=639&height=390&domain=www.whsports.tv live=true timeout=10</kbpsend>
+<kbpsend> swfUrl=http://www.kbps.tv/jl/player.swf pageUrl=www.kbps.tv/embed.php?s=whs121223&width=639&height=390&domain=www.whsports.tv live=true timeout=10 swfVfy=true</kbpsend>
 #######################################################################################################################################
 <hdcastrtmp>rtmpe://46.246.124.38:1935/redirect playpath=</hdcastrtmp>
 <hdcastend> swfUrl=http://77231864591d8245d027-dbd663cdd4719bbeb13e13f9ee6e6f1f.r39.cf5.rackcdn.com/bba.swf flashver=WIN\2012,0,0,77 pageUrl=http://www.hdcast.org/ live=true timeout=10</hdcastend>
