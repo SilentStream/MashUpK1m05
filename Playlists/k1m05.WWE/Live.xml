@@ -8,54 +8,9 @@
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 
-
 <item>
-<title>1. [COLOR=FFFF4500]WWE Network Test x9.[/COLOR]</title>
-<link>$doregex[rtmp]whs$doregex[path]Key=$doregex[key]$doregex[end]
-<regex>
-<name>rtmp</name>
-<expres><kbpsrtmp>(.+?)</kbpsrtmp></expres>
-<page>http://goo.gl/Vq6n6x</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>end</name>
-<expres><kbpsend>(.+?)</kbpsend></expres>
-<page>http://goo.gl/Vq6n6x</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>key</name>
-<expres>.*?streamer[:,]\s*['"]([^'"]+)['"].*'</expres>
-<page>http://www.kbps.tv/embed.php?s=whs121223&width=639&height=390&domain=www.whsports.tv</page>
-<referer>http://www.whsports.tv/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file: "whs([^'"]+)=</expres>
-<page>http://www.kbps.tv/embed.php?s=whs121223&width=639&height=390&domain=www.whsports.tv</page>
-<referer>http://www.whsports.tv/</referer>
-</regex>
-</link>
-</link>
-<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
-</item>
-
-<item>
-<title>1. [COLOR=FFFF4500]WWE Network *[/COLOR]</title>
-<link>rtmp://46.105.14.26/live playpath=networku2 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=9 live=true timeout=10</link>
-<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
-</item>
-
-<item>
-<title>1. [COLOR=FFFF4500]WWE Network **[/COLOR]</title>
+<title>1. [COLOR=FFFF4500]WWE Network[/COLOR]</title>
 <link>rtmp://198.27.68.72/live playpath=networku swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=9 live=true timeout=10</link>
-<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
-</item>
-
-<item>
-<title>1. [COLOR=FFFF4500]WWE Network ***[/COLOR]</title>
-<link>rtmp://37.220.32.56:443/liverepeater playpath=stream28 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream28.html live=true timeout=10</link>
 <thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
 </item>
 
