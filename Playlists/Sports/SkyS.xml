@@ -11,7 +11,7 @@
 
 
 <item>
-<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR] Test x7</title>
+<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR] Testing</title>
 <link>$doregex[rtmp]$doregex[path]$doregex[end]
 <regex>
 <name>rtmp</name>
