@@ -9,7 +9,30 @@
 # 
 #######################################################################################################################################
 
-
+<item>
+<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR] Test</title>
+<link>$doregex[rtmp]$doregex[path]$doregex[end]
+<regex>
+<name>rtmp</name>
+<expres><hdcastrtmp>(.+?)</hdcastrtmp></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>fid="(.+?)"</expres>
+<page>http://hqsport.tv/live_sky_sports1.php</page>
+<referer>http://coolsport.tv</referer>
+</regex>
+<regex>
+<name>end</name>
+<expres><hdcastend>(.+?)</hdcastend></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
+</item>
 
 <item>
 <title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR]</title>
