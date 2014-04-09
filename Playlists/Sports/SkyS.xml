@@ -9,8 +9,9 @@
 # 
 #######################################################################################################################################
 
+
 <item>
-<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR] Test x6</title>
+<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR] Test x7</title>
 <link>$doregex[rtmp]$doregex[path]$doregex[end]
 <regex>
 <name>rtmp</name>
@@ -19,15 +20,15 @@
 <referer> </referer>
 </regex>
 <regex>
-<name>path</name>
-<expres>fid="([^'"]+)"</expres>
-<page>http://hqsport.tv/live_sky_sports1.php</page>
+<name>end</name>
+<expres><hdcastend>(.+?)</hdcastend></expres>
+<page>http://goo.gl/Vq6n6x</page>
 <referer> </referer>
 </regex>
 <regex>
-<name>end</name>
-<expres><hdcastend>(.+?)<hdcastend></expres>
-<page>http://goo.gl/Vq6n6x</page>
+<name>path</name>
+<expres>fid="([^'"]+)"</expres>
+<page>http://hqsport.tv/live_sky_sports1.php</page>
 <referer> </referer>
 </regex>
 </link>
