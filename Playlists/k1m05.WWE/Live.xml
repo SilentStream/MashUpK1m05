@@ -10,7 +10,7 @@
 
 
 <item>
-<title>1. [COLOR=FFFF4500]WWE Network Test x5[/COLOR]</title>
+<title>1. [COLOR=FFFF4500]WWE Network Test x6[/COLOR]</title>
 <link>$doregex[rtmp]whs$doregex[path]Key=$doregex[key]$doregex[end]
 <regex>
 <name>rtmp</name>
