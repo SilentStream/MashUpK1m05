@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR] Testing 2</title>
+<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR] Testing 2.</title>
 <link>$doregex[rtmp]$doregex[path]$doregex[end]
 <regex>
 <name>rtmp</name>
@@ -51,7 +51,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>fid="([^'"]+)"</expres>
+<expres>fid="(+.?)"</expres>
 <page>http://hdfoots.com/watch/skysports-1-live-streaming.php</page>
 <referer> </referer>
 </regex>
