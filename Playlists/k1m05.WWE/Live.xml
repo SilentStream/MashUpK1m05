@@ -10,8 +10,8 @@
 
 
 <item>
-<title>1. [COLOR=FFFF4500]WWE Network Test[/COLOR]</title>
-<link>$doregex[rtmp]$doregex[path]$doregex[end]
+<title>1. [COLOR=FFFF4500]WWE Network Test x2[/COLOR]</title>
+<link>$doregex[rtmp]whs$doregex[path]$doregex[end]
 <regex>
 <name>rtmp</name>
 <expres><kbpsrtmp>(.+?)</kbpsrtmp></expres>
@@ -26,7 +26,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>file: "([^'"]+)"</expres>
+<expres>file: "whs([^'"]+)"</expres>
 <page>http://www.kbps.tv/embed.php?s=whs121223&width=639&height=390&domain=www.whsports.tv</page>
 <referer>http://www.whsports.tv/</referer>
 </regex>
