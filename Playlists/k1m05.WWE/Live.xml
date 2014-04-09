@@ -10,7 +10,7 @@
 
 
 <item>
-<title>1. [COLOR=FFFF4500]WWE Network Test x8[/COLOR]</title>
+<title>1. [COLOR=FFFF4500]WWE Network Test x9[/COLOR]</title>
 <link>$doregex[rtmp]whs$doregex[path]Key=$doregex[key]$doregex[end]
 <regex>
 <name>rtmp</name>
@@ -28,7 +28,7 @@
 <name>key</name>
 <expres>?=(.+?)"</expres>
 <page>http://www.kbps.tv/embed.php?s=whs121223&width=639&height=390&domain=www.whsports.tv</page>
-<referer> </referer>
+<referer>http://www.whsports.tv/</referer>
 </regex>
 <regex>
 <name>path</name>
