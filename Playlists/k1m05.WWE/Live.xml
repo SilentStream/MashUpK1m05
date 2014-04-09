@@ -8,6 +8,13 @@
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 
+
+<item>
+<title>1. [COLOR=FFFF4500]WWE Network Test[/COLOR]</title>
+<link>rtmp://46.105.14.26/live playpath=networku2 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=9 live=true timeout=10</link>
+<thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
+</item>
+
 <item>
 <title>1. [COLOR=FFFF4500]WWE Network *[/COLOR]</title>
 <link>rtmp://46.105.14.26/live playpath=networku2 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=9 live=true timeout=10</link>
