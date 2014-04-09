@@ -884,7 +884,7 @@
 <regex>
 <name>url</name>
 <expres>hd_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k22DI19mow1uZj6EBrb</page>
+<page>http://www.dailymotion.com/embed/video/k1GgUOuPCT3OiB6Gg4y</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
@@ -897,7 +897,7 @@
 <regex>
 <name>url</name>
 <expres>hd_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k4lT0jj4dfmNew6EB7g</page>
+<page>http://www.dailymotion.com/embed/video/k2W2AKdvGbO8Qw6GfOu</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
@@ -910,7 +910,7 @@
 <regex>
 <name>url</name>
 <expres>hd_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/k6FYRdVkT4tOof6ECGK</page>
+<page>http://www.dailymotion.com/embed/video/k7g8xn6qCCXiGI6Gfyg</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
@@ -923,7 +923,7 @@
 <regex>
 <name>url</name>
 <expres>hd_url":"(.*)","stream</expres>
-<page>http://www.dailymotion.com/embed/video/khlEq3V8ivaSZM6ECcq</page>
+<page>http://www.dailymotion.com/embed/video/k1aTcuI7cBuoCM6Gf6b</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
 </link>
