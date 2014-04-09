@@ -10,7 +10,7 @@
 #######################################################################################################################################
 
 <item>
-<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR] Test x3</title>
+<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR] Test x4</title>
 <link>$doregex[rtmp]$doregex[end]
 <regex>
 <name>rtmp</name>
@@ -20,7 +20,7 @@
 </regex>
 <regex>
 <name>end</name>
-<expres><hdcastend>(.+?)</hdcastend></expres>
+<expres><hdcastend>(.+?)<hdcastend></expres>
 <page>http://goo.gl/Vq6n6x</page>
 <referer> </referer>
 </regex>
