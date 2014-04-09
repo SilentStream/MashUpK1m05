@@ -61,11 +61,11 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>Sky Sports 2</title>
+<title>Sky Sports 2*</title>
 <link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
 <regex>
 <name>file</name>
-<expres>fid=.+?(.+?)';</expres>
+<expres>['"]([^'"]+)['"].*?['"]fid['"][:,]</expres>
 <page>http://cricfree.tv/update/skys2.php</page>
 <referer>http://cricfree.tv/</referer>
 </regex>
