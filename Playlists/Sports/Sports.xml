@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]GOLF * and NBC Sports ** fixed [/COLOR][COLOR=FF00FF00]  *  [/COLOR]</message>
+<message>[COLOR=FF00FF00]BT Sports Updated[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -25,25 +25,13 @@
 
 <item>
 <title>[COLOR=FFFF4500]BT Sports 1[/COLOR]</title>
-<link>
-  <sublink>rtmp://31.220.0.86:1935/live playpath=b2 swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.reyhq.com/embed1.php?live=b2&vw=600&vh=410</sublink>
-  <sublink>rtmp://akamai.kbps.tv:1935/live playpath=beeti1?=74e7e0273f1481b486b45f1c62ba2a70 swfUrl=http://www.vidembed.com/jl/player.swf live=true swfVfy=1 pageUrl=http://www.vidembed.com/embed.php?s=beeti1&width=600&height=430&domain=desistreams.tv</sublink>
-  <sublink>rtmpe://89.46.102.69:443/liveedge/bt1 pageUrl=http://hqstreams.tv/</sublink>
-  <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
-  <sublink>rtmpe://play.finecast.tv/live playpath=hqbt1 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=true timeout=10</sublink>
-  <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
-</link>
+<link>rtmpe://play.finecast.tv/live playpath=hqbt1 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FFFF4500]BT Sports 2[/COLOR]</title>
-<link>
-  <sublink>rtmp://akamai.kbps.tv:1935/live playpath=beeti2?=bc1ffde57b44978f9aa642aaf040cc3d swfUrl=http://www.vidembed.com/jl/player.swf live=true swfVfy=1 pageUrl=http://www.vidembed.com/embed.php?s=beeti2&width=600&height=430&domain=desistreams.tv</sublink>
-  <sublink>rtmpe://89.46.102.69:443/liveedge/bt2 pageUrl=http://hqstreams.tv/</sublink>
-  <sublink>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=true timeout=10</sublink>
-  <sublink>rtmpe://46.246.124.23:1935/redirect playpath=janu7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=streamhdking1103&vw=640&vh=380&domain=streamhd.eu timeout=10</sublink>
-</link>
+<link>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/ live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
 </item>
 
