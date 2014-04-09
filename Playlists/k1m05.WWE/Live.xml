@@ -26,7 +26,7 @@
 </regex>
 <regex>
 <name>key</name>
-<expres>file: "whs.+??=([^'"]+)"</expres>
+<expres>file: "whs.+?=([^'"]+)"</expres>
 <page>http://www.kbps.tv/embed.php?s=whs121223&width=639&height=390&domain=www.whsports.tv</page>
 <referer> </referer>
 </regex>
