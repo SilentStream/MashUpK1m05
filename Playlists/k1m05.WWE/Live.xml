@@ -11,7 +11,27 @@
 
 <item>
 <title>1. [COLOR=FFFF4500]WWE Network Test[/COLOR]</title>
-<link>rtmp://46.105.14.26/live playpath=networku2 swfUrl=http://ppvdirect.com/player/player-licensed.swf pageUrl=http://ppvdirect.com/view.php?pg=9 live=true timeout=10</link>
+<link>$doregex[rtmp]$doregex[path]$doregex[end]
+<regex>
+<name>rtmp</name>
+<expres><kbpsrtmp>(.+?)</kbpsrtmp></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>end</name>
+<expres><kbpsend>(.+?)</kbpsend></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>file: "([^'"]+)"</expres>
+<page>http://www.kbps.tv/embed.php?s=whs121223&width=639&height=390&domain=www.whsports.tv</page>
+<referer>http://www.whsports.tv/</referer>
+</regex>
+</link>
+</link>
 <thumbnail>http://www.wrestlingheads.com/wp-content/uploads/2013/12/WWE-Network-Logo-Original-300x260.png</thumbnail>
 </item>
 
