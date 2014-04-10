@@ -110,117 +110,6 @@
 </item>
 
 <item>
-<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR]</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss.html</page>
-<referer>http://coolsport.tv</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/ss.html</page>
-<referer>http://coolsports.tv</referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss1.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/ss1.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 2[/COLOR]</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss2.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/ss2.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 3[/COLOR]</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss3.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/ss3.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
-</item>
-#######################################################################################################################################
-
-#######################################################################################################################################
-<item>
-<title>3. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 4[/COLOR]</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss4.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/ss4.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
-</item>
-
-########################################################################################################################################
-
-              ##################################################################################################################################
-
-             ##################################################################################################################################
-
-#######################################################################################################################################
-
-<item>
 <title>2. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1 [/COLOR]</title>
 <link>rtmp://31.220.0.134:1935/live playpath=ss1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
@@ -254,14 +143,7 @@
 #######################################################################################################################################
 <item>
 <title>2. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] News[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
-<regex>
-<name>file</name>
-<expres>fid='(.+?)';</expres>
-<page>http://cricfree.tv/update/news.php</page>
-<referer>http://cricfree.tv/</referer>
-</regex>
-</link>
+<link>rtmp://31.220.0.134:1935/live playpath=ssnewsrx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
 </item>
 #######################################################################################################################################
@@ -269,14 +151,7 @@
 #######################################################################################################################################
 <item>
 <title>2. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] F1[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
-<regex>
-<name>file</name>
-<expres>fid='(.+?)';</expres>
-<page>http://cricfree.tv/update/skysf1.php</page>
-<referer>http://cricfree.tv/</referer>
-</regex>
-</link>
+<link>rtmp://31.220.0.134:1935/live playpath=ssf1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1.png</thumbnail>
 </item>
 #######################################################################################################################################
