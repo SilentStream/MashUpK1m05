@@ -15,7 +15,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FF9370DB]Sky Movies: Action [/COLOR]</title>
-<link>rtmp://31.220.0.138:1935/live playpath=actionx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmpe://46.246.124.38:1935/redirect playpath=action swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf pageUrl=http://www.hdcast.org live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################
@@ -23,7 +23,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FF9370DB]Sky Movies: Modern Greats [/COLOR]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=greatx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=greatx&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmpe://46.246.124.38:1935/redirect playpath=greats swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf pageUrl=http://www.hdcast.org live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################
@@ -31,15 +31,23 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FF9370DB]Sky Movies: Premier [/COLOR]</title>
-<link>rtmp://31.220.0.104:1935/live playpath=premierx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=premierx&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmpe://46.246.124.38:1935/redirect playpath=premier swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf pageUrl=http://www.hdcast.org live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Sci-Fi [/COLOR]</title>
-<link>rtmp://31.220.0.138:1935/live playpath=scifi swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=scifi&vw=620&vh=490 live=true timeout=10</link>
+<title>[COLOR=FF9370DB]Sky Movies: Sci-Fi [/COLOR]</title>
+<link>rtmpe://46.246.124.38:1935/redirect playpath=scifi swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf pageUrl=http://www.hdcast.org live=true timeout=10</link>
+<thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
+</item>
+#######################################################################################################################################
+
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Sky Movies: Crime & Thriller[/COLOR]</title>
+<link>rtmpe://46.246.124.38:1935/redirect playpath=thriller swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf1 pageUrl=http://www.hdcast.org live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img571/5274/u6.png</thumbnail>
 </item>
 #######################################################################################################################################
