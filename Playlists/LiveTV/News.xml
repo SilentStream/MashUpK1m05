@@ -7,6 +7,13 @@
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
+
+<item>
+<title>[COLOR=FFFF4500]HLN[/COLOR]</title>
+<link>rtmp://e.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/ live=true timeout=10</link>
+<thumbnail>http://www.bttoronto.ca/wp-content/themes/bt/images/logo.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR=FFFF4500]BT Montreal Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTMTLFLASH_live_2@120220?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
