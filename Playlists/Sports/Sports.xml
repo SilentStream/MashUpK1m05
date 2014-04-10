@@ -156,6 +156,18 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail> 
 </item>
 
+<item>
+<title>[COLOR=FFFF4500]Fox Sports 1[/COLOR]</title>
+<link>rtmp://31.220.0.134:1935/live playpath=fox1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Fox Sports 2[/COLOR]</title>
+<link>rtmp://31.220.0.134:1935/live playpath=fox2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports1_us.png</thumbnail>
+</item>
+
 <item> 
 <title>[COLOR=FFFF4500]Fox Sports 1[/COLOR][COLOR=FF00FF00]  Updated librtmp.dll needed, google it if you wish[/COLOR]</title> 
 <link>rtmpe://strm.ukcast.tv/redirect playpath=fsssss1 swfUrl=http://ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/ live=true timeout=10</link> 
@@ -313,4 +325,16 @@
 <title>[COLOR=FFFF4500]Sportsnet One[/COLOR]</title>
 <link>rtmp://31.220.0.133:1935/live playpath=s1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=s1&vw=620&vh=490 live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_one.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]TSN[/COLOR]</title>
+<link>rtmp://31.220.0.134:1935/live playpath=tsn1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tsn.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]TSN 2[/COLOR]</title>
+<link>rtmp://31.220.0.134:1935/live playpath=tsn2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tsn2.png</thumbnail>
 </item>
