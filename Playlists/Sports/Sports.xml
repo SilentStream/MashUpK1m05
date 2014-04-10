@@ -45,12 +45,10 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]ESPN.[/COLOR]</title>
+<title>[COLOR=FFFF4500]ESPN[/COLOR]</title>
 <link>
   <sublink>rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf pageUrl=http://thecdn.04stream.com/ live=true timeout=10</sublink>
-  <sublink>rtmp://204.45.157.234/flash playpath=12026 swfVfy=1 swfUrl=http://static2.sawlive.tv/player.swf live=true pageUrl=http://www.sawlive.tv/embed/vrljet1</sublink>
   <sublink>rtmpe://play.finecast.tv:1935/live playPath=espnuss swfUrl=http://www.finecast.tv/player/player.swf swfVfy=1 live=true pageUrl=http://www.finecast.tv/embed.php?u=espnuss</sublink>
-  <sublink>rtmp://live.cast-tv.us/stream playpath=z00018.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php?n=espn live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
 </item>
