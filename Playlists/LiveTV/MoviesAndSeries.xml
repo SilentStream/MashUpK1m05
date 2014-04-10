@@ -7,7 +7,7 @@
 #########################################################------------INFO------------##################################################
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF9370DB]Movies 1-11 Should work Sky Greats Prem And Thriller Work as well[COLOR=FF00FF00]  |  [COLOR=yellow]Series[/COLOR]</message>
+<message>[COLOR=FF9370DB]SKy Movies are All fixed Married with Children is fixed[COLOR=FF00FF00]  |  [COLOR=yellow]Series[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -304,7 +304,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=yellow]Married... With Children[/COLOR]</title>
-<link>rtmp://198.27.74.99/app playpath=mwc01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10</link>
+<link>rtmp://198.27.74.25/app playpath=mwc02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex4.php?mwc01 live=true timeout=10</link>
 <thumbnail>http://fanart.tv/fanart/tv/76385/hdclearart/married--with-children-511e683050b94.png</thumbnail>
 </item>
 #######################################################################################################################################
