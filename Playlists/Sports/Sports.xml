@@ -26,7 +26,7 @@
 <item>
 <title>[COLOR=FFFF4500]BT Sports 1[/COLOR]</title>
 <link>
-  <sublink>rtmp://31.220.0.134:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</sublink>
+  <sublink>rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</sublink>
   <sublink>rtmpe://play.finecast.tv/live playpath=hqbt1 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
