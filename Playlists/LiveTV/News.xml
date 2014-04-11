@@ -7,7 +7,13 @@
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
+<item>
+<title>[COLOR=FFFF4500]Australian Cyclone Chasers ???[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/1001733/streams/live/playlist.m3u8</link>
+<thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/0/0/1/10017334/10017334_occ-logo2_1345862572,66x66,r:1.jpg</thumbnail>
+</item>
 
+<item>
 <item>
 <title>[COLOR=FFFF4500]HLN[/COLOR]</title>
 <link>rtmp://e.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/ live=true timeout=10</link>
