@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>BT Winnepeg fixed, BT Streams added they only work for morning show</message>
+<message>MSNBC</message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]BT Montreal Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
+<title>[COLOR=FFFF4500]BT Montreal[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTMTLFLASH_live_2@120220?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
 <name>vidid</name>
@@ -46,7 +46,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]BT Winnipeg Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
+<title>[COLOR=FFFF4500]BT Winnipeg[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTWINFLASH_live_4@120222?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
 <name>vidid</name>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]BT Calgary Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
+<title>[COLOR=FFFF4500]BT Calgary[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTCALFLASH_live_3@120221?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
 <name>vidid</name>
@@ -96,7 +96,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]BT Toronto Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
+<title>[COLOR=FFFF4500]BT Toronto[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTTOFLASH_live_1@120219?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
 <name>vidid</name>
@@ -121,7 +121,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]BT Edmonton Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
+<title>[COLOR=FFFF4500]BT Edmonton[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTEDMFLASH_live_5@120223?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
 <name>vidid</name>
@@ -146,7 +146,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]BT Vancouver Test[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
+<title>[COLOR=FFFF4500]BT Vancouver[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTVANFLASH_live_6@120224?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
 <name>vidid</name>
@@ -448,8 +448,39 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]MSNBC[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
+<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
+<regex>
+<name>url</name>
+<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
+<page>http://www.ilive.to/view/52505/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>app</name>
+<expres>\/?xs=([^"]+?)"</expres>
+<page>http://www.ilive.to/view/52505/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
+<page>http://www.ilive.to/view/52505/</page>
+<referer>http://www.ilive.to/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>t....":"([^."]*)</expres>
+<page>http://www.ilive.to/server2.php</page>
+<referer>http://www.ilive.to</referer>
+</regex>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/bc.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]MSNBC[/COLOR]</title>
-<link>rtmp://173.193.227.91/live playpath=msnbcbcb?id=194645 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/msnbcbcb/1/600/400 live=true timeout=10 conn=S:OK</link>
+<link>rtmp://5.63.144.244/live playpath=msnbcnnews?id=199521 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/msnbcnnews/1/600/400 live=true timeout=10 conn=S:OK</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
 </item>
 
