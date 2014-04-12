@@ -45,7 +45,7 @@
 
 <item>
 <title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR] [COLOR=FFFF4500]Preshow[/COLOR] Not Yet Online</title>
-<link>$doregex[rtmp]$doregex[file]
+<link>$doregex[rtmp] playpath=$doregex[file]$doregex[end]
 <regex>
 <name>rtmp</name>
 <expres>'streamer': '([^'"]+)'</expres>
