@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>MSNBC</message>
+<message>MSNBC Fox 25 Boston </message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
@@ -310,7 +310,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]*</title>
-<link>http://$doregex[svr]1_198@85369/master.m3u8
+<link>http://$doregex[svr]1_198@47281/master.m3u8
 <regex>
 <name>svr</name>
 <expres>rtsp://([^']*)1_198</expres>
@@ -323,7 +323,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]**</title>
-<link>http://$doregex[svr]1_678@85369/master.m3u8
+<link>http://$doregex[svr]1_678@47281/master.m3u8
 <regex>
 <name>svr</name>
 <expres>rtsp://([^']*)1_198</expres>
@@ -336,7 +336,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]***</title>
-<link>http://$doregex[svr]1_2320@85369/master.m3u8
+<link>http://$doregex[svr]1_2320@47281/master.m3u8
 <regex>
 <name>svr</name>
 <expres>rtsp://([^']*)1_198</expres>
