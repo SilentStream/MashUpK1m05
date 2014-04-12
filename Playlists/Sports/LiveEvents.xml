@@ -44,17 +44,17 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR] [COLOR=FFFF4500]Preshow[/COLOR]</title>
+<title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR] [COLOR=FFFF4500]Preshow[/COLOR] Not Yet Online</title>
 <link>$doregex[rtmp]$doregex[file]
 <regex>
 <name>rtmp</name>
-<expres>'streamer': '(.+?)'</expres>
+<expres>'streamer': '([^'"]+)'</expres>
 <page>http://castalba.tv/embed.php?cid=20607&wh=550&ht=350</page>
 <referer>http://lag10.com/</referer>
 </regex>
 <regex>
 <name>file</name>
-<expres>'file': '(.+?)'</expres>
+<expres>'file': '([^'"]+)'</expres>
 <page>http://castalba.tv/embed.php?cid=20607&wh=550&ht=350</page>
 <referer>http://lag10.com/</referer>
 </regex>
