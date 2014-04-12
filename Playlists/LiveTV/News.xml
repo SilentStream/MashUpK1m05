@@ -14,15 +14,6 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]HLN[/COLOR]</title>
-<link>
-  <sublink>rtmp://199.195.194.28/live playpath=hlnnews105?id=199493 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/hlnnews105/1/600/400 live=true timeout=10 Conn=S:OK</sublink>
-  <sublink>rtmp://e.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/ live=true timeout=10</sublink>
-  </link>
-<thumbnail>http://www.newsown.com/wp-content/uploads/2013/08/Get-Latest-views-and-news-from-HLN-live-stream-150x150.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=FFFF4500]BT Montreal[/COLOR][COLOR=FFFF0000]  HD  [/COLOR]</title>
 <link>http://btflash-lh.akamaihd.net/BTMTLFLASH_live_2@120220?videoId=$doregex[vidid]&lineUpId=&pubId=$doregex[pubid]&playerId=$doregex[plyid]&affiliateId=&v=3.3.0&fp=WIN%2012,0,0,77&r=HDHYA&g=GZQGHQMPOFNC
 <regex>
