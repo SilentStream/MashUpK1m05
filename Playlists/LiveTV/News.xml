@@ -16,7 +16,10 @@
 <item>
 <item>
 <title>[COLOR=FFFF4500]HLN[/COLOR]</title>
-<link>rtmp://e.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/ live=true timeout=10</link>
+<link>
+  <sublink>rtmp://173.193.223.149/live playpath=hlnnews105?id=194650 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf pageUrl=http://www.mips.tv/embedplayer/foxbusssss/1/600/400 live=true timeout=10 Conn=S:OK</sublink>
+  <sublink>rtmp://e.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/ live=true timeout=10</sublink>
+  </link>
 <thumbnail>http://www.bttoronto.ca/wp-content/themes/bt/images/logo.png</thumbnail>
 </item>
 
