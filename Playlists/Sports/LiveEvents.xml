@@ -44,20 +44,9 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR]</title>
+<title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR] Replay</title>
 <link>
-  <sublink>rtmp://server3.ppvmania.tv/live/ playpath=channel5v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed</sublink>
-  <sublink>rtmp://server6.ppvmania.tv/live/ playpath=channel12v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed</sublink>
-  <sublink>rtmp://server5.ppvmania.tv/live/ playpath=channel8v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed</sublink>
-  <sublink>rtmp://176.31.231.14/ app=?rtmp://46.20.44.130:1936/evil/ playpath=channel10 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
-  <sublink>rtmp://174.127.120.190/ app=?rtmp://176.31.231.14/?rtmp://46.20.44.130:1936/evil/ playpath=channel10 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
-  <sublink>rtmp://91.121.9.48/ app=?rtmp://46.20.44.130:1936/evil/ playpath=channel10 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
-  <sublink>rtmp://192.241.155.144/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
-  <sublink>rtmp://107.170.200.53/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
-  <sublink>rtmp://107.170.238.92/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
-  <sublink>rtmp://91.121.9.48/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player2 live=true timeout=10</sublink>
-  <sublink>rtmp://107.170.104.75/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
-  <sublink>rtmp://192.241.155.144/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink
+  <sublink>rtmp://37.49.224.102/vod/media playpath=pacquiaovsbradley2vod swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1f/Pacquiao_vs_Bradley.jpg</thumbnail>
 </item>
@@ -66,6 +55,12 @@
 <item>
 <title>[COLOR=FF9370DB]SWANSEA VS CHELSEA[/COLOR]</title>
 <link>rtmp://178.33.78.98/live/ playpath=liverpoolcity720p swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ live=true timeout=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1b/UFC_ABU_DHABI_POSTER.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FF9370DB]SWANSEA VS CHELSEA[/COLOR]</title>
+<link>rtmp://37.49.224.102/vod/media playpath=pacquiaovsbradley2vod swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ live=true timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1b/UFC_ABU_DHABI_POSTER.jpg</thumbnail>
 </item>
 
