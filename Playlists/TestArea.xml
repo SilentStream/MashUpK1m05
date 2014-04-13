@@ -129,17 +129,11 @@
 
 
 <item>
-<title>SNTest1</title>
-<link>$doregex[rtmp]/live playpath=$doregex[file] swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
+<title>SNTest2</title>
+<link>$doregex[rtmp]/live playpath=liverpoolcity720p swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10
 <regex>
 <name>rtmp</name>
 <expres>streamer=(.+?)/live</expres>
-<page>http://sportsnationhd.com/view.php?pg=liverpoolcity720p</page>
-<referer>http://sportsnationhd.com/</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=([^']*)&</expres>
 <page>http://sportsnationhd.com/view.php?pg=liverpoolcity720p</page>
 <referer>http://sportsnationhd.com/</referer>
 </regex>
