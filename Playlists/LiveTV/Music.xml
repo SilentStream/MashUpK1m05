@@ -81,7 +81,7 @@
 <item>
 <title>Trance Urban</title>
 <link>http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr647k.m3u8</link>
-<thumbnail>http://yamgo.mobi/images/xxhigh/logo/TraceUrbanLogo.png</thumbnail>
+<thumbnail>http://www.e-zeeinternet.com/count.php?page=1053962&style=LED_g&nbdigits=7&reloads=1</thumbnail>
 </item>
 
 
@@ -123,13 +123,26 @@
 
 <item>
 <title>VIDEO MIX TV - South Florida Simulcast</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/5898069/streams/live/playlist.m3u8</link>
+<link>
+  <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/5898069/streams/live/playlist.m3u8</sublink>
+<sublink>rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://188.226.130.67/?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://188.226.130.67/?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://174.127.120.190/?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://37.59.79.24/live/ playpath=pacquiaohq1 swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=pacquiaohq1 live=true timeout=10<sublink>
+  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel15 swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=1
+  <sublink>rtmp://server3.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed
+  <sublink>rtmp://server2.ppvmania.tv:1935/live playpath=channel8v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=1
+  <sublink>rtmp://ppvmania.tv:1935/live playpath=channel12v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=1
+  <sublink>rtmp://178.33.78.98/live/ playpath=pacquiao1080p swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=pacquiao1080p live=true timeout=10</sublink>
+  <sublink>rtmp://37.59.79.25/live/ playpath=pacquiao720p swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=pacquiao720p live=true timeout=10</sublink>
+</link>
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/5/8/9/8/5898069/5898069_videomixbluelogo_1296079568,66x66,r:1.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=green]Metallica[/COLOR] Freeze 'em All Concert</title>
 <link>plugin://plugin.video.youtube/?action=play_video&videoid=2Hi2u98VKxc</link>
-<thumbnail>http://www.metallus.it/wp-content/uploads/2012/10/Metal-Xmas.jpg</thumbnail>
+<thumbnail>http://www.e-zeeinternet.com/count.php?page=1053961&style=LED_g&nbdigits=7</thumbnail>
 </item>
 
