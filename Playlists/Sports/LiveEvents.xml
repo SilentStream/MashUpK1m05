@@ -45,25 +45,11 @@
 
 <item>
 <title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR] [COLOR=FFFF4500]Preshow[/COLOR]</title>
-<link>$doregex[rtmp] playpath=$doregex[file]$doregex[end]
-<regex>
-<name>rtmp</name>
-<expres>'streamer': '([^'"]+)'</expres>
-<page>http://castalba.tv/embed.php?cid=20607&wh=550&ht=350</page>
-<referer>http://lag10.com/</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file': '([^'"]+)'</expres>
-<page>http://castalba.tv/embed.php?cid=20607&wh=550&ht=350</page>
-<referer>http://lag10.com/</referer>
-</regex>
-<regex>
-<name>end</name>
-<expres><castaend>(.+?)</castaend></expres>
-<page>http://goo.gl/Vq6n6x</page>
-<referer> </referer>
-</regex>
+<link>
+  <sublink>rtmp://107.170.104.75/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://192.241.155.144/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://107.170.200.53/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://107.170.238.92/ app=?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1f/Pacquiao_vs_Bradley.jpg</thumbnail>
 </item>
