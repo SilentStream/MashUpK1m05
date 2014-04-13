@@ -25,6 +25,28 @@
 </item>
 #######################################################################################################################################
 
+
+<item>
+<title>01. </title>
+<link>$doregex[rtmp] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/ live=true timeout=10
+<regex>
+<name>rtmp</name>
+<expres>'streamer': '([^'"]+)'</expres>
+<page>http://castalba.tv/embed.php?cid=20607&wh=550&ht=350</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>'file': '([^'"]+)'</expres>
+<page>http://castalba.tv/embed.php?cid=20607&wh=550&ht=350</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://forum.mashupxbmc.com/images/metro/bw/misc/vbulletin4_logo.png</thumbnail>
+</item>
+
+
+
 #######################################################################################################################################
 <item>
 <title>[COLOR=red]WWE[/COLOR]: [COLOR=white]Wrestlemania[/COLOR] [COLOR=FFFF4500]01 Part 2[/COLOR]</title>
