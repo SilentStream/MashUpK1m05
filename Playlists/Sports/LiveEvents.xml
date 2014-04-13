@@ -44,11 +44,11 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR]</title>
+<title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR].</title>
 <link>
-  <sublink>rtmp://server3.ppvmania.tv/live/ playpath-channel5v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</sublink>
-  <sublink>rtmp://server6.ppvmania.tv/live/ playpath-channel12v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=14 token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</sublink>
-  <sublink>rtmp://server5.ppvmania.tv/live/ playpath-channel8v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed‏</sublink>
+  <sublink>rtmp://server3.ppvmania.tv/live/ playpath-channel5v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed</sublink>
+  <sublink>rtmp://server6.ppvmania.tv/live/ playpath-channel12v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed</sublink>
+  <sublink>rtmp://server5.ppvmania.tv/live/ playpath-channel8v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf token=WY846p1E1g15W7s live=true timeout=10 swfVfy=true pageUrl=http://hqzone.tv/forums/view.php?pg=testfeed</sublink>
   <sublink>rtmp://176.31.231.14/ app=?rtmp://46.20.44.130:1936/evil/ playpath=channel10 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
   <sublink>rtmp://174.127.120.190/ app=?rtmp://176.31.231.14/?rtmp://46.20.44.130:1936/evil/ playpath=channel10 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
   <sublink>rtmp://91.121.9.48/ app=?rtmp://46.20.44.130:1936/evil/ playpath=channel10 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
