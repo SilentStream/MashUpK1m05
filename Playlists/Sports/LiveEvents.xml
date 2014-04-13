@@ -44,10 +44,8 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR] Replay</title>
-<link>
-  <sublink>rtmp://37.49.224.102/vod/media playpath=pacquiaovsbradley2vod swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/view.php?pg=pacquiaovsbradley2vodsportsnationhd.com/view.php timeout=10</sublink>
-</link>
+<title>[COLOR=blue]P[/COLOR][COLOR=blue]a[/COLOR][COLOR=red]c[/COLOR][COLOR=red]q[/COLOR][COLOR=yellow]u[/COLOR][COLOR=yellow]i[/COLOR][COLOR=white]a[/COLOR][COLOR=white]o[/COLOR] [COLOR=FFFF4500]vs.[/COLOR] [COLOR=red]B[/COLOR][COLOR=red]r[/COLOR][COLOR=white]a[/COLOR][COLOR=white]d[/COLOR][COLOR=white]l[/COLOR][COLOR=blue]e[/COLOR][COLOR=blue]y[/COLOR].</title>
+<link>rtmp://37.49.224.102/vod/media playpath=pacquiaovsbradley2vod swfUrl=http://sportsnationhd.com/jwpl5/player.swf pageUrl=http://sportsnationhd.com/ timeout=10</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/1f/Pacquiao_vs_Bradley.jpg</thumbnail>
 </item>
 
