@@ -35,6 +35,7 @@
 <item>
 <title>[COLOR=FFFF4500]BT Sports 2[/COLOR]</title>
 <link>
+  <sublink>rtmp://206.190.140.148:443/liverepeater playpath=stream6 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream6.html live=true timeout=10</sublink>
   <sublink>rtmp://31.220.0.134:1935/live playpath=bt2x swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</sublink>
   <sublink>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/ live=true timeout=10</sublink>
 </link>
