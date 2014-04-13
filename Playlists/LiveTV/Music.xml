@@ -125,7 +125,7 @@
 <title>VIDEO MIX TV - South Florida Simulcast</title>
 <link>
   <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/5898069/streams/live/playlist.m3u8</sublink>
-  <sublink>rtmp://176.31.231.14/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
+  <sublink>rtmp://176.31.231.14/ app=?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
   <sublink>rtmp://188.226.130.67/?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
   <sublink>rtmp://188.226.130.67/?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
   <sublink>rtmp://174.127.120.190/?rtmp://91.121.9.48/?rtmp://wrestle-zone.mobi/evil/ playpath=playlist=player1 swfUrl=http://247hdsports.net/P/player.swf pageUrl=http://wrestle-zone.net.pk/ live=true timeout=10</sublink>
