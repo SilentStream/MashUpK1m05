@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]TSN, TSN2, Fox S1, Fox S2, BT Sports[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</message>
+<message>[COLOR=FF00FF00]TSN Fixed[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -328,7 +328,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]TSN[/COLOR]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=tsn1 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</link>
+<link>rtmp://206.190.140.148:443/liverepeater playpath=stream7 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream6.html live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tsn.png</thumbnail>
 </item>
 
