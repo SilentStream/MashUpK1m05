@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]TSN Fixed  [/COLOR]</message>
+<message>[COLOR=FF00FF00]Finally Boxnation,  Lets see if it lasts...[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -51,6 +51,13 @@
 <thumbnail>http://s2.wp.com/wp-content/themes/vip/bigtennetwork/img/logo.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR=FFFF4500]Boxnation[/COLOR]</title>
+<link>rtmpe://89.46.102.70:443/liveedge playpath=box swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/ live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/box_nation.png</thumbnail>
+</item>
+
+<item>
 <item>
 <title>[COLOR=FFFF4500]ESPN[/COLOR]</title>
 <link>
