@@ -8,6 +8,25 @@
 #######################################################################################################################################
 # 
 #######################################################################################################################################
+
+
+<item>
+<title>Test</title>
+<link>rtmp://live$doregex[url]/live/ app=live/$doregex[key] playpath=367.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>rtmp:\/\/live([^\\]*)\/live\/</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=367</page>
+</regex>
+<regex>
+<name>key</name>
+<expres>rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=367</page>
+</regex>
+</link>
+<thumbnail>http://www.ilcode.com/photos/www.ilcode.com-mdubdqlswkxrchiaarxirdk-mbc.jpg</thumbnail>
+</item>
+
 <item>
 <title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]</title>
 <link>$doregex[rtmp]$doregex[path]$doregex[end]
