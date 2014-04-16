@@ -11,11 +11,11 @@
 
 
 <item>
-<title>Test</title>
+<title>Test.</title>
 <link>rtmp://live$doregex[url]/live/ app=live/$doregex[key] playpath=367.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
 <regex>
 <name>url</name>
-<expres>rtmp:\/\/live([^\\]*)\/live\/</expres>
+<expres>rtmp:\/\/live((.+?)\/live\/</expres>
 <page>http://www.filmon.com/tv/channel/export?channel_id=367</page>
 </regex>
 <regex>
