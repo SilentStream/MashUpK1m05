@@ -9,7 +9,7 @@
 # 
 #######################################################################################################################################
 <item>
-<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR] Testing **</title>
+<title>01. [COLOR=blue]Sky[/COLOR] [COLOR=red]Sports[/COLOR][COLOR=white] 1[/COLOR]</title>
 <link>$doregex[rtmp]$doregex[path]$doregex[end]
 <regex>
 <name>rtmp</name>
@@ -25,9 +25,9 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>fid="([^'"])"</expres>
+<expres>fid="([^'"]+)"</expres>
 <page>http://hdfoots.com/watch/boxnation.php</page>
-<referer> </referer>
+<referer>http://hdfoots.com/</referer>
 </regex>
 </link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news.png</thumbnail>
