@@ -53,9 +53,13 @@
 
 <item>
 <title>[COLOR=FFFF4500]Boxnation[/COLOR]</title>
-<link>rtmpe://89.46.102.70:443/liveedge playpath=box swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/ live=true timeout=10</link>
+<link>
+  <sublink>rtmpe://89.46.102.70:443/liveedge playpath=box swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDMBOXNTN pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/box_nation.png</thumbnail>
 </item>
+
+rtmp://46.246.124.38:1935/redirect/HDMBOXNTN live=1 pageUrl=http://www.hdcast.org/
 
 <item>
 <item>
