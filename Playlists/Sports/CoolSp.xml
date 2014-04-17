@@ -880,8 +880,8 @@
 
 #######################################################################################################################################
 <item>
-<title>Sky Sports 1</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<title>Sky Sports 1..</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -890,7 +890,7 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
+<expres>'file':.+?'(.+?)',</expres>
 <page>http://1cdn.filotv.pw/ss1.html</page>
 <referer> </referer>
 </regex>
