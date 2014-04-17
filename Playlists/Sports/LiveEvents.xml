@@ -36,12 +36,19 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Polish Dirt bikes lol[/COLOR]</title>
+<title>[COLOR=FF9370DB]Polish Dirt bikes[/COLOR]</title>
 <link>
   <sublink>rtmp://195.154.211.101:80/live playpath=file:byslrbe7 swfUrl=http://www.byetv.org/jwplayer/jwplayer.flash.swf pageUrl=http://www.byetv.org/embed.php?a=1895&id=&width=580&height=400&autostart=true&strech=exactfit live=true timeout=10</sublink>
   <sublink>http://metadata.pl-sport.tv/stream/sobota4.m3u8</sublink>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
+#######################################################################################################################################
+<item>
+<title>[COLOR=FF9370DB]Padres[/COLOR]</title>
+<link>rtmp://37.220.36.7:443/liverepeater playpath=19341 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream18.html live=true timeout=10</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
+</item>
+
 
 
