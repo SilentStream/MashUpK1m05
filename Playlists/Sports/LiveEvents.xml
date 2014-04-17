@@ -3,29 +3,28 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 # rtmp://173.192.170.108/live playpath=194751?313339373334313239365f6162643764363565363864333064633538626462336366336436333832353637 swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=20607&wh=640&ht=480&r=lag10.com live=true timeout=10
-
-#######################################################################################################################################
-<dir>
-<name>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]HQ[/COLOR]</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack1.xml</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
-</dir>
 #######################################################################################################
 <popup>
 <name>Buffering info</name>
 <popImage>http://i1121.photobucket.com/albums/l514/k1m05_/Untitled.png</popImage>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </popup>
-######################################################################################################
+#######################################################################################################################################
 <dir>
-<name>[COLOR=yellow]Sports Pack 3[/COLOR] [COLOR=red]LQ[/COLOR] WIP</name>
-<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack3.xml</link>
-<thumbnail>http://www.e-zeeinternet.com/count.php?page=1053966&style=LED_g&nbdigits=7&reloads=1</thumbnail>
+<name>[COLOR=FFFF4500]Sports Pack 1[/COLOR] [COLOR=red]HQ[/COLOR]</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack1.xml</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </dir>
 ######################################################################################################
 <dir>
 <name>[COLOR=yellow]Sports Pack 2[/COLOR] [COLOR=red]LQ[/COLOR] NEW</name>
 <link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack2.xml</link>
+<thumbnail>http://www.e-zeeinternet.com/count.php?page=1053966&style=LED_g&nbdigits=7&reloads=1</thumbnail>
+</dir>
+######################################################################################################
+<dir>
+<name>[COLOR=yellow]Sports Pack 3[/COLOR] [COLOR=red]LQ[/COLOR] WIP</name>
+<link>https://raw.github.com/mash2k3/MashUpK1m05/master/Playlists/Sports/SportsPack3.xml</link>
 <thumbnail>http://www.e-zeeinternet.com/count.php?page=1053966&style=LED_g&nbdigits=7&reloads=1</thumbnail>
 </dir>
 #######################################################################################################################################
