@@ -859,19 +859,13 @@
 #######################################################################################################################################
 
 <item>
-<title>Sky Sports News..</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss.html</page>
-<referer>http://coolsport.tv</referer>
-</regex>
+<title>Sky Sports News</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
+<expres>'file':.+?'(.+?)',</expres>
 <page>http://1cdn.filotv.pw/ss.html</page>
-<referer>http://coolsports.tv</referer>
+<referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
@@ -880,14 +874,8 @@
 
 #######################################################################################################################################
 <item>
-<title>Sky Sports 1..</title>
+<title>Sky Sports 1</title>
 <link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss1.html</page>
-<referer> </referer>
-</regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
@@ -902,16 +890,10 @@
 #######################################################################################################################################
 <item>
 <title>Sky Sports 2</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss2.html</page>
-<referer> </referer>
-</regex>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
+<expres>'file':.+?'(.+?)',</expres>
 <page>http://1cdn.filotv.pw/ss2.html</page>
 <referer> </referer>
 </regex>
@@ -923,16 +905,10 @@
 #######################################################################################################################################
 <item>
 <title>Sky Sports 3</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss3.html</page>
-<referer> </referer>
-</regex>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
+<expres>'file':.+?'(.+?)',</expres>
 <page>http://1cdn.filotv.pw/ss3.html</page>
 <referer> </referer>
 </regex>
@@ -944,16 +920,10 @@
 #######################################################################################################################################
 <item>
 <title>Sky Sports 4</title>
-<link>rtmp:$doregex[url] playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/ss4.html</page>
-<referer> </referer>
-</regex>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
+<expres>'file':.+?'(.+?)',</expres>
 <page>http://1cdn.filotv.pw/ss4.html</page>
 <referer> </referer>
 </regex>
