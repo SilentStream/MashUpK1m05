@@ -127,26 +127,20 @@
 
 #######################################################################################################################################
 <item>
-<title>hdcast</title>
-<link>$doregex[rtmp]$doregex[path]$doregex[end]
+<title>Stream 01</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
-<name>rtmp</name>
-<expres><hdcastrtmp>(.+?)</hdcastrtmp></expres>
-<page>http://goo.gl/Vq6n6x</page>
+<name>url</name>
+<expres>'rtmp:(.+?)'</expres>
+<page>http://1cdn.filotv.pw/stream1.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
-<expres>fid="(.*)";</expres>
-<page>http://cricfree.tv/update/setcafl.php</page>
-<referer>http://cricfree.tv/</referer>
-</regex>
-<regex>
-<name>end</name>
-<expres><hdcastend>(.+?)</hdcastend></expres>
-<page>http://goo.gl/Vq6n6x</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://1cdn.filotv.pw/stream1.html</page>
 <referer> </referer>
 </regex>
 </link>
-<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
