@@ -159,85 +159,22 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Event Channel 1[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM1 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 2[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM2 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 3[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM3 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 4[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM4 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 5[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM5 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 6[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM6 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 7[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM7 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 8[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM8 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 9[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM9 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 10[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM10 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 11[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM11 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 12[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM12 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 13[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM13 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Event Channel 14[/COLOR]</title>
-<link>rtmp://46.246.124.38:1935/redirect/HDM14 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
+<title>[COLOR=FFFF4500]Event Channels 1-14[/COLOR]</title>
+<link>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM1 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM2 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM3 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM4 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM5 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM6 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM7 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM8 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM9 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM10 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM11 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM12 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM13 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+  <sublink>rtmp://46.246.124.38:1935/redirect/HDM14 pageUrl=http://www.hdcast.org/ live=true timeout=10</sublink>
+</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
