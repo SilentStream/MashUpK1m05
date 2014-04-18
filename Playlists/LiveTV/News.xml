@@ -167,6 +167,12 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]City of Boston TV[/COLOR]</title>
+<link>rtmp://streaming.cityofboston.gov/live playpath=cable swfUrl=http://www.cityofboston.gov/includes/flowplayer/flowplayer-3.2.5.swf?0.017999614356085658 pageUrl=http://www.cityofboston.gov/cable/live.asp live=true timeout=10</link>
+<thumbnail>http://www.cityofboston.gov/images/mastheadShort.gif</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]The Weather Network [COLOR=FFFF0000]HD[/COLOR]</title>
 <link>http://brightcove03-f.akamaihd.net/nationalhd_1_2000@106499</link>
 <thumbnail>http://s2.twnmm.com/images/the-weather-network-logo.png</thumbnail>
