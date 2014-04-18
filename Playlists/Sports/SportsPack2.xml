@@ -3,6 +3,12 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <item>
+<title>[COLOR=FFFF4500]Box Nation[/COLOR]</title>
+<link>rtmp://46.246.124.38:1935/redirect/HDMBOXNTN pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]Racing UK[/COLOR]</title>
 <link>rtmp://46.246.124.38:1935/redirect/Racing24x7 pageUrl=http://www.hdcast.org/ live=true timeout=10</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
