@@ -810,21 +810,8 @@
 
 #######################################################################################################################################
 <item>
-<title>Stream 39</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream14.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>'['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/stream14.html</page>
-<referer> </referer>
-</regex>
-</link>
+<title>Stream 39 **</title>
+<link>rtmp://5.153.25.21:443/liverepeater playpath=stream14 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream14.html live=true timeout=10 token=#atd%#$ZH</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
 #######################################################################################################################################
