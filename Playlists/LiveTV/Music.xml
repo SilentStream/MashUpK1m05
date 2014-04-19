@@ -124,6 +124,7 @@
 <item>
 <title>VIDEO MIX TV - South Florida Simulcast.</title>
 <link>
+  <sublink>rtmp://server3.ppvmania.tv/live/ playpath=channel5v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=7 token=WY846p1E1g15W7s live=1 timeout=11</sublink>
   <sublink>rtmp://server2.ppvmania.tv/live/ playpath=channel7v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=9 token=WY846p1E1g15W7s live=1 timeout=11</sublink>
   <sublink>rtmp://server5.ppvmania.tv/live/ playpath=channel8v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=10 token=WY846p1E1g15W7s live=1 timeout=11</sublink>
   <sublink>rtmp://server2.ppvmania.tv/live/ playpath=channel10v swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=12 token=WY846p1E1g15W7s live=1 timeout=11</sublink>
