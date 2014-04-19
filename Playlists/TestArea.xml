@@ -9,6 +9,32 @@
 </info>
 #######################################################################################################################################
 <item>
+<title>Test FO</title>
+<link>
+rtmp://$doregex[url] app=live/$doregex[key] playpath=2618.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>url</name>
+<expres>rtmp:....([^\\]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2859</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>key</name>
+<expres>rtmp[^?]*(\?id=[^"]*)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2859</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://3alkanaba.com/uploads/channels/501ec_Aflam_rotana_242.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
 <title>[COLOR=FFFF4500]Big Brother Canada Camera 1 HQ[/COLOR]</title>
 <link>http://$doregex[svr]1_550@156550/master.m3u8
 <regex>
