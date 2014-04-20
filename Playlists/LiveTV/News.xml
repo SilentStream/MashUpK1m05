@@ -368,13 +368,7 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Fox News.com[/COLOR]</title>
-<link>http://foxhdlive-f.akamaihd.net/DCL_1_3500@6475?v=3.1.0&p=aasp-3.1.0.43.124&fp=WIN%2012,0,0,70&r=RLIII&g=PNYAKDUPNSSI</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=FFFF4500]Fox 5 News Washington 2[/COLOR]</title>
+<title>[COLOR=FFFF4500]Fox 5 News Washington[/COLOR]</title>
 <link>$doregex[file]
 <regex>
 <name>file</name>
