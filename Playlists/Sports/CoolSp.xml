@@ -4,7 +4,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]Schedule at - http://www.coolsport.tv/schedule.html[/COLOR]</message>
+<message>[COLOR=FF00FF00]Schedule at: http://www.coolsport.tv/schedule.html[/COLOR]</message>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </info>
 #######################################################################################################################################
@@ -430,13 +430,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream21.html</page>
+<page>http://cdn.kingofplayers.com/stream21.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream21.html</page>
+<page>http://cdn.kingofplayers.com/stream21.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -472,13 +472,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream23.html</page>
+<page>http://cdn.kingofplayers.com/stream23.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream23.html</page>
+<page>http://cdn.kingofplayers.com/stream23.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -493,13 +493,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream24.html</page>
+<page>http://cdn.kingofplayers.com/stream24.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream24.html</page>
+<page>http://cdn.kingofplayers.com/stream24.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -514,13 +514,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream25.html</page>
+<page>http://cdn.kingofplayers.com/stream25___.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream25.html</page>
+<page>http://cdn.kingofplayers.com/stream25___.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -535,13 +535,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream26.html</page>
+<page>http://cdn.kingofplayers.com/stream1.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream26.html</page>
+<page>http://cdn.kingofplayers.com/stream1.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -556,13 +556,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream27.html</page>
+<page>http://cdn.kingofplayers.com/stream2.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream27.html</page>
+<page>http://cdn.kingofplayers.com/stream2.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -598,13 +598,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream29.html</page>
+<page>http://cdn.kingofplayers.com/stream4.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream29.html</page>
+<page>http://cdn.kingofplayers.com/stream4.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -619,13 +619,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream30.html</page>
+<page>http://cdn.kingofplayers.com/stream5.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream30.html</page>
+<page>http://cdn.kingofplayers.com/stream5.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -640,13 +640,13 @@
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream31.html</page>
+<page>http://cdn.kingofplayers.com/stream36.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
 <expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream31.html</page>
+<page>http://cdn.kingofplayers.com/stream36.html</page>
 <referer> </referer>
 </regex>
 </link>
@@ -661,94 +661,92 @@
 					###################################################################################################################
 #######################################################################################################################################
 #######################################################################################################################################
+#######################################################################################################################################
 
+#######################################################################################################################################
 <item>
-<title>Stream 32.</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<title>Stream 32</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream7.html</page>
+<page>http://cdn.kingofplayers.com/stream7.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/stream7.html</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream7.html</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
+</item>#######################################################################################################################################
 
 #######################################################################################################################################
 <item>
 <title>Stream 33</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream8.html</page>
+<page>http://cdn.kingofplayers.com/stream8.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/stream8.html</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream8.html</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
+</item>#######################################################################################################################################
 
 #######################################################################################################################################
 <item>
 <title>Stream 34</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream9.html</page>
+<page>http://cdn.kingofplayers.com/stream9.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/stream9.html</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream9.html</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
+</item>#######################################################################################################################################
 
 #######################################################################################################################################
 <item>
 <title>Stream 35</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream10.html</page>
+<page>http://cdn.kingofplayers.com/stream10.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"](.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream10.html</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream10.html</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
+</item>#######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>Stream 36*</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/ live=true timeout=10 token=#atd%#$ZH
+<title>Stream 36</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
@@ -757,84 +755,94 @@
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/stream11.html</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream11.html</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
+</item>#######################################################################################################################################
 
 #######################################################################################################################################
 <item>
 <title>Stream 37</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream12.html</page>
+<page>http://cdn.kingofplayers.com/stream12.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/stream12.html</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream12.html</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
+</item>#######################################################################################################################################
 
 #######################################################################################################################################
 <item>
 <title>Stream 38</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream13.html</page>
+<page>http://cdn.kingofplayers.com/stream13.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/stream13.html</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream13.html</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
+</item>#######################################################################################################################################
 
 #######################################################################################################################################
 <item>
-<title>Stream 39 **</title>
-<link>rtmp://5.153.25.21:443/liverepeater playpath=stream14 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream14.html live=true timeout=10 token=#atd%#$ZH</link>
+<title>Stream 39</title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<regex>
+<name>url</name>
+<expres>'rtmp:(.+?)'</expres>
+<page>http://cdn.kingofplayers.com/stream14.html</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream14.html</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
-#######################################################################################################################################
+</item>#######################################################################################################################################
 
 #######################################################################################################################################
 <item>
 <title>Stream 40</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
+<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
 <regex>
 <name>url</name>
 <expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream15.html</page>
+<page>http://cdn.kingofplayers.com/stream15__.html</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>path</name>
-<expres>['"]file['"][:,]\s*['"]([^'"]+)['"]</expres>
-<page>http://1cdn.filotv.pw/stream15.html</page>
+<expres>'file':.+?'(.+?)',</expres>
+<page>http://cdn.kingofplayers.com/stream15__.html</page>
 <referer> </referer>
 </regex>
 </link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
 </item>
+
 
 #######################################################################################################################################
 #######################################################################################################################################
