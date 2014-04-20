@@ -17,7 +17,275 @@
 #######################################################################################################################################
 #########################################################--------------A-------------##########################################################
 #######################################################################################################################################
-
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]WGBX-HD 44.1 Boston[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2865.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2865</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2865</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2865/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]Daystar Boston (WYDN-DT 48.1)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2866.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2866</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2866</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2866/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]MOVIES! Boston (WFXT 25.2)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2857.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2857</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2857</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2857/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]MyNetworkTV Boston (WSBK-TV 38.1)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2858.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2858</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2858</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2858/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CW Boston (WLVI 56.1)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2859.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2859</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2859</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2859/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]This TV Boston (WHDH 7.2)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2862.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2862</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2862</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2862/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]WGBH-HD Boston[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2851.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2851</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2851</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2851/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]Create Boston (WGBH 44.3)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2863.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2863</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2863</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2863/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]World Boston (WGBH 2.2)[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2852.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2852</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2852</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2852/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]GBH Kids 44.4 Boston[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2864.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2864</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2864</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2864/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CFRN CTV Edmonton[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2053.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2053</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2053</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2053/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CKCK CTV Regina[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2056.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2056</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2056</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2056/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CFCN-5 CTV Lethbridge[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2059.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2059</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2059</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2059/big_logo.png</thumbnail>
+</item>
+################################################################################
+<item>
+<title>[COLOR=FFFF4500]CICC CTV Yorkton[/COLOR][COLOR=red]  *  [/COLOR]</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=2062.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2062</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=2062</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>https://static.filmon.com/couch/channels/2062/big_logo.png</thumbnail>
+</item>
+################################################################################
+################################################################################
+################################################################################
 <item>
 <title>[COLOR=FFFF4500]A&E[/COLOR][COLOR=FF00FF00]  *  [/COLOR]</title>
 <link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
