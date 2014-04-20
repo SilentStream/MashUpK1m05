@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Fox Business fixed </message>
+<message>Fox 25 Fox Business fixed </message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
@@ -312,17 +312,11 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]*</title>
-<link>http://$doregex[svr]1_198@4@$doregex[path]/master.m3u8
+<link>http://$doregex[svr]1_198@68992/master.m3u8
 <regex>
 <name>svr</name>
 <expres>rtsp://([^']*)1_198</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>198@([^']*)"},</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<page>http://new.livestream.com/accounts/6396048/events/2598396/player_pop_out</page>
 <referer> </referer>
 </regex>
 </link>
@@ -331,17 +325,11 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]**</title>
-<link>http://$doregex[svr]1_678@$doregex[path]/master.m3u8
+<link>http://$doregex[svr]1_678@68992/master.m3u8
 <regex>
 <name>svr</name>
 <expres>rtsp://([^']*)1_198</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>198@([^']*)"},</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<page>http://new.livestream.com/accounts/6396048/events/2598396/player_pop_out</page>
 <referer> </referer>
 </regex>
 </link>
@@ -350,17 +338,11 @@
 
 <item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]***</title>
-<link>http://$doregex[svr]1_2320@@$doregex[path]/master.m3u8
+<link>http://$doregex[svr]1_2320@68992/master.m3u8
 <regex>
 <name>svr</name>
 <expres>rtsp://([^']*)1_198</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>198@([^']*)"},</expres>
-<page>http://new.livestream.com/api/accounts/6396048/events/2598396/viewing_info</page>
+<page>http://new.livestream.com/accounts/6396048/events/2598396/player_pop_out</page>
 <referer> </referer>
 </regex>
 </link>
