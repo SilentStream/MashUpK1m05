@@ -8,6 +8,27 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
+
+<item>
+<title>01</title>
+<link>$doregex[rtmp] app=$doregex[app] playpath=1624.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<regex>
+<name>app</name>
+<expres>rtmp://[\.\w]*/([^"]+)</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=1624</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>rtmp</name>
+<expres>.*?p","url":"([^"]+).*</expres>
+<page>http://www.filmon.com/tv/channel/export?channel_id=1624</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
+</item>
+
+
 <item>
 <title>[COLOR=FFFF4500]Big Brother Canada Camera 1 HQ[/COLOR]</title>
 <link>http://$doregex[svr]1_550@156550/master.m3u8
