@@ -9,18 +9,18 @@
 </info>
 #######################################################################################################################################
 <item>
-<title>Test FO6</title>
-<link>rtmp://$doregex[rtmp] app=$doregex[app] playpath=2618.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
+<title>Test FO7</title>
+<link>rtmp://$doregex[rtmp] app=$doregex[app] playpath=689.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
 <regex>
 <name>app</name>
 <expres>rtmp://[\.\w]*/([^"]+)</expres>
-<page>http://www.filmon.com/tv/channel/export?channel_id=2859</page>
+<page>http://www.filmon.com/tv/channel/export?channel_id=689</page>
 <referer> </referer>
 </regex>
 <regex>
 <name>rtmp</name>
 <expres>.*?p","url":"([^"]+).*</expres>
-<page>http://www.filmon.com/tv/channel/export?channel_id=2859</page>
+<page>http://www.filmon.com/tv/channel/export?channel_id=689</page>
 <referer> </referer>
 </regex>
 </link>
