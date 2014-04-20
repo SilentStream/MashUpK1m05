@@ -9,7 +9,7 @@
 </info>
 #######################################################################################################################################
 <item>
-<title>Test FO3</title>
+<title>Test FO4</title>
 <link>rtmp://$doregex[url] playpath=2618.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15
 <regex>
 <name>url</name>
