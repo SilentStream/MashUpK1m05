@@ -10,19 +10,6 @@
 #######################################################################################################################################
 
 <item>
-<title>[COLOR=FFFF4500]Fox25[/COLOR]</title>
-<link>http://$doregex[svr]1_2320@68992/master.m3u8
-<regex>
-<name>svr</name>
-<expres>rtsp://([^']*)1_198</expres>
-<page>http://new.livestream.com/accounts/6396048/events/2598396/player_pop_out</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>http://spyhollywood.com/wp-content/uploads/2013/02/bbc-logo.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=FFFF4500]Big Brother Canada Camera 1 HQ[/COLOR]</title>
 <link>http://$doregex[svr]1_550@156550/master.m3u8
 <regex>
@@ -140,21 +127,3 @@
 </item>
 
 #######################################################################################################################################
-<item>
-<title>Stream 01</title>
-<link>rtmp://37.220.36.64:443/liverepeater playpath=$doregex[path] swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH
-<regex>
-<name>url</name>
-<expres>'rtmp:(.+?)'</expres>
-<page>http://1cdn.filotv.pw/stream1.html</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>'file':.+?'(.+?)',</expres>
-<page>http://1cdn.filotv.pw/stream1.html</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack2.jpg</thumbnail>
-</item>
