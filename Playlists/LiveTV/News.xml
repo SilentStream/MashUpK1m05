@@ -3,7 +3,7 @@
 <fanart>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Wallpaper.jpg</fanart>
 #######################################################################################################################################
 <info>
-<message>Fox 25 Fox Business fixed </message>
+<message>Fox 25, ABC 7,CNC,CPAC, Fox Business fixed </message>
 <thumbnail>http://imageshack.us/a/img42/6015/tgwm.png</thumbnail>
 </info>
 ######################################################################################################################################
@@ -198,12 +198,6 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]Accuweather[/COLOR]</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/14984935/streams/live/playlist.m3u8</link>
-<thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/4/9/8/14984935/14984935_awc_ustream_1372170074.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=FFFF4500]Al Jazeera[/COLOR]</title>
 <link>http://ajam.lsops.net/live/ajam_en_hls.smil/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera.png</thumbnail>
@@ -225,27 +219,8 @@
 </item>
 
 <item>
-<title>[COLOR=FFFF4500]City News Toronto[/COLOR] [COLOR=FFFF0000]HD[/COLOR]</title>
-<link>http://cncflash-lh.akamaihd.net/cnc_live_800@101004?videoId=2209888570001&lineUpId=&pubId=593482582001&playerId=1111577692001&affiliateId=&v=2.11.3&fp=WIN%2011%2C7%2C700%2C169&r=XXXXX&g=XXXXXXXXXXXX&v=2.11.3&fp=WIN%2011,7,700,169&r=ZIMSW&g=SGVVMWHJRGXN</link>
-<thumbnail>http://www.citynews.ca/wp-content/themes/citynews.ca/images/common/logo.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=FFFF4500]CNC[/COLOR]</title>
-<link>$doregex[rtmp]/live/ playpath=$doregex[file]584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1395208786? pageUrl=http://www.livestation.com/ live=true timeout=10
-<regex>
-<name>rtmp</name>
-<expres>[streamer]=([^']*)/live/</expres>
-<page>http://www.livestation.com/en/cnc</page>
-<referer>http://www.livestation.com/</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>file=([^']*)584</expres>
-<page>http://www.livestation.com/en/cnc</page>
-<referer>http://www.livestation.com/</referer>
-</regex>
-</link>
+<link>http://cnc.lsops.net/live/cnc_en_hls.smil/playlist.m3u8</link>
 <thumbnail>http://www.ournorthstar.com/wp-content/uploads/2013/10/test1.jpg</thumbnail>
 </item>
 
@@ -257,7 +232,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]CPAC Canada[/COLOR]</title>
-<link>http://brightcove03-f.akamaihd.net//cpac1eDVR13_01_800@141215</link>
+<link>http://brightcove03-f.akamaihd.net/cpac1eDVR13_01_800@141215</link>
 <thumbnail>http://www.cpac.ca/wp-content/themes/cpac/_resources/_images/structure/642x220_cpac_main_logo.png</thumbnail>
 </item>
 
@@ -389,6 +364,12 @@
 <item>
 <title>[COLOR=FFFF4500]Fox News.com[/COLOR]</title>
 <link>http://foxhdlive-f.akamaihd.net/DCL_1_300@6475?v=3.1.0&p=aasp-3.1.0.43.124&fp=WIN%2012,0,0,70&r=RLIII&g=PNYAKDUPNSSI</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]Fox News.com[/COLOR]</title>
+<link>http://foxhdlive-f.akamaihd.net/DCL_1_3500@6475?v=3.1.0&p=aasp-3.1.0.43.124&fp=WIN%2012,0,0,70&r=RLIII&g=PNYAKDUPNSSI</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_news_channel.png</thumbnail>
 </item>
 
