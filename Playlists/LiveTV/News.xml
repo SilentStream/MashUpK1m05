@@ -286,6 +286,12 @@
 </item>
 
 <item>
+<title>[COLOR=FFFF4500]Fox 25 Boston LQ[/COLOR]*</title>
+<link>rtsp://212-123.livestream.com:8080/livestreamiphone/6396048_2598396_67a25be7_1_198@138093</link>
+<thumbnail>http://appworld.co/Assets/Content/IPhoneApps/MyFoxBostonFOX25News6509.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR=FFFF4500]Fox 25 Boston[/COLOR]*</title>
 <link>http://$doregex[svr]1_198@68992/master.m3u8
 <regex>
