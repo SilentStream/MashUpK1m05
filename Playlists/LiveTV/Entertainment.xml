@@ -585,32 +585,7 @@
 #######################################################################################################################################
 <item>
 <title>[COLOR=FFFF4500]Cartoon Network[/COLOR]</title>
-<link>rtmp://$doregex[url]/edge/ app=edge/?xs=$doregex[app] playpath=$doregex[path] swfUrl=http://cdn.ilive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/ live=true timeout=10 token=$doregex[tok]
-<regex>
-<name>url</name>
-<expres>"rtmp:\/\/([^"]+?)\/edge\/</expres>
-<page>http://www.ilive.to/view/41423/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>app</name>
-<expres>\/?xs=([^"]+?)"</expres>
-<page>http://www.ilive.to/view/41423/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>img src="http://snapshots.ilive.to/snapshots/([^"]+?)_snapshot.jpg</expres>
-<page>http://www.ilive.to/view/41423/</page>
-<referer>http://www.ilive.to/</referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>t....":"([^."]*)</expres>
-<page>http://www.ilive.to/server2.php</page>
-<referer>http://www.ilive.to</referer>
-</regex>
-</link>
+<link>rtmp://cp106256.live.edgefcs.net:443/live/ playpath=iwantvcartoonnetwork-600@40841 swfUrl=http://superusvoxtv.com/modules/mod_playerjr/player-licensed5.swf pageUrl=http://superusvoxtv.com/paidversion/secure/cartoon2.html live=true timeout=10</link>
 <thumbnail>http://imageshack.us/a/img809/5080/knes.png</thumbnail>
 </item>
 #######################################################################################################################################
