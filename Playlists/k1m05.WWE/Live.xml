@@ -15,20 +15,40 @@
 </item>
 
 <item>
-<title> [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD 1[/COLOR]</title>
-<link>rtmp://178.33.78.101/live/ playpath=weeklyrawstream480p swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/ live=true timeout=10</link>
+<title> [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD[/COLOR]</title>
+<link>rtmp://5.79.75.129:2195/live/channel101 $doregex[swf] $doregex[page]1 $doregex[tok] $doregex[true]
+<regex>
+<name>swf</name>
+<expres><plus1swf>(.+?)</plus1swf></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>page</name>
+<expres><plus1page>(.+?)</plus1page></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres><plus1tok>(.+?)</plus1tok></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>true</name>
+<expres><true>(.+?)</true></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+</link>
 <thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
 </item>
 
-<item>
-<title> [COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]SD 2[/COLOR]</title>
-<link>rtmp://178.33.78.101/live/ playpath=weeklyrawstream480p swfUrl=http://sportsnationhd.com/player.swf pageUrl=http://sportsnationhd.com/ live=true timeout=10</link>
-<thumbnail>http://i101.photobucket.com/albums/m66/kotw_2006/ewr/Graphics/RawHD_Logo_cuted_by_Crank.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=white]WWE:[/COLOR] [COLOR=blue]Monday Night[/COLOR] [COLOR=red]RAW[/COLOR] [COLOR=white]HD[/COLOR]</title>
-<link>rtmp://5.79.75.129:2195/live2/channel14a $doregex[swf] $doregex[page]14 $doregex[tok] $doregex[true]
+<link>rtmp://5.79.75.129:2195/live2/channel18a $doregex[swf] $doregex[page]18 $doregex[tok] $doregex[true]
 <regex>
 <name>swf</name>
 <expres><plus1swf>(.+?)</plus1swf></expres>
