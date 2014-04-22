@@ -10,48 +10,201 @@
 </info>
 #######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports DEAD[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=Az8CgpwEdTcDNwaCoAHIgBb7aUulwjLn7IrNOPLb2Fr5ihcFQkI0VTSKYQCKQQdkZWZhdWx0iqIGU3BvcnRz&mode=1&name=Sky+Sports+1</link>
-<thumbnail>http://mawords.com/images/bloodzeed.tv.gif</thumbnail>
+<title>Link 1</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch1.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
 </item>
-
+#######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 1 DEAD[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=ff6d068d982f5ac218d164cf43f97dc39926cf55&mode=1&name=Sky+Sports+1</link>
-<thumbnail>http://mawords.com/images/bloodzeed.tv.gif</thumbnail>
+<title>Link 2</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch2.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
 </item>
-
+#######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 2 DEAD[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=4d3d6d77a403e6f67a801370883cd11eefcd89a5&mode=1&name=Sky+Sports+title</link>
-<thumbnail>http://mawords.com/images/bloodzeed.tv.gif</thumbnail>
+<title>Link 3</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch3.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
 </item>
-
+#######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 3 DEAD[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=4895f56028cd41e10b42d236f1e6ff261e6bd6f1&mode=1&name=Sky+Sports+title</link>
-<thumbnail>http://mawords.com/images/bloodzeed.tv.gif</thumbnail>
+<title>Link 4</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch4.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
 </item>
-
+#######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Sky Sports 4 DEAD[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=768ec4da4f11506be3e147000c00e52edd7caad5&mode=1&name=Sky+Sports+title</link>
-<thumbnail>http://mawords.com/images/bloodzeed.tv.gif</thumbnail>
+<title>Link 5</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch5.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
 </item>
-
+#######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500] Liv.p2p[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=a462fae0ffddfd40e79afb465a640eaadf665879&mode=1&name=Sky+Sports+title</link>
-<thumbnail>http://mawords.com/images/bloodzeed.tv.gif</thumbnail>
+<title>Link 6</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch6.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
 </item>
-
+#######################################################################################################################################
 <item>
-<title>[COLOR=FFFF4500]Bloodzeed p2p[/COLOR]</title>
-<link>plugin://plugin.video.p2p-streams/?url=11f2eb93cfe49106b5336b9d36ce05de493c5692&mode=1&name=Sky+Sports+title</link>
-<thumbnail>http://mawords.com/images/bloodzeed.tv.gif</thumbnail>
+<title>Link 7</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch7.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
 </item>
-
-
+#######################################################################################################################################
+<item>
+<title>Link 8</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch8.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>Link 9</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch9.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>Link 10</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch10.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>Link 11</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch11.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>Link 12</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch12.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>Link 13</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch13.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>Link 14</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch14.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+<item>
+<title>Link 15</title>
+<link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
+<regex>
+<name>file</name>
+<expres>fid=.+?(.+?)';</expres>
+<page>http://cricfree.tv/update/ch15.php</page>
+<referer>http://cricfree.tv/</referer>
+</regex>
+</link>
+<thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack3.jpg</thumbnail>
+</item>
+#######################################################################################################################################
+#######################################################################################################################################
 <item>
 <title>Sky Sports 1</title>
 <link>rtmp://31.220.0.103:1935/live playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=dsee&vw=620&vh=490 live=true timeout=10
