@@ -7,7 +7,7 @@
 # Counter @ 9 - 10/23/13 #
 ##############################################################################################################################
 <info>
-<message>[COLOR=FF00FF00]! Info - Some Sports Packs have more sources to popular sport channels[/COLOR]</message>
+<message>[COLOR=FF00FF00]TSN is fixed[/COLOR]</message>
 <thumbnail>http://www.veryicon.com/icon/png/Sport/NBA/Nba%20logo.png</thumbnail>
 </info>
 ##############################################################################################################################
@@ -337,7 +337,7 @@
 
 <item>
 <title>[COLOR=FFFF4500]TSN[/COLOR]</title>
-<link>rtmp://206.190.140.148:443/liverepeater playpath=stream7 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream6.html live=true timeout=10</link>
+<link>rtmp://37.220.36.65:443/liverepeater playpath=stream23 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream23.html live=true timeout=10</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tsn.png</thumbnail>
 </item>
 
