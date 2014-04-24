@@ -9,11 +9,11 @@
 </info>
 #######################################################################################################################################
 <item>
-<title>Test</title>
+<title>Test.</title>
 <link>$doregex[url]
 <regex>
 <name>url</name>
-<expres>hq_url":"(.*)","stream</expres>
+<expres>hq_url":"(.+?)"</expres>
 <page>http://www.dailymotion.com/embed/video/x18w5up</page>
 <referer>http://www.dailymotion.com/</referer>
 </regex>
