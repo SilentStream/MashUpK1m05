@@ -56,11 +56,8 @@
 </item>
 #######################################################################################################################################
 <item>
-<title>[COLOR=FF9370DB]Padres New[/COLOR]</title>
-<link>
-  <sublink>rtmp://31.220.0.133:1935/live playpath=ch15 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ch15&vw=620&vh=490 live=true timeout=10</sublink>
-  <sublink>rtmp://37.220.36.7:443/liverepeater playpath=19341 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://1cdn.filotv.pw/stream18.html live=true timeout=10</sublink>
-</link>
+<title>[COLOR=FF9370DB]Golden Gods 2014[/COLOR]</title>
+<link>http://onsmhls-lh.akamaihd.net/i/stream1_1@124909/master.m3u8</link>
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Guide/SportsPack1.jpg</thumbnail>
 </item>
 
