@@ -8,6 +8,18 @@
 <thumbnail>https://raw.github.com/mash2k3/MashUpK1m05/master/k1m05.Images/Christmas_Wallpaper.jpg</thumbnail>
 </info>
 #######################################################################################################################################
+<item>
+<title>Test</title>
+<link>$doregex[url]
+<regex>
+<name>url</name>
+<expres>hq_url":"(.*)","stream</expres>
+<page>http://www.dailymotion.com/embed/video/x18w5up</page>
+<referer>http://www.dailymotion.com/</referer>
+</regex>
+</link>
+<thumbnail>https://s3.amazonaws.com/files.thegamecrafter.com/85b0348fa773193e7949126059d5e6d10cb1ec82</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=FFFF4500]Big Brother Canada Camera 1 HQ[/COLOR]</title>
